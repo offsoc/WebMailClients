@@ -1403,6 +1403,15 @@
       ],
       "Zoom out": [
         "Oddialiť"
+      ],
+      "Hide ${ BRAND_NAME } Scribe writing assistant": [
+        "Skryť asistenta písania ${ BRAND_NAME } Scribe"
+      ],
+      "Run on ${ BRAND_NAME } servers": [
+        "Spustiť na ${ BRAND_NAME } serveroch"
+      ],
+      "Show ${ BRAND_NAME } Scribe writing assistant": [
+        "Zobraziť asistenta písania ${ BRAND_NAME } Scribe"
       ]
     },
     "action": {
@@ -1573,6 +1582,9 @@
       ],
       "Securely run on device": [
         "Bezpečne spustite na zariadení"
+      ],
+      "Run on ${ BRAND_NAME } servers": [
+        "Spustiť na ${ BRAND_NAME } serveroch"
       ]
     },
     "Assistant toggle": {
@@ -4398,6 +4410,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Vyhľadávanie našlo príliš veľa výsledkov. Upresnite hľadanie a skúste to prosím znova."
+      ],
+      "Sending attachments is restricted while you exceed your plan limits or until you upgrade you plan.": [
+        "Odosielanie príloh je obmedzené, kým prekračujete limity svojho plánu alebo kým si plán neupgradujete."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -6308,7 +6323,7 @@
         "Sťahovanie pozastavené: ${ progressDisplay } GB"
       ],
       "Draft": [
-        "Rozpísať"
+        "Koncept"
       ],
       "Draft discarded": [
         "Koncept zmazaný"
@@ -7740,6 +7755,9 @@
       ],
       "Your private writing assistant": [
         "Váš súkromný asistent písania"
+      ],
+      "Please note that upon clicking the Confirm button, your account will have ${ remainingCreditsFormatted } credits remaining.": [
+        "Berte prosím na vedomie, že po kliknutí na tlačidlo Potvrdiť vám na účte zostanú kredity vo výške ${ remainingCreditsFormatted }."
       ]
     },
     "info": {
@@ -10429,6 +10447,9 @@
       ],
       "We are processing your payment for the billed invoice. Please wait until the payment is completed before making changes to your plan or updating your payment details. Thank you for your patience.": [
         "Spracovávame vašu platbu za vyúčtovanú faktúru. Pred vykonaním zmien vo vašom pláne alebo aktualizáciou platobných údajov počkajte, kým bude platba dokončená. Ďakujeme vám za vašu trpezlivosť."
+      ],
+      "More plans are available in other currencies": [
+        "Ďalšie plány sú k dispozícii v iných menách"
       ]
     },
     "Payments.Error": {
@@ -12456,6 +12477,9 @@
       ],
       "You have successfully unsubscribed": [
         "Predplatné bolo úspešne zrušené"
+      ],
+      "Problem reported": [
+        "Problém nahlásený"
       ]
     },
     "Success notification": {

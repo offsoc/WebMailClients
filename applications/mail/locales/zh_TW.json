@@ -1373,6 +1373,15 @@
       ],
       "Zoom out": [
         "縮小"
+      ],
+      "Hide ${ BRAND_NAME } Scribe writing assistant": [
+        "隱藏${ BRAND_NAME } Scribe 撰寫幫手"
+      ],
+      "Run on ${ BRAND_NAME } servers": [
+        "於${ BRAND_NAME }伺服器執行"
+      ],
+      "Show ${ BRAND_NAME } Scribe writing assistant": [
+        "展示${ BRAND_NAME } Scribe 撰寫幫手"
       ]
     },
     "action": {
@@ -1522,6 +1531,9 @@
       ],
       "Securely run on ${ BRAND_NAME } servers": [
         "於伺服器安全執行${ BRAND_NAME }"
+      ],
+      "Securely run on device": [
+        "於裝置安全執行"
       ]
     },
     "Assistant toggle": {
@@ -4267,6 +4279,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "搜尋結果過多。請縮小您的搜尋範圍並重新試試。"
+      ],
+      "Sending attachments is restricted while you exceed your plan limits or until you upgrade you plan.": [
+        "當您超出方案限制時，附件無法使用，直到您升級您的方案。"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7315,6 +7330,9 @@
       ],
       "Your private writing assistant": [
         "您私人的撰寫幫手"
+      ],
+      "Please note that upon clicking the Confirm button, your account will have ${ remainingCreditsFormatted } credits remaining.": [
+        "請注意，當您點擊確認時，您的帳號將剩${ remainingCreditsFormatted }可用額度。"
       ]
     },
     "info": {
@@ -9212,6 +9230,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "我們會掃描暗網去檢查你的${ BRAND_NAME }地址或别名是否被外洩，並且在發現任何問題時立即通知你。"
+      ],
+      "Sync and backup all your files across devices": [
+        "於裝置同步及備份您全部的檔案"
       ]
     },
     "new_plans: feature info": {
@@ -10787,6 +10808,9 @@
       ],
       "You can now schedule your messages to be sent later": [
         "您現在可以安排稍後傳送訊息"
+      ],
+      "You can now collapse the navigation bar.": [
+        "您現在可以摺疊導航欄。"
       ]
     },
     "State": {
@@ -11505,6 +11529,9 @@
       ],
       "You have successfully unsubscribed": [
         "您已成功取消訂購"
+      ],
+      "Problem reported": [
+        "以回報問題"
       ]
     },
     "Success notification": {

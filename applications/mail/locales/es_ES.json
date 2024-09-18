@@ -4348,6 +4348,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Tu búsqueda ha coincidido con muchos resultados. Limita tu búsqueda e inténtalo de nuevo."
+      ],
+      "Sending attachments is restricted while you exceed your plan limits or until you upgrade you plan.": [
+        "El envío de archivos adjuntos está restringido cuando excedes los límites de tu plan o hasta que actualices tu plan."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7496,6 +7499,9 @@
       ],
       "Your private writing assistant": [
         "Tu asistente de escritura privado"
+      ],
+      "Please note that upon clicking the Confirm button, your account will have ${ remainingCreditsFormatted } credits remaining.": [
+        "Ten en cuenta que al hacer clic en el botón Confirmar, tu cuenta tendrá ${ remainingCreditsFormatted } créditos restantes."
       ]
     },
     "info": {
@@ -10110,6 +10116,9 @@
       ],
       "We are processing your payment for the billed invoice. Please wait until the payment is completed before making changes to your plan or updating your payment details. Thank you for your patience.": [
         "Estamos procesando el pago de la factura. Espera hasta que se complete el pago antes de realizar cambios en tu plan o actualizar tus detalles de pago. Gracias por tu paciencia."
+      ],
+      "More plans are available in other currencies": [
+        "Hay más planes disponibles en otras divisas"
       ]
     },
     "Payments.Error": {

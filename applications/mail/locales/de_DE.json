@@ -1393,6 +1393,9 @@
       ],
       "Zoom out": [
         "Verkleinern"
+      ],
+      "Tracker protection prevented some images from loading. Load them if you trust the sender.": [
+        "Der Tracker-Schutz hat das Laden einiger Bilder verhindert. Lade sie, wenn du dem Absender vertraust."
       ]
     },
     "action": {

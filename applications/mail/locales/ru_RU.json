@@ -1403,6 +1403,15 @@
       ],
       "Zoom out": [
         "Уменьшить масштаб"
+      ],
+      "Hide ${ BRAND_NAME } Scribe writing assistant": [
+        "Скрыть помощника по написанию Scribe ${ BRAND_NAME }"
+      ],
+      "Run on ${ BRAND_NAME } servers": [
+        "Запустить на серверах ${ BRAND_NAME }"
+      ],
+      "Show ${ BRAND_NAME } Scribe writing assistant": [
+        "Показать помощника по написанию Scribe ${ BRAND_NAME }"
       ]
     },
     "action": {
@@ -1573,6 +1582,9 @@
       ],
       "Securely run on device": [
         "Безопасно работает на устройстве"
+      ],
+      "Run on ${ BRAND_NAME } servers": [
+        "Запускать на серверах ${ BRAND_NAME }"
       ]
     },
     "Assistant toggle": {
@@ -4398,6 +4410,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Ваш поиск дал слишком много результатов. Пожалуйста, ограничьте поиск и повторите попытку."
+      ],
+      "Sending attachments is restricted while you exceed your plan limits or until you upgrade you plan.": [
+        "Отправка вложений ограничена когда вы превышаете ограничения тарифа или пока вы не перейдете на новый тариф."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7740,6 +7755,9 @@
       ],
       "Your private writing assistant": [
         "Ваш конфиденциальный помощник по написанию"
+      ],
+      "Please note that upon clicking the Confirm button, your account will have ${ remainingCreditsFormatted } credits remaining.": [
+        "Обратите внимание, что после нажатия на «Подтвердить» на вашем счету останется ${ remainingCreditsFormatted }."
       ]
     },
     "info": {
@@ -10429,6 +10447,9 @@
       ],
       "We are processing your payment for the billed invoice. Please wait until the payment is completed before making changes to your plan or updating your payment details. Thank you for your patience.": [
         "Мы обрабатываем ваш платеж по выставленному счету. Дождитесь завершения оплаты, прежде чем вносить изменения в ваш тариф или обновлять платежные реквизиты. Благодарим вас за терпение."
+      ],
+      "More plans are available in other currencies": [
+        "Другие тарифы доступны в других валютах"
       ]
     },
     "Payments.Error": {
@@ -12456,6 +12477,9 @@
       ],
       "You have successfully unsubscribed": [
         "Подписка отменена"
+      ],
+      "Problem reported": [
+        "О проблеме сообщено"
       ]
     },
     "Success notification": {

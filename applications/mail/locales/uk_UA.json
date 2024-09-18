@@ -7606,6 +7606,12 @@
       ],
       "Your phone number will only be used for this one-time verification.": [
         "Ваш номер телефону використається лише для цієї одноразової перевірки."
+      ],
+      "Free to try for ${ ASSISTANT_TRIAL_TIME_DAYS } day": [
+        "Спробуйте безкоштовно протягом ${ ASSISTANT_TRIAL_TIME_DAYS } дня",
+        "Спробуйте безкоштовно протягом ${ ASSISTANT_TRIAL_TIME_DAYS } днів",
+        "Спробуйте безкоштовно протягом ${ ASSISTANT_TRIAL_TIME_DAYS } днІв",
+        "Спробуйте безкоштовно протягом ${ ASSISTANT_TRIAL_TIME_DAYS } днів"
       ]
     },
     "info": {

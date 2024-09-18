@@ -1393,6 +1393,15 @@
       ],
       "Zoom out": [
         "Zoom ut"
+      ],
+      "Hide ${ BRAND_NAME } Scribe writing assistant": [
+        "Skjul ${ BRAND_NAME } Scribe-skriveassistent"
+      ],
+      "Run on ${ BRAND_NAME } servers": [
+        "Kjør på ${ BRAND_NAME }-tjenere"
+      ],
+      "Show ${ BRAND_NAME } Scribe writing assistant": [
+        "Vis ${ BRAND_NAME } Scribe-skriveassistent"
       ]
     },
     "action": {
@@ -1555,6 +1564,9 @@
       ],
       "Securely run on device": [
         "Kjør sikkert på enheten"
+      ],
+      "Run on ${ BRAND_NAME } servers": [
+        "Kjør på ${ BRAND_NAME }-tjenere"
       ]
     },
     "Assistant toggle": {
@@ -4336,6 +4348,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Søket samsvarte med for mange resultater. Vennligst begrens søket, og prøv på nytt."
+      ],
+      "Sending attachments is restricted while you exceed your plan limits or until you upgrade you plan.": [
+        "Det er begrenset å sende vedlegg mens du overskrider plangrensene eller til du oppgraderer planen."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7484,6 +7499,9 @@
       ],
       "Your private writing assistant": [
         "Din private skriveassistent"
+      ],
+      "Please note that upon clicking the Confirm button, your account will have ${ remainingCreditsFormatted } credits remaining.": [
+        "Vennligst vær oppmerksom på at ved å klikke på knappen \"bekreft\", vil kontoen din ha ${ remainingCreditsFormatted } kreditter igjen."
       ]
     },
     "info": {
@@ -10095,6 +10113,9 @@
       ],
       "We are processing your payment for the billed invoice. Please wait until the payment is completed before making changes to your plan or updating your payment details. Thank you for your patience.": [
         "Vi behandler betalingen din for den fakturerte fakturaen. Vent til betalingen er fullført før du gjør endringer i planen din eller oppdaterer betalingsinformasjonen din. Takk for tålmodigheten."
+      ],
+      "More plans are available in other currencies": [
+        "Flere planer er tilgjengelige i andre valutaer"
       ]
     },
     "Payments.Error": {
@@ -11992,6 +12013,9 @@
       ],
       "You have successfully unsubscribed": [
         "Du har avsluttet abonnementet"
+      ],
+      "Problem reported": [
+        "Problem rapportert"
       ]
     },
     "Success notification": {

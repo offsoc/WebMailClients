@@ -1396,6 +1396,15 @@
       ],
       "Zoom out": [
         "Diminuir zoom"
+      ],
+      "Hide ${ BRAND_NAME } Scribe writing assistant": [
+        "Ocultar assistente de escrita ${ BRAND_NAME } Scribe"
+      ],
+      "Run on ${ BRAND_NAME } servers": [
+        "Executar nos servidores da ${ BRAND_NAME }"
+      ],
+      "Show ${ BRAND_NAME } Scribe writing assistant": [
+        "Mostrar assistente de escrita ${ BRAND_NAME } Scribe"
       ]
     },
     "action": {
@@ -1557,7 +1566,10 @@
         "Executa de forma segura nos servidores ${ BRAND_NAME }"
       ],
       "Securely run on device": [
-        "Executa de forma segura no dispositivo"
+        "Executar com segurança no dispositivo"
+      ],
+      "Run on ${ BRAND_NAME } servers": [
+        "Executar nos servidores da ${ BRAND_NAME }"
       ]
     },
     "Assistant toggle": {
@@ -3611,7 +3623,7 @@
         "Cobrado a cada 2 anos a ${ amountBilled }. Os descontos são baseados no preço mensal padrão."
       ],
       "Billed yearly at ${ amountBilled }. Save ${ amountSave } over 2 individual ${ BRAND_NAME } Unlimited yearly subscriptions.": [
-        "Cobrado anualmente em ${ amountBilled }. Economize ${ amountSave } em 2 assinaturas anuais individuais ${ BRAND_NAME } Unlimited."
+        "Cobrado anualmente a ${ amountBilled }. Economize ${ amountSave } em 2 assinaturas anuais individuais ${ BRAND_NAME } Unlimited."
       ]
     },
     "duoplan2024: Info": {
@@ -3633,7 +3645,7 @@
         "Todos os recursos da ${ BRAND_NAME }, para 2 pessoas."
       ],
       "Double your storage": [
-        "Dobrar seu armazenamento"
+        "Dobre seu armazenamento"
       ]
     },
     "duoplan2024: Title": {
@@ -4342,6 +4354,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "A sua pesquisa correspondeu a muitos resultados. Limite sua busca e tente novamente."
+      ],
+      "Sending attachments is restricted while you exceed your plan limits or until you upgrade you plan.": [
+        "O envio de anexos será restrito enquanto você exceder os limites do seu plano ou até que você faça um upgrade do seu plano."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7499,6 +7514,9 @@
       ],
       "Your private writing assistant": [
         "Seu assistente de escrita privado"
+      ],
+      "Please note that upon clicking the Confirm button, your account will have ${ remainingCreditsFormatted } credits remaining.": [
+        "Note que ao clicar no botão Confirmar a sua conta terá ${ remainingCreditsFormatted } créditos restantes."
       ]
     },
     "info": {
@@ -9632,7 +9650,7 @@
         "Compartilhe facilmente seus calendários com familiares, amigos ou colegas."
       ],
       "Email everyone in a group with a single email address": [
-        "Envie e-mails para todos em um grupo com um único endereço de e-mail"
+        "Envie e-mail a todos em um grupo com um único endereço de e-mail"
       ],
       "Ensures you receive all emails sent to your domain, even if the email address doesn't exist, no longer exists, or has a typo": [
         "Garante que você receba todos os e-mails enviados ao seu domínio, mesmo que o endereço de e-mail não exista, tenha deixado de existir ou contenha um erro de digitação"
@@ -9689,7 +9707,7 @@
         "Personalize sua assinatura de e-mail com logotipos, imagens, ícones de redes sociais, links para seus detalhes de contato e muito mais"
       ],
       "Phone support is available from the ${ BRAND_NAME } Customer Support team during European business hours, for customers with 20 or more users": [
-        "O suporte por telefone da equipe de suporte do cliente da ${ BRAND_NAME } está disponível durante o horário comercial europeu, para clientes com 20 ou mais usuários"
+        "O suporte por telefone está disponível na equipe de Suporte ao Cliente da ${ BRAND_NAME } durante o horário comercial europeu, para clientes com 20 ou mais usuários"
       ],
       "Prevents messages from being accessed by ${ BRAND_NAME } or third parties. The only people who can read the messages are the sender and the intended recipient.": [
         "Impede que as mensagens sejam acessadas pela ${ BRAND_NAME } ou por terceiros. As únicas pessoas que podem ler as mensagens são o remetente e o destinatário pretendido."
@@ -10125,6 +10143,9 @@
       ],
       "We are processing your payment for the billed invoice. Please wait until the payment is completed before making changes to your plan or updating your payment details. Thank you for your patience.": [
         "Estamos processando o seu pagamento da fatura. Aguarde o pagamento ser completado antes de modificar o seu plano ou atualizar os seus detalhes de pagamento. Agradecemos a sua paciência."
+      ],
+      "More plans are available in other currencies": [
+        "Mais planos estão disponíveis em outras moedas"
       ]
     },
     "Payments.Error": {
@@ -12022,6 +12043,9 @@
       ],
       "You have successfully unsubscribed": [
         "Você cancelou a inscrição"
+      ],
+      "Problem reported": [
+        "Problema reportado"
       ]
     },
     "Success notification": {

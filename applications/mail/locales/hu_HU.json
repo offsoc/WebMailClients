@@ -1271,6 +1271,18 @@
       ],
       "Zoom out": [
         "Távolítás"
+      ],
+      "Create and copy alias": [
+        "E-mail álnév létrehozása és másolása"
+      ],
+      "Get it from only ${ addonPriceWithCurrency } /month": [
+        "Szerezze be csak ${ addonPriceWithCurrency } / havonta"
+      ],
+      "Make it friendly": [
+        "Legyen barátságos"
+      ],
+      "Mark as resolved": [
+        "Megjelölés megoldottként"
       ]
     },
     "action": {
@@ -1479,6 +1491,9 @@
       ],
       "Secure your files with encrypted cloud storage. Includes version history, encrypted file sharing, and more.": [
         "Tartsa biztonságban fájljait, titkosított felhőtárhelyen. Változások megjegyzését, titkosított megosztást és további lehetőségeket tartalmaz."
+      ],
+      "Storage space is shared across all ${ BRAND_NAME } apps.": [
+        "A tárhelye meg van osztva minden ${ BRAND_NAME } alkalmazás között."
       ]
     },
     "Billing cycle": {
@@ -1587,6 +1602,9 @@
       ],
       "Website access problem": [
         "Probléma a weboldal elérésével"
+      ],
+      "Docs problem": [
+        "Docs probléma"
       ]
     },
     "Button": {
@@ -3043,6 +3061,24 @@
       ],
       "Åland Islands": [
         "Aland-szigetek"
+      ],
+      "British Virgin Islands": [
+        "Brit Virgin-szigetek"
+      ],
+      "Congo (The Democratic Republic of the)": [
+        "Kongói Demokratikus Köztársaság"
+      ],
+      "East Timor": [
+        "Kelet-Timor"
+      ],
+      "Islamic Republic of Iran": [
+        "Irán"
+      ],
+      "Korea (Democratic People's Republic of)": [
+        "Észak-Korea"
+      ],
+      "Tanzania, United Republic of": [
+        "Tanzánia"
       ]
     },
     "CustomFilter": {
@@ -3854,6 +3890,33 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "A keresés túl sok találatot eredményezett. Korlátozza a keresést majd próbálja meg újra."
+      ],
+      "${ BRAND_NAME } can't connect to your external account": [
+        "${ BRAND_NAME } nem tudd kapcsolódni az ön külső fiókjaihoz."
+      ],
+      "Due to an error, text generation couldn't be canceled": [
+        "Egy hiba miatt a szöveg generálását nem lehet visszavonni."
+      ],
+      "Please try again or refresh the page.": [
+        "Kérjük, próbálja újra, vagy frissítse az oldalt."
+      ],
+      "Please try generating the text again": [
+        "Kérjük, próbálja újragenerálni a szöveget."
+      ],
+      "Problem downloading the writing assistant. Please try again.": [
+        "Hiba történt az írássegéd letöltése közben. Kérjük, próbálja újra."
+      ],
+      "Problem loading the writing assistant to your device. Please try again.": [
+        "Hiba történt az írássegéd betöltésekor. Kérjük, próbálja újra."
+      ],
+      "Text is too long to refine": [
+        "A szöveg túl hosszú a finomításhoz."
+      ],
+      "The system is busy at the moment. Please try again in a few minutes.": [
+        "Jelenleg a rendszer elfoglalt. Kérjük próbálja újra néhány perc múlva."
+      ],
+      "The writing assistant cannot proceed with your request. Please try a different prompt.": [
+        "A fogalmazási segéd nem tudja feldolgozni a kérését. Kérjük, próbáljon meg más utasítást adni."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -4511,6 +4574,9 @@
       ],
       "Upgrade now": [
         "Váltás nagyobb csomagra"
+      ],
+      "14-day desktop app trial.": [
+        "14 napos asztali alkalmazás próba."
       ]
     },
     "Get started checklist instructions": {
@@ -6712,6 +6778,35 @@
       ],
       "Your phone number will only be used for this one-time verification.": [
         "A telefonszám csak erre az egyszeri ellenőrzésre lesz felhasználva."
+      ],
+      "Applying actions to conversations": [
+        "Műveletek alkalmazása beszélgetésekre"
+      ],
+      "Applying actions to messages": [
+        "Műveletek alkalmazása üzenetekre"
+      ],
+      "Create a secure cloud for ${ n } member": [
+        "Hozzon létre biztonságos felhőt ${ n } tagnak",
+        "Hozzon létre biztonságos felhőt ${ n } tagnak"
+      ],
+      "Free to try for ${ ASSISTANT_TRIAL_TIME_DAYS } day": [
+        "${ ASSISTANT_TRIAL_TIME_DAYS } napig ingyenesen kipróbálható",
+        "${ ASSISTANT_TRIAL_TIME_DAYS } napig ingyenesen kipróbálható"
+      ],
+      "Please share what you expected": [
+        "Kérjük, ossza meg mire számitott."
+      ],
+      "This message will be automatically deleted at ${ value }": [
+        "Ez az üzenet automatikusan törlésre kerül, ekkor: ${ value }"
+      ],
+      "Unread conversations": [
+        "Olvasatlan beszélgetések"
+      ],
+      "Unread messages": [
+        "Olvasatlan üzenetek"
+      ],
+      "Writing assistant": [
+        "Fogalmazási segéd"
       ]
     },
     "info": {
@@ -7788,6 +7883,9 @@
       ],
       "upgrade for more storage": [
         "váltson nagyobb csomagra több tárhelyért"
+      ],
+      "Your account is at risk of deletion. To avoid data loss, ask your admin to upgrade. ${ cta }": [
+        "Az ön fiókja lehet törölve lesz. Kérje meg az adminisztrátort, hogy fizessen elő és, hogy elkerülje az adatok elvesztését. ${ cta }"
       ]
     },
     "Log preference": {
@@ -7852,11 +7950,17 @@
       ],
       "Unlimited folders, labels and filters": [
         "Korlátlan számú mappa, címke és szűrő"
+      ],
+      "Auto-delete Spam and Trash": [
+        "Levélszemét és Lomtár automatikus törlése"
       ]
     },
     "mailtrial2024: Info": {
       "for the first month": [
         "az első hónapban"
+      ],
+      "Limited-time offer, expires April 2 2024": [
+        "Korlátozott idejű ajánlat, 2024. április 2-án jár le"
       ]
     },
     "Message": {
@@ -8451,6 +8555,30 @@
       "Vault sharing (up to ${ n } person)": [
         "Tároló megosztás (${ n } személyig)",
         "Tároló megosztás (${ n } személyig)"
+      ],
+      "${ n } shared ${ PASS_SHORT_APP_NAME } vault per user": [
+        "${ n } megosztott ${ PASS_SHORT_APP_NAME } széf felhasználónként",
+        "${ n } megosztott ${ PASS_SHORT_APP_NAME } széf felhasználónként"
+      ],
+      "${ n } user": [
+        "${ n } felhasználó",
+        "${ n } felhasználóig"
+      ],
+      "${ options }-day file version history": [
+        "${ options } napos fájl verzió előzmény",
+        "${ options } napos fájl verzió előzmény"
+      ],
+      "10 email addresses/aliases": [
+        "10 email cím / e-mail álnév"
+      ],
+      "15 GB storage": [
+        "15 GB tárhely"
+      ],
+      "Email groups": [
+        "E-mail csoportok"
+      ],
+      "Password manager": [
+        "Jelszókezelő"
       ]
     },
     "new_plans: feature info": {
@@ -8459,6 +8587,9 @@
       ],
       "Storage space is shared across ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME } and ${ DRIVE_APP_NAME }": [
         "A tárhely megoszlik a ${ MAIL_APP_NAME }, ${ CALENDAR_APP_NAME }, és a ${ DRIVE_APP_NAME } közt."
+      ],
+      "1 custom email domain": [
+        "1 saját e-mail domain név"
       ]
     },
     "new_plans: heading": {
@@ -8818,6 +8949,12 @@
       ],
       "Set up your organization": [
         "Állítsa be a szervezet adatait"
+      ],
+      "Pick a theme": [
+        "Téma választása"
+      ],
+      "You will be able to change your theme any time in your settings.": [
+        "A beállítások között bármikor módosíthatja a témát."
       ]
     },
     "Online accounts": {
@@ -9084,6 +9221,15 @@
       ],
       "Type text or keyword": [
         "Írjon be szöveget"
+      ],
+      "Generating": [
+        "Generáljuk"
+      ],
+      "Please share what you expected": [
+        "Kérjük, ossza meg mire számított."
+      ],
+      "To": [
+        "Címzett"
       ]
     },
     "Placeholder for contact group name": {
@@ -9267,6 +9413,15 @@
       ],
       "Open ${ PASS_APP_NAME }": [
         "${ PASS_APP_NAME } megnyitása"
+      ],
+      "All aliases": [
+        "Minden e-mail álnév"
+      ],
+      "Create an alias": [
+        "E-mail álnév létrehozása"
+      ],
+      "New alias": [
+        "Új e-mail álnév"
       ]
     },
     "Security Center - Action": {
@@ -9426,6 +9581,9 @@
       "You have ${ timeRemaining.inSeconds } second to reset your password.": [
         "${ timeRemaining.inSeconds } másodperc áll rendelkezésére, hogy visszaállítsa jelszavát.",
         " ${ timeRemaining.inSeconds } másodperc áll rendelkezésére, hogy visszaállítsa jelszavát."
+      ],
+      "Password reset request approved (${ user.Email }).": [
+        "Jelszó visszaállítási kérelem elfogadva (${ user.Email })."
       ]
     },
     "session_recovery:available:link": {
@@ -9665,6 +9823,9 @@
       ],
       "Support online privacy": [
         "Támogatja az online adatvédelmet"
+      ],
+      "Premium ${ appName1 } & ${ appName2 } & ${ appName3 }": [
+        "Prémium ${ appName1 }, ${ appName2 } és ${ appName3 }."
       ]
     },
     "specialoffer: Link": {
@@ -9867,6 +10028,15 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "Elveszíti a hozzáférést korlátlan számú bejelentkezéshez és jegyzethez, korlátlan ide-my-email e-mail álnevekhez, 20 tárolóhoz és az elsőbbségi támogatáshoz."
+      ],
+      "${ storage } ${ percentage }% full": [
+        "${ storage } ${ percentage }% tele van"
+      ],
+      "Your ${ appStorage } is almost full": [
+        "Az ön ${ appStorage } majdnem tele van."
+      ],
+      "Your ${ appStorage } is full": [
+        "Az ön ${ appStorage } tele van."
       ]
     },
     "Subscription": {
@@ -9979,6 +10149,15 @@
       ],
       "Version history": [
         "Verziótörténet"
+      ],
+      "25 calendars per user": [
+        "25 naptár felhasználónként"
+      ],
+      "Automatic email forwarding": [
+        "Automatikus e-mail továbbítás"
+      ],
+      "Users won’t be able to send emails": [
+        "Felhasználók nem fognak tudni e-maileket küldeni"
       ]
     },
     "subscription reminder": {
@@ -9990,6 +10169,18 @@
       ],
       "Upgrade": [
         "Nagyobb csomagra váltás"
+      ],
+      "and 15 more premium features": [
+        "és 15 több prémium funkció"
+      ],
+      "Data breach alerts ${ strongArgument }": [
+        "Adatszivárgási figyelmeztetések ${ strongArgument }"
+      ],
+      "No ads or tracking": [
+        "Nincsenek reklámok vagy nyomon követés."
+      ],
+      "We don't sell your data": [
+        "Nem adjuk el az adatait."
       ]
     },
     "Subscription renewal state": {
@@ -11070,6 +11261,87 @@
       ],
       "Your changes are not synced yet": [
         "Módosításai még nincsenek szinkronizálva"
+      ],
+      "A filter name is required": [
+        "Szűrő név megadása szükséges"
+      ],
+      "A filter with this name already exists": [
+        "Ilyen nevű szűrő már létezik"
+      ],
+      "Add a custom logo": [
+        "Egyedi logó hozzáadása"
+      ],
+      "Coupon": [
+        "Kupon"
+      ],
+      "Details": [
+        "Részletek"
+      ],
+      "Enable 2FA": [
+        "Kétlépcsős hitelesítés bekapcsolása"
+      ],
+      "Enter 2FA code": [
+        "Írja be a kétlépcsős hitelesítési kódot"
+      ],
+      "Filter name cannot contain only spaces": [
+        "Szűrő név nem tartalmazhat csak szóközöket"
+      ],
+      "Get advanced protection": [
+        "Kapjon speciális védelmet"
+      ],
+      "Hide your email with ${ PASS_APP_NAME }": [
+        "Rejtse el az e-mail címét ezzel: ${ PASS_APP_NAME }"
+      ],
+      "Import groups": [
+        "Csoportok importálása"
+      ],
+      "Mark conversations as read": [
+        "Megjelölés olvasottként"
+      ],
+      "Mark conversations as unread": [
+        "Megjelölés olvasatlanként"
+      ],
+      "Mark messages as read": [
+        "Megjelölés olvasottként"
+      ],
+      "Mark messages as unread": [
+        "Megjelölés olvasatlanként"
+      ],
+      "Move all conversations": [
+        "Az összes beszélgetés áthelyezése"
+      ],
+      "Move all messages": [
+        "Az összes üzenetet áthelyezése"
+      ],
+      "Move all messages to archive": [
+        "Az összes üzenetet áthelyezése a Archívumba"
+      ],
+      "Move all messages to trash": [
+        "Az összes üzenetet áthelyezése a Lomtárba"
+      ],
+      "Need more aliases?": [
+        "Több e-mail álnévre van szüksége?"
+      ],
+      "No breaches detected": [
+        "Nem észleltünk adatszivárgást."
+      ],
+      "No-reply address detected": [
+        "Nem válaszolható cím észlelve"
+      ],
+      "Send with encryption disabled?": [
+        "Titkosítás nélkül küldi?"
+      ],
+      "This field cannot contain only spaces": [
+        "Ez a mező nem tartalmazhat csak szóközöket"
+      ],
+      "Your ${ planName } free trial ends on ${ textDate }": [
+        "Az ön ${ planName } ingyenes próbaidőszaka végett ér: ${ textDate }"
+      ],
+      "Your account is protected": [
+        "A fiókja védve van"
+      ],
+      "Your free trial has ended": [
+        "Az ön ingyenes próbaidőszaka végett ért"
       ]
     },
     "Title subscription": {
@@ -11591,6 +11863,129 @@
       ],
       "Yearly, ${ untilString }": [
         "Évente, ${ untilString }"
+      ]
+    },
+    "Assistant option": {
+      "Fast and secure. No logs are kept.": [
+        "Gyors és biztonságos. Nincsenek naplók."
+      ],
+      "Run on device": [
+        "Eszköz futtatás"
+      ],
+      "Securely run on device": [
+        "Biztonságosan fut az eszközön"
+      ]
+    },
+    "duoplan2024: Action": {
+      "Get ${ BRAND_NAME } Duo": [
+        "Szerezzen ${ BRAND_NAME } Duo-t"
+      ],
+      "Get it for ${ price }": [
+        "Kapja meg ${ price } ért"
+      ]
+    },
+    "duoplan2024: Info": {
+      "1 TB storage": [
+        "1 TB tárhely"
+      ],
+      "2 users": [
+        "2 felhasználó"
+      ],
+      "Full access to all ${ BRAND_NAME } products": [
+        "Teljes hozzáférés minden ${ BRAND_NAME } termékhez"
+      ],
+      "You save ${ amountSave }": [
+        "${ amountSave } takarít meg"
+      ]
+    },
+    "duoplan2024: SubTitle": {
+      "All of ${ BRAND_NAME }, for 2.": [
+        "Minden a ${ BRAND_NAME }, 2 embernek."
+      ],
+      "Double your storage": [
+        "Duplázza meg a tárhelyét"
+      ]
+    },
+    "Email body for description (description part)": {
+      "DESCRIPTION:\n${ eventDescription }": [
+        "LEÍRÁS:\n${ eventDescription }"
+      ]
+    },
+    "Email body for invitation": {
+      "${ eventTitle } was canceled.": [
+        "${ eventTitle } lemondva."
+      ],
+      "This event occurrence was updated.": [
+        "Ennek az események az előfordulása frissítve lett."
+      ],
+      "This event occurrence was updated. Here's what changed:\n\n${ updateEventDetailsText }": [
+        "Ennek az eseménynek az előfordulása megváltozott. Ezek változtak:\n\n${ updateEventDetailsText }"
+      ],
+      "This event was updated.": [
+        "Ez az esemény frissítve lett."
+      ],
+      "This event was updated. Here's what changed:\n\n${ updateEventDetailsText }": [
+        "Ez az esemény megváltozott. Ezek változtak:\n\n${ updateEventDetailsText }"
+      ],
+      "You are invited to ${ eventTitle }.\n\n${ eventDetailsText }": [
+        "Meghívták a következő eseményre: ${ eventTitle }\n\n${ eventDetailsText }"
+      ]
+    },
+    "Email body for invitation (date part)": {
+      "TIME:\n${ formattedStart }": [
+        "IDŐ:\n${ formattedStart }"
+      ],
+      "TIME:\n${ formattedStart } (all day)": [
+        "IDŐ:\n${ formattedStart } (minden nap)"
+      ],
+      "TIME:\n${ formattedStart } - ${ formattedEnd }": [
+        "IDŐ:\n${ formattedStart } - ${ formattedEnd }"
+      ]
+    },
+    "Email body for invitation (event details part)": {
+      "Removed": [
+        "Törölve"
+      ]
+    },
+    "Email body for invitation (location part)": {
+      "LOCATION:\n${ eventLocation }": [
+        "HELY:\n${ eventLocation }"
+      ]
+    },
+    "Email body for response to invitation": {
+      "${ emailAddress } accepted your invitation to ${ eventTitle }": [
+        "${ emailAddress } elfogadta a meghívást az eseményre: ${ eventTitle }"
+      ],
+      "${ emailAddress } declined your invitation to ${ eventTitle }": [
+        "${ emailAddress } elutasította a meghívást az eseményre: ${ eventTitle }"
+      ],
+      "${ emailAddress } tentatively accepted your invitation to ${ eventTitle }": [
+        "${ emailAddress } feltételesen elfogadta a meghívást az eseményre: ${ eventTitle }"
+      ]
+    },
+    "mailtrial2024: Footer": {
+      "Renews at ${ renewablePrice }, cancel anytime": [
+        "Előfizetés megújul ${ renewablePrice }, bármikor lemondhatja"
+      ]
+    },
+    "mailtrial2024: Title": {
+      "Get ${ planName } for only ${ planPrice }": [
+        "Szerezze be a ${ planName }-t csak ${ planPrice } ért"
+      ]
+    },
+    "Safety review": {
+      "Review your account safety": [
+        "Tekintse át fiókja biztonságát"
+      ]
+    },
+    "Security Center - Info": {
+      "Sentinel is **active** and safeguarding your account.": [
+        "Sentinel **aktív**, biztonságban tartja a fiókját."
+      ]
+    },
+    "wallet_signup_2024:Bug category": {
+      "Wallet problem": [
+        "Wallet probléma"
       ]
     }
   }

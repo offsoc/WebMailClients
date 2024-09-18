@@ -1403,6 +1403,15 @@
       ],
       "Zoom out": [
         "Oddálit"
+      ],
+      "Hide ${ BRAND_NAME } Scribe writing assistant": [
+        "Skrýt asistenta psaní ${ BRAND_NAME } Scribe"
+      ],
+      "Run on ${ BRAND_NAME } servers": [
+        "Spustit na serverech ${ BRAND_NAME }"
+      ],
+      "Show ${ BRAND_NAME } Scribe writing assistant": [
+        "Zobrazit asistenta psaní ${ BRAND_NAME } Scribe"
       ]
     },
     "action": {
@@ -1573,6 +1582,9 @@
       ],
       "Securely run on device": [
         "Bezpečně spusťte na zařízení"
+      ],
+      "Run on ${ BRAND_NAME } servers": [
+        "Spustit na serverech ${ BRAND_NAME }"
       ]
     },
     "Assistant toggle": {
@@ -4398,6 +4410,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Vyhledávání našlo příliš mnoho výsledků. Upřesněte hledání a zkuste to prosím znovu."
+      ],
+      "Sending attachments is restricted while you exceed your plan limits or until you upgrade you plan.": [
+        "Odesílání příloh je omezeno, když překročíte limity svého tarifu, nebo dokud nenavýšíte svůj tarif."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7740,6 +7755,9 @@
       ],
       "Your private writing assistant": [
         "Váš soukromý asistent psaní"
+      ],
+      "Please note that upon clicking the Confirm button, your account will have ${ remainingCreditsFormatted } credits remaining.": [
+        "Vezměte prosím na vědomí, že po kliknutí na tlačítko Potvrdit vám na účtu zůstane ${ remainingCreditsFormatted } kreditů."
       ]
     },
     "info": {
@@ -10429,6 +10447,9 @@
       ],
       "We are processing your payment for the billed invoice. Please wait until the payment is completed before making changes to your plan or updating your payment details. Thank you for your patience.": [
         "Zpracováváme vaši platbu za vyúčtovanou fakturu. Před provedením změn v tarifu nebo aktualizací platebních údajů vyčkejte, dokud nebude platba dokončena. Děkujeme vám za trpělivost."
+      ],
+      "More plans are available in other currencies": [
+        "Další tarify jsou k dispozici v jiných měnách"
       ]
     },
     "Payments.Error": {
@@ -12456,6 +12477,9 @@
       ],
       "You have successfully unsubscribed": [
         "Předplatné bylo úspěšně zrušeno"
+      ],
+      "Problem reported": [
+        "Problém nahlášen"
       ]
     },
     "Success notification": {

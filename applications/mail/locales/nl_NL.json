@@ -1390,6 +1390,9 @@
       ],
       "Zoom out": [
         "Zoom uit"
+      ],
+      "Keep my subscription": [
+        "Mijn abonnement behouden"
       ]
     },
     "action": {
@@ -9341,6 +9344,21 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "We scannen het dark web om te controleren of uw ${ BRAND_NAME } adressen of aliassen zijn gelekt en waarschuwen u onmiddellijk wanneer we iets vinden."
+      ],
+      "10 email addresses/aliases": [
+        "10 e-mailadressen/aliassen"
+      ],
+      "Email groups": [
+        "E-mailgroepen"
+      ],
+      "Online document editor": [
+        "Online documenteditor"
+      ],
+      "Share files with no size limit": [
+        "Deel bestanden zonder maximale grootte"
+      ],
+      "Sync and backup all your files across devices": [
+        "Synchroniseer en back-up al uw bestanden op alle apparaten"
       ]
     },
     "new_plans: feature info": {
@@ -9658,6 +9676,9 @@
       ],
       "You can have more than one admin. All admins can add and manage users but only the primary admin has control over billing.": [
         "U kunt meerdere beheerders hebben. Alle beheerders kunnen gebruikers toevoegen en beheren, maar alleen de primaire beheerder kan de facturatie beheren."
+      ],
+      "Email everyone in a group with a single email address": [
+        "E-mail iedereen in een groep met één e-mailadres"
       ]
     },
     "new_plans: Upsell attribute": {
@@ -11886,6 +11907,12 @@
       ],
       "You have successfully unsubscribed": [
         "U bent succesvol afgemeld"
+      ],
+      "Content copied to clipboard": [
+        "Inhoud gekopieerd naar klembord"
+      ],
+      "Problem reported": [
+        "Probleem gerapporteerd"
       ]
     },
     "Success notification": {
@@ -12800,6 +12827,12 @@
       ],
       "Your free trial has ended": [
         "Uw gratis proefperiode is afgelopen"
+      ],
+      "Hide your email with ${ PASS_APP_NAME }": [
+        "Verberg je e-mail met ${ PASS_APP_NAME }"
+      ],
+      "No-reply address detected": [
+        "No-reply-adres gedetecteerd"
       ]
     },
     "Title subscription": {
