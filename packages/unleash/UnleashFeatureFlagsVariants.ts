@@ -5,7 +5,7 @@ import { type FeatureFlag } from './UnleashFeatureFlags';
 /**
  * List of feature flags with a variant.
  */
-export const FLAGS_WITH_VARIANT = ['MailOnboarding', 'ABTestInboxUpsellOneDollar'] satisfies FeatureFlag[];
+export const FLAGS_WITH_VARIANT = ['MailOnboarding'] satisfies FeatureFlag[];
 
 /**
  * @description Union type of the list of feature flags with a variant.
@@ -15,13 +15,30 @@ export const FLAGS_WITH_VARIANT = ['MailOnboarding', 'ABTestInboxUpsellOneDollar
 export type FeatureFlagsWithVariant = (typeof FLAGS_WITH_VARIANT)[number];
 
 type VariantReturnType<TVariantNameValue extends string> = Partial<
-    Omit<ReturnType<typeof useUnleashVariant>, 'name'> & { name?: TVariantNameValue }
+    // If flag is disabled, the variant name is 'disabled'
+    Omit<ReturnType<typeof useUnleashVariant>, 'name'> & { name?: TVariantNameValue | 'disabled' }
 >;
+
+/**
+ * Flags with variants variants.
+ * @description Union type of the list of feature flags with a variant.
+ *
+ * Naming convention: `${FlagName}Variant`
+ */
+export type MailOnboardingVariant = 'none' | 'old' | 'new';
+
+/**
+ * @description Map of feature flags with a variant.
+ * Register your new variant here.
+ */
+type FeatureFlagVariantMap = {
+    MailOnboarding: VariantReturnType<MailOnboardingVariant>;
+};
 
 /**
  * @param FlagName - The feature flag name
  * @description Returns the Unleash variant value based on the declared `FeatureFlagsWithVariant` names
  */
-export type FeatureFlagVariant<FlagName extends FeatureFlagsWithVariant> = FlagName extends 'MailOnboarding'
-    ? VariantReturnType<'none' | 'old' | 'new'>
+export type FeatureFlagVariant<FlagName extends FeatureFlagsWithVariant> = FlagName extends keyof FeatureFlagVariantMap
+    ? FeatureFlagVariantMap[FlagName]
     : unknown;

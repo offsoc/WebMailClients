@@ -39,7 +39,7 @@ import { useGetStartedChecklist } from '../../containers/onboardingChecklist/pro
 import { ComposeTypes } from '../../hooks/composer/useCompose';
 import { layoutActions } from '../../store/layout/layoutSlice';
 import { selectLayoutIsExpanded } from '../../store/layout/layoutSliceSelectors';
-import UsersOnboardingChecklist from '../checklist/UsersOnboardingChecklist';
+import UsersOnboardingChecklist from '../onboarding/checklist/UsersOnboardingChecklist';
 import MailSidebarList from './MailSidebarList';
 import MailSidebarPrimaryButton from './MailSidebarPrimaryButton';
 
@@ -127,7 +127,7 @@ const MailSidebar = ({ labelID }: Props) => {
                         )}
                     >
                         <CollapsibleSidebarSpotlight app={APPS.PROTONMAIL}>
-                        {collapsed && <div aria-hidden="true" className="border-top my-1 mx-3"></div>}
+                            {collapsed && <div aria-hidden="true" className="border-top my-1 mx-3"></div>}
                             <Tooltip
                                 title={
                                     showSideBar
@@ -146,12 +146,12 @@ const MailSidebar = ({ labelID }: Props) => {
                                     onClick={() => onClickExpandNav()}
                                     aria-pressed={showSideBar}
                                 >
-                                        <Icon
-                                            name={showSideBar ? 'chevrons-left' : 'chevrons-right'}
-                                            alt={c('Action').t`Show navigation bar`}
-                                        />
-                                    </button>
-                                </Tooltip>
+                                    <Icon
+                                        name={showSideBar ? 'chevrons-left' : 'chevrons-right'}
+                                        alt={c('Action').t`Show navigation bar`}
+                                    />
+                                </button>
+                            </Tooltip>
                         </CollapsibleSidebarSpotlight>
                     </span>
                 )}

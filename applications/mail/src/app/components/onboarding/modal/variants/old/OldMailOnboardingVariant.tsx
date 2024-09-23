@@ -7,12 +7,17 @@ import { EASY_SWITCH_SOURCES, ImportProvider } from '@proton/activation/src/inte
 import { useEasySwitchDispatch, useEasySwitchSelector } from '@proton/activation/src/logic/store';
 import { changeCreateLoadingState, createSyncItem } from '@proton/activation/src/logic/sync/sync.actions';
 import { selectCreateSyncState } from '@proton/activation/src/logic/sync/sync.selectors';
-import { Button } from '@proton/atoms/Button';
-import { Href } from '@proton/atoms/Href';
-import type { OnboardingStepRenderCallback } from '@proton/components';
-import { OnboardingContent, OnboardingModal, OnboardingStep, useActiveBreakpoint } from '@proton/components';
+import { Button, Href } from '@proton/atoms';
+import {
+    OnboardingContent,
+    OnboardingModal,
+    OnboardingStep,
+    type OnboardingStepRenderCallback,
+    useActiveBreakpoint,
+} from '@proton/components';
 import GmailSyncModalAnimation from '@proton/components/containers/gmailSyncModal/GmailSyncModalAnimation';
 import SignInWithGoogle from '@proton/components/containers/gmailSyncModal/SignInWithGoogle';
+import { TelemetryMailOnboardingEvents } from '@proton/shared/lib/api/telemetry';
 import { getKnowledgeBaseUrl } from '@proton/shared/lib/helpers/url';
 import blockSender from '@proton/styles/assets/img/onboarding/mail_onboarding_block_sender.svg';
 import blockTrackers from '@proton/styles/assets/img/onboarding/mail_onboarding_block_trackers.svg';
@@ -20,19 +25,16 @@ import encryption from '@proton/styles/assets/img/onboarding/mail_onboarding_enc
 import { useFlag } from '@proton/unleash';
 import clsx from '@proton/utils/clsx';
 
+import { useMailOnboardingTelemetry } from 'proton-mail/components/onboarding/useMailOnboardingTelemetry';
 import { useGetStartedChecklist } from 'proton-mail/containers/onboardingChecklist/provider/GetStartedChecklistProvider';
 
-interface Props {
-    hideDiscoverApps?: boolean;
-    showGenericSteps?: boolean;
-    onDone?: () => void;
-    onExit?: () => void;
-    open?: boolean;
-}
+import { type MailOnboardingProps } from '../../MailOnboardingModal';
+import OldOnboardingThemes from './steps/OldOnboardingThemes';
 
-const MailOnboardingModal = (props: Props) => {
+const OldMailOnboardingModal = (props: MailOnboardingProps) => {
     const { markItemsAsDone } = useGetStartedChecklist();
     const { viewportWidth } = useActiveBreakpoint();
+    const [sendMailOnboardingTelemetry] = useMailOnboardingTelemetry();
 
     const isImporterInMaintenance = useFlag('MaintenanceImporter');
 
@@ -44,6 +46,8 @@ const MailOnboardingModal = (props: Props) => {
     });
 
     const handleGoogleSync = (onNext: () => void) => {
+        void sendMailOnboardingTelemetry(TelemetryMailOnboardingEvents.enable_gmail_forwarding, {});
+
         triggerOAuthPopup({
             provider: ImportProvider.GOOGLE,
             scope: SYNC_G_OAUTH_SCOPES.join(' '),
@@ -70,19 +74,27 @@ const MailOnboardingModal = (props: Props) => {
 
     // translator: Complete the sentence "We stop advertisers and data collectors from profiling you. Learn more"
     const kbLinkPrivacy = (
-        <Href className="color-weak text-ellipsis" href={getKnowledgeBaseUrl('/email-tracker-protection')}>
+        <Href
+            key="kbLinkPrivacy"
+            className="color-weak text-ellipsis"
+            href={getKnowledgeBaseUrl('/email-tracker-protection')}
+        >
             {c('Info').t`Learn more`}
         </Href>
     );
     // translator: Complete the sentence "Block email communications from scammers permanently. Learn more"
     const kbLinkSender = (
-        <Href className="color-weak text-ellipsis" href={getKnowledgeBaseUrl('/block-sender')}>
+        <Href key="kbLinkSender" className="color-weak text-ellipsis" href={getKnowledgeBaseUrl('/block-sender')}>
             {c('Info').t`Learn more`}
         </Href>
     );
     // translator: Complete the sentence "Encryption so strong, only you and intended recipients can view your emails. Learn more"
     const kbLinkEncryption = (
-        <Href className="color-weak text-ellipsis" href={getKnowledgeBaseUrl('/proton-mail-encryption-explained')}>
+        <Href
+            key="kbLinkEncryption"
+            className="color-weak text-ellipsis"
+            href={getKnowledgeBaseUrl('/proton-mail-encryption-explained')}
+        >
             {c('Info').t`Learn more`}
         </Href>
     );
@@ -179,10 +191,17 @@ const MailOnboardingModal = (props: Props) => {
     }
 
     return (
-        <OnboardingModal {...props} size="large" showGenericSteps={false} extraProductStep={extraSteps}>
+        <OnboardingModal
+            {...props}
+            showGenericSteps={false}
+            genericSteps={{
+                setupThemeStep: OldOnboardingThemes,
+            }}
+            extraProductStep={extraSteps}
+        >
             {onboardingSteps}
         </OnboardingModal>
     );
 };
 
-export default MailOnboardingModal;
+export default OldMailOnboardingModal;
