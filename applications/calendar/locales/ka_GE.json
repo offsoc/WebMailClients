@@ -7011,6 +7011,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "ჩვენ ვასკანერებთ ბნელ ვებს, რომ აღმოვაჩინოთ, არის თუ არა თქვენი ${ BRAND_NAME }-ის მისამართები ან ფსევდონიმები გაჟონილი და გაგაფრთხილოთ, თუ რამეს აღმოვაჩენთ."
+      ],
+      "Tor over VPN": [
+        "Tor VPN-ის ზემოდან"
       ]
     },
     "new_plans: feature highlight": {
@@ -8177,6 +8180,9 @@
     "Safety review": {
       "Review your account safety": [
         "თქვენი ანგარიშის უსაფრთხოების გადახედვა"
+      ],
+      "Review account safety": [
+        "ანგარიშის უსაფრთხოების გადახედვა"
       ]
     },
     "saml: Error": {
@@ -9438,6 +9444,9 @@
       ],
       "You have successfully unsubscribed": [
         "გამოწერა წარმატებით გაუქმდა"
+      ],
+      "Event content search enabled": [
+        "მოვლენის შემცველობაში ძებნა ჩაირთო"
       ]
     },
     "Suffix": {
@@ -10290,6 +10299,19 @@
       ],
       "Bitcoin via email": [
         "Bitcoin ელფოსტით"
+      ],
+      "${ n } ${ BRAND_NAME } email address": [
+        "${ n }${ BRAND_NAME }-ის ელფოსტის მისმაართი",
+        "${ n }${ BRAND_NAME }-ის ელფოსტის მისმაართი"
+      ],
+      "Bitcoin via Email": [
+        "Bitcoin ელფოსტით"
+      ],
+      "Encrypted and secure ${ MAIL_APP_NAME } email address. You can easily send Bitcoin to anyone with just their ${ BRAND_NAME } name.": [
+        "შიფრირებული და უსაფრთხო ${ MAIL_APP_NAME } ელფოსტის მისამართი. შეგიძლიათ მარტივად გაგზავნოთ Bitcoin ნებისმიერ ადამიანს, მხოლოდ ${ BRAND_NAME } სახელით."
+      ],
+      "Securely exchange Bitcoin via email instead of complex, 26-character Bitcoin addresses that are prone to error": [
+        "უსაფრთხოდ გაცვალეთ Bitcoin ელფოსტით, კომპლექსური, 26-სიმბოლოიანი Bitcoin მისამართების ნაცვლად, რომლებიც შეცდომებისთვის მგრძნობიარე არიან"
       ]
     },
     "wallet_signup_2024:app-switcher": {

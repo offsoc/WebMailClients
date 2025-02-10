@@ -7252,6 +7252,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Prohledáváme dark web a kontrolujeme, zda nedošlo k úniku vašich adres nebo aliasů ${ BRAND_NAME }, pokud něco najdeme, okamžitě vás upozorníme."
+      ],
+      "Tor over VPN": [
+        "TOR skrze VPN"
       ]
     },
     "new_plans: feature highlight": {
@@ -8279,6 +8282,9 @@
       ],
       "Street address, postal code, and city": [
         "Ulice, poštovní směrovací číslo a město"
+      ],
+      "By confirming this payment, you authorize ${ BRAND_NAME } and Stripe, our payment service provider, to instruct your bank to debit your account accordingly. You can get a refund within 8 weeks from the debit date, under the conditions of your agreement with your bank.": [
+        "Potvrzením této platby zmocňujete ${ BRAND_NAME } a Stripe, našeho poskytovatele platebních služeb, aby dali pokyn vaší bance k převodu peněz z vašeho účtu. Vrácení peněz je možné do 8 týdnů od data tohoto převodu peněz, za podmínek stanovených ve smlouvě s vaší bankou."
       ]
     },
     "PGP key encryption warning": {
@@ -8497,6 +8503,9 @@
     "Safety review": {
       "Review your account safety": [
         "Zkontrolujte bezpečnost svého účtu"
+      ],
+      "Review account safety": [
+        "Zkontrolujte bezpečnost účtu"
       ]
     },
     "saml: Error": {
@@ -9827,6 +9836,9 @@
       ],
       "You have successfully unsubscribed": [
         "Předplatné bylo úspěšně zrušeno"
+      ],
+      "Event content search enabled": [
+        "Vyhledávání v obsahu události povoleno"
       ]
     },
     "Suffix": {
@@ -10723,6 +10735,21 @@
       ],
       "Bitcoin via email": [
         "Bitcoin přes e-mail"
+      ],
+      "${ n } ${ BRAND_NAME } email address": [
+        "${ n }${ BRAND_NAME } e-mailová adresa",
+        "${ n }${ BRAND_NAME } e-mailové adresy",
+        "${ n }${ BRAND_NAME } e-mailových adres",
+        "${ n }${ BRAND_NAME } e-mailových adres"
+      ],
+      "Bitcoin via Email": [
+        "Bitcoin přes e-mail"
+      ],
+      "Encrypted and secure ${ MAIL_APP_NAME } email address. You can easily send Bitcoin to anyone with just their ${ BRAND_NAME } name.": [
+        "Šifrovaná a bezpečná e-mailová adresa ${ MAIL_APP_NAME }. Bitcoiny můžete snadno poslat komukoli jen pomocí jejich ${ BRAND_NAME } jména."
+      ],
+      "Securely exchange Bitcoin via email instead of complex, 26-character Bitcoin addresses that are prone to error": [
+        "Bezpečná výměna bitcoinů přes e-mail namísto složitých 26znakových bitcoinových adres, u kterých můžete snadno udělat chybu"
       ]
     },
     "wallet_signup_2024:app-switcher": {

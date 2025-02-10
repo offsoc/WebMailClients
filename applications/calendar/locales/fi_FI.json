@@ -1674,6 +1674,9 @@
       ],
       "Work": [
         "Työ"
+      ],
+      "Yomi": [
+        "Yomi"
       ]
     },
     "Country name": {
@@ -2600,7 +2603,7 @@
         "2FA lisää ylimääräisen turvakerroksen, joka estää luvattoman pääsyn tilillesi."
       ],
       "Also included": [
-        "Sisältyy myös"
+        "Sisältää myös:"
       ],
       "Availability unknown": [
         "Tavoitettavuus ei ole tiedossa"
@@ -3989,6 +3992,12 @@
       ],
       "No verification method available": [
         "Vahvistustapoja ei ole"
+      ],
+      "CAPTCHA": [
+        "CAPTCHA"
+      ],
+      "SMS": [
+        "SMS"
       ]
     },
     "ICS event error": {
@@ -4261,6 +4270,9 @@
       ],
       "ICS file": [
         "ICS-tiedosto"
+      ],
+      "Yahoo": [
+        "Yahoo"
       ]
     },
     "Import instructions step": {
@@ -5410,6 +5422,15 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Järjestelmäsi aikavyöhykkeeksi näyttää vaihtuneen ${ timezone }. Haluatko päivittää aikavyöhykeasetuksesi?"
+      ],
+      "Emails moved to Trash and Spam more than 30 days ago will be cleared automatically.": [
+        "Roskakoriin ja roskapostiin yli 30 päivää sitten siirretyt sähköpostit poistetaan automaattisesti."
+      ],
+      "Enabling auto-deletion…": [
+        "Otetaan automaattista poistoa käyttöön…"
+      ],
+      "You can change this anytime in ${ settingsLink }.": [
+        "Voit muuttaa tätä koska tahansa ${ settingsLink }."
       ]
     },
     "info": {
@@ -5517,6 +5538,9 @@
       ],
       "Trusted": [
         "Luotettu"
+      ],
+      "WKD": [
+        "WKD"
       ]
     },
     "Knowledge base link label": {
@@ -6074,7 +6098,7 @@
         "Lähetetyt"
       ],
       "settings": [
-        "asetukset"
+        "asetuksissa"
       ],
       "Snooze": [
         "Torkuta"
@@ -6982,6 +7006,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Skannaamme pimeää verkkoa tarkistaaksemme, onko ${ BRAND_NAME } -osoitteesi tai -aliaksesi vuotaneet ja hälytämme välittömästi, jos löydämme jotain."
+      ],
+      "Tor over VPN": [
+        "Tor + VPN"
       ]
     },
     "new_plans: feature highlight": {
@@ -7621,6 +7648,12 @@
       ],
       "Storage": [
         "Tallennustila"
+      ],
+      "Online document editor": [
+        "Verkkodokumenttieditori"
+      ],
+      "Recover previous file versions": [
+        "Palauta aiempia tiedostoversioita"
       ]
     },
     "Onboarding": {
@@ -7905,7 +7938,7 @@
         "Virheellinen turvakoodi"
       ],
       "Something went wrong. Please try again later.": [
-        "Jokin meni pieleen. Yritä myöhemmin uudelleen."
+        "Jotain meni pieleen. Yritä myöhemmin uudelleen."
       ],
       "We are unable to authenticate your payment method. Please choose a different payment method or try again.": [
         "Maksutapasi todentaminen ei onnistunut. Valitse toinen maksutapa tai yritä uudelleen."
@@ -8132,6 +8165,9 @@
     "Safety review": {
       "Review your account safety": [
         "Tarkista tilisi turvallisuus"
+      ],
+      "Review account safety": [
+        "Tarkista tiliturvallisuus"
       ]
     },
     "saml: Error": {
@@ -8566,6 +8602,9 @@
       ],
       "Upgrade": [
         "Päivitä tilaus"
+      ],
+      "Upgrade for ${ pricingTitle }": [
+        "Päivitä hintaan ${ pricingTitle }"
       ]
     },
     "specialoffer: Offers": {
@@ -9390,6 +9429,9 @@
       ],
       "You have successfully unsubscribed": [
         "Tilauksesi on lopetettu"
+      ],
+      "Event content search enabled": [
+        "Tapahtumien sisältöhaku otettiin käyttöön"
       ]
     },
     "Suffix": {
@@ -10039,6 +10081,9 @@
       ],
       "Your shorter address is now ready": [
         "Lyhyempi osoittesi on nyt valmis"
+      ],
+      "Auto-deletion is active": [
+        "Automaattinen poisto on käytössä"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10232,6 +10277,19 @@
       ],
       "Bitcoin via email": [
         "Bitcoin sähköpostitse"
+      ],
+      "${ n } ${ BRAND_NAME } email address": [
+        "${ n } ${ BRAND_NAME }-sähköpostiosoite",
+        "${ n } ${ BRAND_NAME }-sähköpostiosoitetta"
+      ],
+      "Bitcoin via Email": [
+        "Bitcoin sähköpostitse"
+      ],
+      "Encrypted and secure ${ MAIL_APP_NAME } email address. You can easily send Bitcoin to anyone with just their ${ BRAND_NAME } name.": [
+        "Salattu ja turvallinen ${ MAIL_APP_NAME } sähköpostiosoite. Voit helposti lähettää Bitcoinia kenelle tahansa pelkällä ${ BRAND_NAME }-nimellä."
+      ],
+      "Securely exchange Bitcoin via email instead of complex, 26-character Bitcoin addresses that are prone to error": [
+        "Vaihda Bitcoin turvallisesti sähköpostitse monimutkaisten, 26-merkkisten Bitcoinosoitteiden sijaan, jotka ovat alttiita virheille"
       ]
     },
     "wallet_signup_2024:Bug category": {
@@ -10608,6 +10666,16 @@
       ],
       "Passcode:": [
         "Tunnuskoodi:"
+      ]
+    },
+    "Payments.plan_name": {
+      "Free": [
+        "Free"
+      ]
+    },
+    "wallet_signup_2024:app-switcher": {
+      "A safer way to hold Bitcoin": [
+        "Turvallisempi tapa säilyttää Bitcoineja"
       ]
     }
   }

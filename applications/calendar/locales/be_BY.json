@@ -808,6 +808,15 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Ваш бясплатны пробны перыяд настольнай праграмы завершыцца ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Get ${ planName } for ${ priceCoupon }": [
+        "Атрымаць ${ planName } за ${ priceCoupon }"
+      ],
+      "Get ${ planOrAppName }": [
+        "Атрымаць ${ planOrAppName }"
+      ],
+      "Take a tour": [
+        "Пачаць знаёмства"
       ]
     },
     "Action subline": {
@@ -1135,6 +1144,9 @@
       ],
       "Storage space is shared across all ${ BRAND_NAME } services.": [
         "Прастора сховішча размеркавана паміж усімі сэрвісамі ${ BRAND_NAME }"
+      ],
+      "Secure logins on all your devices. Includes unlimited hide-my-email aliases, sharing, integrated 2FA, ${ DARK_WEB_MONITORING_NAME } and more.": [
+        "Бяспечныя запісы ўваходу на ўсіх вашых прыладах. Уключае неабмежаваную колькасць псеўданімаў hide-my-email, абагульванне, інтэграцыю з 2ФА, ${ DARK_WEB_MONITORING_NAME } і іншыя функцыі."
       ]
     },
     "Billing cycle option": {
@@ -1245,6 +1257,21 @@
       ],
       "Continue your subscription": [
         "Працягнуць падпіску"
+      ],
+      "Create label": [
+        "Стварыць метку"
+      ],
+      "Discover and set up features": [
+        "Азнаёміцца і наладзіць функцыі"
+      ],
+      "Remind me later": [
+        "Нагадаць мне пазней"
+      ],
+      "Set up other features": [
+        "Наладзіць іншыя функцыі"
+      ],
+      "Take a tour": [
+        "Пачаць знаёмства"
       ]
     },
     "Calendar access select label": {
@@ -1680,6 +1707,9 @@
       ],
       "Work": [
         "Працоўны"
+      ],
+      "Yomi": [
+        "Yomi"
       ]
     },
     "Country name": {
@@ -3426,6 +3456,12 @@
       ],
       "Your import will not be processed.": [
         "Ваша імпартаванне не будзе апрацавана."
+      ],
+      "Please select a country": [
+        "Выберыце краіну"
+      ],
+      "Please select a state": [
+        "Калі ласка, выберыце рэгіён"
       ]
     },
     "Error accepting calendar invitation": {
@@ -4043,6 +4079,12 @@
       ],
       "No verification method available": [
         "Няма даступных спосабаў праверкі"
+      ],
+      "CAPTCHA": [
+        "CAPTCHA"
+      ],
+      "SMS": [
+        "SMS"
       ]
     },
     "ICS event error": {
@@ -4327,6 +4369,9 @@
       ],
       "ICS file": [
         "файл ICS"
+      ],
+      "Yahoo": [
+        "Yahoo"
       ]
     },
     "Import instructions step": {
@@ -5529,6 +5574,39 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Падобна, што ваш часавы пояс змяніўся на ${ timezone }. Вы сапраўды хочаце абнавіць налады вашага часавога пояса?"
+      ],
+      "${ PROTON_SENTINEL_NAME } protects your account with dedicated monitoring of suspicious activity.": [
+        "${ PROTON_SENTINEL_NAME } абараняе ваш уліковы запіс пасродкам адмысловага маніторынга за падазронай актыўнасцю."
+      ],
+      "Discover new features unlocked and start using them right away!": [
+        "Пазнаёмцеся з новымі функцыямі і пачніце выкарыстоўваць іх неадкладна!"
+      ],
+      "Discover new features unlocked with ${ planTitle } and start using them right away!": [
+        "Пазнаёмцеся з новымі функцыямі, якія даступныя з тарыфным планам ${ planTitle } і пачніце іх выкарыстоўваць неадкладна!"
+      ],
+      "Emails moved to Trash and Spam more than 30 days ago will be cleared automatically.": [
+        "Лісты, якія перамешчаны ў папку Сметніца і Спам больш за 30 дзён таму, будуць ачышчацца аўтаматычна."
+      ],
+      "Enabling auto-deletion…": [
+        "Уключэнне аўтавыдалення…"
+      ],
+      "or discover other features:": [
+        "або пазнаёмцеся з іншымі функцыямі:"
+      ],
+      "Registering your subscription…": [
+        "Рэгістрацыя вашай падпіскі…"
+      ],
+      "Setting up ${ feature }…": [
+        "Наладжванне ${ feature }..."
+      ],
+      "Setting up your new address…": [
+        "Наладжванне вашага новага адраса…"
+      ],
+      "You can change this anytime in ${ settingsLink }.": [
+        "Вы можаце змяніць свой выбар у любы час у ${ settingsLink }."
+      ],
+      "You get notified if your password or other data was leaked from a third-party service.": [
+        "Апавяшчаць, калі адбудзецца ўцечка вашага пароля або іншых даных са старонняга сэрвісу."
       ]
     },
     "info": {
@@ -5642,6 +5720,9 @@
       ],
       "Trusted": [
         "Давераны"
+      ],
+      "WKD": [
+        "WKD"
       ]
     },
     "Knowledge base link label": {
@@ -6087,6 +6168,9 @@
       ],
       "Your password (admin)": [
         "Ваш пароль (admin)"
+      ],
+      "State": [
+        "Штат"
       ]
     },
     "Label for contact group color": {
@@ -6216,6 +6300,9 @@
       ],
       "What’s this?": [
         "Што гэта?"
+      ],
+      "settings": [
+        "налады"
       ]
     },
     "Link label (optional)": {
@@ -6621,6 +6708,12 @@
       ],
       "Upgrade now": [
         "Палепшыць зараз"
+      ],
+      "Starting from ${ pricing }": [
+        "Пачатковы кошт ${ pricing }"
+      ],
+      "Upgrade to ${ planName }": [
+        "Палепшыць да ${ planName }"
       ]
     },
     "new_plans: action": {
@@ -7150,6 +7243,18 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Мы сканіруем цёмную сетку для праверкі на прадмет уцечкі адрасоў і псеўданімаў ${ BRAND_NAME }. Вы неадкладна будзеце апавешчаны ў выпадку, калі нешта будзе выяўлена."
+      ],
+      "200 GB of storage": [
+        "200 ГБ сховішча"
+      ],
+      "Private photo backup": [
+        "Прыватнае рэзерваванне фатаграфій"
+      ],
+      "Secure file storage and sharing": [
+        "Бяспечнае файлавае сховішча і абагульванне"
+      ],
+      "Tor over VPN": [
+        "Tor праз VPN"
       ]
     },
     "new_plans: feature highlight": {
@@ -8109,6 +8214,9 @@
       ],
       "Street address, postal code, and city": [
         "Адрас вуліцы, паштовы індэкс і горад"
+      ],
+      "By confirming this payment, you authorize ${ BRAND_NAME } and Stripe, our payment service provider, to instruct your bank to debit your account accordingly. You can get a refund within 8 weeks from the debit date, under the conditions of your agreement with your bank.": [
+        "Пацвярджаючы гэты плацеж, вы надзяляеце паўнамоцтвамі ${ BRAND_NAME } і Stripe, нашага пастаўшчыка плацежных паслуг, даць указанне вашаму банку спісаць з вашага рахунку адпаведныя сродкі. Вы можаце вярнуць спісаныя сродкі на працягу 8 тыдняў з даты спісання ў адпаведнасці з умовамі дагавора з вашым банкам."
       ]
     },
     "PGP key encryption warning": {
@@ -8327,6 +8435,9 @@
     "Safety review": {
       "Review your account safety": [
         "Агляд бяспекі вашага ўліковага запісу"
+      ],
+      "Review account safety": [
+        "Агляд бяспекі ўліковага запісу"
       ]
     },
     "saml: Error": {
@@ -8787,6 +8898,9 @@
     "specialoffer: Footer": {
       "This subscription will automatically renew every 2 years at the same rate until it is canceled.": [
         "Падпіска будзе аўтаматычна падаўжацца кожныя 2 гады з той жа цаной, пакуль вы яе не скасуеце."
+      ],
+      "Your subscription will renew at the same rate every year.": [
+        "Ваша падпіска будзе падаўжацца з фіксаваным коштам кожны год."
       ]
     },
     "specialoffer: Link": {
@@ -8795,6 +8909,9 @@
       ],
       "Upgrade": [
         "Палепшыць"
+      ],
+      "Upgrade for ${ pricingTitle }": [
+        "Палепшыць за ${ pricingTitle }"
       ]
     },
     "specialoffer: Offers": {
@@ -9651,6 +9768,9 @@
       ],
       "You have successfully unsubscribed": [
         "Вы паспяхова скасавалі падпіску"
+      ],
+      "Event content search enabled": [
+        "Пошук па змесціве падзеі ўключаны"
       ]
     },
     "Suffix": {
@@ -10316,6 +10436,15 @@
       ],
       "Your shorter address is now ready": [
         "Ваш больш кароткі адрас гатовы да выкарыстання"
+      ],
+      "${ feature } is now active": [
+        "${ feature } у актыўным стане"
+      ],
+      "Auto-deletion is active": [
+        "Аўтавыдаленне ў актыўным стане"
+      ],
+      "You can now create unlimited folders and labels": [
+        "Цяпер вы можаце ствараць неабмежаваную колькасць папак і метак"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10490,6 +10619,15 @@
         "Ваша падпіска будзе аўтаматычна падоўжана праз ${ cycle } месяцы.",
         "Ваша падпіска будзе аўтаматычна падоўжана праз ${ cycle } месяцаў.",
         "Ваша падпіска будзе аўтаматычна падоўжана праз ${ cycle } месяцаў."
+      ],
+      "Your new subscription will automatically renew in ${ cycle } month.": [
+        "Ваша новая падпіска будзе аўтаматычна падоўжана праз ${ cycle } месяц.",
+        "Ваша новая падпіска будзе аўтаматычна падоўжана праз ${ cycle } месяцы.",
+        "Ваша новая падпіска будзе аўтаматычна падоўжана праз ${ cycle } месяцаў.",
+        "Ваша новая падпіска будзе аўтаматычна падоўжана праз ${ cycle } месяцаў."
+      ],
+      "Your scheduled plan starts on ${ renewalTime }.": [
+        "Ваш запланаваны тарыфны план пачнецца ${ renewalTime }."
       ]
     },
     "vpn_2step: feature": {
@@ -10529,6 +10667,21 @@
       ],
       "Bitcoin via email": [
         "Bitcoin праз электронную пошту"
+      ],
+      "${ n } ${ BRAND_NAME } email address": [
+        "${ n } адрас электроннай пошты ${ BRAND_NAME }",
+        "${ n } адрасы электроннай пошты ${ BRAND_NAME }",
+        "${ n } адрасоў электроннай пошты ${ BRAND_NAME }",
+        "${ n } адрасоў электроннай пошты ${ BRAND_NAME }"
+      ],
+      "Bitcoin via Email": [
+        "Bitcoin праз электронную пошту"
+      ],
+      "Encrypted and secure ${ MAIL_APP_NAME } email address. You can easily send Bitcoin to anyone with just their ${ BRAND_NAME } name.": [
+        "Зашыфраваны і бяспечны ${ MAIL_APP_NAME } адрас электроннай пошты. Вы можаце лёгка адправіць Bitcoin каму заўгодна, маючы толькі іх ${ BRAND_NAME } імя."
+      ],
+      "Securely exchange Bitcoin via email instead of complex, 26-character Bitcoin addresses that are prone to error": [
+        "Бяспечна абменьвайце Bitcoin праз электронную пошту замест складаных, 26-значных адрасаў Bitcoin, у якіх лёгка памыліцца пры ўводзе"
       ]
     },
     "wallet_signup_2024:Bug category": {
@@ -10967,6 +11120,76 @@
       ],
       "Passcode:": [
         "Код доступу:"
+      ]
+    },
+    "new_plans: Subtext": {
+      "The discounted price of ${ priceCoupon } is valid for the first month. Then it will automatically be renewed at ${ priceMailPlus }. You can cancel at any time.": [
+        "Зніжаны кошт у памеры ${ priceCoupon } сапраўдны на працягу першага месяца. Пасля гэтага будзе выканана аўтаматычнае падаўжэнне з коштам у памеры ${ priceMailPlus }. Скасаваць можна ў любы момант."
+      ],
+      "Unlock all ${ BRAND_NAME } premium products and features for just ${ priceMailPlus }. Cancel anytime.": [
+        "Разблакіраваць усе прэміяльныя прадукты ${ BRAND_NAME } і функцыі ўсяго за ${ priceMailPlus }. Скасаваць можна ў любы момант."
+      ]
+    },
+    "Offer": {
+      "${ pricingTitle } offer expires today!": [
+        "Прапанова з коштам ${ pricingTitle } сёння будзе пратэрмінавана!"
+      ],
+      "Get Drive Plus for only ${ pricingTitle }": [
+        "Атрымайце Drive Plus усяго за ${ pricingTitle }"
+      ],
+      "Get Mail Plus for only ${ pricingTitle }": [
+        "Атрымайце Mail Plus усяго за ${ pricingTitle }"
+      ],
+      "Get the deal": [
+        "Атрымаць прапанову"
+      ],
+      "Last chance to get 80% off your first month of ${ plan } Plus.": [
+        "Апошняя магчымасць атрымаць скідку 80% на першы месяц падпіскі ${ plan } Plus."
+      ],
+      "Limited-time offer": [
+        "Часовая прапанова"
+      ],
+      "Maybe later": [
+        "Магчыма пазней"
+      ],
+      "Save 80% on your first month.": [
+        "Зэканомце 80% у першы месяц."
+      ]
+    },
+    "Offer feature": {
+      "+10 more premium features": [
+        "Больш за 10 прэміяльных функцый"
+      ],
+      "Custom email domain": [
+        "Карыстальніцкі дамен электроннай пошты"
+      ],
+      "Email addresses": [
+        "Адрасы электроннай пошты"
+      ],
+      "Free": [
+        "Бясплатна"
+      ],
+      "Online document editor": [
+        "Воблачны рэдактар дакументаў"
+      ],
+      "Plus": [
+        "Plus"
+      ],
+      "Recover previous file versions": [
+        "Аднаўленне папярэдніх версій файла"
+      ],
+      "Storage": [
+        "Сховішча"
+      ]
+    },
+    "Payments.plan_name": {
+      "Free": [
+        "Бясплатна"
+      ]
+    },
+    "wallet_signup_2024:app-switcher": {
+      "A safer way to hold Bitcoin": [
+        "Больш бяспечны спосаб захоўвання Bitcoin"
       ]
     }
   }

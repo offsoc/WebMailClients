@@ -7027,6 +7027,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Vi skannar den mörka webben för att kontrollera om dina ${ BRAND_NAME }-adresser eller alias har läckt och varnar dig omedelbart om vi hittar något."
+      ],
+      "Tor over VPN": [
+        "Tor över VPN"
       ]
     },
     "new_plans: feature highlight": {
@@ -8210,6 +8213,9 @@
     "Safety review": {
       "Review your account safety": [
         "Granska din kontosäkerhet"
+      ],
+      "Review account safety": [
+        "Granska kontosäkerhet"
       ]
     },
     "saml: Error": {
@@ -8636,6 +8642,9 @@
     "specialoffer: Footer": {
       "This subscription will automatically renew every 2 years at the same rate until it is canceled.": [
         "Denna prenumeration kommer förnyas automatiskt vartannat år med samma pris tills den avbryts."
+      ],
+      "Your subscription will renew at the same rate every year.": [
+        "Din prenumeration kommer att förnyas med samma pris varje år."
       ]
     },
     "specialoffer: Link": {
@@ -10323,6 +10332,15 @@
       ],
       "Bitcoin via email": [
         "Bitcoin via e-post"
+      ],
+      "Bitcoin via Email": [
+        "Bitcoin via e-post"
+      ],
+      "Encrypted and secure ${ MAIL_APP_NAME } email address. You can easily send Bitcoin to anyone with just their ${ BRAND_NAME } name.": [
+        "Krypterad och säker ${ MAIL_APP_NAME } e-postadress. Du kan enkelt skicka Bitcoin till vem som helst med bara deras ${ BRAND_NAME } namn."
+      ],
+      "Securely exchange Bitcoin via email instead of complex, 26-character Bitcoin addresses that are prone to error": [
+        "Växla Bitcoin säkert via e-post istället för komplexa, 26-teckniga Bitcoin-adresser som är benägna att ge upphov till fel"
       ]
     },
     "wallet_signup_2024:Bug category": {
@@ -10699,6 +10717,11 @@
       ],
       "Passcode:": [
         "Lösenkod:"
+      ]
+    },
+    "wallet_signup_2024:app-switcher": {
+      "A safer way to hold Bitcoin": [
+        "Ett säkrare sätt att hålla Bitcoin"
       ]
     }
   }
