@@ -37,7 +37,7 @@
         "${ BRAND_NAME } mağazası"
       ],
       "About hide-my-email aliases": [
-        "Hide-my-email takma adları hakkında"
+        "Hide-my-email takma adları ile ilgili"
       ],
       "Activate": [
         "Kullanıma al"
@@ -794,7 +794,7 @@
         "Diğer işlemler"
       ],
       "More details about ${ ariaLabelTitle }": [
-        "${ ariaLabelTitle } hakkında ayrıntılı bilgi"
+        "${ ariaLabelTitle } ile ilgili ayrıntılı bilgi"
       ],
       "More info: ${ safeTitle }": [
         "Ayrıntılı bilgi: ${ safeTitle }"
@@ -5169,7 +5169,7 @@
     },
     "Footer": {
       "${ BRAND_NAME }. Privacy by default.": [
-        "${ BRAND_NAME }. Varsayılan olarak gizlilik."
+        "${ BRAND_NAME }. Gizlilik odaklı."
       ]
     },
     "forwardmessage": {
@@ -5427,7 +5427,7 @@
     },
     "Human verification method": {
       "CAPTCHA": [
-        "CAPTCHA"
+        "Güvenlik kodu"
       ],
       "Email": [
         "E-posta"
@@ -6688,7 +6688,7 @@
         "Ayrıntılı bilgi alın"
       ],
       "Learn more about the writing assistant": [
-        "Yazma yardımcısı hakkında ayrıntılı bilgi alın"
+        "Yazma yardımcısı ile ilgili ayrıntılı bilgi alın"
       ],
       "Left to Right": [
         "Soldan sağa"
@@ -7887,7 +7887,7 @@
     },
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
-        "Nakit ödemenin nasıl yapılacağı hakkında bilgi almak için bizimle ${ email } adresinden görüşün."
+        "Nakit ödemenin nasıl yapılacağı ile ilgili bilgi almak için bizimle ${ email } adresinden görüşün."
       ]
     },
     "Info on errors": {
@@ -9767,7 +9767,7 @@
         "Tek oturum açma bütünleştirmesi (yakında)"
       ],
       "Strict no-logs policy": [
-        "Sıkı kayıt tutmama ilkesi"
+        "Katı kayıt tutmama ilkesi"
       ],
       "Support for up to 2 users": [
         "2 kullanıcıya kadar destek"
@@ -9852,6 +9852,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "${ BRAND_NAME } adreslerinizin veya takma adlarınızın sızıp sızmadığını kontrol etmek için karanlık ağı tararız ve herhangi bir şey bulursak sizi hemen uyarırız."
+      ],
+      "Tor over VPN": [
+        "VPN üzerinden Tor"
       ]
     },
     "new_plans: feature highlight": {
@@ -10806,6 +10809,9 @@
       ],
       "Street address, postal code, and city": [
         "Sokak adresi, posta kodu ve il"
+      ],
+      "By confirming this payment, you authorize ${ BRAND_NAME } and Stripe, our payment service provider, to instruct your bank to debit your account accordingly. You can get a refund within 8 weeks from the debit date, under the conditions of your agreement with your bank.": [
+        "Bu ödemeyi onayladığınızda, bankanıza ${ BRAND_NAME } ve ödeme hizmeti sağlayıcımız Stripe hizmetine hesabınızdan ödeme alma yetkisi verirsiniz. Bankanızla yaptığınız anlaşmanın koşullarına bağlı olarak, ödemenin yapıldığı tarihten başlayan 8 hafta içinde iade isteğinde bulunabilirsiniz."
       ]
     },
     "PGP key encryption warning": {
@@ -11123,6 +11129,9 @@
     "Safety review": {
       "Review your account safety": [
         "Hesabınızın güvenliğini değerlendirin"
+      ],
+      "Review account safety": [
+        "Hesap güvenliğini gözden geçirin"
       ]
     },
     "saml: Error": {
@@ -12237,7 +12246,7 @@
         "Ayrıntılı bilgi alın"
       ],
       "Learn more about our impact": [
-        "Yarattığımız etki hakkında ayrıntılı bilgi alın"
+        "Yarattığımız etki ile ilgili bilgi alın"
       ],
       "Limitations of the free plan:": [
         "Free tarife sınırları:"
@@ -13852,6 +13861,19 @@
       ],
       "Bitcoin via email": [
         "E-posta ile Bitcoin"
+      ],
+      "${ n } ${ BRAND_NAME } email address": [
+        "${ n } ${ BRAND_NAME } e-posta adresi",
+        "${ n } ${ BRAND_NAME } e-posta adresi"
+      ],
+      "Bitcoin via Email": [
+        "E-posta ile Bitcoin"
+      ],
+      "Encrypted and secure ${ MAIL_APP_NAME } email address. You can easily send Bitcoin to anyone with just their ${ BRAND_NAME } name.": [
+        "Şifrelenmiş ve güvenli ${ MAIL_APP_NAME } e-posta adresi. Yalnızca ${ BRAND_NAME } adını kullanarak birine kolayca Bitcoin gönderebilirsiniz."
+      ],
+      "Securely exchange Bitcoin via email instead of complex, 26-character Bitcoin addresses that are prone to error": [
+        "Aktarım sırasında hata yapmaya açık olan 26 karakter uzunluğundaki karmaşık Bitcoin adreslerini kullanmak yerine, E-posta ile Bitcoin özelliğini kullanarak güvenli bir şekilde Bitcoin alışverişi yapabilirsiniz"
       ]
     },
     "wallet_signup_2024:Action": {
@@ -13861,7 +13883,7 @@
     },
     "wallet_signup_2024:app-switcher": {
       "A safer way to hold Bitcoin": [
-        "Bitcoin saklamak için daha güvenli bir yol"
+        "Bitcoin birikimlerinizi saklamanın daha güvenli bir yolu"
       ]
     },
     "wallet_signup_2024:Bug category": {

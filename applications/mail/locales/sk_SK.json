@@ -1469,6 +1469,12 @@
       ],
       "Zoom out": [
         "Oddialiť"
+      ],
+      "Get the app": [
+        "Získajte aplikáciu"
+      ],
+      "Hide my email": [
+        "Hide my email"
       ]
     },
     "action": {
@@ -1971,6 +1977,9 @@
       ],
       "Take a tour": [
         "Absolvujte prehliadku"
+      ],
+      "Got it": [
+        "Rozumiem"
       ]
     },
     "Calendar attachment tooltip": {
@@ -2700,6 +2709,9 @@
       ],
       "Work": [
         "Práca"
+      ],
+      "Yomi": [
+        "Yomi"
       ]
     },
     "Country name": {
@@ -5501,6 +5513,12 @@
       ],
       "No verification method available": [
         "Nie sú k dispozícii žiadne metódy overovania"
+      ],
+      "CAPTCHA": [
+        "CAPTCHA"
+      ],
+      "SMS": [
+        "SMS"
       ]
     },
     "ICS event error": {
@@ -5804,6 +5822,9 @@
       ],
       "ICS file": [
         "Súbor ICS"
+      ],
+      "Yahoo": [
+        "Yahoo"
       ]
     },
     "Import instructions step": {
@@ -8170,6 +8191,9 @@
       ],
       "Trusted": [
         "Dôveryhodný"
+      ],
+      "WKD": [
+        "WKD"
       ]
     },
     "Key pinning": {
@@ -10157,6 +10181,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Skenujeme temný web a kontrolujeme, či nedošlo k úniku vašich adries alebo aliasov ${ BRAND_NAME }, a ak niečo nájdeme, okamžite vás upozorníme."
+      ],
+      "Tor over VPN": [
+        "Tor cez VPN"
       ]
     },
     "new_plans: feature highlight": {
@@ -10694,6 +10721,12 @@
       ],
       "Storage": [
         "Úložisko"
+      ],
+      "Online document editor": [
+        "Online editor dokumentov"
+      ],
+      "Recover previous file versions": [
+        "Obnova predchádzajúcich verzií súborov"
       ]
     },
     "Onboarding List Placeholder": {
@@ -11114,6 +11147,9 @@
       ],
       "Street address, postal code, and city": [
         "Ulica, PSČ a mesto"
+      ],
+      "By confirming this payment, you authorize ${ BRAND_NAME } and Stripe, our payment service provider, to instruct your bank to debit your account accordingly. You can get a refund within 8 weeks from the debit date, under the conditions of your agreement with your bank.": [
+        "Potvrdením tejto platby oprávňujete ${ BRAND_NAME } a spoločnosť Stripe, nášho poskytovateľa platobných služieb, aby dali vašej banke pokyn na odpísanie prostriedkov z vášho účtu. Peniaze vám môžu byť vrátené do 8 týždňov od dátumu odpísania z účtu za podmienok stanovených v zmluve s vašou bankou."
       ]
     },
     "PGP key encryption warning": {
@@ -11439,6 +11475,9 @@
     "Safety review": {
       "Review your account safety": [
         "Skontrolujte bezpečnosť svojho účtu"
+      ],
+      "Review account safety": [
+        "Skontrolujte bezpečnosť účtu"
       ]
     },
     "saml: Error": {
@@ -14346,6 +14385,21 @@
       ],
       "Bitcoin via email": [
         "Bitcoin cez email"
+      ],
+      "${ n } ${ BRAND_NAME } email address": [
+        "${ n } ${ BRAND_NAME } emailová adresa",
+        "${ n } ${ BRAND_NAME } emailové adresy",
+        "${ n } ${ BRAND_NAME } emailových adries",
+        "${ n } ${ BRAND_NAME } emailových adries"
+      ],
+      "Bitcoin via Email": [
+        "Bitcoin cez email"
+      ],
+      "Encrypted and secure ${ MAIL_APP_NAME } email address. You can easily send Bitcoin to anyone with just their ${ BRAND_NAME } name.": [
+        "Zašifrovaná a bezpečná emailová adresa ${ MAIL_APP_NAME }. Môžete jednoducho odoslať Bitcoin komukoľvek len s ich ${ BRAND_NAME } menom."
+      ],
+      "Securely exchange Bitcoin via email instead of complex, 26-character Bitcoin addresses that are prone to error": [
+        "Bezpečne vymieňajte Bitcoin prostredníctvom emailu namiesto zložitých, 26-znakových bitcoinových adries, ktoré sú náchylné na chybu"
       ]
     },
     "wallet_signup_2024:Action": {
@@ -14803,6 +14857,21 @@
       ],
       "Passcode:": [
         "Prístupový kód:"
+      ]
+    },
+    "Footer": {
+      "${ BRAND_NAME }. Privacy by default.": [
+        "${ BRAND_NAME }. Privacy by default."
+      ]
+    },
+    "Payments.plan_name": {
+      "Free": [
+        "Zdarma"
+      ]
+    },
+    "wallet_signup_2024:app-switcher": {
+      "A safer way to hold Bitcoin": [
+        "Bezpečnejší spôsob ako vlastniť Bitcoin"
       ]
     }
   }

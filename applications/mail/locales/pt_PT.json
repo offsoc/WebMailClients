@@ -1459,6 +1459,12 @@
       ],
       "Zoom out": [
         "Reduzir"
+      ],
+      "Get the app": [
+        "Obter a aplicação"
+      ],
+      "Hide my email": [
+        "Hide-my-email"
       ]
     },
     "action": {
@@ -2677,6 +2683,9 @@
       ],
       "Work": [
         "Trabalho"
+      ],
+      "Yomi": [
+        "Yomi"
       ]
     },
     "Country name": {
@@ -4292,7 +4301,7 @@
         "Selecione um país"
       ],
       "Please select a state": [
-        "Selecione um estado"
+        "Selecione um distrito"
       ],
       "Please try again or refresh the page.": [
         "Tente novamente ou atualize a página."
@@ -5420,6 +5429,12 @@
       ],
       "No verification method available": [
         "Nenhum método de verificação disponível"
+      ],
+      "CAPTCHA": [
+        "CAPTCHA"
+      ],
+      "SMS": [
+        "SMS"
       ]
     },
     "ICS event error": {
@@ -5709,6 +5724,9 @@
       ],
       "ICS file": [
         "Ficheiro ICS"
+      ],
+      "Yahoo": [
+        "Yahoo"
       ]
     },
     "Import instructions step": {
@@ -7905,6 +7923,9 @@
       ],
       "Trusted": [
         "Confiada"
+      ],
+      "WKD": [
+        "WKD"
       ]
     },
     "Key pinning": {
@@ -9826,6 +9847,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Nós analisamos a dark web para verificar se os seus endereços ou aliases ${ BRAND_NAME } foram vazados e alertamo-lo imediatamente se encontrarmos algo."
+      ],
+      "Tor over VPN": [
+        "Tor sobre VPN"
       ]
     },
     "new_plans: feature highlight": {
@@ -10355,6 +10379,12 @@
       ],
       "Storage": [
         "Armazenamento"
+      ],
+      "Online document editor": [
+        "Editor de documentos online"
+      ],
+      "Recover previous file versions": [
+        "Recuperar as versões anteriores do ficheiro"
       ]
     },
     "Onboarding List Placeholder": {
@@ -10769,6 +10799,9 @@
       ],
       "Street address, postal code, and city": [
         "Endereço, código postal e cidade"
+      ],
+      "By confirming this payment, you authorize ${ BRAND_NAME } and Stripe, our payment service provider, to instruct your bank to debit your account accordingly. You can get a refund within 8 weeks from the debit date, under the conditions of your agreement with your bank.": [
+        "Ao confirmar este pagamento, autoriza o ${ BRAND_NAME } e a Stripe, o nosso provedor de serviços de pagamento, a instruir o seu banco a debitar a sua conta. Poderá receber um reembolso dentro de 8 semanas a partir da data de débito, conforme as condições do seu acordo com o seu banco."
       ]
     },
     "PGP key encryption warning": {
@@ -11085,6 +11118,9 @@
     },
     "Safety review": {
       "Review your account safety": [
+        "Verifique a segurança da sua conta"
+      ],
+      "Review account safety": [
         "Verifique a segurança da sua conta"
       ]
     },
@@ -13815,6 +13851,19 @@
       ],
       "Bitcoin via email": [
         "Bitcoin via e-mail"
+      ],
+      "${ n } ${ BRAND_NAME } email address": [
+        "${ n } endereço de e-mail da ${ BRAND_NAME }",
+        "${ n } endereços de e-mail da ${ BRAND_NAME }"
+      ],
+      "Bitcoin via Email": [
+        "Bitcoin via e-mail"
+      ],
+      "Encrypted and secure ${ MAIL_APP_NAME } email address. You can easily send Bitcoin to anyone with just their ${ BRAND_NAME } name.": [
+        "Endereço de e-mail encriptada e seguro do ${ MAIL_APP_NAME }. Você pode enviar Bitcoin facilmente para qualquer pessoa apenas com o nome ${ BRAND_NAME }."
+      ],
+      "Securely exchange Bitcoin via email instead of complex, 26-character Bitcoin addresses that are prone to error": [
+        "Troque Bitcoin com segurança via e-mail em vez de endereços de Bitcoin complexos de 26 caracteres que são propensos a erro"
       ]
     },
     "wallet_signup_2024:Action": {
@@ -14203,6 +14252,21 @@
       ],
       "Passcode:": [
         "Código de acesso:"
+      ]
+    },
+    "Footer": {
+      "${ BRAND_NAME }. Privacy by default.": [
+        "${ BRAND_NAME }. Privacy by default."
+      ]
+    },
+    "Payments.plan_name": {
+      "Free": [
+        "Free"
+      ]
+    },
+    "wallet_signup_2024:app-switcher": {
+      "A safer way to hold Bitcoin": [
+        "Uma maneira mais segura de conservar bitcoins"
       ]
     }
   }

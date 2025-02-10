@@ -1464,6 +1464,12 @@
       ],
       "Zoom out": [
         "Micșorare"
+      ],
+      "Get the app": [
+        "Luați aplicația"
+      ],
+      "Hide my email": [
+        "Hide-my-email"
       ]
     },
     "action": {
@@ -1960,6 +1966,9 @@
       ],
       "Take a tour": [
         "Faceți un tur"
+      ],
+      "Got it": [
+        "Am înțeles"
       ]
     },
     "Calendar attachment tooltip": {
@@ -2687,6 +2696,9 @@
       ],
       "Work": [
         "Serviciu"
+      ],
+      "Yomi": [
+        "Yomi"
       ]
     },
     "Country name": {
@@ -5459,6 +5471,12 @@
       ],
       "No verification method available": [
         "Nu sunt metode de verificare disponibile"
+      ],
+      "CAPTCHA": [
+        "CAPTCHA"
+      ],
+      "SMS": [
+        "SMS"
       ]
     },
     "ICS event error": {
@@ -5755,6 +5773,9 @@
       ],
       "ICS file": [
         "fișier ICS"
+      ],
+      "Yahoo": [
+        "Yahoo"
       ]
     },
     "Import instructions step": {
@@ -8036,6 +8057,9 @@
       ],
       "Trusted": [
         "Aprobată"
+      ],
+      "WKD": [
+        "WKD"
       ]
     },
     "Key pinning": {
@@ -9990,6 +10014,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Scanăm internetul ascuns pentru a verifica dacă adresele sau aliasurile ${ BRAND_NAME } v-au fost divulgate și vă avertizăm imediat dacă găsim ceva."
+      ],
+      "Tor over VPN": [
+        "Tor prin VPN"
       ]
     },
     "new_plans: feature highlight": {
@@ -10523,6 +10550,12 @@
       ],
       "Storage": [
         "Spațiu de stocare"
+      ],
+      "Online document editor": [
+        "Editor online de documente"
+      ],
+      "Recover previous file versions": [
+        "Recuperați versiunile anterioare ale fișierului"
       ]
     },
     "Onboarding List Placeholder": {
@@ -10940,6 +10973,9 @@
       ],
       "Street address, postal code, and city": [
         "Strada, cod poștal și oraș"
+      ],
+      "By confirming this payment, you authorize ${ BRAND_NAME } and Stripe, our payment service provider, to instruct your bank to debit your account accordingly. You can get a refund within 8 weeks from the debit date, under the conditions of your agreement with your bank.": [
+        "Confirmând această plată, autorizați ${ BRAND_NAME } și Stripe, furnizorul nostru de servicii de plată, să solicite băncii să vă debiteze contul în consecință. Puteți obține o rambursare în termen de 8 săptămâni de la data debitului, în condițiile acordului pe care îl aveți cu banca."
       ]
     },
     "PGP key encryption warning": {
@@ -11260,6 +11296,9 @@
     },
     "Safety review": {
       "Review your account safety": [
+        "Revizuire securitate cont"
+      ],
+      "Review account safety": [
         "Revizuire securitate cont"
       ]
     },
@@ -11818,7 +11857,7 @@
         "Abonamentul se va reînnoi în mod automat peste 2 ani, la același preț, până când este anulat."
       ],
       "Your subscription will renew at the same rate every year.": [
-        "Abonamentul dumneavoastră se va reînnoi la același tarif în fiecare an."
+        "Abonamentul vi se va reînnoi la același tarif în fiecare an."
       ]
     },
     "specialoffer: Link": {
@@ -14032,12 +14071,17 @@
         "Vi se va emite factura la fiecare 12 luni cu ${ renewPrice }."
       ],
       "Your scheduled plan starts on ${ renewalTime }.": [
-        "Planul tău programat începe pe ${ renewalTime }."
+        "Planul programat începe ${ renewalTime }."
       ],
       "Your subscription will automatically renew in ${ cycle } month.": [
         "Abonamentul vi se va reînnoi automat peste ${ cycle } lună.",
         "Abonamentul vi se va reînnoi automat peste ${ cycle } luni.",
         "Abonamentul vi se va reînnoi automat peste ${ cycle } de luni."
+      ],
+      "Your new subscription will automatically renew in ${ cycle } month.": [
+        "Noul abonament vi se va reînnoi automat peste ${ cycle } lună.",
+        "Noul abonament vi se va reînnoi automat peste ${ cycle } luni.",
+        "Noul abonament vi se va reînnoi automat peste ${ cycle } de luni."
       ]
     },
     "vpn_2step: feature": {
@@ -14074,6 +14118,20 @@
       ],
       "Bitcoin via email": [
         "Bitcoin prin e-mail"
+      ],
+      "${ n } ${ BRAND_NAME } email address": [
+        "${ n } adresă de e-mail ${ BRAND_NAME }",
+        "${ n } adrese de e-mail ${ BRAND_NAME }",
+        "${ n } de adrese de e-mail ${ BRAND_NAME }"
+      ],
+      "Bitcoin via Email": [
+        "Bitcoin prin e-mail"
+      ],
+      "Encrypted and secure ${ MAIL_APP_NAME } email address. You can easily send Bitcoin to anyone with just their ${ BRAND_NAME } name.": [
+        "Adresă de e-mail ${ MAIL_APP_NAME } criptată și sigură. Puteți trimite cu ușurință Bitcoin oricui doar cu numele ${ BRAND_NAME }."
+      ],
+      "Securely exchange Bitcoin via email instead of complex, 26-character Bitcoin addresses that are prone to error": [
+        "Schimbați în siguranță Bitcoin prin e-mail, în loc de adrese Bitcoin complexe, de 26 de caractere, care sunt predispuse la eroare"
       ]
     },
     "wallet_signup_2024:Action": {
@@ -14499,6 +14557,21 @@
       ],
       "Passcode:": [
         "Cod de acces:"
+      ]
+    },
+    "Footer": {
+      "${ BRAND_NAME }. Privacy by default.": [
+        "${ BRAND_NAME }. Confidențialitate implicită."
+      ]
+    },
+    "Payments.plan_name": {
+      "Free": [
+        "Free"
+      ]
+    },
+    "wallet_signup_2024:app-switcher": {
+      "A safer way to hold Bitcoin": [
+        "Un mod mai sigur de a deține bitcoin"
       ]
     }
   }

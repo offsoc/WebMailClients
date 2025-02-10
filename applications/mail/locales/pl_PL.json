@@ -2685,6 +2685,9 @@
       ],
       "Work": [
         "Służbowy"
+      ],
+      "Yomi": [
+        "Yomi"
       ]
     },
     "Country name": {
@@ -5783,6 +5786,9 @@
       ],
       "ICS file": [
         "pliku ICS"
+      ],
+      "Yahoo": [
+        "Yahoo"
       ]
     },
     "Import instructions step": {
@@ -8056,6 +8062,9 @@
       ],
       "Trusted": [
         "Zaufany"
+      ],
+      "WKD": [
+        "WKD"
       ]
     },
     "Key pinning": {
@@ -10663,6 +10672,9 @@
       ],
       "You are all set!": [
         "Wszystko gotowe!"
+      ],
+      "For anytime access to email and optimized mobile experience, download our ${ mobileAppAppStoreLink } or ${ mobileAppGooglePlayLink } app.": [
+        "Uzyskaj dostęp do poczty e-mail w dowolnym momencie i zoptymalizuj korzystanie z urządzeń mobilnych, pobierz naszą aplikację ${ mobileAppAppStoreLink } lub ${ mobileAppGooglePlayLink }."
       ]
     },
     "Onboarding Proton": {
@@ -14143,6 +14155,15 @@
       ],
       "Bitcoin via email": [
         "Bitcoin na adres e-mail"
+      ],
+      "Bitcoin via Email": [
+        "Bitcoin na adres e-mail"
+      ],
+      "Encrypted and secure ${ MAIL_APP_NAME } email address. You can easily send Bitcoin to anyone with just their ${ BRAND_NAME } name.": [
+        "Zaszyfrowany i bezpieczny ${ MAIL_APP_NAME } adres e-mail. Możesz z łatwością wysłać Bitcoin każdemu, używając wyłącznie nazwy ${ BRAND_NAME }."
+      ],
+      "Securely exchange Bitcoin via email instead of complex, 26-character Bitcoin addresses that are prone to error": [
+        "Wymieniaj bezpiecznie Bitcoin przez e-mail, zamiast skomplikowanych, 26-znakowych adresów Bitcoin, które są podatne na błąd"
       ]
     },
     "wallet_signup_2024:Action": {
@@ -14600,6 +14621,11 @@
       ],
       "Passcode:": [
         "Kod dostępu:"
+      ]
+    },
+    "wallet_signup_2024:app-switcher": {
+      "A safer way to hold Bitcoin": [
+        "Bezpieczniejszy sposób na przechowywanie Bitcoinów"
       ]
     }
   }
