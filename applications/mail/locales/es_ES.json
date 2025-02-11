@@ -1958,6 +1958,9 @@
       ],
       "Take a tour": [
         "Hacer el recorrido"
+      ],
+      "Close": [
+        "Cerrar"
       ]
     },
     "Calendar attachment tooltip": {
@@ -9984,6 +9987,12 @@
       ],
       "Unlock all ${ BRAND_NAME } premium products and features for just ${ priceMailPlus }. Cancel anytime.": [
         "Desbloquea todos los productos y funciones premium de ${ BRAND_NAME } por solo ${ priceMailPlus }. Cancela en cualquier momento."
+      ],
+      "The discounted price of ${ priceCoupon } is valid for the first month. Then it will automatically be renewed at ${ priceLine }. You can cancel at any time.": [
+        "El precio con descuento de ${ priceCoupon } es válido durante el primer mes. Luego se renovará automáticamente a ${ priceLine }. Puedes cancelar en cualquier momento."
+      ],
+      "Unlock all ${ BRAND_NAME } premium products and features for just ${ priceLine }. Cancel anytime.": [
+        "Desbloquea todos los productos y funciones premium de ${ BRAND_NAME } por solo ${ priceLine }. Cancela en cualquier momento."
       ]
     },
     "new_plans: title": {

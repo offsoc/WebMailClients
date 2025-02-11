@@ -1958,6 +1958,9 @@
       ],
       "Take a tour": [
         "Faça um tour"
+      ],
+      "Close": [
+        "Fechar"
       ]
     },
     "Calendar attachment tooltip": {
@@ -9984,6 +9987,12 @@
       ],
       "Unlock all ${ BRAND_NAME } premium products and features for just ${ priceMailPlus }. Cancel anytime.": [
         "Desbloqueie todos os produtos e recursos premium da ${ BRAND_NAME } por apenas ${ priceMailPlus }. Cancele a qualquer momento."
+      ],
+      "The discounted price of ${ priceCoupon } is valid for the first month. Then it will automatically be renewed at ${ priceLine }. You can cancel at any time.": [
+        "O preço com desconto de ${ priceCoupon } é válido no primeiro mês. Em seguida, será renovado automaticamente por ${ priceLine } meses. Você pode cancelar a qualquer momento."
+      ],
+      "Unlock all ${ BRAND_NAME } premium products and features for just ${ priceLine }. Cancel anytime.": [
+        "Desbloqueie todos os produtos e recursos premium da ${ BRAND_NAME } por apenas ${ priceLine }. Cancele a qualquer momento."
       ]
     },
     "new_plans: title": {
@@ -12857,7 +12866,7 @@
         "Baixar aplicativo para computador"
       ],
       "Enable ${ DARK_WEB_MONITORING_NAME }": [
-        "Ative o ${ DARK_WEB_MONITORING_NAME }"
+        "Ativar ${ DARK_WEB_MONITORING_NAME }"
       ],
       "Get my “@${ PM_DOMAIN }“ address": [
         "Obter meu endereço “@${ PM_DOMAIN }“"

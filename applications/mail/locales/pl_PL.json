@@ -1463,6 +1463,9 @@
       ],
       "Zoom out": [
         "Pomniejsz"
+      ],
+      "Get ${ planName } for ${ priceCoupon }": [
+        "Wybierz plan ${ planName } za ${ priceCoupon }"
       ]
     },
     "action": {
@@ -1949,13 +1952,19 @@
         "Dalej"
       ],
       "Remind me later": [
-        "Przypomnij mi później"
+        "Przypomnij później"
       ],
       "Set up other features": [
         "Skonfiguruj inne funkcje"
       ],
       "Take a tour": [
         "Otwórz przewodnik"
+      ],
+      "Close": [
+        "Zamknij"
+      ],
+      "Got it": [
+        "Ok"
       ]
     },
     "Calendar attachment tooltip": {
@@ -4791,7 +4800,7 @@
     },
     "Event invistation error": {
       "Unexpected error": [
-        "Niespodziewany błąd"
+        "Wystąpił nieoczekiwany błąd"
       ]
     },
     "Event invitation error": {
@@ -5486,6 +5495,12 @@
       ],
       "No verification method available": [
         "Brak dostępnych metod weryfikacji"
+      ],
+      "CAPTCHA": [
+        "CAPTCHA"
+      ],
+      "SMS": [
+        "SMS"
       ]
     },
     "ICS event error": {
@@ -6576,7 +6591,7 @@
         "osadzonych obrazów"
       ],
       "Enabling auto-deletion…": [
-        "Włącz automatyczne usuwanie..."
+        "Włączanie automatycznego usuwania…"
       ],
       "Encrypt message": [
         "Zaszyfruj wiadomość"
@@ -7143,7 +7158,7 @@
         "Odświeżenie strony lub ${ link } rozwiąże automatycznie większość problemów."
       ],
       "Registering your subscription…": [
-        "Rejestrowanie subskrypcji..."
+        "Rejestrowanie subskrypcji…"
       ],
       "Remember to update this in your password manager or wherever you keep your account and login information.": [
         "Pamiętaj, aby zaktualizować adres w menedżerze haseł lub miejscu, gdzie przechowujesz swoje konto i dane logowania."
@@ -7239,7 +7254,7 @@
         "Wysłano z bezpiecznej poczty e-mail <a href=\"${ link }\" target=\"_blank\">${ APPS_CONFIGURATION[APPS.PROTONMAIL].name }</a>."
       ],
       "SEPA payments are not available at the moment. Please try again later.": [
-        "Płatności SEPA nie są w tej chwili dostępne. Spróbuj ponownie później."
+        "Płatności SEPA nie są obecnie dostępne. Spróbuj ponownie później."
       ],
       "Servers are unreachable. Please try again in a few minutes": [
         "Serwery są nieosiągalne. Spróbuj ponownie za kilka minut"
@@ -7521,7 +7536,7 @@
         "Aby odzyskać dane, musisz reaktywować klucz konta użyty podczas jego tworzenia. Wymaga to znajomości hasła użytego podczas generowania klucza."
       ],
       "To remove restrictions, you can upgrade to a paid plan.": [
-        "Aby usunąć ograniczenia, można przejść na płatny plan."
+        "Ulepsz do płatnego planu, aby usunąć ograniczenia."
       ],
       "To unsubscribe from this mailing list, an email will be sent from ${ boldFrom } with following details as defined by the sender of the newsletter:": [
         "W celu anulowania subskrypcji tej listy mailingowej zostanie wysłana wiadomość z adresu ${ boldFrom } wraz z następującymi szczegółami:"
@@ -7999,6 +8014,9 @@
       ],
       "Your private writing assistant": [
         "Twój prywatny asystent pisania"
+      ],
+      "Setting up ${ feature }…": [
+        "Konfigurowanie ${ feature }…"
       ]
     },
     "info": {
@@ -10046,6 +10064,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Skanujemy dark web, aby sprawdzić, czy adresy lub aliasy ${ BRAND_NAME } zostały ujawnione. W przypadku wycieku danych zostaniesz powiadomiony."
+      ],
+      "Tor over VPN": [
+        "Tor przez VPN"
       ]
     },
     "new_plans: feature highlight": {
@@ -13945,6 +13966,12 @@
       ],
       "Your shorter address is now ready": [
         "Krótszy adres jest już gotowy"
+      ],
+      "${ feature } is now active": [
+        "Funkcja ${ feature } jest aktywna"
+      ],
+      "Set up ${ protonDuoPlanName }": [
+        "Skonfiguruj ${ protonDuoPlanName }"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14116,6 +14143,12 @@
         "Subskrypcja zostanie automatycznie odnowiona za ${ cycle } miesiące.",
         "Subskrypcja zostanie automatycznie odnowiona za ${ cycle } miesięcy.",
         "Subskrypcja zostanie automatycznie odnowiona za ${ cycle } miesiąca."
+      ],
+      "Your new subscription will automatically renew in ${ cycle } month.": [
+        "Nowa subskrypcja zostanie automatycznie odnowiona za ${ cycle } miesiąc.",
+        "Nowa subskrypcja zostanie automatycznie odnowiona za ${ cycle } miesiące.",
+        "Nowa subskrypcja zostanie automatycznie odnowiona za ${ cycle } miesięcy.",
+        "Nowa subskrypcja zostanie automatycznie odnowiona za ${ cycle } miesiąca."
       ]
     },
     "vpn_2step: feature": {
@@ -14626,6 +14659,11 @@
     "wallet_signup_2024:app-switcher": {
       "A safer way to hold Bitcoin": [
         "Bezpieczniejszy sposób na przechowywanie Bitcoinów"
+      ]
+    },
+    "new_plans: Subtext": {
+      "Unlock all ${ BRAND_NAME } premium products and features for just ${ priceLine }. Cancel anytime.": [
+        "Odblokuj wszystkie usługi i funkcje premium ${ BRAND_NAME } za ${ priceLine }. Anuluj w dowolnym momencie."
       ]
     }
   }
