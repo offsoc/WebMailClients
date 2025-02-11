@@ -1252,6 +1252,9 @@
       ],
       "Take a tour": [
         "Hacer el recorrido"
+      ],
+      "Close": [
+        "Cerrar"
       ]
     },
     "Calendar access select label": {
@@ -7156,6 +7159,12 @@
       ],
       "Unlock all ${ BRAND_NAME } premium products and features for just ${ priceMailPlus }. Cancel anytime.": [
         "Desbloquea todos los productos y funciones premium de ${ BRAND_NAME } por solo ${ priceMailPlus }. Cancela en cualquier momento."
+      ],
+      "The discounted price of ${ priceCoupon } is valid for the first month. Then it will automatically be renewed at ${ priceLine }. You can cancel at any time.": [
+        "El precio con descuento de ${ priceCoupon } es válido durante el primer mes. Luego se renovará automáticamente a ${ priceLine }. Puedes cancelar en cualquier momento."
+      ],
+      "Unlock all ${ BRAND_NAME } premium products and features for just ${ priceLine }. Cancel anytime.": [
+        "Desbloquea todos los productos y funciones premium de ${ BRAND_NAME } por solo ${ priceLine }. Cancela en cualquier momento."
       ]
     },
     "new_plans: title": {
@@ -10830,6 +10839,20 @@
       ],
       "for ${ durationDeal }": [
         "por ${ durationDeal }"
+      ]
+    },
+    "Valentine_2025": {
+      "+ free gift": [
+        "+ regalo gratuito"
+      ],
+      "A gift code for ${ discountPercentAbsolute }% off ${ planTitle } for 1 year": [
+        "Un código de regalo para obtener ${ discountPercentAbsolute }% de descuento en ${ planTitle } por 1 año"
+      ],
+      "Valentine's deal": [
+        "Oferta de San Valentín"
+      ],
+      "🎁 Your free gift to share, valued at ${ price }﻿: ": [
+        "🎁 Tu regalo gratuito para compartir, valorado en ${ price }﻿: "
       ]
     }
   }

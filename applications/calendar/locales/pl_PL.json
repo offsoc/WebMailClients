@@ -811,6 +811,9 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Darmowa wersja próbna aplikacji desktopowej zakończy się ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Get ${ planName } for ${ priceCoupon }": [
+        "Wybierz plan ${ planName } za ${ priceCoupon }"
       ]
     },
     "Action subline": {
@@ -1250,13 +1253,16 @@
         "Utwórz etykietę"
       ],
       "Remind me later": [
-        "Przypomnij mi później"
+        "Przypomnij później"
       ],
       "Set up other features": [
         "Skonfiguruj inne funkcje"
       ],
       "Take a tour": [
         "Otwórz przewodnik"
+      ],
+      "Close": [
+        "Zamknij"
       ]
     },
     "Calendar access select label": {
@@ -3668,7 +3674,7 @@
     },
     "Event invistation error": {
       "Unexpected error": [
-        "Niespodziewany błąd"
+        "Wystąpił nieoczekiwany błąd"
       ]
     },
     "Event invitation error": {
@@ -4061,6 +4067,12 @@
       ],
       "No verification method available": [
         "Brak dostępnych metod weryfikacji"
+      ],
+      "CAPTCHA": [
+        "CAPTCHA"
+      ],
+      "SMS": [
+        "SMS"
       ]
     },
     "ICS event error": {
@@ -4790,7 +4802,7 @@
         "Wiadomości są automatyczne podpisywane"
       ],
       "Enabling auto-deletion…": [
-        "Włącz automatyczne usuwanie..."
+        "Włączanie automatycznego usuwania…"
       ],
       "Enter the code from your authenticator app": [
         "Wpisz kod z aplikacji uwierzytelniającej"
@@ -5117,7 +5129,7 @@
         "Odświeżenie strony lub ${ link } rozwiąże automatycznie większość problemów."
       ],
       "Registering your subscription…": [
-        "Rejestrowanie subskrypcji..."
+        "Rejestrowanie subskrypcji…"
       ],
       "Removed participants will be notified.": [
         "Usunięci uczestnicy zostaną powiadomieni."
@@ -5141,7 +5153,7 @@
         "Wybierz, które kalendarze chcesz zaimportować. Dla każdego importowanego kalendarza zostanie utworzony nowy kalendarz, aż do osiągnięcia limitu kalendarzy dostępnych w Twoim planie."
       ],
       "SEPA payments are not available at the moment. Please try again later.": [
-        "Płatności SEPA nie są w tej chwili dostępne. Spróbuj ponownie później."
+        "Płatności SEPA nie są obecnie dostępne. Spróbuj ponownie później."
       ],
       "Servers are unreachable. Please try again in a few minutes": [
         "Serwery są nieosiągalne. Spróbuj ponownie za kilka minut"
@@ -5544,6 +5556,9 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Twoja strefa czasowa w systemie zmieniła się na ${ timezone }. Czy chcesz zaktualizować ustawienia strefy czasowej?"
+      ],
+      "Setting up ${ feature }…": [
+        "Konfigurowanie ${ feature }…"
       ]
     },
     "info": {
@@ -7183,6 +7198,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Skanujemy dark web, aby sprawdzić, czy adresy lub aliasy ${ BRAND_NAME } zostały ujawnione. W przypadku wycieku danych zostaniesz powiadomiony."
+      ],
+      "Tor over VPN": [
+        "Tor przez VPN"
       ]
     },
     "new_plans: feature highlight": {
@@ -10389,6 +10407,9 @@
       ],
       "Your shorter address is now ready": [
         "Krótszy adres jest już gotowy"
+      ],
+      "${ feature } is now active": [
+        "Funkcja ${ feature } jest aktywna"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10563,6 +10584,12 @@
         "Subskrypcja zostanie automatycznie odnowiona za ${ cycle } miesiące.",
         "Subskrypcja zostanie automatycznie odnowiona za ${ cycle } miesięcy.",
         "Subskrypcja zostanie automatycznie odnowiona za ${ cycle } miesiąca."
+      ],
+      "Your new subscription will automatically renew in ${ cycle } month.": [
+        "Nowa subskrypcja zostanie automatycznie odnowiona za ${ cycle } miesiąc.",
+        "Nowa subskrypcja zostanie automatycznie odnowiona za ${ cycle } miesiące.",
+        "Nowa subskrypcja zostanie automatycznie odnowiona za ${ cycle } miesięcy.",
+        "Nowa subskrypcja zostanie automatycznie odnowiona za ${ cycle } miesiąca."
       ]
     },
     "vpn_2step: feature": {
@@ -11165,6 +11192,25 @@
     "wallet_signup_2024:app-switcher": {
       "A safer way to hold Bitcoin": [
         "Bezpieczniejszy sposób na przechowywanie Bitcoinów"
+      ]
+    },
+    "new_plans: Subtext": {
+      "Unlock all ${ BRAND_NAME } premium products and features for just ${ priceLine }. Cancel anytime.": [
+        "Odblokuj wszystkie usługi i funkcje premium ${ BRAND_NAME } za ${ priceLine }. Anuluj w dowolnym momencie."
+      ]
+    },
+    "Valentine_2025": {
+      "+ free gift": [
+        "+ darmowy prezent"
+      ],
+      "A gift code for ${ discountPercentAbsolute }% off ${ planTitle } for 1 year": [
+        "Kod podarunkowy na ${ discountPercentAbsolute }% zniżki na ${ planTitle } na 1 rok"
+      ],
+      "Valentine's deal": [
+        "Oferta na walentynki"
+      ],
+      "🎁 Your free gift to share, valued at ${ price }﻿: ": [
+        "🎁 Twój darmowy prezent do udostępnienia, o wartości ${ price }﻿: "
       ]
     }
   }
