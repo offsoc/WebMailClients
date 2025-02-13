@@ -124,6 +124,7 @@ enum MailFeatureFlag {
     WebMailPageSizeSetting = 'WebMailPageSizeSetting',
     SelectAll = 'SelectAll',
     SelectAllOptimistic = 'SelectAllOptimistic',
+    SelfTroubleshoot = 'SelfTroubleshoot',
     ComposerAssistant = 'ComposerAssistant',
     ComposerAssistantFormatting = 'ComposerAssistantFormatting',
     WalletRightSidebarLink = 'WalletRightSidebarLink',
