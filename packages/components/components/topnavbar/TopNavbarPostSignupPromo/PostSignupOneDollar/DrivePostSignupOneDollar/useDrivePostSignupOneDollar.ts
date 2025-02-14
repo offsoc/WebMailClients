@@ -4,6 +4,7 @@ import { useUserSettings } from '@proton/account/index';
 import { useUser } from '@proton/account/user/hooks';
 import useApi from '@proton/components/hooks/useApi';
 import useConfig from '@proton/components/hooks/useConfig';
+import useLastSubscriptionEnd from '@proton/components/hooks/useLastSubscriptionEnd';
 import { FeatureCode, useFeature } from '@proton/features';
 import useLoading from '@proton/hooks/useLoading';
 import { getDriveChecklist } from '@proton/shared/lib/api/checklist';
@@ -37,6 +38,8 @@ export const useDrivePostSignupOneDollar = () => {
 
     const hasUploadedFile = !!checklist?.Items?.includes(ChecklistKey.DriveUpload);
 
+    const [subscriptionEnd, loadingSubscriptionEnd] = useLastSubscriptionEnd();
+
     // One flag to control the feature, and another to manage the progressive rollout of existing users
     const driveOneDollarPostSignupFlag = useFlag('DrivePostSignupOneDollarPromo');
 
@@ -59,16 +62,18 @@ export const useDrivePostSignupOneDollar = () => {
             offerStartDateTimestamp: driveOfferState?.Value?.offerStartDate ?? 0,
             minimalAccountAgeTimestamp: postSignupThreshold?.Value,
             driveOneDollarPostSignupFlag,
+            lastSubscriptionEnd: subscriptionEnd,
             mailOfferStartDateTimestamp: mailOfferState?.Value,
             hasUploadedFile,
         }),
         loading:
             loadingUser ||
             loadingUserSettings ||
+            loadingChecklist ||
             postSignupDateLoading ||
             postSignupThresholdLoading ||
             mailOfferLoading ||
-            loadingChecklist,
+            loadingSubscriptionEnd,
         openSpotlight: shouldOpenPostSignupOffer(driveOfferState?.Value) && !isDomBusy,
     };
 };
