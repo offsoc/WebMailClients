@@ -1465,6 +1465,12 @@
       ],
       "Hide my email": [
         "Hide-my-email"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "Estableix ${ MAIL_APP_NAME } com a aplicació de correu electrònic per defecte"
+      ],
+      "Set as album cover": [
+        "Estableix com a portada de l'àlbum"
       ]
     },
     "action": {
@@ -4546,6 +4552,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "La vostra cerca coincideix amb massa resultats. Limiteu la cerca i torneu-ho a provar."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } és el vostre nom d'usuari. Per a crear ${ emailAddress }, aneu a Preferències > Identitat i adreces > Domini curt (pm.me)"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7869,6 +7878,12 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "El vostre pla programat comença el ${ renewalTime } i es renovarà automàticament cada mes."
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "Establiu ${ MAIL_APP_NAME } com a aplicació de correu electrònic per defecte."
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "Establiu ${ MAIL_APP_NAME } com a aplicació de correu electrònic per defecte. ${ MAIL_APP_NAME } s'obrirà automàticament en fer clic a un enllaç de correu electrònic."
       ]
     },
     "info": {
@@ -9856,6 +9871,16 @@
       ],
       "Tor over VPN": [
         "Tor sobre VPN"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Servidors dedicats optimitzats per a estríming"
+      ],
+      "SSO integration": [
+        "Integració SSO"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Ús en fins a ${ n } dispositiu al mateix temps",
+        "Ús en fins a ${ n } dispositius al mateix temps"
       ]
     },
     "new_plans: feature highlight": {
@@ -13672,6 +13697,9 @@
       ],
       "Your shorter address is now ready": [
         "La vostra adreça més curta ja està a punt."
+      ],
+      "Help center": [
+        "Centre d'ajuda"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14013,6 +14041,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "La prova gratuïta acaba el ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "No es permet l'ús de 2 punts consecutius."
+      ],
+      "Cannot contain a dot at the beginning": [
+        "No pot començar per un punt."
+      ],
+      "Cannot contain a dot at the end": [
+        "No pot acabar amb un punt."
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Només es permeten caràcters alfanumèrics en minúscula, punts, guions i guions baixos"
       ]
     },
     "WeekDay": {

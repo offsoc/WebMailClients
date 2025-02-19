@@ -1465,6 +1465,12 @@
       ],
       "Zoom out": [
         "Zoom ut"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "Gjør ${ MAIL_APP_NAME } til standard e-postapplikasjon"
+      ],
+      "Set as album cover": [
+        "Angi som albumomslag"
       ]
     },
     "action": {
@@ -4546,6 +4552,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Søket samsvarte med for mange resultater. Begrens søket, og prøv på nytt."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } er ditt brukernavn. For å opprette ${ emailAddress }, gå til Innstillinger > Identitet og adresser > Kort domene (pm.me)"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7874,6 +7883,12 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Den planlagte planen starter den ${ renewalTime } og fornyes automatisk hver måned."
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "Gjør ${ MAIL_APP_NAME } til standard e-postapplikasjon."
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "Angi ${ MAIL_APP_NAME } som din standard e-postapplikasjon. ${ MAIL_APP_NAME } vil åpne automatisk når du klikker en e-postkobling."
       ]
     },
     "info": {
@@ -9858,6 +9873,16 @@
       ],
       "Tor over VPN": [
         "TOR over VPN"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Dedikerte tjenere optimalisert for strømming"
+      ],
+      "SSO integration": [
+        "SSO-integrasjon"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Bruk på opptil ${ n } enhet samtidig",
+        "Bruk på opptil ${ n } enheter samtidig"
       ]
     },
     "new_plans: feature highlight": {
@@ -13673,6 +13698,9 @@
       ],
       "Your shorter address is now ready": [
         "Den kortere adressen din er nå klar"
+      ],
+      "Help center": [
+        "Hjelpesenter"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14014,6 +14042,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Prøveperioden avsluttes ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "2 påfølgende prikker er ikke tillatt"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Kan ikke inneholde en prikk i begynnelsen"
+      ],
+      "Cannot contain a dot at the end": [
+        "Kan ikke inneholde en prikk ved slutten"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Bare små alfanumeriske tegn, punktum og bindestreker (inkludert understrek) er tillatt."
       ]
     },
     "WeekDay": {

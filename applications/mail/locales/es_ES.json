@@ -1465,6 +1465,12 @@
       ],
       "Zoom out": [
         "Alejar"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "Establecer ${ MAIL_APP_NAME } como aplicación de correo por defecto"
+      ],
+      "Set as album cover": [
+        "Establecer como portada de álbum"
       ]
     },
     "action": {
@@ -4546,6 +4552,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Tu búsqueda ha coincidido con muchos resultados. Limita tu búsqueda e inténtalo de nuevo."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } es tu nombre de usuario. Para crear ${ emailAddress }, ve a Ajustes > Identidad y direcciones > Dominio corto (pm.me)"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7874,6 +7883,12 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Tu plan programado comienza el ${ renewalTime } y se renovará automáticamente cada mes."
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "Establece ${ MAIL_APP_NAME } como aplicación de correo por defecto."
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "Configura ${ MAIL_APP_NAME } como tu aplicación de correo electrónico por defecto. ${ MAIL_APP_NAME } se abrirá automáticamente al hacer clic en un enlace de correo electrónico."
       ]
     },
     "info": {
@@ -9861,6 +9876,16 @@
       ],
       "Tor over VPN": [
         "Tor sobre VPN"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Servidores dedicados optimizados para streaming"
+      ],
+      "SSO integration": [
+        "Integración SSO"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Uso en hasta ${ n } dispositivo a la vez",
+        "Uso en hasta ${ n } dispositivos a la vez"
       ]
     },
     "new_plans: feature highlight": {
@@ -13682,6 +13707,9 @@
       ],
       "Your shorter address is now ready": [
         "Tu dirección en formato más corto ya está lista."
+      ],
+      "Help center": [
+        "Centro de ayuda"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14023,6 +14051,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Tu periodo de prueba gratuito acaba el ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "No se permite el uso de 2 puntos consecutivos."
+      ],
+      "Cannot contain a dot at the beginning": [
+        "No puede empezar por un punto."
+      ],
+      "Cannot contain a dot at the end": [
+        "No puede terminar con un punto."
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Solo se permiten caracteres alfanuméricos en minúscula, puntos, guiones y guiones bajos."
       ]
     },
     "WeekDay": {
@@ -14038,12 +14078,12 @@
     },
     "Weekly recurring event, frequency": {
       "Every ${ interval } week on ${ multipleDaysString }": [
-        "Cada semana los ${ multipleDaysString } ${ interval }",
+        "Cada ${ interval } semana los ${ multipleDaysString }",
         "Cada ${ interval } semanas los ${ multipleDaysString }"
       ],
       "Every ${ interval } week on all days": [
-        "Cada semana todos los días ${ interval }",
-        "Cada ${ interval } semanas todos los días"
+        "Todos los días cada ${ interval } semana",
+        "Todos los días cada ${ interval } semanas"
       ],
       "Every ${ interval } week on Friday": [
         "Cada semana los viernes ${ interval }",

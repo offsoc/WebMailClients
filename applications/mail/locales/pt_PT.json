@@ -1465,6 +1465,12 @@
       ],
       "Hide my email": [
         "Hide-my-email"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "Definir ${ MAIL_APP_NAME } como aplicação de e-mail padrão"
+      ],
+      "Set as album cover": [
+        "Definir como capa do álbum"
       ]
     },
     "action": {
@@ -4546,6 +4552,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "A sua pesquisa obteve muitas correspondências. Limite a pesquisa e tente novamente."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } é o seu nome de utilizador. Para criar ${ emailAddress }, aceda a Definições > Identidade e endereços > Domínio curto (pm.me)."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7869,6 +7878,12 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "O seu plano agendado começa a ${ renewalTime } e será renovado automaticamente a cada mês."
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "Define ${ MAIL_APP_NAME } como a aplicação de e-mail padrão."
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "Defina o ${ MAIL_APP_NAME } como a sua aplicação de e-mail predefinida. O ${ MAIL_APP_NAME } será aberto automaticamente quando clicar numa ligação de e-mail."
       ]
     },
     "info": {
@@ -9853,6 +9868,16 @@
       ],
       "Tor over VPN": [
         "Tor sobre VPN"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Servidores dedicados otimizados para streaming"
+      ],
+      "SSO integration": [
+        "Integração SSO"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Utilize em até ${ n } dispositivo em simultâneo",
+        "Utilize em até ${ n } dispositivos em simultâneo"
       ]
     },
     "new_plans: feature highlight": {
@@ -13663,6 +13688,9 @@
       ],
       "Your shorter address is now ready": [
         "O seu endereço mais curto já está pronto"
+      ],
+      "Help center": [
+        "Centro de ajuda"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13994,6 +14022,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "O seu teste gratuito termina em ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "Não é permitido o uso de 2 pontos consecutivos."
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Não pode começar por um ponto."
+      ],
+      "Cannot contain a dot at the end": [
+        "Não pode conter um ponto no final."
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Só são permitidos caracteres alfanuméricos em minúsculas, pontos, hífenes e sublinhados"
       ]
     },
     "WeekDay": {

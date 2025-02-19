@@ -1475,6 +1475,12 @@
       ],
       "Zoom out": [
         "Oddálit"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "Nastavte ${ MAIL_APP_NAME } jako výchozí e-mailovou aplikaci"
+      ],
+      "Set as album cover": [
+        "Nastavit jako obálku alba"
       ]
     },
     "action": {
@@ -4608,6 +4614,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Vyhledávání našlo příliš mnoho výsledků. Upřesněte hledání a zkuste to prosím znovu."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } je vaše uživatelské jméno. Pro vytvoření ${ emailAddress } jděte prosím do Nastavení > Identita a adresy > Krátká doména (pm.me)"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -8136,6 +8145,12 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Váš naplánovaný tarif začíná ${ renewalTime } a bude každý měsíc automaticky obnoven."
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "Nastavte ${ MAIL_APP_NAME } jako výchozí e-mailovou aplikaci."
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "Nastavte ${ MAIL_APP_NAME } jako výchozí e-mailovou aplikaci. ${ MAIL_APP_NAME } se automaticky otevře po kliknutí na e-mailový odkaz."
       ]
     },
     "info": {
@@ -10192,6 +10207,18 @@
       ],
       "Tor over VPN": [
         "TOR skrze VPN"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Dedikované servery optimalizované pro streamování"
+      ],
+      "SSO integration": [
+        "Integrace SSO"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Používejte na ${ n } zařízení",
+        "Používejte až na ${ n } zařízeních najednou",
+        "Používejte až na ${ n } zařízeních najednou",
+        "Používejte až na ${ n } zařízeních najednou"
       ]
     },
     "new_plans: feature highlight": {
@@ -14185,6 +14212,9 @@
       ],
       "Your shorter address is now ready": [
         "Vaše kratší adresa je nyní připravena"
+      ],
+      "Help center": [
+        "Centrum podpory"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14554,6 +14584,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Bezplatná zkušební verze končí ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "2 po sobě jdoucí tečky nejsou povoleny"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Na začátku nesmí být tečka"
+      ],
+      "Cannot contain a dot at the end": [
+        "Na konci nesmí být tečka"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Povoleny jsou pouze alfanumerické malé znaky, tečky, pomlčky a podtržítka"
       ]
     },
     "WeekDay": {

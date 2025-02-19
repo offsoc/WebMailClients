@@ -1469,6 +1469,15 @@
       ],
       "Get the app": [
         "Pobierz aplikację"
+      ],
+      "Get ${ planOrAppName }": [
+        "Uzyskaj ${ planOrAppName }"
+      ],
+      "Hide my email": [
+        "Ukryj mój adres e-mail"
+      ],
+      "Set as album cover": [
+        "Ustaw jako okładkę albumu"
       ]
     },
     "action": {
@@ -4746,6 +4755,9 @@
       ],
       "Unsupported event": [
         "Wydarzenie jest nieobsługiwane"
+      ],
+      "Time zone component ignored": [
+        "Element strefy czasowej ignorowany"
       ]
     },
     "Error message": {
@@ -5548,6 +5560,9 @@
       ],
       "Time zone not supported": [
         "Strefa czasowa nie jest obsługiwana"
+      ],
+      "Only the Gregorian calendar scale is allowed": [
+        "Dozwolona jest tylko skala kalendarza gregoriańskiego"
       ]
     },
     "ICS widget label for event details": {
@@ -8043,7 +8058,7 @@
         "Otrzymaj powiadomienie o wycieku swojego hasła i innych danych przez usługi stron trzecich."
       ],
       "Invite family members and get everything up and running.": [
-        "Zaproś użytkowników rodziny i rozpocznij."
+        "Zaproś członków rodziny i rozpocznij."
       ],
       "or discover other features:": [
         "lub poznaj inne funkcje:"
@@ -8058,7 +8073,7 @@
         "Odłóż wiadomości na później, aby znalazły się na górze skrzynki odbiorczej wtedy, kiedy chcesz"
       ],
       "Start using the shorter, catchier version of your email address.": [
-        "Używaj krótszej i bardziej chwytliwej nazwy swojego adresu e-mail."
+        "Używaj krótszej i bardziej chwytliwej wersji swojego adresu e-mail."
       ],
       "We have plans designed specifically for users like you who need more than one email address.": [
         "Mamy plany zaprojektowane specjalnie dla użytkowników takich jak Ty, którzy potrzebują więcej niż jednego adresu e-mail."
@@ -8077,6 +8092,42 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Zaplanowany plan rozpocznie się ${ renewalTime } i odnowi się automatycznie co miesiąc."
+      ],
+      "${ PASS_APP_NAME } allows you to store passwords, notes, and other sensitive information with end-to-end encryption. Available on ${ ios }, ${ android } and in your ${ browser }.": [
+        "Aplikacja ${ PASS_APP_NAME } umożliwia przechowywanie haseł, notatek i innych poufnych informacji z szyfrowaniem typu end-to-end. Dostępna na ${ ios }, ${ android } i w twojej przeglądarce ${ browser }."
+      ],
+      "${ PROTON_SENTINEL_NAME } protects your account with dedicated monitoring of suspicious activity.": [
+        "${ PROTON_SENTINEL_NAME } chroni Twoje konto dzięki dedykowanemu monitorowaniu podejrzanej aktywności."
+      ],
+      "Access 6,500+ high-speed servers on up to 10 devices to keep your browsing data safe. Available on ${ ios }, ${ android }, ${ appleTV }, and ${ desktop }.": [
+        "Dostęp do ponad 6 500 szybkich serwerów na maksymalnie 10 urządzeniach, aby zapewnić bezpieczeństwo danych przeglądania. Dostępne na urządzeniach ${ ios }, ${ android }, ${ appleTV } i ${ desktop }."
+      ],
+      "Active": [
+        "Aktywne"
+      ],
+      "AI powered assistant to help you craft better emails, quickly and effortlessly.": [
+        "Asystent sztucznej inteligencji, który pomaga tworzyć lepsze wiadomości, szybko i bez wysiłku."
+      ],
+      "Emails moved to Trash and Spam more than 30 days ago will be cleared automatically.": [
+        "Wiadomości e-mail przeniesione do Kosza i Spamu ponad 30 dni temu zostaną automatycznie wyczyszczone."
+      ],
+      "For anytime access to email and an optimized mobile experience, download our ${ androidAppLink } or ${ iosAppLink }.": [
+        "Aby uzyskać dostęp do poczty e-mail w dowolnym momencie i korzystać ze zoptymalizowanego rozwiązania mobilnego, pobierz naszą aplikację ${ androidAppLink } lub ${ iosAppLink }."
+      ],
+      "Invite your partner, a friend, or whoever you're sharing your ${ protonDuoPlanName } plan with.": [
+        "Zaproś swojego partnera, znajomego lub kogokolwiek, komu udostępniasz swój plan ${ protonDuoPlanName }."
+      ],
+      "Protect your email from being leaked to mailing lists or spammers with hide-my-email aliases.": [
+        "Chroń swoją pocztę e-mail przed wyciekiem na listy mailingowe lub spamem, korzystając z aliasów hide-my-email."
+      ],
+      "Sync and manage files with the ${ DRIVE_APP_NAME } app. Create and share documents in ${ DOCS_APP_NAME }, and securely store them. All on ${ ios }, ${ android } and ${ desktop }.": [
+        "Synchronizuj pliki i zarządzaj nimi za pomocą aplikacji ${ DRIVE_APP_NAME }. Twórz i udostępniaj dokumenty w aplikacji ${ DOCS_APP_NAME } i bezpiecznie je przechowuj. Wszystko na urządzeniach ${ ios }, ${ android } i ${ desktop }."
+      ],
+      "This message is from a ${ PASS_APP_NAME } alias.": [
+        "Ta wiadomość pochodzi z aliasu ${ PASS_APP_NAME }."
+      ],
+      "You get notified if your password or other data was leaked from a third-party service.": [
+        "Otrzymasz powiadomienie, jeśli Twoje hasło lub inne dane wyciekły z usługi zewnętrznej."
       ]
     },
     "info": {
@@ -10130,6 +10181,18 @@
       ],
       "Secure file storage and sharing": [
         "Bezpieczne przechowywanie i udostępnianie plików"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Dedykowane serwery zoptymalizowane pod kątem streamingu"
+      ],
+      "SSO integration": [
+        "Integracja z SSO"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Używanie na maksymalnie ${ n } urządzeniu",
+        "Używanie na maksymalnie ${ n } urządzeniach jednocześnie",
+        "Używanie na maksymalnie ${ n } urządzeniach jednocześnie",
+        "Używanie na maksymalnie ${ n } urządzeniach jednocześnie"
       ]
     },
     "new_plans: feature highlight": {
@@ -11061,6 +11124,9 @@
       ],
       "Street address, postal code, and city": [
         "Ulica, kod pocztowy i miejscowość"
+      ],
+      "By confirming this payment, you authorize ${ BRAND_NAME } and Stripe, our payment service provider, to instruct your bank to debit your account accordingly. You can get a refund within 8 weeks from the debit date, under the conditions of your agreement with your bank.": [
+        "Potwierdzając tę płatność, użytkownik upoważnia ${ BRAND_NAME } i Stripe, naszego dostawcę usług płatniczych, do zlecenia bankowi odpowiedniego obciążenia jego konta. Użytkownik może otrzymać zwrot pieniędzy w ciągu 8 tygodni od daty obciążenia konta, zgodnie z warunkami umowy z bankiem."
       ]
     },
     "PGP key encryption warning": {
@@ -13263,7 +13329,7 @@
         "Odzyskiwanie konta"
       ],
       "Account restricted": [
-        "Konto ograniczone"
+        "Konto zostało ograniczone"
       ],
       "Account security": [
         "Bezpieczeństwo konta"
@@ -14059,6 +14125,12 @@
       ],
       "Discover your subscription benefits": [
         "Odkryj zalety subskrypcji"
+      ],
+      "Help center": [
+        "Centrum pomocy"
+      ],
+      "You can now create unlimited folders and labels": [
+        "Możesz utworzyć nieograniczoną liczbę folderów i etykiet"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14423,6 +14495,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Darmowa wersja próbna zakończy się ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "2 następujące po sobie kropki są niedozwolone"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Nie może zawierać kropki na początku"
+      ],
+      "Cannot contain a dot at the end": [
+        "Nie może zawierać kropki na końcu"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Dozwolone są tylko małe znaki alfanumeryczne, kropki, myślniki i podkreślenia."
       ]
     },
     "WeekDay": {
@@ -14760,6 +14844,9 @@
     "new_plans: Subtext": {
       "Unlock all ${ BRAND_NAME } premium products and features for just ${ priceLine }. Cancel anytime.": [
         "Odblokuj wszystkie usługi i funkcje premium ${ BRAND_NAME } za ${ priceLine }. Anuluj w dowolnym momencie."
+      ],
+      "The discounted price of ${ priceCoupon } is valid for the first month. Then it will automatically be renewed at ${ priceLine }. You can cancel at any time.": [
+        "Promocyjna cena ${ priceCoupon } jest ważna przez pierwszy miesiąc. Następnie zostanie ona automatycznie odnowiona po cenie ${ priceLine }. Możesz anulować w dowolnym momencie."
       ]
     },
     "Footer": {

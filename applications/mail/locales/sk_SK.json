@@ -1475,6 +1475,9 @@
       ],
       "Hide my email": [
         "Hide my email"
+      ],
+      "Set as album cover": [
+        "Nastaviť ako obal albumu"
       ]
     },
     "action": {
@@ -10187,6 +10190,18 @@
       ],
       "Tor over VPN": [
         "Tor cez VPN"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Dedikované servery optimalizované na streamovanie"
+      ],
+      "SSO integration": [
+        "SSO integrácia"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Používajte na ${ n } zariadení súčasne",
+        "Používajte až na ${ n } zariadeniach súčasne",
+        "Používajte až na ${ n } zariadeniach súčasne",
+        "Používajte až na ${ n } zariadeniach súčasne"
       ]
     },
     "new_plans: feature highlight": {
@@ -14175,6 +14190,9 @@
       ],
       "Your shorter address is now ready": [
         "Vaša skrátená adresa je pripravená"
+      ],
+      "Help center": [
+        "Centrum pomoci"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14539,6 +14557,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Bezplatná skúšobná verzia končí ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "2 po sebe idúce bodky nie sú povolené"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Na začiatku nesmie byť bodka"
+      ],
+      "Cannot contain a dot at the end": [
+        "Na konci nesmie byť bodka"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Povolené sú len alfanumerické malé písmená, bodky, pomlčky a podčiarkovníky"
       ]
     },
     "WeekDay": {

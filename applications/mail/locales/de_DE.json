@@ -1465,6 +1465,12 @@
       ],
       "Hide my email": [
         "Hide-my-email"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "${ MAIL_APP_NAME } als Standard-E-Mail-Anwendung festlegen"
+      ],
+      "Set as album cover": [
+        "Setze als Album-Titelbild"
       ]
     },
     "action": {
@@ -4546,6 +4552,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Deine Suche ergab zu viele Treffer. Schränke deine Suche ein und versuche es erneut."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } ist dein Benutzername. Um ${ emailAddress } zu erstellen, gehe bitte zu Einstellungen > Identität und E-Mail-Adressen > Kurzdomain (pm.me)"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7868,7 +7877,13 @@
         "oder entdecke andere Funktionen:"
       ],
       "Snooze messages for later so they are top of your inbox when you want": [
-        "Pause Nachrichten und lies sie später, damit sie jederzeit oben in deinem Posteingang angezeigt werden."
+        "Pausiere Nachrichten und lies sie später, damit sie jederzeit oben in deinem Posteingang angezeigt werden."
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "${ MAIL_APP_NAME } als Standard-E-Mail-Anwendung festlegen."
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "Lege ${ MAIL_APP_NAME } als deine Standard-E-Mail-Anwendung fest. ${ MAIL_APP_NAME } wird automatisch geöffnet, wenn du auf einen E-Mail-Link klickst."
       ]
     },
     "info": {
@@ -9853,6 +9868,16 @@
       ],
       "${ PASS_APP_NAME } + SimpleLogin lifetime": [
         "Lebenslanger Zugang zu den Funktionen von ${ PASS_APP_NAME } und SimpleLogin"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Für Streaming optimierte dedizierte Server"
+      ],
+      "SSO integration": [
+        "SSO-Integration"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Gleichzeitige Verwendung auf bis zu ${ n } Gerät",
+        "Gleichzeitige Verwendung auf bis zu ${ n } Geräten"
       ]
     },
     "new_plans: feature highlight": {
@@ -13663,6 +13688,9 @@
       ],
       "You can now create unlimited folders and labels": [
         "Du kannst jetzt unbegrenzt viele Ordner und Kategorien erstellen."
+      ],
+      "Help center": [
+        "Hilfecenter"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13999,6 +14027,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Deine kostenlose Testversion endet am ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "2 aufeinanderfolgende Punkte sind nicht erlaubt"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Darf keinen Punkt am Anfang enthalten"
+      ],
+      "Cannot contain a dot at the end": [
+        "Darf keinen Punkt am Ende enthalten"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Nur alphanumerische Kleinbuchstaben, Punkte, Bindestriche und Unterstriche sind erlaubt"
       ]
     },
     "WeekDay": {

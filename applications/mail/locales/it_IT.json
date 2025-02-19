@@ -1465,6 +1465,12 @@
       ],
       "Zoom out": [
         "Zoom indietro"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "Imposta ${ MAIL_APP_NAME } come la tua applicazione email predefinita"
+      ],
+      "Set as album cover": [
+        "Imposta come copertina dell'album"
       ]
     },
     "action": {
@@ -4546,6 +4552,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "La tua ricerca ha restituito troppi risultati. Limita la ricerca e riprova."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } è il tuo nome utente. Per creare ${ emailAddress }, vai su Impostazioni > Identità e indirizzi > Dominio breve (pm.me)"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7874,6 +7883,12 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Il tuo piano programmato inizia il ${ renewalTime } e si rinnoverà automaticamente ogni mese."
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "Imposta ${ MAIL_APP_NAME } come la tua applicazione email predefinita."
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "Imposta ${ MAIL_APP_NAME } come applicazione mail predefinita. ${ MAIL_APP_NAME } si aprirà automaticamente quando clicchi su un collegamento di posta."
       ]
     },
     "info": {
@@ -9861,6 +9876,16 @@
       ],
       "Tor over VPN": [
         "Tor su VPN"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Server dedicati ottimizzati per lo streaming"
+      ],
+      "SSO integration": [
+        "Integrazione SSO"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Utilizza fino a ${ n } dispositivo per volta",
+        "Utilizza fino a ${ n } dispositivi per volta"
       ]
     },
     "new_plans: feature highlight": {
@@ -13681,6 +13706,9 @@
       ],
       "Your shorter address is now ready": [
         "Il tuo indirizzo breve ora è pronto"
+      ],
+      "Help center": [
+        "Centro assistenza"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13880,8 +13908,8 @@
         "Bitcoin via email"
       ],
       "${ n } ${ BRAND_NAME } email address": [
-        "${ n }indirizzo email ${ BRAND_NAME }",
-        "${ n }indirizzi email ${ BRAND_NAME }"
+        "${ n } indirizzo email ${ BRAND_NAME }",
+        "${ n } indirizzi email ${ BRAND_NAME }"
       ],
       "Bitcoin via Email": [
         "Bitcoin via email"
@@ -14022,6 +14050,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "La tua prova gratuita termina il ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "Non sono ammessi 2 punti consecutivi"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Non può contenere un punto all'inizio"
+      ],
+      "Cannot contain a dot at the end": [
+        "Non può contenere un punto alla fine"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Sono consentiti solo caratteri alfanumerici minuscoli, punti, trattini e caratteri di sottolineatura"
       ]
     },
     "WeekDay": {

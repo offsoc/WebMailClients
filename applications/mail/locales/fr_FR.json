@@ -1465,6 +1465,12 @@
       ],
       "Zoom out": [
         "Zoom arrière"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "Définir ${ MAIL_APP_NAME } comme application de messagerie par défaut"
+      ],
+      "Set as album cover": [
+        "Définir en tant que couverture d'album"
       ]
     },
     "action": {
@@ -2488,25 +2494,25 @@
         "Créer un nouveau label"
       ],
       "Go to Archive": [
-        "Aller dans le dossier Archives"
+        "Déplacer vers le dossier Archives"
       ],
       "Go to Drafts": [
-        "Aller dans le dossier Brouillons"
+        "Déplacer vers le dossier Brouillons"
       ],
       "Go to Inbox": [
-        "Aller dans le dossier Boite de réception"
+        "Déplacer vers le dossier Boite de réception"
       ],
       "Go to Sent": [
-        "Aller dans le dossier Envoyés"
+        "Déplacer vers le dossier Envoyés"
       ],
       "Go to Spam": [
-        "Aller dans le dossier Indésirable/spam"
+        "Déplacer vers le dossier Indésirable/spam"
       ],
       "Go to Starred": [
-        "Aller dans le dossier Favoris"
+        "Déplacer vers le dossier Favoris"
       ],
       "Go to Trash": [
-        "Aller dans le dossier Corbeille"
+        "Déplacer vers le dossier Corbeille"
       ],
       "New message": [
         "Nouveau message"
@@ -4546,6 +4552,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Votre recherche a donné trop de résultats. Nous vous invitons à limiter votre recherche et à réessayer."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } est votre nom d'utilisateur. Pour créer ${ emailAddress }, dirigez-vous vers Paramètres > Identités et adresses > Domaine court (pm.me)."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7874,6 +7883,12 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Votre abonnement programmé commence le ${ renewalTime } et se renouvellera automatiquement chaque mois."
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "Définissez ${ MAIL_APP_NAME } comme application de messagerie par défaut."
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "Définissez ${ MAIL_APP_NAME } comme votre application de messagerie par défaut. ${ MAIL_APP_NAME } s’ouvrira automatiquement lorsque vous cliquerez sur un lien de messagerie."
       ]
     },
     "info": {
@@ -7995,28 +8010,28 @@
         "Transférer"
       ],
       "Go to All Mail": [
-        "Aller dans le dossier Tous les messages"
+        "Déplacer vers le dossier Tous les messages"
       ],
       "Go to Archive": [
-        "Aller dans le dossier Archives"
+        "Déplacer vers le dossier Archives"
       ],
       "Go to Drafts": [
-        "Aller dans le dossier Brouillons"
+        "Déplacer vers le dossier Brouillons"
       ],
       "Go to Inbox": [
-        "Aller dans le dossier Boite de réception"
+        "Déplacer vers le dossier Boite de réception"
       ],
       "Go to Sent": [
-        "Aller dans le dossier Envoyés"
+        "Déplacer vers le dossier Envoyés"
       ],
       "Go to Spam": [
-        "Aller dans le dossier Indésirable/spam"
+        "Déplacer vers le dossier Indésirable/spam"
       ],
       "Go to Starred": [
-        "Aller dans le dossier Favoris"
+        "Déplacer vers le dossier Favoris"
       ],
       "Go to Trash": [
-        "Aller dans le dossier Corbeille"
+        "Déplacer vers le dossier Corbeille"
       ],
       "Insert link": [
         "Insérer un lien"
@@ -9861,6 +9876,16 @@
       ],
       "Tor over VPN": [
         "Tor via VPN"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Serveurs dédiés optimisés pour le streaming"
+      ],
+      "SSO integration": [
+        "Authentification unique (SSO) intégrée"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Utiliser sur jusqu'à ${ n } appareil à la fois",
+        "Utiliser sur jusqu'à ${ n } appareils à la fois"
       ]
     },
     "new_plans: feature highlight": {
@@ -10733,7 +10758,7 @@
     },
     "Payments": {
       "Billing Country": [
-        "Pays de facturation"
+        "Pays de facturation "
       ],
       "Card number": [
         "Numéro de la carte"
@@ -13682,6 +13707,9 @@
       ],
       "Your shorter address is now ready": [
         "Votre adresse au format plus court est maintenant prête."
+      ],
+      "Help center": [
+        "Aide & Support"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14023,6 +14051,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Votre essai gratuit se termine le ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "L'usage de 2 points consécutifs n'est pas autorisé."
+      ],
+      "Cannot contain a dot at the beginning": [
+        "L'entrée ne peut pas commencer par un point."
+      ],
+      "Cannot contain a dot at the end": [
+        "L'entrée ne peut se terminer par un point."
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Seuls les caractères alphanumériques en minuscule, les points et les tirets (dont le tiret bas/underscore) sont autorisés."
       ]
     },
     "WeekDay": {

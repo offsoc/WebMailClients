@@ -148,7 +148,7 @@
         "認証"
       ],
       "Auto-delete spam and trash": [
-        "迷惑メールとごみ箱を自動削除"
+        "迷惑メールとごみ箱のメールを自動削除"
       ],
       "Back": [
         "戻る"
@@ -526,7 +526,7 @@
         "${ BRAND_NAME } Duoを入手"
       ],
       "Get ${ planName } for ${ priceCoupon }": [
-        "${ planName } で ${ priceCoupon }を入手"
+        "${ planName } を ${ priceCoupon }で入手"
       ],
       "Get ${ planOrAppName }": [
         "${ planOrAppName } を入手"
@@ -1460,6 +1460,9 @@
       ],
       "Hide my email": [
         "自分のメールを隠す"
+      ],
+      "Set as album cover": [
+        "アルバムカバーに設定"
       ]
     },
     "action": {
@@ -1947,6 +1950,9 @@
       ],
       "Take a tour": [
         "ツアーを開始"
+      ],
+      "Close": [
+        "閉じる"
       ]
     },
     "Calendar attachment tooltip": {
@@ -3770,7 +3776,7 @@
         "より優れた機能を持つ VPN を見つけた"
       ],
       "I have not managed to connect": [
-        "接続することができませんでした"
+        "接続することができなかった"
       ],
       "I only needed a VPN short-term": [
         "VPN が短期間のみ必要だった"
@@ -3779,7 +3785,7 @@
         "別の ${ BRAND_NAME } アカウントを使っている"
       ],
       "It doesn't do what I need": [
-        "必要としていることをしてくれない"
+        "必要な機能がない"
       ],
       "Missing feature(s)": [
         "機能が不足している"
@@ -4512,6 +4518,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "一致する項目が多すぎるため、検索対象をより絞り込んでもう一度お試しください。"
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "あなたのユーザー名は${ user.Name }です。 ${ emailAddress }を作成するには、設定 > 署名とアドレス > 短縮ドメイン (@pm.me) に移動してください。"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -5130,7 +5139,7 @@
     },
     "Footer": {
       "${ BRAND_NAME }. Privacy by default.": [
-        "${ BRAND_NAME }、Privacy by default"
+        "${ BRAND_NAME }. Privacy by default."
       ]
     },
     "forwardmessage": {
@@ -5497,7 +5506,7 @@
         "このファイルには予定の招待が含まれています:"
       ],
       "This file contains an invitation response:": [
-        "このファイルには招待の回答が含まれています："
+        "このファイルには招待への回答が含まれています："
       ],
       "This file contains some data that we cannot import:": [
         "このファイルにはインポートできないデータが含まれています:"
@@ -6554,7 +6563,7 @@
         "${ PASS_APP_NAME } にログイン情報やクレジットカード情報を追加して、安全かつ便利に保管しましょう。${ BRAND_NAME } アカウントに無料で含まれています。"
       ],
       "Keep your mailbox tidy by automatically clearing out trash and spam that have been there for more than 30 days.": [
-        "メールボックスを整理するために、 30 日以上経過したゴミ箱やスパムを自動的に削除します。"
+        "メールボックスを整理するために、 30 日以上経過した迷惑メールやゴミ箱のメールを自動的に削除します。"
       ],
       "Key fingerprint": [
         "鍵のフィンガープリント"
@@ -6884,7 +6893,7 @@
         "テキストを校正する"
       ],
       "Protect your email from being leaked to mailing lists or spammers with hide-my-email aliases.": [
-        "ニュースレターや迷惑メールの配信リストから、ide-my-emailで自分のアドレスを守りましょう。"
+        "ニュースレターや迷惑メールの配信リストから、hide-my-emailで自分のアドレスを守りましょう。"
       ],
       "Public sharing of documents is not yet supported.": [
         "ドキュメントの公開共有はまだサポートされていません。"
@@ -7289,7 +7298,7 @@
         "制限を解除するには、有料プランにアップグレードしてください。"
       ],
       "To unsubscribe from this mailing list, an email will be sent from ${ boldFrom } with following details as defined by the sender of the newsletter:": [
-        "このメーリングリストの購読を解除するには、ニュースレターの送信者によって定義された詳細とともに、${ boldFrom } からメールが送信されます。"
+        "このメーリングリストの購読を解除するには、ニュースレターの送信者によって定義された以下の詳細とともに、${ boldFrom } からメールが送信されます。"
       ],
       "To unsubscribe from this mailing list, you will be taken to the following URL where instructions will be provided by the sender of the newsletter:": [
         "このニュースレターの配信を解除するには、送信元が指定している次のリンクを開くことになります。"
@@ -7740,6 +7749,9 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "予定されているプランは ${ renewalTime } から始まり、毎月自動更新されます。"
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "${ MAIL_APP_NAME }をデフォルトのメールアプリに設定しましょう。メールのリンクをクリックした時に、自動で${ MAIL_APP_NAME }が開きます。"
       ]
     },
     "info": {
@@ -8490,7 +8502,7 @@
         "開始日"
       ],
       "State": [
-        "状態"
+        "州"
       ],
       "Statement": [
         "適用状態"
@@ -8913,7 +8925,7 @@
         "${ itemsToImportCount } ラベルからすべてのメッセージをインポートし、それらを次のようにラベル付けします"
       ],
       "Import all messages from ${ selectedItemsToImportCount } out of ${ itemsToImportCount } folder and label them as": [
-        "${ itemsToImportCount } フォルダから ${ selectedItemsToImportCount } のすべてのメッセージをインポートし、ラベル付けします"
+        "${ itemsToImportCount } つのフォルダのうち ${ selectedItemsToImportCount } つからすべてのメッセージをインポートし、ラベルを付けします"
       ],
       "Import all messages from ${ selectedItemsToImportCount } out of ${ itemsToImportCount } label and label them as": [
         "${ selectedItemsToImportCount } からすべてのメッセージを${ itemsToImportCount } ラベルからインポートし、それらをラベル付けします"
@@ -9688,6 +9700,15 @@
       ],
       "Tor over VPN": [
         "VPN経由Tor"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "ストリーミングに最適化された専用サーバー"
+      ],
+      "SSO integration": [
+        "SSO 統合"
+      ],
+      "Use on up to ${ n } device at once": [
+        "一度に最大 ${ n } 台のデバイスで使用"
       ]
     },
     "new_plans: feature highlight": {
@@ -9995,7 +10016,7 @@
         "暗号化クラウドストレージでファイルの安全を保ちます。自動同期、暗号化ファイル共有などが含まれます。"
       ],
       "Securely share individual items with anyone (even if they don't use ${ PASS_APP_NAME })": [
-        "誰にでも(${ PASS_APP_NAME }を使っていない人にも)個人のアイテムを安全に共有"
+        "誰にでも (${ PASS_APP_NAME }を使っていない人にも) 個人のアイテムを安全に共有"
       ],
       "Securely store your contacts’ details, such as phone number, address, birthday, and personal notes. Zero-access encryption ensures even ${ BRAND_NAME } can't access them.": [
         "電話番号、住所、誕生日、個人的なメモなどの連絡先の詳細を安全に保存します。 ゼロアクセス暗号化により、${ BRAND_NAME } であってもアクセスできなくなります。"
@@ -10571,7 +10592,7 @@
         "支払い処理中"
       ],
       "Please reactivate your subscription first to decrease the number of add-ons.": [
-        "アドオンの数を減らすには、まずサブスクリプションを再アクティブ化してください。"
+        "アドオンを減らすには、まずサブスクリプションを再有効化してください。"
       ],
       "Please select billing country": [
         "請求先の国を選択してください"
@@ -10766,7 +10787,7 @@
         "理由を選択"
       ],
       "Select state": [
-        "状態の選択"
+        "州を選択"
       ],
       "Share what you think could make ${ BRAND_NAME } better": [
         "${ BRAND_NAME }をより良くするためには何が必要だと思うか共有してください。"
@@ -11180,7 +11201,7 @@
         "この許可はあと${ timeRemaining.inHours }時間で期限切れになります。"
       ],
       "This permission expires soon": [
-        "この許可はすぐに取り消されます"
+        "この権限はまもなく有効期限が切れます"
       ],
       "You can now change your password for the account ${ boldEmail } freely for ${ boldDaysRemaining }.": [
         "アカウント ${ boldEmail } のパスワードを、あと ${ boldDaysRemaining } 日間は自由に変更可能です。"
@@ -12001,10 +12022,10 @@
         "追加のストレージとユーザー"
       ],
       "Folders, labels and filters": [
-        "フォルダ、ラベル、ファイル"
+        "フォルダー、ラベル、フィルター"
       ],
       "Folders, labels, and custom filters": [
-        "フォルダ、ラベル、そしてカスタムフィルター"
+        "フォルダー、ラベル、カスタムフィルター"
       ],
       "Helping activists in Hong Kong": [
         "香港の活動家を支援"
@@ -12190,7 +12211,7 @@
         "${ elementsCount } 件の会話を未読にしました。"
       ],
       "${ elementsCount } conversation moved to ${ folderName } and sender added to your not spam list.": [
-        "${ elementsCount }件のやりとりを${ folderName }に移動し、送信元のアドレスは迷惑メールから除外されました。"
+        "${ elementsCount }件のメッセージを${ folderName }に移動し、送信元のアドレスは迷惑メールから除外されました。"
       ],
       "${ elementsCount } conversation moved to ${ folderName }.": [
         "${ elementsCount } 件の会話を ${ folderName } に移動しました。"
@@ -13409,6 +13430,9 @@
       ],
       "Your shorter address is now ready": [
         "短いアドレスの準備ができました"
+      ],
+      "Help center": [
+        "ヘルプセンター"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13731,6 +13755,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "無料トライアルは ${ textDate } に終了します。${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "2 つの連続したドットは使用できません"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "最初にドットを含めることはできません"
+      ],
+      "Cannot contain a dot at the end": [
+        "最後にドットを含めることはできません"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "英数字の小文字、ドット、ハイフン、アンダースコアのみが使用できます"
       ]
     },
     "WeekDay": {
@@ -13972,7 +14008,7 @@
     },
     "Payments.plan_name": {
       "Free": [
-        "無料"
+        "Free"
       ]
     }
   }

@@ -1418,6 +1418,9 @@
       ],
       "Invite members": [
         "Povabi člane"
+      ],
+      "Remove Zoom meeting": [
+        "Odstrani sestanek Zoom"
       ]
     },
     "action": {
@@ -1870,6 +1873,9 @@
       ],
       "Got it": [
         "Razumem"
+      ],
+      "Close": [
+        "Zapri"
       ]
     },
     "Calendar attachment tooltip": {
@@ -7642,6 +7648,15 @@
       ],
       "Get it on Google Play": [
         "Prenesi iz trgovine Google Play"
+      ],
+      "Any subfolders will also be deleted. However, emails stored in the folder ${ nameDeleted } will not be deleted and can be found in All Mail folder.": [
+        "Izbrisane bodo tudi vse podmape. E-poštna sporočila, shranjena v mapi ${ nameDeleted }, ne bodo izbrisana in jih boste našli v mapi Vsa pošta."
+      ],
+      "Email copied to clipboard": [
+        "E-poštni naslov kopiran v odložišče"
+      ],
+      "Enabling auto-deletion…": [
+        "Omogočanje samodejnega brisanja …"
       ]
     },
     "info": {
@@ -9605,6 +9620,9 @@
       ],
       "Tor over VPN": [
         "Tor preko VPN"
+      ],
+      "200 GB of storage": [
+        "200 GB prostora za shranjevanje"
       ]
     },
     "new_plans: feature highlight": {
@@ -13116,6 +13134,9 @@
       ],
       "Set up ${ protonDuoPlanName }": [
         "Nastavi ${ protonDuoPlanName }"
+      ],
+      "Upgrade complete!": [
+        "Nadgradnja opravljena!"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13769,6 +13790,11 @@
     "wallet_signup_2024:Bug category": {
       "Wallet problem": [
         "Težava z Wallet"
+      ]
+    },
+    "Downgrade warning": {
+      "Remove discount": [
+        "Odstrani popust"
       ]
     }
   }

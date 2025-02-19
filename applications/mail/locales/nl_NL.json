@@ -1468,6 +1468,12 @@
       ],
       "Trust key": [
         "Vertrouwde sleutel"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "Maak ${ MAIL_APP_NAME } uw standaard e-mailapplicatie."
+      ],
+      "Set as album cover": [
+        "Instellen als omslag"
       ]
     },
     "action": {
@@ -4549,6 +4555,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Uw zoekopdracht leverde te veel resultaten op. Verfijn uw zoekopdracht en probeer het opnieuw."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } is uw gebruikersnaam. Om ${ emailAddress } te maken gaat u naar Instellingen > Identiteit en adressen > Kort domein (pm.me)"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7877,6 +7886,12 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Uw geplande abonnement begint op ${ renewalTime } en wordt elke maand automatisch vernieuwd."
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "Maak ${ MAIL_APP_NAME } uw standaard e-mailapplicatie."
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "Stel ${ MAIL_APP_NAME } in als uw standaard e-mailapplicatie. ${ MAIL_APP_NAME } opent automatisch wanneer u op een e-maillink klikt."
       ]
     },
     "info": {
@@ -9861,6 +9876,16 @@
       ],
       "Tor over VPN": [
         "Tor via VPN"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Gereserveerde servers geoptimaliseerd voor streamen"
+      ],
+      "SSO integration": [
+        "SSO-integratie"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Gebruik tot ${ n } apparaat tegelijk",
+        "Gebruik tot ${ n } apparaten tegelijk"
       ]
     },
     "new_plans: feature highlight": {
@@ -10823,7 +10848,7 @@
         "Straatnaam, postcode en plaats"
       ],
       "By confirming this payment, you authorize ${ BRAND_NAME } and Stripe, our payment service provider, to instruct your bank to debit your account accordingly. You can get a refund within 8 weeks from the debit date, under the conditions of your agreement with your bank.": [
-        "Door deze betaling te bevestigen, machtigt u ${ BRAND_NAME } en Stripe, onze betalingsserviceprovider, om uw bank opdracht te geven om uw rekening naar behoren in rekening te brengen. U kunt een restitutie binnen 8 weken ontvangen van de debitdatum, onder de voorwaarden van uw overeenkomst met uw bank."
+        "Door deze betaling te bevestigen, machtigt u ${ BRAND_NAME } en Stripe, onze betalingsserviceprovider, om uw bank opdracht te geven om uw factuur naar behoren in rekening te brengen. U kunt een restitutie ontvangen binnen 8 weken van de betaaldatum, onder de voorwaarden van uw overeenkomst met uw bank."
       ]
     },
     "PGP key encryption warning": {
@@ -13676,6 +13701,9 @@
       ],
       "Your shorter address is now ready": [
         "Uw kortere adres is nu klaar"
+      ],
+      "Help center": [
+        "Helpcentrum"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14017,6 +14045,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Uw gratis proefversie eindigt op ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "2 opeenvolgende punten zijn niet toegestaan"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Kan niet starten met een punt"
+      ],
+      "Cannot contain a dot at the end": [
+        "Kan niet eindigen met een punt"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Alleen alfanumerieke kleine letters, punten, koppeltekens en underscores zijn toegestaan"
       ]
     },
     "WeekDay": {
