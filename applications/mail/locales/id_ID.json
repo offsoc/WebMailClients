@@ -1273,7 +1273,7 @@
         "Minggu ini"
       ],
       "To search your emails securely, we need to download a copy of your messages to your browser. The initial download may take a moment.": [
-        "Untuk mencari isi email Anda dengan aman, kami perlu untuk mengunduh salinan pesan Anda ke browser Anda. Proses unduhan kali pertama dapat memakan waktu sejenak."
+        "Untuk mencari isi email Anda dengan aman, kami perlu untuk mengunduh salinan pesan Anda ke browser Anda. Proses unduhan ini dapat memakan waktu sejenak untuk unduhan kali pertama."
       ],
       "Toggle Calendar app": [
         "Tampilkan/sembunyikan aplikasi Calendar"
@@ -1460,6 +1460,9 @@
       ],
       "Zoom out": [
         "Perkecil"
+      ],
+      "Set as album cover": [
+        "Pasang sebagai sampul album"
       ]
     },
     "action": {
@@ -4515,6 +4518,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Pencarian Anda membuahkan terlalu banyak hasil. Silakan persempit kriteria pencarian Anda dan coba lagi."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } merupakan nama pengguna Anda. Untuk membuat ${ emailAddress }, silakan tuju Pengaturan > Identitas dan alamat > Domain pendek (pm.me)"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -9679,6 +9685,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Kami memindai dark web untuk memeriksa apakah alamat atau alias ${ BRAND_NAME } Anda telah dibocorkan serta memberitahukan Anda dengan segera apabila kami menemukan sesuatu."
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Server khusus yang dioptimalkan untuk streaming"
+      ],
+      "SSO integration": [
+        "Integrasi SSO"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Gunakan pada hingga ${ n } perangkat secara bersamaan"
       ]
     },
     "new_plans: feature highlight": {
@@ -13393,6 +13408,9 @@
       ],
       "Your shorter address is now ready": [
         "Alamat lebih pendek Anda sudah siap"
+      ],
+      "Help center": [
+        "Pusat bantuan"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13711,6 +13729,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Masa uji coba gratis Anda akan berakhir pada ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "Alias tidak dapat mengandung 2 titik secara berurutan"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Alias tidak dapat dimulai dengan titik"
+      ],
+      "Cannot contain a dot at the end": [
+        "Alias tidak dapat diakhiri dengan titik"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Alias hanya dapat mengandung karakter alfanumerik yang ditulis dalam huruf kecil, titik, tanda hubung, dan garis bawah"
       ]
     },
     "WeekDay": {

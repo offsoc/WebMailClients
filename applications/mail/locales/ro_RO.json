@@ -1281,7 +1281,7 @@
         "În acest weekend"
       ],
       "To search your emails securely, we need to download a copy of your messages to your browser. The initial download may take a moment.": [
-        "Pentru a căuta în siguranță în mesaje, trebuie să se descarce o copie a acestora în navigator. Descărcarea inițială poate dura un ceva timp."
+        "Pentru a căuta în siguranță în mesaje, trebuie să se descarce o copie a acestora în navigator. Descărcarea inițială poate dura un timp."
       ],
       "Toggle Calendar app": [
         "Comutare la aplicație Calendar"
@@ -1470,6 +1470,12 @@
       ],
       "Zoom out": [
         "Micșorare"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "Setați ${ MAIL_APP_NAME } ca aplicație implicită de e-mail"
+      ],
+      "Set as album cover": [
+        "Setare ca și copertă de album"
       ]
     },
     "action": {
@@ -4071,7 +4077,7 @@
         "Acest contact nu se poate exporta."
       ],
       "Checkout expired, please try again": [
-        "Finalizarea comenzii a expirat, mai reîncercați."
+        "Finalizarea comenzii a expirat. Reîncercați."
       ],
       "Choose a date in the future.": [
         "Alegeți o dată în viitor."
@@ -4125,7 +4131,7 @@
         "Deselectați cel puțin ${ calendarsToFixCount } de calendare sau"
       ],
       "Domain not available, try again later": [
-        "Domeniul nu este disponibil, reîncercați mai târziu."
+        "Domeniul nu este disponibil. Reîncercați mai târziu."
       ],
       "Draft could not be saved. Try again.": [
         "Ciorna nu a putut fi salvată. Mai încercați."
@@ -4334,7 +4340,7 @@
         "Alegeți un stat"
       ],
       "Please try again or refresh the page.": [
-        "Mai reîncercați sau reîmprospătați pagina."
+        "Mai încercați sau reîmprospătați pagina."
       ],
       "Please try generating the text again": [
         "Încercați să generați din nou textul."
@@ -4577,6 +4583,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Căutarea a găsit prea multe rezultate. Limitați căutarea și reîncercați."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "Numele de utilizator este ${ user.Name }. Pentru a crea ${ emailAddress }, accesați Setări > Identitate și adrese > Domeniu scurt (pm.me)"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -4753,7 +4762,7 @@
         "Deschidere în navigator web"
       ],
       "Please refresh the page or try again later.": [
-        "Reîmprospătați pagina sau reîncercați mai târziu."
+        "Împrospătați pagina sau reîncercați mai târziu."
       ],
       "Something went wrong": [
         "Ceva nu a funcționat corect."
@@ -8002,6 +8011,12 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Planul programat începe ${ renewalTime } și se va reînnoi automat lunar."
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "Setați ${ MAIL_APP_NAME } ca aplicație implicită de e-mail."
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "Setați ${ MAIL_APP_NAME } ca aplicație implicită de e-mail. ${ MAIL_APP_NAME } se va deschide automat atunci când faceți clic pe o legătură web de e-mail."
       ]
     },
     "info": {
@@ -10011,6 +10026,17 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Scanăm internetul ascuns pentru a verifica dacă adresele sau aliasurile ${ BRAND_NAME } v-au fost divulgate și vă avertizăm imediat dacă găsim ceva."
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Servere dedicate optimizate pentru transmisii în flux"
+      ],
+      "SSO integration": [
+        "Integrare SSO"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Folosiți pe maxim ${ n } un dispozitiv",
+        "Folosiți pe maxim ${ n } dispozitive simultan",
+        "Folosiți pe maxim ${ n } de dispozitive simultan"
       ]
     },
     "new_plans: feature highlight": {
@@ -13903,6 +13929,9 @@
       ],
       "Your shorter address is now ready": [
         "Adresa scurtă este pregătită acum"
+      ],
+      "Help center": [
+        "Centru de ajutor"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14247,6 +14276,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Perioada de probare se încheie în curând la ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "Nu se acceptă două puncte simultan."
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Nu se acceptă punct la început."
+      ],
+      "Cannot contain a dot at the end": [
+        "Nu se acceptă punct la sfârșit."
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Sunt permise doar litere mici, cifre, puncte, cratime și caracter de subliniere."
       ]
     },
     "WeekDay": {

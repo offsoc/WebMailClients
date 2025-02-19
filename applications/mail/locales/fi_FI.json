@@ -7805,6 +7805,9 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Ajoitettu tilauksesi alkaa ${ renewalTime } ja uusitaan utomaattisesti kuukausittain."
+      ],
+      "${ PASS_APP_NAME } allows you to store passwords, notes, and other sensitive information with end-to-end encryption. Available on ${ ios }, ${ android } and in your ${ browser }.": [
+        "${ PASS_APP_NAME } antaa sinun tallentaa salasanoja, muistiinpanoja ja muita arkaluonteisia tietoja päästä päähän -salauksella. Saatavilla ${ ios }lle, ${ android }ille ja ${ browser }lle."
       ]
     },
     "info": {
@@ -13710,6 +13713,10 @@
       "Your subscription will automatically renew in ${ cycle } month.": [
         "Tilauksesi uudistuu automaattisesti ${ cycle } kuukauden kuluttua.",
         "Tilauksesi uudistuu automaattisesti ${ cycle } kuukauden kuluttua."
+      ],
+      "Your new subscription will automatically renew in ${ cycle } month.": [
+        "Uusi tilauksesi uusitaan automaattisesti ${ cycle } kuukauden kuluttua.",
+        "Uusi tilauksesi uusitaan automaattisesti ${ cycle } kuukauden kuluttua."
       ]
     },
     "vpn_2step: feature": {

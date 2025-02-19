@@ -1468,6 +1468,15 @@
       ],
       "Zoom out": [
         "Uzaklaştır"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "${ MAIL_APP_NAME } 'i varsayılan e-posta uygulamanız yapın"
+      ],
+      "Set as album cover": [
+        "Albüm kapağı olarak ayarla"
+      ],
+      "Trust key": [
+        "Güven anahtarı"
       ]
     },
     "action": {
@@ -4549,6 +4558,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Aramanız çok fazla sonuç döndürdü. Lütfen aramanızı sınırlandırıp yeniden deneyin."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } kullanıcı adınızdır. ${ emailAddress } oluşturmak için lütfen Ayarlar > Kimlik ve adresler > Kısa etki alanı (pm.me) bölümüne gidin."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7883,6 +7895,12 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Zamanlanmış tarifeniz ${ renewalTime } tarihinde başlayacak ve her ay otomatik olarak yenilenecek."
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "${ MAIL_APP_NAME } 'i varsayılan e-posta uygulamanız yapın."
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "Varsayılan e-posta uygulamanız olarak ${ MAIL_APP_NAME } ayarlayın. Bir e-posta bağlantısına tıkladığınızda ${ MAIL_APP_NAME } otomatik olarak açılacaktır."
       ]
     },
     "info": {
@@ -9606,7 +9624,7 @@
         "Verilerin ele geçirilmesini izleme"
       ],
       "Dedicated servers optimized for streaming": [
-        "Yayın akışı için optimize edilmiş özel sunucular"
+        "Yayın akışı izlemek için ayarlanmış özel sunucular"
       ],
       "Desktop app": [
         "Bilgisayar uygulaması"
@@ -9846,8 +9864,8 @@
         "${ totalStorageSize } boyutuna kadar depolama alanı"
       ],
       "Use on up to ${ n } device at once": [
-        "Aynı anda en fazla ${ n } cihazda kullanın",
-        "Aynı anda en fazla ${ n } cihazda kullanın"
+        "Aynı anda ${ n } aygıta kadar kullanın",
+        "Aynı anda ${ n } aygıta kadar kullanın"
       ],
       "User credential management": [
         "Kullanıcı kimlik doğrulama bilgileri yönetimi"
@@ -9864,6 +9882,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "${ BRAND_NAME } adreslerinizin veya takma adlarınızın sızıp sızmadığını kontrol etmek için karanlık ağı tararız ve herhangi bir şey bulursak sizi hemen uyarırız."
+      ],
+      "SSO integration": [
+        "Tek oturum açma bütünleştirmesi"
       ]
     },
     "new_plans: feature highlight": {
@@ -13667,6 +13688,9 @@
       ],
       "Your shorter address is now ready": [
         "Daha kısa adresiniz hazır"
+      ],
+      "Help center": [
+        "Yardım merkezi"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13911,7 +13935,7 @@
         "${ BRAND_NAME }, en son iletilerinizden başlayarak olabildiğince fazla veri aktaracak."
       ],
       "2 consecutive dots are not allowed": [
-        "2 ardışık noktaya izin verilmez"
+        "Arka arka 2 nokta yazılamaz"
       ],
       "Are you sure you want to permanently delete ${ count } contact?": [
         "${ count } kişiyi kalıcı olarak silmek istediğinize emin misiniz?",
@@ -13927,10 +13951,10 @@
         "Bu kişiyi kalıcı olarak silmek istediğinize emin misiniz?"
       ],
       "Cannot contain a dot at the beginning": [
-        "Başlangıçta nokta içermez"
+        "Başlangıçta nokta bulunamaz"
       ],
       "Cannot contain a dot at the end": [
-        "Sonda nokta içermez"
+        "Sonda nokta bulunamaz"
       ],
       "Contacts could not be merged": [
         "Kişiler birleştirilemedi"
@@ -13954,7 +13978,7 @@
         "Adın yazılması zorunludur"
       ],
       "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
-        "Yalnızca alfanümerik küçük harf karakterlerine, noktalara, tirelere ve alt çizgilere izin verilir"
+        "Yalnızca küçük harfler, rakamlar, nokta, tire ve alt çizgi karakterleri kullanılabilir"
       ],
       "Please note that by choosing this payment method, your account cannot be upgraded immediately. We will update your account once the payment is cleared.": [
         "Lütfen bu ödeme yöntemini seçtiğinizde hesabınızın hemen güncellenemeyeceğini unutmayın. Hesabınızı ödemenin alındığını doğruladıktan sonra güncelleyeceğiz."

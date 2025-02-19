@@ -1468,6 +1468,12 @@
       ],
       "Zoom out": [
         "Zoom indietro"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "Imposta ${ MAIL_APP_NAME } come la tua applicazione email predefinita"
+      ],
+      "Set as album cover": [
+        "Imposta come copertina dell'album"
       ]
     },
     "action": {
@@ -4549,6 +4555,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "La tua ricerca ha restituito troppi risultati. Limita la ricerca e riprova."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } è il tuo nome utente. Per creare ${ emailAddress }, vai su Impostazioni > Identità e indirizzi > Dominio breve (pm.me)"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7883,6 +7892,12 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Il tuo piano programmato inizia il ${ renewalTime } e si rinnoverà automaticamente ogni mese."
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "Imposta ${ MAIL_APP_NAME } come la tua applicazione email predefinita."
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "Imposta ${ MAIL_APP_NAME } come applicazione mail predefinita. ${ MAIL_APP_NAME } si aprirà automaticamente quando clicchi su un collegamento di posta."
       ]
     },
     "info": {
@@ -9867,6 +9882,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Monitoriamo il dark web per verificare se i tuoi indirizzi o alias ${ BRAND_NAME } vengono diffusi e ti avvisiamo immediatamente se troviamo qualcosa."
+      ],
+      "SSO integration": [
+        "Integrazione SSO"
       ]
     },
     "new_plans: feature highlight": {
@@ -13675,6 +13693,9 @@
       ],
       "Your shorter address is now ready": [
         "Il tuo indirizzo breve ora è pronto"
+      ],
+      "Help center": [
+        "Centro assistenza"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13856,8 +13877,8 @@
     },
     "wallet_signup_2024: Info": {
       "${ n } ${ BRAND_NAME } email address": [
-        "${ n }indirizzo email ${ BRAND_NAME }",
-        "${ n }indirizzi email ${ BRAND_NAME }"
+        "${ n } indirizzo email ${ BRAND_NAME }",
+        "${ n } indirizzi email ${ BRAND_NAME }"
       ],
       "${ n } account per wallet": [
         "${ n } account per portafoglio",

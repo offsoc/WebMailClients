@@ -1468,6 +1468,12 @@
       ],
       "Zoom out": [
         "Σμίκρυνση"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "Κάντε το ${ MAIL_APP_NAME } την προεπιλεγμένη εφαρμογή ηλεκτρονικού ταχυδρομείου σας"
+      ],
+      "Set as album cover": [
+        "Ορισμός ως εξώφυλλο άλμπουμ"
       ]
     },
     "action": {
@@ -4307,10 +4313,10 @@
         "Παρακαλούμε επιλέξτε μια χώρα"
       ],
       "Please select a state": [
-        "Παρακαλώ διαλέξτε πολιτεία"
+        "Παρακαλούμε διαλέξτε πολιτεία"
       ],
       "Please try again or refresh the page.": [
-        "Παρακαλώ δοκιμάστε ξανά ή ανανεώστε τη σελίδα."
+        "Παρακαλούμε δοκιμάστε ξανά ή ανανεώστε τη σελίδα."
       ],
       "Please try generating the text again": [
         "Παρακαλούμε δοκιμάστε να δημιουργήσετε ξανά το κείμενο"
@@ -4549,6 +4555,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Η αναζήτησή σας ταίριαξε με υπερβολικό αριθμό αποτελεσμάτων. Παρακαλούμε περιορίστε την αναζήτησή σας και δοκιμάστε ξανά."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } είναι το όνομα χρήστη σας. Για να δημιουργήσετε το ${ emailAddress }, παρακαλούμε μεταβείτε στις Ρυθμίσεις > Ταυτότητα και διευθύνσεις > Σύντομος τομέας (pm.me)"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -6957,7 +6966,7 @@
         "Παρακαλούμε μοιραστείτε με μας ποιο είναι το πρόβλημα"
       ],
       "Please share what you expected": [
-        "Παρακαλώ μοιραστείτε αυτό που περιμένατε"
+        "Παρακαλούμε μοιραστείτε αυτό που περιμένατε"
       ],
       "Please try again in a few moments": [
         "Παρακαλούμε δοκιμάστε ξανά σε λίγο"
@@ -7883,6 +7892,12 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Το προγραμματισμένο πλάνο σας ξεκινά από ${ renewalTime } και θα ανανεώνεται αυτόματα κάθε μήνα."
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "Κάντε το ${ MAIL_APP_NAME } την προεπιλεγμένη εφαρμογή ηλεκτρονικού ταχυδρομείου σας."
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "Ορίστε τη ${ MAIL_APP_NAME } ως προεπιλεγμένη εφαρμογή ηλεκτρονικού ταχυδρομείου. Η ${ MAIL_APP_NAME } θα ανοίξει αυτόματα όταν κάνετε κλικ σε έναν σύνδεσμο αλληλογραφίας."
       ]
     },
     "info": {
@@ -9864,6 +9879,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Σαρώνουμε τον σκοτεινό ιστό για να ελέγξουμε εάν οι διευθύνσεις ή τα ψευδώνυμά σας ${ BRAND_NAME } έχουν διαρρεύσει και σας ειδοποιούμε αμέσως αν βρούμε κάτι."
+      ],
+      "SSO integration": [
+        "Ενσωμάτωση SSO"
       ]
     },
     "new_plans: feature highlight": {
@@ -10804,7 +10822,7 @@
         "Δεν είμαστε σε θέση να επαληθεύσουμε τον τρόπο πληρωμής σας. Παρακαλούμε επιλέξτε διαφορετικό τρόπο πληρωμής ή προσπαθήστε ξανά."
       ],
       "Your card was declined. Please try a different card or contact your bank to authorize the charge.": [
-        "Η κάρτα σας απορρίφθηκε. Παρακαλώ δοκιμάστε μια διαφορετική κάρτα ή επικοινωνήστε με την τράπεζα σας για να εγκρίνετε τη χρέωση."
+        "Η κάρτα σας απορρίφθηκε. Παρακαλούμε δοκιμάστε μια διαφορετική κάρτα ή επικοινωνήστε με την τράπεζα σας για να εγκρίνετε τη χρέωση."
       ]
     },
     "Payments.plan_name": {
@@ -10918,7 +10936,7 @@
         "Παρακαλούμε εισάγετε πρώτα τον σύνδεσμο"
       ],
       "Please share what you expected": [
-        "Παρακαλώ μοιραστείτε αυτό που περιμένατε"
+        "Παρακαλούμε μοιραστείτε αυτό που περιμένατε"
       ],
       "Search date, name, email address, or subject line": [
         "Αναζητήστε με ημερομηνία, όνομα, διεύθυνση ηλεκτρονικού ταχυδρομείου ή γραμμή θέματος"
@@ -13667,6 +13685,9 @@
       ],
       "Your shorter address is now ready": [
         "Η συντομότερη διεύθυνσή σας είναι τώρα έτοιμη"
+      ],
+      "Help center": [
+        "Κέντρο βοήθειας"
       ]
     },
     "Today icon tooltip in mini calendar": {

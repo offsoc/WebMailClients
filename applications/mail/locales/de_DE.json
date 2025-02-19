@@ -1468,6 +1468,12 @@
       ],
       "Zoom out": [
         "Verkleinern"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "${ MAIL_APP_NAME } als Standard-E-Mail-Anwendung festlegen"
+      ],
+      "Set as album cover": [
+        "Setze als Album-Titelbild"
       ]
     },
     "action": {
@@ -4549,6 +4555,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Deine Suche ergab zu viele Treffer. Schränke deine Suche ein und versuche es erneut."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } ist dein Benutzername. Um ${ emailAddress } zu erstellen, gehe bitte zu Einstellungen > Identität und E-Mail-Adressen > Kurzdomain (pm.me)"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7159,7 +7168,7 @@
         "Da du ein treuer Benutzer bist, wurden deinem Konto zusätzliche Funktionen hinzugefügt."
       ],
       "Snooze messages for later so they are top of your inbox when you want": [
-        "Pause Nachrichten und lies sie später, damit sie jederzeit oben in deinem Posteingang angezeigt werden."
+        "Pausiere Nachrichten und lies sie später, damit sie jederzeit oben in deinem Posteingang angezeigt werden."
       ],
       "Snoozed until ${ dateString } at ${ formattedTime }": [
         "Aufgeschoben bis zum ${ dateString } um ${ formattedTime }"
@@ -7883,6 +7892,12 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Dein geplantes Abonnement beginnt am ${ renewalTime } und wird jeden Monat automatisch erneuert."
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "${ MAIL_APP_NAME } als Standard-E-Mail-Anwendung festlegen."
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "Lege ${ MAIL_APP_NAME } als deine Standard-E-Mail-Anwendung fest. ${ MAIL_APP_NAME } wird automatisch geöffnet, wenn du auf einen E-Mail-Link klickst."
       ]
     },
     "info": {
@@ -9846,8 +9861,8 @@
         "Bis zu ${ totalStorageSize } Speicherplatz"
       ],
       "Use on up to ${ n } device at once": [
-        "Bis zu ${ n } Gerät auf einmal",
-        "Bis zu ${ n } Geräte auf einmal"
+        "Gleichzeitige Verwendung auf bis zu ${ n } Gerät",
+        "Gleichzeitige Verwendung auf bis zu ${ n } Geräten"
       ],
       "User credential management": [
         "Verwaltung von Benutzeranmeldedaten"
@@ -9864,6 +9879,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Wir scannen das Dark Web, um zu überprüfen, ob deine ${ BRAND_NAME }-Adressen oder Aliasse veröffentlicht wurden und alarmieren dich sofort, wenn wir etwas finden."
+      ],
+      "SSO integration": [
+        "SSO-Integration"
       ]
     },
     "new_plans: feature highlight": {
@@ -13667,6 +13685,9 @@
       ],
       "Your shorter address is now ready": [
         "Deine kürzere E-Mail-Adresse ist jetzt fertig."
+      ],
+      "Help center": [
+        "Hilfecenter"
       ]
     },
     "Today icon tooltip in mini calendar": {

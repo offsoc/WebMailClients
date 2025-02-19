@@ -1475,6 +1475,9 @@
       ],
       "Zoom out": [
         "Oddialiť"
+      ],
+      "Set as album cover": [
+        "Nastaviť ako obal albumu"
       ]
     },
     "action": {
@@ -10186,6 +10189,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Skenujeme temný web a kontrolujeme, či nedošlo k úniku vašich adries alebo aliasov ${ BRAND_NAME }, a ak niečo nájdeme, okamžite vás upozorníme."
+      ],
+      "SSO integration": [
+        "SSO integrácia"
       ]
     },
     "new_plans: feature highlight": {
@@ -14167,6 +14173,9 @@
       ],
       "Your shorter address is now ready": [
         "Vaša skrátená adresa je pripravená"
+      ],
+      "Help center": [
+        "Centrum pomoci"
       ]
     },
     "Today icon tooltip in mini calendar": {

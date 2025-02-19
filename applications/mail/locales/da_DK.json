@@ -3686,6 +3686,10 @@
     "Desktop notification body": {
       "From: ${ sender } - ${ Subject }": [
         "Fra: ${ sender } - ${ Subject }"
+      ],
+      "${ notificationsToShow.length } new message": [
+        "${ notificationsToShow.length } ny besked",
+        "${ notificationsToShow.length } nye beskeder"
       ]
     },
     "Desktop notification title": {
@@ -4461,6 +4465,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Din søgning gav for mange resultater. Begræns din søgning, og forsøg igen."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } er dit brugernavn. For at oprette ${ emailAddress } skal du gå til Indstillinger > Identitet og adresser > Kort domæne (pm.me)"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -4607,6 +4614,9 @@
       ],
       "Unsupported event": [
         "Ikke-understøttet begivenhed"
+      ],
+      "Time zone component ignored": [
+        "Tidszonekomponent ignoreret"
       ]
     },
     "Error message": {
@@ -7652,6 +7662,58 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Dit planlagte abonnement starter den ${ renewalTime } og fornyes automatisk hver måned."
+      ],
+      "${ PASS_APP_NAME } allows you to store passwords, notes, and other sensitive information with end-to-end encryption. Available on ${ ios }, ${ android } and in your ${ browser }.": [
+        "Med ${ PASS_APP_NAME } kan du gemme adgangskoder, noter og andre følsomme oplysninger med end-to-end-kryptering. Tilgængelig på ${ ios }, ${ android } og i din ${ browser }."
+      ],
+      "Active": [
+        "Aktiv"
+      ],
+      "Create a secure cloud for ${ value } member": [
+        "Opret en sikker sky til ${ value } medlem",
+        "Opret en sikker sky til ${ value } medlemmer"
+      ],
+      "Download on the App Store": [
+        "Download i App Store"
+      ],
+      "For anytime access to email and an optimized mobile experience, download our ${ androidAppLink } or ${ iosAppLink }.": [
+        "For at få adgang til e-mail når som helst og en optimeret mobiloplevelse kan du downloade vores ${ androidAppLink } eller ${ iosAppLink }."
+      ],
+      "Get it on Google Play": [
+        "Hent den på Google Play"
+      ],
+      "Invite family members and get everything up and running.": [
+        "Inviter familiemedlemmer, og få det hele op at køre."
+      ],
+      "Invite your partner, a friend, or whoever you're sharing your ${ protonDuoPlanName } plan with.": [
+        "Inviter din partner, en ven, eller hvem du nu deler dit ${ protonDuoPlanName }-abonnement med."
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "Gør ${ MAIL_APP_NAME } til din standard e-mail-applikation."
+      ],
+      "Protect your email from being leaked to mailing lists or spammers with hide-my-email aliases.": [
+        "Beskyt din e-mail mod at blive lækket til mailinglister eller spammere med hide-my-email-aliasser."
+      ],
+      "Reach out to us for help on anything ${ BRAND_NAME }.": [
+        "Kontakt os for at få hjælp til hvad som helst ${ BRAND_NAME }."
+      ],
+      "Send messages at just the right now": [
+        "Send beskeder på det helt rigtige tidspunkt"
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "Indstil ${ MAIL_APP_NAME } som din standard e-mail-applikation. ${ MAIL_APP_NAME } vil åbne automatisk, når du klikker på et e-mail-link."
+      ],
+      "Snooze messages for later so they are top of your inbox when you want": [
+        "Udsæt beskeder til senere, så de ligger øverst i din indbakke, når du ønsker"
+      ],
+      "Sync and manage files with the ${ DRIVE_APP_NAME } app. Create and share documents in ${ DOCS_APP_NAME }, and securely store them. All on ${ ios }, ${ android } and ${ desktop }.": [
+        "Synkroniser og administrer filer med ${ DRIVE_APP_NAME }-appen. Opret og del dokumenter i ${ DOCS_APP_NAME } og opbevar dem sikkert. Alt sammen på ${ ios }, ${ android } og ${ desktop }."
+      ],
+      "This message is from a ${ PASS_APP_NAME } alias.": [
+        "Denne besked er fra et ${ PASS_APP_NAME }-alias."
+      ],
+      "You can add your own custom domain to ${ MAIL_APP_NAME }": [
+        "Du kan tilføje dit eget brugerdefinerede domæne til ${ MAIL_APP_NAME }"
       ]
     },
     "info": {
@@ -9590,6 +9652,10 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Vi scanner det mørke web for at tjekke, om dine ${ BRAND_NAME }-adresser eller aliasser er blevet lækket, og giver dig straks besked, hvis vi finder noget."
+      ],
+      "Use on up to ${ n } device at once": [
+        "Brug op til ${ n } enhed samtidig",
+        "Brug op til ${ n } enheder samtidig"
       ]
     },
     "new_plans: feature highlight": {
@@ -13282,6 +13348,10 @@
       "Your subscription will automatically renew in ${ cycle } month.": [
         "Dit abonnement vil automatisk forny i ${ cycle } måned.",
         "Dit abonnement vil automatisk forny i ${ cycle } måneder."
+      ],
+      "Your new subscription will automatically renew in ${ cycle } month.": [
+        "Dit nye abonnement vil automatisk blive fornyet om ${ cycle } måned.",
+        "Dit nye abonnement vil automatisk blive fornyet om ${ cycle } måneder."
       ]
     },
     "vpn_2step: feature": {
@@ -13317,6 +13387,10 @@
       ],
       "Securely exchange Bitcoin via email instead of complex, 26-character Bitcoin addresses that are prone to error": [
         "Udveksl Bitcoin sikkert via e-mail i stedet for komplekse, 26-tegns Bitcoin-adresser, der er tilbøjelige til fejl"
+      ],
+      "${ n } ${ BRAND_NAME } email address": [
+        "${ n } ${ BRAND_NAME } e-mailadresse",
+        "${ n } ${ BRAND_NAME } e-mailadresser"
       ]
     },
     "wallet_signup_2024:Action": {

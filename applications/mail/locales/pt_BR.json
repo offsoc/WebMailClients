@@ -1468,6 +1468,12 @@
       ],
       "Zoom out": [
         "Diminuir zoom"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "Tornar ${ MAIL_APP_NAME } como seu aplicativo de e-mail padrão"
+      ],
+      "Set as album cover": [
+        "Definir como capa do álbum"
       ]
     },
     "action": {
@@ -4549,6 +4555,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "A sua pesquisa correspondeu a muitos resultados. Limite sua busca e tente novamente."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } é seu nome de usuário. Para criar um ${ emailAddress }, vá para Configurações > \nIdentidade e endereços > Domínio curto (pm.me)"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7883,6 +7892,12 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Seu plano começa em ${ renewalTime } e será renovado automaticamente todo mês."
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "Tornar ${ MAIL_APP_NAME } como seu aplicativo de e-mail padrão."
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "Define o ${ MAIL_APP_NAME } como seu aplicativo de e-mails padrão. O ${ MAIL_APP_NAME } será aberto automaticamente quando você clicar em um link de e-mail."
       ]
     },
     "info": {
@@ -9867,6 +9882,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Rastreamos a dark web para verificar se seus endereços ou aliases ${ BRAND_NAME } sofreram vazamento e alertarmos você imediatamente se encontrarmos alguma coisa."
+      ],
+      "SSO integration": [
+        "Integração SSO"
       ]
     },
     "new_plans: feature highlight": {
@@ -13687,6 +13705,9 @@
       ],
       "Your shorter address is now ready": [
         "Seu endereço mais curto já está pronto"
+      ],
+      "Help center": [
+        "Central de ajuda"
       ]
     },
     "Today icon tooltip in mini calendar": {

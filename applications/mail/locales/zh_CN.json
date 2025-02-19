@@ -1460,6 +1460,12 @@
       ],
       "Zoom out": [
         "缩小"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "将 ${ MAIL_APP_NAME } 设为您的默认电子邮件应用程序"
+      ],
+      "Set as album cover": [
+        "设置为专辑封面"
       ]
     },
     "action": {
@@ -4515,6 +4521,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "搜索结果过多，请缩小搜索范围后再试。"
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } 是您的用户名。要创建 ${ emailAddress }，请进入设置 > 身份和地址 > 短域 (pm.me)"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7740,6 +7749,12 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "您的预定计划从 ${ renewalTime } 开始，每月自动续订。"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "将 ${ MAIL_APP_NAME } 设为默认邮件应用。"
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "将 ${ MAIL_APP_NAME } 设置为默认电子邮件应用程序，点击电子邮件链接时，${ MAIL_APP_NAME } 将自动打开。"
       ]
     },
     "info": {
@@ -9679,6 +9694,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "我们会扫描暗网，检查您的 ${ BRAND_NAME } 地址或别名是否被泄露，一旦发现任何情况，我们会立即提醒您。"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "专为流媒体优化的专用服务器"
+      ],
+      "SSO integration": [
+        "SSO 集成"
+      ],
+      "Use on up to ${ n } device at once": [
+        "最多可同时在 ${ n } 台设备上使用"
       ]
     },
     "new_plans: feature highlight": {
@@ -13393,6 +13417,9 @@
       ],
       "Your shorter address is now ready": [
         "您的较短地址现已准备就绪"
+      ],
+      "Help center": [
+        "帮助中心"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13711,6 +13738,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "您的免费体验期将于 ${ textDate } 结束。${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "不允许出现 2 个连续的点"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "开头不能包含点"
+      ],
+      "Cannot contain a dot at the end": [
+        "末尾不能包含点"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "只允许使用字母数字小写字符、点、连字符和下划线"
       ]
     },
     "WeekDay": {

@@ -1418,6 +1418,9 @@
       ],
       "Zoom out": [
         "Pomanjšaj"
+      ],
+      "Remove Zoom meeting": [
+        "Odstrani sestanek Zoom"
       ]
     },
     "action": {
@@ -1870,6 +1873,9 @@
       ],
       "Take a tour": [
         "Oglejte si"
+      ],
+      "Close": [
+        "Zapri"
       ]
     },
     "Calendar attachment tooltip": {
@@ -7639,6 +7645,15 @@
       ],
       "Your private writing assistant": [
         "Vaš osebni pomočnik pri pisanju e-pošte"
+      ],
+      "Any subfolders will also be deleted. However, emails stored in the folder ${ nameDeleted } will not be deleted and can be found in All Mail folder.": [
+        "Izbrisane bodo tudi vse podmape. E-poštna sporočila, shranjena v mapi ${ nameDeleted }, ne bodo izbrisana in jih boste našli v mapi Vsa pošta."
+      ],
+      "Email copied to clipboard": [
+        "E-poštni naslov kopiran v odložišče"
+      ],
+      "Enabling auto-deletion…": [
+        "Omogočanje samodejnega brisanja …"
       ]
     },
     "info": {
@@ -9590,6 +9605,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Pregledujemo temni splet in preverjamo, ali so bili razkriti naslovi ali vzdevki ${ BRAND_NAME }. V primeru uhajanja podatkov vas bomo o tem obvestili."
+      ],
+      "200 GB of storage": [
+        "200 GB prostora za shranjevanje"
       ]
     },
     "new_plans: feature highlight": {
@@ -13096,6 +13114,9 @@
       ],
       "Your free trial has ended": [
         "Brezplačno preizkusno obdobje se je izteklo."
+      ],
+      "Upgrade complete!": [
+        "Nadgradnja opravljena!"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13737,6 +13758,11 @@
       ],
       "Meeting ID:": [
         "ID sestanka:"
+      ]
+    },
+    "Downgrade warning": {
+      "Remove discount": [
+        "Odstrani popust"
       ]
     }
   }

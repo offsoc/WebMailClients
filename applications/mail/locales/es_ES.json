@@ -1468,6 +1468,12 @@
       ],
       "Zoom out": [
         "Alejar"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "Establecer ${ MAIL_APP_NAME } como aplicación de correo por defecto"
+      ],
+      "Set as album cover": [
+        "Establecer como portada de álbum"
       ]
     },
     "action": {
@@ -4549,6 +4555,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Tu búsqueda ha coincidido con muchos resultados. Limita tu búsqueda e inténtalo de nuevo."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } es tu nombre de usuario. Para crear ${ emailAddress }, ve a Ajustes > Identidad y direcciones > Dominio corto (pm.me)"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7883,6 +7892,12 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Tu plan programado comienza el ${ renewalTime } y se renovará automáticamente cada mes."
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "Establece ${ MAIL_APP_NAME } como aplicación de correo por defecto."
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "Configura ${ MAIL_APP_NAME } como tu aplicación de correo electrónico por defecto. ${ MAIL_APP_NAME } se abrirá automáticamente al hacer clic en un enlace de correo electrónico."
       ]
     },
     "info": {
@@ -9867,6 +9882,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Escaneamos la red oscura para verificar si tus direcciones o alias de ${ BRAND_NAME } han sido filtrados y alertarte de inmediato si encontramos algo."
+      ],
+      "SSO integration": [
+        "Integración SSO"
       ]
     },
     "new_plans: feature highlight": {
@@ -13676,6 +13694,9 @@
       ],
       "Your shorter address is now ready": [
         "Tu dirección en formato más corto ya está lista."
+      ],
+      "Help center": [
+        "Centro de ayuda"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14034,12 +14055,12 @@
     },
     "Weekly recurring event, frequency": {
       "Every ${ interval } week on ${ multipleDaysString }": [
-        "Cada semana los ${ multipleDaysString } ${ interval }",
+        "Cada ${ interval } semana los ${ multipleDaysString }",
         "Cada ${ interval } semanas los ${ multipleDaysString }"
       ],
       "Every ${ interval } week on all days": [
-        "Cada semana todos los días ${ interval }",
-        "Cada ${ interval } semanas todos los días"
+        "Todos los días cada ${ interval } semana",
+        "Todos los días cada ${ interval } semanas"
       ],
       "Every ${ interval } week on Friday": [
         "Cada semana los viernes ${ interval }",
