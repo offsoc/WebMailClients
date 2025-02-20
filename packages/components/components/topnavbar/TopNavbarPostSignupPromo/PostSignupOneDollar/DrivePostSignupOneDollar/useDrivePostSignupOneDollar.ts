@@ -38,7 +38,7 @@ export const useDrivePostSignupOneDollar = (): OfferHookReturnValue => {
             mailOfferStartDateTimestamp: mailOfferState?.Value,
             hasUploadedFile: !!(user?.ProductUsedSpace?.Drive ?? 0 > 0),
         }),
-        isLoading: loadingUser || postSignupDateLoading || postSignupThresholdLoading || mailOfferLoading,
+        isLoading: !!(loadingUser || postSignupDateLoading || postSignupThresholdLoading || mailOfferLoading),
         openSpotlight: shouldOpenPostSignupOffer(driveOfferState?.Value) && !isDomBusy,
     };
 };
