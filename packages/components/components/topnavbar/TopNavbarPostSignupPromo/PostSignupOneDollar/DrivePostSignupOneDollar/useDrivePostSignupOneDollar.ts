@@ -4,11 +4,12 @@ import { FeatureCode, useFeature } from '@proton/features';
 import { domIsBusy } from '@proton/shared/lib/busy';
 import useFlag from '@proton/unleash/useFlag';
 
+import { type OfferHookReturnValue } from '../../common/interface';
 import { type PostSubscriptionOneDollarOfferState } from '../interface';
 import { shouldOpenPostSignupOffer } from '../postSignupOffersHelpers';
 import { getIsUserEligibleForOneDollar } from './drivePostSignupOneDollarHelper';
 
-export const useDrivePostSignupOneDollar = () => {
+export const useDrivePostSignupOneDollar = (): OfferHookReturnValue => {
     const protonConfig = useConfig();
     const [user, loadingUser] = useUser();
 
@@ -37,7 +38,7 @@ export const useDrivePostSignupOneDollar = () => {
             mailOfferStartDateTimestamp: mailOfferState?.Value,
             hasUploadedFile: !!(user?.ProductUsedSpace?.Drive ?? 0 > 0),
         }),
-        loading: loadingUser || postSignupDateLoading || postSignupThresholdLoading || mailOfferLoading,
+        isLoading: loadingUser || postSignupDateLoading || postSignupThresholdLoading || mailOfferLoading,
         openSpotlight: shouldOpenPostSignupOffer(driveOfferState?.Value) && !isDomBusy,
     };
 };
