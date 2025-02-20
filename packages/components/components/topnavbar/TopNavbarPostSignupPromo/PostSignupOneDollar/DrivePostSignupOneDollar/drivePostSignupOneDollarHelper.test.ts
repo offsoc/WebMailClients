@@ -14,6 +14,7 @@ describe('Drive post signup one dollar eligibility', () => {
                 isFree: true,
                 isDelinquent: false,
                 CreateTime: subDays(today, 7).getTime() / 1000,
+                ProductUsedSpace: { Drive: 0 },
             } as unknown as UserModel;
 
             expect(
@@ -34,6 +35,7 @@ describe('Drive post signup one dollar eligibility', () => {
                 isFree: true,
                 isDelinquent: false,
                 CreateTime: subDays(today, 7).getTime() / 1000,
+                ProductUsedSpace: { Drive: 0 },
             } as unknown as UserModel;
 
             expect(
@@ -54,6 +56,7 @@ describe('Drive post signup one dollar eligibility', () => {
                 isFree: true,
                 isDelinquent: false,
                 CreateTime: subDays(today, 6).getTime() / 1000,
+                ProductUsedSpace: { Drive: 0 },
             } as unknown as UserModel;
 
             expect(
@@ -74,6 +77,7 @@ describe('Drive post signup one dollar eligibility', () => {
                 isFree: true,
                 isDelinquent: false,
                 CreateTime: subDays(today, 40).getTime() / 1000,
+                ProductUsedSpace: { Drive: 0 },
             } as unknown as UserModel;
 
             expect(
@@ -94,6 +98,7 @@ describe('Drive post signup one dollar eligibility', () => {
                 isFree: true,
                 isDelinquent: false,
                 CreateTime: subDays(today, 40).getTime() / 1000,
+                ProductUsedSpace: { Drive: 0 },
             } as unknown as UserModel;
 
             expect(
@@ -116,6 +121,7 @@ describe('Drive post signup one dollar eligibility', () => {
                 isFree: true,
                 isDelinquent: false,
                 CreateTime: subDays(today, 7).getTime() / 1000,
+                ProductUsedSpace: { Drive: 0 },
             } as unknown as UserModel;
 
             expect(
@@ -140,6 +146,7 @@ describe('Drive post signup one dollar eligibility', () => {
                 isFree: true,
                 isDelinquent: false,
                 CreateTime: subDays(today, 7).getTime() / 1000,
+                ProductUsedSpace: { Drive: 0 },
             } as unknown as UserModel;
 
             expect(
@@ -164,6 +171,7 @@ describe('Drive post signup one dollar eligibility', () => {
                 isFree: true,
                 isDelinquent: false,
                 CreateTime: subDays(today, 7).getTime() / 1000,
+                ProductUsedSpace: { Drive: 0 },
             } as unknown as UserModel;
 
             expect(
@@ -188,6 +196,7 @@ describe('Drive post signup one dollar eligibility', () => {
                 isFree: true,
                 isDelinquent: false,
                 CreateTime: subDays(today, 7).getTime() / 1000,
+                ProductUsedSpace: { Drive: 0 },
             } as unknown as UserModel;
 
             expect(
@@ -214,6 +223,7 @@ describe('Drive post signup one dollar eligibility', () => {
                 isFree: false,
                 isDelinquent: false,
                 CreateTime: today.getTime() / 1000,
+                ProductUsedSpace: { Drive: 0 },
             } as unknown as UserModel;
 
             expect(
@@ -255,6 +265,7 @@ describe('Drive post signup one dollar eligibility', () => {
                 isFree: false,
                 isDelinquent: false,
                 CreateTime: today.getTime() / 1000,
+                ProductUsedSpace: { Drive: 0 },
             } as unknown as UserModel;
 
             expect(
@@ -275,6 +286,7 @@ describe('Drive post signup one dollar eligibility', () => {
                 isFree: true,
                 isDelinquent: true,
                 CreateTime: today.getTime() / 1000,
+                ProductUsedSpace: { Drive: 0 },
             } as unknown as UserModel;
 
             expect(
@@ -295,6 +307,7 @@ describe('Drive post signup one dollar eligibility', () => {
                 isFree: true,
                 isDelinquent: false,
                 CreateTime: subDays(today, 7).getTime() / 1000,
+                ProductUsedSpace: { Drive: 0 },
             } as unknown as UserModel;
 
             expect(

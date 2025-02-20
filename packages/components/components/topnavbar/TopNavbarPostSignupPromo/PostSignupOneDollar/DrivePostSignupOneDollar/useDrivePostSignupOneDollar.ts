@@ -1,17 +1,8 @@
-import { useEffect, useState } from 'react';
-
-import { useUserSettings } from '@proton/account/index';
 import { useUser } from '@proton/account/user/hooks';
-import useApi from '@proton/components/hooks/useApi';
 import useConfig from '@proton/components/hooks/useConfig';
 import useLastSubscriptionEnd from '@proton/components/hooks/useLastSubscriptionEnd';
 import { FeatureCode, useFeature } from '@proton/features';
-import useLoading from '@proton/hooks/useLoading';
-import { getDriveChecklist } from '@proton/shared/lib/api/checklist';
-import { getSilentApi } from '@proton/shared/lib/api/helpers/customConfig';
 import { domIsBusy } from '@proton/shared/lib/busy';
-import { isDriveUser } from '@proton/shared/lib/helpers/usedClientsFlags';
-import { type ChecklistApiResponse, ChecklistKey } from '@proton/shared/lib/interfaces';
 import useFlag from '@proton/unleash/useFlag';
 
 import { type PostSubscriptionOneDollarOfferState } from '../interface';
@@ -19,24 +10,8 @@ import { shouldOpenPostSignupOffer } from '../postSignupOffersHelpers';
 import { getIsUserEligibleForOneDollar } from './drivePostSignupOneDollarHelper';
 
 export const useDrivePostSignupOneDollar = () => {
-    const api = useApi();
-    const silentAPI = getSilentApi(api);
     const protonConfig = useConfig();
-    const [loadingChecklist, withLoading] = useLoading(false);
     const [user, loadingUser] = useUser();
-    const [userSettings, loadingUserSettings] = useUserSettings();
-
-    const [checklist, setChecklist] = useState<ChecklistApiResponse>();
-
-    useEffect(() => {
-        if (user.isPaid || !isDriveUser(BigInt(userSettings.UsedClientFlags))) {
-            return;
-        }
-
-        void withLoading(silentAPI<ChecklistApiResponse>(getDriveChecklist('get-started')).then(setChecklist));
-    }, [userSettings]);
-
-    const hasUploadedFile = !!checklist?.Items?.includes(ChecklistKey.DriveUpload);
 
     const [subscriptionEnd, loadingSubscriptionEnd] = useLastSubscriptionEnd();
 
@@ -64,12 +39,10 @@ export const useDrivePostSignupOneDollar = () => {
             driveOneDollarPostSignupFlag,
             lastSubscriptionEnd: subscriptionEnd,
             mailOfferStartDateTimestamp: mailOfferState?.Value,
-            hasUploadedFile,
+            hasUploadedFile: !!(user?.ProductUsedSpace?.Drive ?? 0 > 0),
         }),
         loading:
             loadingUser ||
-            loadingUserSettings ||
-            loadingChecklist ||
             postSignupDateLoading ||
             postSignupThresholdLoading ||
             mailOfferLoading ||
