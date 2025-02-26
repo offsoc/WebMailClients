@@ -2122,6 +2122,7 @@ const InteractiveCalendarView = ({
                 isOpen={!!targetEvent}
                 once
                 when={targetEvent ? targetEvent.start : undefined}
+                isCreateEventPopover={!!(targetEvent?.isTemporary && tmpData)}
             >
                 {({ style, ref }: PopoverRenderData) => {
                     if (
