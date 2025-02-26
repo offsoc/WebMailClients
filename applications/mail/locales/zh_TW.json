@@ -1941,6 +1941,9 @@
       ],
       "Take a tour": [
         "瀏覽"
+      ],
+      "Close": [
+        "關閉"
       ]
     },
     "Calendar attachment tooltip": {
@@ -10161,6 +10164,30 @@
       ],
       "Save 80% on your first month.": [
         "首月省下80%"
+      ],
+      "Don’t show this offer again": [
+        "不再顯示此優惠"
+      ],
+      "Last day to save": [
+        "最後優惠日"
+      ],
+      "Mail Plus for 12 months": [
+        "12個月的Mail Plus"
+      ],
+      "Save": [
+        "儲存"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "省下${ prices.savedPercentage }%"
+      ],
+      "This offer won't be shown again.": [
+        "此優惠將不再顯示。"
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "當您從每月切換至每年訂月。"
+      ],
+      "You currently pay": [
+        "您目前付款"
       ]
     },
     "Offer feature": {
@@ -10770,6 +10797,9 @@
       ],
       "Type text or keyword": [
         "鍵入文字或關鍵詞"
+      ],
+      "Filter quick actions": [
+        "過濾快速動作"
       ]
     },
     "Placeholder for contact group name": {
@@ -13338,6 +13368,12 @@
       ],
       "Your shorter address is now ready": [
         "您的短地址已完成"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName }鍵盤快捷鍵"
+      ],
+      "Help center": [
+        "說明中心"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13653,6 +13689,15 @@
       ],
       "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
         "僅允許英文小寫字母、數字、點號、連字號和底線"
+      ],
+      "2 consecutive dots are not allowed": [
+        "不允許連續2點"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "無法於開頭使用點"
+      ],
+      "Cannot contain a dot at the end": [
+        "無法於最後使用點"
       ]
     },
     "WeekDay": {

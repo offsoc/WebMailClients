@@ -1476,6 +1476,9 @@
       ],
       "Set as album cover": [
         "Setare ca și copertă de album"
+      ],
+      "Use ${ PASS_APP_NAME }": [
+        "Utilizați ${ PASS_APP_NAME }"
       ]
     },
     "action": {
@@ -8017,6 +8020,18 @@
       ],
       "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
         "Setați ${ MAIL_APP_NAME } ca aplicație implicită de e-mail. ${ MAIL_APP_NAME } se va deschide automat atunci când faceți clic pe o legătură web de e-mail."
+      ],
+      "${ BRAND_NAME }'s password manager lets you create, store, and autofill passwords, so you never have to reset them.": [
+        "Managerul de parole ${ BRAND_NAME } vă permite să creați, să stocați și să autocompletați parolele, astfel încât nu va mai trebui să le resetați."
+      ],
+      "Detection takes place on your device, so no data from your emails is sent to our servers.": [
+        "Detectarea se execută pe dispozitiv, astfel că nu se trimit nici un fel de date spre servere."
+      ],
+      "More infos": [
+        "Detalii"
+      ],
+      "This was shown to you because your email subject line contains password reset keywords.": [
+        "Vi s-a afișat aceasta deoarece subiectul mesajului conține cuvinte cheie pentru resetarea parolei."
       ]
     },
     "info": {
@@ -8035,6 +8050,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Pentru plata cu numerar contactați-ne la ${ email } pentru instrucțiuni."
+      ],
+      "How to send a cash payment?": [
+        "Cum se trimite o plată în numerar?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Găsiți instrucțiunile în articolul: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info on errors": {
@@ -8858,6 +8879,9 @@
       ],
       "Your password (admin)": [
         "Parola dvs. (administrator)"
+      ],
+      "Don't show this suggestion": [
+        "Nu afișa această sugestie"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9473,6 +9497,9 @@
       ],
       "on the third Wednesday": [
         "în a treia miercuri"
+      ],
+      "on the ${ shortenedDay }": [
+        "${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -10550,6 +10577,33 @@
       ],
       "Save 80% on your first month.": [
         "Economisiți 80% în prima lună."
+      ],
+      "Don’t show this offer again": [
+        "Nu mai arăta această ofertă"
+      ],
+      "Last day to save": [
+        "Ultima zi de economisire"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus pentru 12 luni"
+      ],
+      "Save": [
+        "Economisiți"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Economisiți ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Economisiți mult dacă plătiți anual"
+      ],
+      "This offer won't be shown again.": [
+        "Această ofertă nu va mai fi afișată."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Când comutați de la un abonament lunar la unul anual."
+      ],
+      "You currently pay": [
+        "Acum plătiți"
       ]
     },
     "Offer feature": {
@@ -11168,6 +11222,9 @@
       ],
       "Type text or keyword": [
         "Scrieți un text sau cuvânt cheie"
+      ],
+      "Filter quick actions": [
+        "Filtrare acțiuni rapide"
       ]
     },
     "Placeholder for contact group name": {
@@ -13932,6 +13989,12 @@
       ],
       "Help center": [
         "Centru de ajutor"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "Combinații de taste ${ appName }"
+      ],
+      "On-device suggestions": [
+        "Sugestii pe dispozitiv"
       ]
     },
     "Today icon tooltip in mini calendar": {

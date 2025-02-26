@@ -1478,6 +1478,9 @@
       ],
       "Set as album cover": [
         "Nastaviť ako obal albumu"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "Nastavte ${ MAIL_APP_NAME } ako vašu predvolenú emailovú aplikáciu"
       ]
     },
     "action": {
@@ -4611,6 +4614,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Vyhľadávanie našlo príliš veľa výsledkov. Upresnite hľadanie a skúste to prosím znova."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } je vaše používateľské meno. Pre vytvorenie ${ emailAddress } prejdite do Nastavenia > Identita a adresy > Krátka doména (pm.me)"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -8136,6 +8142,12 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Váš naplánovaný plán sa začína od ${ renewalTime } a bude sa automaticky obnovovať každý mesiac."
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "Nastavte ${ MAIL_APP_NAME } ako predvolenú emailovú aplikáciu."
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "Nastavte ${ MAIL_APP_NAME } ako vašu predvolenú emailovú aplikáciu. ${ MAIL_APP_NAME } sa otvorí automaticky po kliknutí na emailový odkaz."
       ]
     },
     "info": {
@@ -10709,6 +10721,33 @@
       ],
       "Save 80% on your first month.": [
         "Ušetrite 80 % v prvom mesiaci."
+      ],
+      "Don’t show this offer again": [
+        "Nabudúce to už nezobrazovať"
+      ],
+      "Last day to save": [
+        "Posledný deň na ušetrenie"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus na 12 mesiacov"
+      ],
+      "Save": [
+        "Ušetrite"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Ušetrite ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Pri ročnej platbe ušetríte viac"
+      ],
+      "This offer won't be shown again.": [
+        "Táto ponuka sa už nezobrazí."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Keď prejdete z mesačného na ročné predplatné."
+      ],
+      "You currently pay": [
+        "V súčasnosti platíte"
       ]
     },
     "Offer feature": {
@@ -11330,6 +11369,9 @@
       ],
       "Type text or keyword": [
         "Zadajte text alebo kľúčové slovo"
+      ],
+      "Filter quick actions": [
+        "Filtrovať rýchle akcie"
       ]
     },
     "Placeholder for contact group name": {
@@ -14176,6 +14218,9 @@
       ],
       "Help center": [
         "Centrum pomoci"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName } klávesové skratky"
       ]
     },
     "Today icon tooltip in mini calendar": {

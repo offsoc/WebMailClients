@@ -1474,6 +1474,9 @@
       ],
       "Set as album cover": [
         "Setze als Album-Titelbild"
+      ],
+      "Use ${ PASS_APP_NAME }": [
+        "Benutze ${ PASS_APP_NAME }"
       ]
     },
     "action": {
@@ -6331,7 +6334,7 @@
         "Dezidierte Server"
       ],
       "default email address": [
-        "standard E-Mail-Adresse"
+        "Standard-E-Mail-Adresse"
       ],
       "Default email application": [
         "Standard E-Mail-Anwendung"
@@ -7898,6 +7901,18 @@
       ],
       "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
         "Lege ${ MAIL_APP_NAME } als deine Standard-E-Mail-Anwendung fest. ${ MAIL_APP_NAME } wird automatisch geöffnet, wenn du auf einen E-Mail-Link klickst."
+      ],
+      "${ BRAND_NAME }'s password manager lets you create, store, and autofill passwords, so you never have to reset them.": [
+        "Mit dem Passwort-Manager von ${ BRAND_NAME } kannst du Passwörter erstellen, speichern und automatisch ausfüllen, sodass du sie nie zurücksetzen musst."
+      ],
+      "Detection takes place on your device, so no data from your emails is sent to our servers.": [
+        "Die Erkennung findet auf deinem Gerät statt, sodass keine Daten von deinen E-Mails an unsere Server gesendet werden."
+      ],
+      "More infos": [
+        "Weitere Infos"
+      ],
+      "This was shown to you because your email subject line contains password reset keywords.": [
+        "Dies wurde dir angezeigt, weil die Betreffzeile deiner E-Mail Schlüsselwörter zum Zurücksetzen des Passworts enthält."
       ]
     },
     "info": {
@@ -7915,6 +7930,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Bitte kontaktiere uns unter ${ email } für Anweisungen, wie du unsere Rechnung mit Bargeld begleichen kannst."
+      ],
+      "How to send a cash payment?": [
+        "Wie sendet man eine Bargeldzahlung?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Die Anleitung dazu findest du im Artikel: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info on errors": {
@@ -8733,6 +8754,9 @@
       ],
       "Your password (admin)": [
         "Dein Passwort (Admin)"
+      ],
+      "Don't show this suggestion": [
+        "Diesen Vorschlag nicht anzeigen"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9340,6 +9364,9 @@
       ],
       "on the third Wednesday": [
         "am dritten Mittwoch"
+      ],
+      "on the ${ shortenedDay }": [
+        "am ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -10391,6 +10418,33 @@
       ],
       "Save 80% on your first month.": [
         "Spare 80% im ersten Monat."
+      ],
+      "Don’t show this offer again": [
+        "Dieses Angebot nicht mehr zeigen"
+      ],
+      "Last day to save": [
+        "Letzter Tag zum Sparen"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus für 12 Monate"
+      ],
+      "Save": [
+        "Sparen"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Spare ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Spare kräftig, wenn du jährlich bezahlst"
+      ],
+      "This offer won't be shown again.": [
+        "Dieses Angebot wird nicht wieder angezeigt."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Beim Wechsel von einem Monats- zu einem Jahresabonnement."
+      ],
+      "You currently pay": [
+        "Du bezahlst derzeit"
       ]
     },
     "Offer feature": {
@@ -11006,6 +11060,9 @@
       ],
       "Type text or keyword": [
         "Text oder Schlüsselwort eingeben"
+      ],
+      "Filter quick actions": [
+        "Schnellaktionen filtern"
       ]
     },
     "Placeholder for contact group name": {
@@ -13688,6 +13745,12 @@
       ],
       "Help center": [
         "Hilfecenter"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName }-Tastaturkürzel"
+      ],
+      "On-device suggestions": [
+        "Vorschläge auf dem Gerät"
       ]
     },
     "Today icon tooltip in mini calendar": {

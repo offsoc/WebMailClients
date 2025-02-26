@@ -1475,6 +1475,15 @@
       ],
       "Zoom out": [
         "Уменьшить масштаб"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "Установите ${ MAIL_APP_NAME } в качестве приложения по умолчанию для электронной почты"
+      ],
+      "Set as album cover": [
+        "Сделать обложкой альбома"
+      ],
+      "Use ${ PASS_APP_NAME }": [
+        "Используйте ${ PASS_APP_NAME }"
       ]
     },
     "action": {
@@ -4605,6 +4614,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Ваш поиск дал слишком много результатов. Пожалуйста, ограничьте поиск и повторите попытку."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } - это ваше имя пользователя. Чтобы создать ${ emailAddress }, перейдите в Настройки > Идентификация и адреса > Короткий домен (pm.me)"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -8130,6 +8142,24 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Ваш запланированный тариф начинается на ${ renewalTime } и будет автоматически обновляться каждый месяц."
+      ],
+      "${ BRAND_NAME }'s password manager lets you create, store, and autofill passwords, so you never have to reset them.": [
+        "Менеджер паролей ${ BRAND_NAME } позволяет создавать, хранить и автоматически заполнять пароли, поэтому вам никогда не придется их сбрасывать."
+      ],
+      "Detection takes place on your device, so no data from your emails is sent to our servers.": [
+        "Обнаружение происходит на вашем устройстве, поэтому никакие данные из ваших писем не отправляются на наши серверы."
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "Установите ${ MAIL_APP_NAME } в качестве приложения по умолчанию для электронной почты."
+      ],
+      "More infos": [
+        "Подробнее"
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "Установите ${ MAIL_APP_NAME } в качестве почтового приложения по умолчанию. Приложение ${ MAIL_APP_NAME } будет открываться автоматически при нажатии на ссылку электронной почты."
+      ],
+      "This was shown to you because your email subject line contains password reset keywords.": [
+        "Это было показано вам, потому что в теме вашего письма содержатся ключевые слова для сброса пароля."
       ]
     },
     "info": {
@@ -8149,6 +8179,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Пожалуйста, свяжитесь с нами по ${ email } для получения инструкций по оплате наличными."
+      ],
+      "How to send a cash payment?": [
+        "Как отправить оплату наличными?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Найдите инструкции в статье: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info on errors": {
@@ -8977,6 +9013,9 @@
       ],
       "Your password (admin)": [
         "Ваш пароль (admin)"
+      ],
+      "Don't show this suggestion": [
+        "Не показывайте это предложение"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9600,6 +9639,9 @@
       ],
       "on the third Wednesday": [
         "в третью среду"
+      ],
+      "on the ${ shortenedDay }": [
+        "в ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -10171,6 +10213,21 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Мы сканируем Темную паутину на предмет утечки ваших адресов или псевдонимов ${ BRAND_NAME } и немедленно оповещаем вас, если что-то находим."
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Выделенные серверы, оптимизированные для трансляций"
+      ],
+      "SSO integration": [
+        "Интеграция с SSO"
+      ],
+      "Tor over VPN": [
+        "Tor через VPN"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Используйте одновременно до ${ n } устройства",
+        "Используйте одновременно до ${ n } устройств",
+        "Используйте одновременно до ${ n } устройств",
+        "Используйте одновременно до ${ n } устройств"
       ]
     },
     "new_plans: feature highlight": {
@@ -10680,6 +10737,33 @@
       ],
       "Save 80% on your first month.": [
         "Сэкономьте 80% в первый месяц."
+      ],
+      "Don’t show this offer again": [
+        "Больше не показывать это предложение"
+      ],
+      "Last day to save": [
+        "Последний день, чтобы сэкономить"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus за 12 месяцев"
+      ],
+      "Save": [
+        "Сохранить"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Сэкономьте ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Экономьте больше, когда платите ежегодно"
+      ],
+      "This offer won't be shown again.": [
+        "Это предложение больше не будет показано."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "При переключении с ежемесячной на годовую подписку."
+      ],
+      "You currently pay": [
+        "Вы оплачиваете сейчас"
       ]
     },
     "Offer feature": {
@@ -11128,6 +11212,9 @@
     "Payments.Sepa": {
       "Street address, postal code, and city": [
         "Адрес улицы, почтовый индекс и город"
+      ],
+      "By confirming this payment, you authorize ${ BRAND_NAME } and Stripe, our payment service provider, to instruct your bank to debit your account accordingly. You can get a refund within 8 weeks from the debit date, under the conditions of your agreement with your bank.": [
+        "Подтверждая этот платеж, вы уполномочиваете ${ BRAND_NAME } и Stripe, нашего поставщика платежных услуг, дать указание вашему банку списать средства с вашего счета. Вы можете получить деньги обратно в течение 8 недель с момента списания, в соответствии с условиями вашего договора с банком."
       ]
     },
     "PGP key encryption warning": {
@@ -11298,6 +11385,9 @@
       ],
       "Type text or keyword": [
         "Введите текст или ключевое слово"
+      ],
+      "Filter quick actions": [
+        "Фильтр быстрых действий"
       ]
     },
     "Placeholder for contact group name": {
@@ -14141,6 +14231,15 @@
       ],
       "Your shorter address is now ready": [
         "Ваш укороченный адрес готов"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName } быстрых клавиш"
+      ],
+      "Help center": [
+        "Справочный центр"
+      ],
+      "On-device suggestions": [
+        "Предложения для устройств"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14315,6 +14414,12 @@
         "Ваша подписка будет автоматически продлена через ${ cycle } месяца.",
         "Ваша подписка будет автоматически продлена через ${ cycle } месяцев.",
         "Ваша подписка будет автоматически продлена через ${ cycle } месяцев."
+      ],
+      "Your new subscription will automatically renew in ${ cycle } month.": [
+        "Ваша подписка будет автоматически продлена через ${ cycle } месяц.",
+        "Ваша подписка будет автоматически продлена через ${ cycle } месяца.",
+        "Ваша подписка будет автоматически продлена через ${ cycle } месяцев.",
+        "Ваша подписка будет автоматически продлена через ${ cycle } месяцев."
       ]
     },
     "vpn_2step: feature": {
@@ -14354,6 +14459,12 @@
       ],
       "Securely exchange Bitcoin via email instead of complex, 26-character Bitcoin addresses that are prone to error": [
         "Безопасно обменивайте Bitcoin по эл. почте вместо сложных, 26-значных Bitcoin-адресов, склонных к ошибкам"
+      ],
+      "${ n } ${ BRAND_NAME } email address": [
+        "адрес электронной почты ${ n } ${ BRAND_NAME }",
+        "адреса электронной почты ${ n } ${ BRAND_NAME }",
+        "адреса электронной почты ${ n } ${ BRAND_NAME }",
+        "адреса электронной почты ${ n } ${ BRAND_NAME }"
       ]
     },
     "wallet_signup_2024:Action": {
@@ -14486,6 +14597,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Ваш бесплатный пробный период заканчивается ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "2 точки подряд не допускаются"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Не может содержать точку в начале"
+      ],
+      "Cannot contain a dot at the end": [
+        "Не может содержать точку в конце"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Допускаются только алфавитно-цифровые строчные символы, точки, дефисы и символы подчеркивания"
       ]
     },
     "WeekDay": {
@@ -14813,6 +14936,14 @@
       ],
       "Passcode:": [
         "Код доступа:"
+      ]
+    },
+    "new_plans: Subtext": {
+      "The discounted price of ${ priceCoupon } is valid for the first month. Then it will automatically be renewed at ${ priceLine }. You can cancel at any time.": [
+        "Цена со скидкой ${ priceCoupon } действительна в течение первого месяца. Затем она будет автоматически продлена по цене ${ priceLine }. Вы можете отменить это в любое время."
+      ],
+      "Unlock all ${ BRAND_NAME } premium products and features for just ${ priceLine }. Cancel anytime.": [
+        "Разблокируйте все премиум продукты и возможности ${ BRAND_NAME } всего за ${ priceLine }. Отменить можно в любое время."
       ]
     }
   }

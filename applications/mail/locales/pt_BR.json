@@ -1474,6 +1474,9 @@
       ],
       "Set as album cover": [
         "Definir como capa do álbum"
+      ],
+      "Use ${ PASS_APP_NAME }": [
+        "Use ${ PASS_APP_NAME }"
       ]
     },
     "action": {
@@ -7898,6 +7901,9 @@
       ],
       "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
         "Define o ${ MAIL_APP_NAME } como seu aplicativo de e-mails padrão. O ${ MAIL_APP_NAME } será aberto automaticamente quando você clicar em um link de e-mail."
+      ],
+      "More infos": [
+        "Mais informação"
       ]
     },
     "info": {
@@ -8736,6 +8742,9 @@
       ],
       "Your password (admin)": [
         "Sua senha (admin)"
+      ],
+      "Don't show this suggestion": [
+        "Não mostrar essa sugestão"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9343,6 +9352,9 @@
       ],
       "on the third Wednesday": [
         "na terceira Quarta-feira"
+      ],
+      "on the ${ shortenedDay }": [
+        "no dia ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -10399,6 +10411,33 @@
       ],
       "Save 80% on your first month.": [
         "Economize 80% no seu primeiro mês"
+      ],
+      "Don’t show this offer again": [
+        "Não mostrar mais esta oferta"
+      ],
+      "Last day to save": [
+        "Último dia para eocnomizar"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus por 12 meses"
+      ],
+      "Save": [
+        "Economize"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Economize ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Aproveite descontos incríveis ao pagar anualmente!"
+      ],
+      "This offer won't be shown again.": [
+        "Esta oferta não será exibida novamente."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Quando você muda de uma assinatura mensal para anual."
+      ],
+      "You currently pay": [
+        "Você paga atualmente"
       ]
     },
     "Offer feature": {
@@ -11026,6 +11065,9 @@
       ],
       "Type text or keyword": [
         "Digite o texto ou a palavra-chave"
+      ],
+      "Filter quick actions": [
+        "Filtrar as ações rápidas"
       ]
     },
     "Placeholder for contact group name": {
@@ -13708,6 +13750,9 @@
       ],
       "Help center": [
         "Central de ajuda"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "Atalhos do teclado do ${ appName }"
       ]
     },
     "Today icon tooltip in mini calendar": {

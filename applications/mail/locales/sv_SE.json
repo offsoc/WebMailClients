@@ -1471,6 +1471,9 @@
       ],
       "Set as album cover": [
         "Ställ in som albumomslag"
+      ],
+      "Use ${ PASS_APP_NAME }": [
+        "Använd ${ PASS_APP_NAME }"
       ]
     },
     "action": {
@@ -7886,6 +7889,18 @@
       ],
       "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
         "Ställ in ${ MAIL_APP_NAME } som din standardapplikation för e-post. ${ MAIL_APP_NAME } kommer öppnas automatiskt när du klickar på en e-postlänk."
+      ],
+      "${ BRAND_NAME }'s password manager lets you create, store, and autofill passwords, so you never have to reset them.": [
+        "${ BRAND_NAME }s lösenordshanterare kan du skapa, lagra och autofylla lösenord, så att du aldrig behöver återställa dem."
+      ],
+      "Detection takes place on your device, so no data from your emails is sent to our servers.": [
+        "Detektering sker på din enhet, så ingen data från din e-post skickas till våra servrar."
+      ],
+      "More infos": [
+        "Mer information"
+      ],
+      "This was shown to you because your email subject line contains password reset keywords.": [
+        "Detta visades för dig eftersom ämnesraden i ditt e-postmeddelande innehåller nyckelord för återställning av lösenord."
       ]
     },
     "info": {
@@ -7903,6 +7918,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Kontakta oss på ${ email } för instruktioner om hur du betalar oss med kontanter."
+      ],
+      "How to send a cash payment?": [
+        "Hur skickar man en kontant betalning?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Hitta instruktionen i artikeln: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info on errors": {
@@ -8724,6 +8745,9 @@
       ],
       "Your password (admin)": [
         "Ditt lösenord (admin)"
+      ],
+      "Don't show this suggestion": [
+        "Visa inte detta förslag"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9331,6 +9355,9 @@
       ],
       "on the third Wednesday": [
         "den tredje onsdagen"
+      ],
+      "on the ${ shortenedDay }": [
+        "på ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -10387,6 +10414,33 @@
       ],
       "Save 80% on your first month.": [
         "Spara 80 % på din första månad."
+      ],
+      "Don’t show this offer again": [
+        "Visa inte detta erbjudande igen"
+      ],
+      "Last day to save": [
+        "Sista dagen att spara"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus för 12 månader"
+      ],
+      "Save": [
+        "Spara"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Spara ${ prices.savedPercentage } %"
+      ],
+      "Save big when you pay annually": [
+        "Spara stort när du betalar årligen"
+      ],
+      "This offer won't be shown again.": [
+        "Detta erbjudande kommer inte att visas igen."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "När du byter från en månads till årlig prenumeration."
+      ],
+      "You currently pay": [
+        "Du betalar för närvarande"
       ]
     },
     "Offer feature": {
@@ -11008,6 +11062,9 @@
       ],
       "Type text or keyword": [
         "Skriv text eller nyckelord"
+      ],
+      "Filter quick actions": [
+        "Filtrera snabbåtgärder"
       ]
     },
     "Placeholder for contact group name": {
@@ -13690,6 +13747,12 @@
       ],
       "Help center": [
         "Hjälpcenter"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName } tangentbordsgenvägar"
+      ],
+      "On-device suggestions": [
+        "På-enhet förslag"
       ]
     },
     "Today icon tooltip in mini calendar": {

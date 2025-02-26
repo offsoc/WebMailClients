@@ -892,7 +892,7 @@
         "Не захавана"
       ],
       "OK": [
-        "Добра"
+        "OK"
       ],
       "Open": [
         "Адкрыць"
@@ -1033,7 +1033,7 @@
         "Паведаміць аб праблеме"
       ],
       "Report an issue": [
-        "Паведаміць пра праблему"
+        "Паведаміць аб праблеме"
       ],
       "Report phishing": [
         "Паведаміць пра фішынг"
@@ -1484,6 +1484,9 @@
       ],
       "Set as album cover": [
         "Задаць у якасці вокладкі альбома"
+      ],
+      "Use ${ PASS_APP_NAME }": [
+        "Скарыстацца ${ PASS_APP_NAME }"
       ]
     },
     "action": {
@@ -6584,7 +6587,7 @@
         "Паніжэнне тарыфнага плана спыніць усе бягучыя падключэнні да платных сервераў ${ VPN_APP_NAME }."
       ],
       "Download on the App Store": [
-        "Спампваваць у App Store"
+        "Спампававаць у App Store"
       ],
       "Download your favorite app today and take privacy with you everywhere you go.": [
         "Спампуйце вашу абраную праграму сёння і прыватнасць застанецца з вамі ў любым месцы."
@@ -8160,6 +8163,18 @@
       ],
       "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
         "Задаць ${ MAIL_APP_NAME } у якасці прадвызначанай паштовай праграмы. ${ MAIL_APP_NAME } будзе адкрывацца аўтаматычна пры націску на спасылку электроннай пошты."
+      ],
+      "${ BRAND_NAME }'s password manager lets you create, store, and autofill passwords, so you never have to reset them.": [
+        "Менеджар пароляў ${ BRAND_NAME } дазваляе ствараць, захоўваць і аўтазапаўняць паролі і таму, вам ніколі не давядзецца скідаць іх."
+      ],
+      "Detection takes place on your device, so no data from your emails is sent to our servers.": [
+        "Выяўленне адбываецца на вашай прыладзе і таму, ніякія даныя з вашых лістоў не адпраўляюцца на нашы серверы."
+      ],
+      "More infos": [
+        "Падрабязней"
+      ],
+      "This was shown to you because your email subject line contains password reset keywords.": [
+        "Гэта было паказана вам, бо тэма ліста змяшчае ключавыя словы для скідання пароля."
       ]
     },
     "info": {
@@ -8179,6 +8194,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Напішыце нам на электронную пошту ${ email } для атрымання інструкцый па аплаце наяўнымі."
+      ],
+      "How to send a cash payment?": [
+        "Як адправіць плацеж наяўнымі грашыма?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Інструкцыі можна знайсці ў артыкуле: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info on errors": {
@@ -9007,6 +9028,9 @@
       ],
       "Your password (admin)": [
         "Ваш пароль (admin)"
+      ],
+      "Don't show this suggestion": [
+        "Не паказваць гэту прапанову"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9630,6 +9654,9 @@
       ],
       "on the third Wednesday": [
         "у трэцюю сераду месяца"
+      ],
+      "on the ${ shortenedDay }": [
+        "у ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -10733,6 +10760,33 @@
       ],
       "Save 80% on your first month.": [
         "Зэканомце 80% у першы месяц."
+      ],
+      "Don’t show this offer again": [
+        "Больш не паказваць гэту прапанову"
+      ],
+      "Last day to save": [
+        "Апошні дзень, калі можна сэканоміць"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus за 12 месяцаў"
+      ],
+      "Save": [
+        "Эканомія"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Эканомія ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Эканомце больш пры гадавой аплаце"
+      ],
+      "This offer won't be shown again.": [
+        "Гэта прапанова больш не будзе паказвацца."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Пры пераходзе з памесячнай на гадавую падпіску."
+      ],
+      "You currently pay": [
+        "У цяперашні час аплачана"
       ]
     },
     "Offer feature": {
@@ -11354,6 +11408,9 @@
       ],
       "Type text or keyword": [
         "Увядзіце тэкст або ключавое слова"
+      ],
+      "Filter quick actions": [
+        "Фільтр хуткіх дзеянняў"
       ]
     },
     "Placeholder for contact group name": {
@@ -13368,7 +13425,7 @@
         "${ emailsCount } адрасоў электроннай пошты"
       ],
       "${ feature } is now active": [
-        "${ feature } у актыўным стане"
+        "${ feature } цяпер у актыўным стане"
       ],
       "${ MAIL_APP_NAME } Keyboard Shortcuts": [
         "Спалучэнні клавіш ${ MAIL_APP_NAME }"
@@ -13971,7 +14028,7 @@
         "Атрымальнікі"
       ],
       "Recommended": [
-        "Рэкамендавана"
+        "Рэкамендаваны"
       ],
       "Recommended actions": [
         "Рэкамендаваныя дзеянні"
@@ -14200,6 +14257,12 @@
       ],
       "Help center": [
         "Цэнтр дапамогі"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "Спалучэнні клавіш ${ appName }"
+      ],
+      "On-device suggestions": [
+        "Прапановы на прыладзе"
       ]
     },
     "Today icon tooltip in mini calendar": {

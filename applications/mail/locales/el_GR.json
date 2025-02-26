@@ -1474,6 +1474,9 @@
       ],
       "Set as album cover": [
         "Ορισμός ως εξώφυλλο άλμπουμ"
+      ],
+      "Use ${ PASS_APP_NAME }": [
+        "Χρησιμοποιήστε το ${ PASS_APP_NAME }"
       ]
     },
     "action": {
@@ -5433,8 +5436,8 @@
     },
     "Hint": {
       "Found ${ itemsCount } suggestion, use keyboard to navigate.": [
-        "Βρέθηκε ${ itemsCount } πρόταση, χρησιμοποιήστε το πληκτρολόγιο για πλοήγηση.",
-        "Βρέθηκαν ${ itemsCount } προτάσεις, χρησιμοποιήστε το πληκτρολόγιο για πλοήγηση."
+        "Βρέθηκε ${ itemsCount } υπόδειξη, χρησιμοποιήστε το πληκτρολόγιο για πλοήγηση.",
+        "Βρέθηκαν ${ itemsCount } υποδείξεις, χρησιμοποιήστε το πληκτρολόγιο για πλοήγηση."
       ],
       "Use Up and Down keys to access and browse suggestions after input. Press Enter to confirm your choice, or Escape to close the suggestions box.": [
         "Χρησιμοποιήστε τα πλήκτρα Up και Down για πρόσβαση και περιήγηση στις προτάσεις μετά την εισαγωγή. Πατήστε Enter για να επιβεβαιώσετε την επιλογή σας, ή διαφυγής για να κλείσετε το πλαίσιο προτάσεων."
@@ -7898,6 +7901,18 @@
       ],
       "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
         "Ορίστε τη ${ MAIL_APP_NAME } ως προεπιλεγμένη εφαρμογή ηλεκτρονικού ταχυδρομείου. Η ${ MAIL_APP_NAME } θα ανοίξει αυτόματα όταν κάνετε κλικ σε έναν σύνδεσμο αλληλογραφίας."
+      ],
+      "${ BRAND_NAME }'s password manager lets you create, store, and autofill passwords, so you never have to reset them.": [
+        "Ο διαχειριστής κωδικών πρόσβασης του ${ BRAND_NAME } σάς επιτρέπει να δημιουργείτε, να αποθηκεύετε και να συμπληρώνετε αυτόματα κωδικούς πρόσβασης, ώστε να μη χρειάζεται ποτέ να τους επαναφέρετε."
+      ],
+      "Detection takes place on your device, so no data from your emails is sent to our servers.": [
+        "Η ανίχνευση πραγματοποιείται στη συσκευή σας, επομένως δεν αποστέλλονται δεδομένα από τα ηλεκτρονικά μηνύματά σας στους διακομιστές μας."
+      ],
+      "More infos": [
+        "Περισσότερες πληροφορίες"
+      ],
+      "This was shown to you because your email subject line contains password reset keywords.": [
+        "Αυτό εμφανίστηκε σε εσάς επειδή η γραμμή θέματος του email σας περιέχει λέξεις-κλειδιά επαναφοράς κωδικού πρόσβασης."
       ]
     },
     "info": {
@@ -7915,6 +7930,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Παρακαλώ επικοινωνήστε μαζί μας στο ${ email } για οδηγίες πληρωμής με μετρητά."
+      ],
+      "How to send a cash payment?": [
+        "Πώς να στείλετε μια πληρωμή σε μετρητά;"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Παρακαλούμε βρείτε τις οδηγίες στο άρθρο: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info on errors": {
@@ -8733,6 +8754,9 @@
       ],
       "Your password (admin)": [
         "Ο κωδικός σας (διαχειριστής)"
+      ],
+      "Don't show this suggestion": [
+        "Να μην εμφανιστεί αυτή η υπόδειξη"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9340,6 +9364,9 @@
       ],
       "on the third Wednesday": [
         "κάθε τρίτη Τετάρτη"
+      ],
+      "on the ${ shortenedDay }": [
+        "στις ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -10391,6 +10418,33 @@
       ],
       "Save 80% on your first month.": [
         "Εξοικονομήστε 80% τον πρώτο μήνα σας."
+      ],
+      "Don’t show this offer again": [
+        "Να μην εμφανιστεί ξανά αυτή η προσφορά"
+      ],
+      "Last day to save": [
+        "Τελευταία ημέρα αποθήκευσης"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus για 12 μήνες"
+      ],
+      "Save": [
+        "Εξοικονομήστε"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Εξοικονομίστε ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Εξοικονομήστε χρήματα όταν πληρώνετε ετησίως"
+      ],
+      "This offer won't be shown again.": [
+        "Αυτή η προσφορά δε θα εμφανιστεί ξανά."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Όταν αλλάζετε από μηνιαία σε ετήσια συνδρομή."
+      ],
+      "You currently pay": [
+        "Αυτή τη στιγμή πληρώνετε"
       ]
     },
     "Offer feature": {
@@ -11006,6 +11060,9 @@
       ],
       "Type text or keyword": [
         "Πληκτρολόγηση κειμένου ή λέξης-κλειδιού"
+      ],
+      "Filter quick actions": [
+        "Φιλτράρισμα γρήγορων ενεργειών"
       ]
     },
     "Placeholder for contact group name": {
@@ -13688,6 +13745,12 @@
       ],
       "Help center": [
         "Κέντρο βοήθειας"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName } συντομεύσεις πληκτρολογίου"
+      ],
+      "On-device suggestions": [
+        "Υποδείξεις στη συσκευή"
       ]
     },
     "Today icon tooltip in mini calendar": {
