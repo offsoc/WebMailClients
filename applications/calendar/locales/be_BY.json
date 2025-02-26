@@ -504,7 +504,7 @@
         "Не зараз"
       ],
       "OK": [
-        "Добра"
+        "OK"
       ],
       "Open ${ CALENDAR_APP_NAME } settings": [
         "Адкрыць налады ${ CALENDAR_APP_NAME }"
@@ -1265,7 +1265,7 @@
         "Стварыць метку"
       ],
       "Discover and set up features": [
-        "Азнаёміцца і наладзіць функцыі"
+        "Пазнаёміцца і наладзіць функцыі"
       ],
       "Remind me later": [
         "Нагадаць мне пазней"
@@ -2541,6 +2541,21 @@
         "разы",
         "разоў",
         "разы"
+      ],
+      "Don't end": [
+        "Не завяршаць"
+      ],
+      "End after": [
+        "Завершыцца пасля"
+      ],
+      "End on": [
+        "Завершыцца ў"
+      ],
+      "event": [
+        "падзея",
+        "падзеі",
+        "падзей",
+        "падзей"
       ]
     },
     "Cycle": {
@@ -3299,7 +3314,7 @@
         "Выберыце краіну"
       ],
       "Please select a state": [
-        "Калі ласка, выберыце рэгіён"
+        "Выберыце рэгіён"
       ],
       "Port is required": [
         "Патрабуецца ўвесці порт"
@@ -3465,6 +3480,9 @@
       ],
       "Your import will not be processed.": [
         "Ваша імпартаванне не будзе апрацавана."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } з'яўляецца вашым імем карыстальніка. Перайдзіце ў Налады -> Ідэнтычнасць і адрасы -> Кароткі дамен (pm.me), каб стварыць ${ emailAddress }."
       ]
     },
     "Error accepting calendar invitation": {
@@ -4060,6 +4078,9 @@
       ],
       "Security Center": [
         "Цэнтр бяспекі"
+      ],
+      "Repeat event": [
+        "Паўтараць падзею"
       ]
     },
     "Hint": {
@@ -4490,7 +4511,7 @@
         "${ plan.Title } патрабуе прынамсі 1 вылучаны сервер ${ serverPricePerMonth }"
       ],
       "${ PROTON_SENTINEL_NAME } protects your account with dedicated monitoring of suspicious activity.": [
-        "${ PROTON_SENTINEL_NAME } абараняе ваш уліковы запіс пасродкам адмысловага маніторынга за падазронай актыўнасцю."
+        "${ PROTON_SENTINEL_NAME } абараняе ваш уліковы запіс па сродках адмысловага маніторынгу за падазронай актыўнасцю."
       ],
       "${ providerFoldersNumLocalized } folder found": [
         "Знойдзена ${ providerFoldersNumLocalized } папка",
@@ -4787,7 +4808,7 @@
         "Пазнаёмцеся з новымі функцыямі і пачніце выкарыстоўваць іх неадкладна!"
       ],
       "Discover new features unlocked with ${ planTitle } and start using them right away!": [
-        "Пазнаёмцеся з новымі функцыямі, якія даступныя з тарыфным планам ${ planTitle } і пачніце іх выкарыстоўваць неадкладна!"
+        "Пазнаёмцеся з новымі функцыямі, якія даступны з тарыфным планам ${ planTitle } і пачніце іх неадкладна выкарыстоўваць!"
       ],
       "Discover ProtectBuy logo": [
         "Лагатып Discover ProtectBuy"
@@ -5607,11 +5628,23 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Падобна, што ваш часавы пояс змяніўся на ${ timezone }. Вы сапраўды хочаце абнавіць налады вашага часавога пояса?"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "Вы можаце выкарыстоўваць наступныя клавішы для хуткіх дзеянняў або пераходу ў іншыя прагляды, калі спалучэнні клавіш уключаны. Спалучэнне ${ metaKey } + K уключана заўсёды."
+      ],
+      "Open shortcut cheat sheet": [
+        "Адкрыць спіс спалучэнняў клавіш"
       ]
     },
     "info": {
       "Selected color:": [
         "Выбраны колер:"
+      ],
+      "${ filteredList.length } command found.": [
+        "${ filteredList.length } каманда знойдзена.",
+        "${ filteredList.length } каманды знойдзены.",
+        "${ filteredList.length } каманд знойдзены.",
+        "${ filteredList.length } каманд знойдзены."
       ]
     },
     "Info calendar search": {
@@ -5622,6 +5655,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Напішыце нам на электронную пошту ${ email } для атрымання інструкцый па аплаце наяўнымі."
+      ],
+      "How to send a cash payment?": [
+        "Як адправіць плацеж наяўнымі грашыма?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Інструкцыі можна знайсці ў артыкуле: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info message": {
@@ -6171,6 +6210,18 @@
       ],
       "Your password (admin)": [
         "Ваш пароль (admin)"
+      ],
+      "Every": [
+        "Кожныя"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Спалучэнні клавіш: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Спалучэнні клавіш"
+      ],
+      "On": [
+        "У"
       ]
     },
     "Label for contact group color": {
@@ -6394,16 +6445,16 @@
         "Імпартаваць усе паведамленні з ${ itemsToImportCount } меткамі і пазначыць іх як"
       ],
       "Import all messages from ${ selectedItemsToImportCount } out of ${ itemsToImportCount } folder and label them as": [
-        "Імпартаваць усе паведамленні (${ selectedItemsToImportCount } з ${ itemsToImportCount } папкі) і пазначыць іх як",
-        "Імпартаваць усе паведамленні (${ selectedItemsToImportCount } з ${ itemsToImportCount } папак) і пазначыць іх як",
-        "Імпартаваць усе паведамленні (${ selectedItemsToImportCount } з ${ itemsToImportCount } папак) і пазначыць іх як",
-        "Імпартаваць усе паведамленні (${ selectedItemsToImportCount } з ${ itemsToImportCount } папак) і пазначыць іх як"
+        "Імпартаваць усе паведамленні (${ selectedItemsToImportCount } папка з ${ itemsToImportCount }) і пазначыць іх як",
+        "Імпартаваць усе паведамленні (${ selectedItemsToImportCount } папкі з ${ itemsToImportCount }) і пазначыць іх як",
+        "Імпартаваць усе паведамленні (${ selectedItemsToImportCount } папак з ${ itemsToImportCount }) і пазначыць іх як",
+        "Імпартаваць усе паведамленні (${ selectedItemsToImportCount } папак з ${ itemsToImportCount }) і пазначыць іх як"
       ],
       "Import all messages from ${ selectedItemsToImportCount } out of ${ itemsToImportCount } label and label them as": [
-        "Імпартаваць усе паведамленні (${ selectedItemsToImportCount } з ${ itemsToImportCount } меткі) і пазначыць іх як",
-        "Імпартаваць усе паведамленні (${ selectedItemsToImportCount } з ${ itemsToImportCount } метак) і пазначыць іх як",
-        "Імпартаваць усе паведамленні (${ selectedItemsToImportCount } з ${ itemsToImportCount } метак) і пазначыць іх як",
-        "Імпартаваць усе паведамленні (${ selectedItemsToImportCount } з ${ itemsToImportCount } метак) і пазначыць іх як"
+        "Імпартаваць усе паведамленні (${ selectedItemsToImportCount } метка з ${ itemsToImportCount }) і пазначыць іх як",
+        "Імпартаваць усе паведамленні (${ selectedItemsToImportCount } меткі з ${ itemsToImportCount }) і пазначыць іх як",
+        "Імпартаваць усе паведамленні (${ selectedItemsToImportCount } метак з ${ itemsToImportCount }) і пазначыць іх як",
+        "Імпартаваць усе паведамленні (${ selectedItemsToImportCount } метак з ${ itemsToImportCount }) і пазначыць іх як"
       ]
     },
     "mail_signup_2024: Info": {
@@ -6672,6 +6723,9 @@
       ],
       "on the third Wednesday": [
         "у трэцюю сераду месяца"
+      ],
+      "on the ${ shortenedDay }": [
+        "у ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -6984,7 +7038,7 @@
         "Назіранне за ўцечкай даных"
       ],
       "Dedicated servers optimized for streaming": [
-        "Вылучаныя серверы аптымізаваны для трансляцый"
+        "Вылучаныя серверы аптымізаваныя для трансляцый"
       ],
       "Desktop app": [
         "Настольная праграма"
@@ -7252,6 +7306,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Мы сканіруем цёмную сетку для праверкі на прадмет уцечкі адрасоў і псеўданімаў ${ BRAND_NAME }. Вы неадкладна будзеце апавешчаны ў выпадку, калі нешта будзе выяўлена."
+      ],
+      "SSO integration": [
+        "Інтэграцыя SSO"
       ]
     },
     "new_plans: feature highlight": {
@@ -7472,7 +7529,7 @@
         "Гарантуе, што вы атрымаеце ўсе лісты, якія адпраўлены на ваш дамен, нават калі адрас электроннай пошты не існуе, больш не існуе або ў напісанні адраса зроблена памылка"
       ],
       "Force sign-out of user sessions when user credentials are believed to be compromised": [
-        "Прымусова завяршайце сеансы карыстальніка пры падазрэнні, што яго ўліковыя даныя скампраметаваны"
+        "Прымусова завяршайце сеансы карыстальнікаў пры падазрэнні, што іх уліковыя даныя скампраметаваны"
       ],
       "IMAP support is limited to the use of desktop apps (e.g., Outlook, Apple Mail, Thunderbird) via ${ MAIL_APP_NAME } Bridge. Cloud-based IMAP integrations are currently not supported.": [
         "Падтрымка IMAP абмежавана выкарыстаннем праграм для камп'ютараў (напрыклад, Outlook, Apple Mail, Thunderbird) праз ${ MAIL_APP_NAME } Bridge. Воблачныя сродкі інтэграцыі IMAP у дадзены момант не падтрымліваюцца."
@@ -7932,6 +7989,33 @@
       ],
       "Save 80% on your first month.": [
         "Зэканомце 80% у першы месяц."
+      ],
+      "Don’t show this offer again": [
+        "Больш не паказваць гэту прапанову"
+      ],
+      "Last day to save": [
+        "Апошні дзень, калі можна сэканоміць"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus за 12 месяцаў"
+      ],
+      "Save": [
+        "Эканомія"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Эканомія ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Эканомце больш пры гадавой аплаце"
+      ],
+      "This offer won't be shown again.": [
+        "Гэта прапанова больш не будзе паказвацца."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Пры пераходзе з памесячнай на гадавую падпіску."
+      ],
+      "You currently pay": [
+        "У цяперашні час аплачана"
       ]
     },
     "Offer feature": {
@@ -8065,6 +8149,18 @@
         "Гады",
         "Гадоў",
         "Гады"
+      ],
+      "Custom...": [
+        "Карыстальніцкае..."
+      ],
+      "Every month ${ description }": [
+        "Кожны месяц ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "Кожны тыдзень ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "Кожны дзень тыдня ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -8395,6 +8491,9 @@
       ],
       "Start typing an email address": [
         "Пачніце ўводзіць адрас электроннай пошты"
+      ],
+      "Filter quick actions": [
+        "Фільтр хуткіх дзеянняў"
       ]
     },
     "Placeholder for contact group name": {
@@ -9827,6 +9926,9 @@
       ],
       "You have successfully unsubscribed": [
         "Вы паспяхова скасавалі падпіску"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Параметры спалучэнняў клавіш абноўлены"
       ]
     },
     "Suffix": {
@@ -9981,7 +10083,7 @@
         "${ emailsCount } адрасоў электроннай пошты"
       ],
       "${ feature } is now active": [
-        "${ feature } у актыўным стане"
+        "${ feature } цяпер у актыўным стане"
       ],
       "Account recovery": [
         "Аднаўленне ўліковага запісу"
@@ -10329,7 +10431,7 @@
         "Паўторна актываваць ключы календара"
       ],
       "Recommended": [
-        "Рэкамендавана"
+        "Рэкамендаваны"
       ],
       "Recommended actions": [
         "Рэкамендаваныя дзеянні"
@@ -10501,6 +10603,30 @@
       ],
       "Your shorter address is now ready": [
         "Ваш больш кароткі адрас гатовы да выкарыстання"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "Спалучэнні клавіш ${ appName }"
+      ],
+      "Does not repeat": [
+        "Не паўтараецца"
+      ],
+      "Every day": [
+        "Кожны дзень"
+      ],
+      "Every month ${ option.text }": [
+        "Кожны месяц ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "Кожны тыдзень у ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "Кожны дзень тыдня ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "Кожны год"
+      ],
+      "Help center": [
+        "Цэнтр дапамогі"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10725,10 +10851,10 @@
         "Bitcoin праз электронную пошту"
       ],
       "Encrypted and secure ${ MAIL_APP_NAME } email address. You can easily send Bitcoin to anyone with just their ${ BRAND_NAME } name.": [
-        "Зашыфраваны і бяспечны ${ MAIL_APP_NAME } адрас электроннай пошты. Вы можаце лёгка адправіць Bitcoin каму заўгодна, маючы толькі іх ${ BRAND_NAME } імя."
+        "Зашыфраваны і бяспечны адрас электроннай пошты ${ MAIL_APP_NAME }. Вы можаце лёгка адправіць Bitcoin каму заўгодна, выкарыстоўваючы толькі імя карыстальніка ${ BRAND_NAME }."
       ],
       "Securely exchange Bitcoin via email instead of complex, 26-character Bitcoin addresses that are prone to error": [
-        "Бяспечна абменьвайце Bitcoin праз электронную пошту замест складаных, 26-значных адрасаў Bitcoin, у якіх лёгка памыліцца пры ўводзе"
+        "Бяспечна абменьвайцеся Bitcoin праз электронную пошту замест складаных, 26-значных адрасоў Bitcoin, у якіх лёгка памыліцца пры ўводзе"
       ]
     },
     "wallet_signup_2024:app-switcher": {
@@ -10767,10 +10893,10 @@
         "Вы сапраўды хочаце незваротна выдаліць гэты кантакт?"
       ],
       "Cannot contain a dot at the beginning": [
-        "Не можа змяшчаць кроку ў пачатку"
+        "Не можа змяшчаць кропку ў пачатку"
       ],
       "Cannot contain a dot at the end": [
-        "Не можа змяшчаць кроку ў канцы"
+        "Не можа змяшчаць кропку ў канцы"
       ],
       "Contacts could not be merged": [
         "Не атрымалася аб'яднаць кантакты"
@@ -11181,6 +11307,77 @@
       ],
       "Passcode:": [
         "Код доступу:"
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "Пошук паведамленняў"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Прагляд дня"
+      ],
+      "Month view": [
+        "Прагляд месяца"
+      ],
+      "New event": [
+        "Новая падзея"
+      ],
+      "Next period": [
+        "Наступны перыяд"
+      ],
+      "Previous period": [
+        "Папярэдні перыяд"
+      ],
+      "Search events": [
+        "Пошук падзей"
+      ],
+      "Today": [
+        "Сёння"
+      ],
+      "Week view": [
+        "Прагляд тыдня"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "Стварыць новую падзею"
+      ],
+      "Day view": [
+        "Выгляд \"Дзень\""
+      ],
+      "Month view": [
+        "Выгляд \"Месяц\""
+      ],
+      "Next period": [
+        "Наступны перыяд"
+      ],
+      "Open quick actions menu": [
+        "Адкрыць меню хуткіх дзеянняў"
+      ],
+      "Open this modal": [
+        "Адкрыць гэта акно"
+      ],
+      "Previous period": [
+        "Папярэдні перыяд"
+      ],
+      "Search events": [
+        "Пошук падзей"
+      ],
+      "Today": [
+        "Сёння"
+      ],
+      "Week view": [
+        "Выгляд \"Тыдзень\""
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Асноўныя дзеянні"
+      ],
+      "View options": [
+        "Параметры прагляду"
       ]
     }
   }

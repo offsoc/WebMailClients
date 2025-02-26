@@ -2509,6 +2509,19 @@
       "time": [
         "vegada",
         "vegades"
+      ],
+      "Don't end": [
+        "No s'acaba"
+      ],
+      "End after": [
+        "Acaba després de"
+      ],
+      "End on": [
+        "Acaba el"
+      ],
+      "event": [
+        "esdeveniment",
+        "esdeveniments"
       ]
     },
     "Cycle": {
@@ -3401,6 +3414,9 @@
       ],
       "Your import will not be processed.": [
         "La vostra importació no es processarà."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } és el vostre nom d'usuari. Per a crear ${ emailAddress }, aneu a Preferències > Identitat i adreces > Domini curt (pm.me)"
       ]
     },
     "Error accepting calendar invitation": {
@@ -3978,6 +3994,9 @@
       ],
       "Security Center": [
         "Centre de seguretat"
+      ],
+      "Repeat event": [
+        "Repeteix l'esdeveniment"
       ]
     },
     "Hint": {
@@ -5449,11 +5468,21 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Sembla que el fus horari del sistema ha canviat a ${ timezone }. Voleu actualitzar la vostra preferència de fus horari?"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "Si les tecles de drecera estan activades, podeu utilitzar les tecles següents per a accions ràpides o per anar a diferents vistes. La tecla de drecera ${ metaKey } + K sempre està activada."
+      ],
+      "Open shortcut cheat sheet": [
+        "Obre el resum de dreceres"
       ]
     },
     "info": {
       "Selected color:": [
         "Color seleccionat:"
+      ],
+      "${ filteredList.length } command found.": [
+        "S'ha trobat ${ filteredList.length } comanda.",
+        "S'han trobat ${ filteredList.length } comandes."
       ]
     },
     "Info calendar search": {
@@ -5464,6 +5493,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Contacteu amb nosaltres en ${ email } per a rebre instruccions de com fer un pagament en efectiu."
+      ],
+      "How to send a cash payment?": [
+        "Com enviar un pagament en efectiu?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Trobeu les instruccions a l'article: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info message": {
@@ -6006,6 +6041,18 @@
       ],
       "Your password (admin)": [
         "La seva contrasenya (admin)"
+      ],
+      "Every": [
+        "Cada"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Drecera de teclat: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Dreceres de teclat"
+      ],
+      "On": [
+        "Activat"
       ]
     },
     "Label for contact group color": {
@@ -6491,6 +6538,9 @@
       ],
       "on the third Wednesday": [
         "en el tercer Dimecres"
+      ],
+      "on the ${ shortenedDay }": [
+        "el ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -7009,8 +7059,8 @@
         "Fins a ${ totalStorageSize } d'emmagatzematge"
       ],
       "Use on up to ${ n } device at once": [
-        "Ús fins a ${ n } dispositiu al mateix temps",
-        "Ús fins a ${ n } dispositius al mateix temps"
+        "Ús en fins a ${ n } dispositiu al mateix temps",
+        "Ús en fins a ${ n } dispositius al mateix temps"
       ],
       "User credential management": [
         "Gestió de credencials d'usuari"
@@ -7027,6 +7077,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Escanegem el web fosc per a comprovar si les vostres adreces o àlies de ${ BRAND_NAME } s'han filtrat i us avisem immediatament si trobem alguna cosa."
+      ],
+      "SSO integration": [
+        "Integració SSO"
       ]
     },
     "new_plans: feature highlight": {
@@ -7657,6 +7710,33 @@
       ],
       "Save 80% on your first month.": [
         "Estalvieu un 80% en el vostre primer mes."
+      ],
+      "Don’t show this offer again": [
+        "No tornis a mostrar aquesta oferta"
+      ],
+      "Last day to save": [
+        "Últim dia per estalviar"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus durant 12 mesos"
+      ],
+      "Save": [
+        "Estalvieu"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Estalvieu el ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Estalvieu de debò pagant anualment!"
+      ],
+      "This offer won't be shown again.": [
+        "Aquesta oferta no es tornarà a mostrar."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Quan canvieu d'una subscripció mensual a una anual."
+      ],
+      "You currently pay": [
+        "Actualment pagueu"
       ]
     },
     "Offer feature": {
@@ -7782,6 +7862,18 @@
       "Year": [
         "Any",
         "Anys"
+      ],
+      "Custom...": [
+        "Personalitza..."
+      ],
+      "Every month ${ description }": [
+        "Cada mes ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "Cada setmana ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "Cada dia de la setmana ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -8106,6 +8198,9 @@
       ],
       "Start typing an email address": [
         "Comenceu a escriure una adreça de correu electrònic"
+      ],
+      "Filter quick actions": [
+        "Filtra les accions ràpides"
       ]
     },
     "Placeholder for contact group name": {
@@ -9466,6 +9561,9 @@
       ],
       "You have successfully unsubscribed": [
         "Heu anul·lat la subscripció amb èxit"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Preferències de les dreceres de teclat actualitzades"
       ]
     },
     "Suffix": {
@@ -10118,6 +10216,30 @@
       ],
       "Your shorter address is now ready": [
         "La vostra adreça més curta ja està a punt."
+      ],
+      "${ appName } keyboard shortcuts": [
+        "Dreceres de teclat de ${ appName }"
+      ],
+      "Does not repeat": [
+        "No es repeteix"
+      ],
+      "Every day": [
+        "Cada dia"
+      ],
+      "Every month ${ option.text }": [
+        "Cada mes ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "Cada setmana el ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "Cada dia de la setmana ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "Cada any"
+      ],
+      "Help center": [
+        "Centre d'ajuda"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10360,10 +10482,10 @@
         "Estàs segur de que vols eliminar aquest contacte permanentment?"
       ],
       "Cannot contain a dot at the beginning": [
-        "No es pot començar per un punt."
+        "No pot començar per un punt."
       ],
       "Cannot contain a dot at the end": [
-        "No podeu acabar amb un punt."
+        "No pot acabar amb un punt."
       ],
       "Contacts could not be merged": [
         "Els contactes no s’han pogut combinar"
@@ -10387,7 +10509,7 @@
         "Es requereix un nom."
       ],
       "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
-        "Només es permeten els caràcters alfanumèrics en minúscules, els punts, els guions i els guions baixos."
+        "Només es permeten caràcters alfanumèrics en minúscula, punts, guions i guions baixos"
       ],
       "Please note that by choosing this payment method, your account cannot be upgraded immediately. We will update your account once the payment is cleared.": [
         "Tingueu en compte que escollint aquest mètode de pagament, el vostre compte no es pot actualitzar immediatament. Actualitzarem el vostre compte un cop suprimit el pagament."
@@ -10714,6 +10836,77 @@
       ],
       "Passcode:": [
         "Codi d'accés:"
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "Cerqueu missatges"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Vista diària"
+      ],
+      "Month view": [
+        "Vista mensual"
+      ],
+      "New event": [
+        "Esdeveniment nou"
+      ],
+      "Next period": [
+        "Període següent"
+      ],
+      "Previous period": [
+        "Període anterior"
+      ],
+      "Search events": [
+        "Cerca esdeveniments"
+      ],
+      "Today": [
+        "Avui"
+      ],
+      "Week view": [
+        "Vista setmanal"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "Crea un esdeveniment"
+      ],
+      "Day view": [
+        "Vista diària"
+      ],
+      "Month view": [
+        "Vista mensual"
+      ],
+      "Next period": [
+        "Període següent"
+      ],
+      "Open quick actions menu": [
+        "Obre el menú d'accions ràpides"
+      ],
+      "Open this modal": [
+        "Obre aquesta finestra"
+      ],
+      "Previous period": [
+        "Període anterior"
+      ],
+      "Search events": [
+        "Cerca esdeveniments"
+      ],
+      "Today": [
+        "Avui"
+      ],
+      "Week view": [
+        "Vista setmanal"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Accions bàsiques"
+      ],
+      "View options": [
+        "Mostra les opcions"
       ]
     }
   }

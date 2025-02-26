@@ -3465,6 +3465,9 @@
       ],
       "Your import will not be processed.": [
         "Váš import nebude spracovaný."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } je vaše používateľské meno. Pre vytvorenie ${ emailAddress } prejdite do Nastavenia > Identita a adresy > Krátka doména (pm.me)"
       ]
     },
     "Error accepting calendar invitation": {
@@ -5607,11 +5610,23 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Zdá sa, že vaše systémové časové pásmo sa zmenilo na ${ timezone }. Chcete aktualizovať nastavenia časového pásma?"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "Ak sú povolené klávesové skratky, môžete na rýchle akcie alebo na prechod do rôznych zobrazení použiť nasledujúce klávesy. ${ metaKey } + K je vždy povolená."
+      ],
+      "Open shortcut cheat sheet": [
+        "Otvoriť zoznam skratiek"
       ]
     },
     "info": {
       "Selected color:": [
         "Vybraná farba:"
+      ],
+      "${ filteredList.length } command found.": [
+        "Nájdený príkaz ${ filteredList.length }.",
+        "Nájdené príkazy ${ filteredList.length }.",
+        "Nájdených príkazov ${ filteredList.length }.",
+        "Nájdených príkazov ${ filteredList.length }."
       ]
     },
     "Info calendar search": {
@@ -6171,6 +6186,12 @@
       ],
       "Your password (admin)": [
         "Vaše heslo (admin)"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Klávesová skratka: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Klávesové skratky"
       ]
     },
     "Label for contact group color": {
@@ -7252,6 +7273,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Skenujeme temný web a kontrolujeme, či nedošlo k úniku vašich adries alebo aliasov ${ BRAND_NAME }, a ak niečo nájdeme, okamžite vás upozorníme."
+      ],
+      "SSO integration": [
+        "SSO integrácia"
       ]
     },
     "new_plans: feature highlight": {
@@ -7932,6 +7956,33 @@
       ],
       "Save 80% on your first month.": [
         "Ušetrite 80 % v prvom mesiaci."
+      ],
+      "Don’t show this offer again": [
+        "Nabudúce to už nezobrazovať"
+      ],
+      "Last day to save": [
+        "Posledný deň na ušetrenie"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus na 12 mesiacov"
+      ],
+      "Save": [
+        "Ušetrite"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Ušetrite ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Pri ročnej platbe ušetríte viac"
+      ],
+      "This offer won't be shown again.": [
+        "Táto ponuka sa už nezobrazí."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Keď prejdete z mesačného na ročné predplatné."
+      ],
+      "You currently pay": [
+        "V súčasnosti platíte"
       ]
     },
     "Offer feature": {
@@ -8395,6 +8446,9 @@
       ],
       "Start typing an email address": [
         "Začnite písať emailovú adresu"
+      ],
+      "Filter quick actions": [
+        "Filtrovať rýchle akcie"
       ]
     },
     "Placeholder for contact group name": {
@@ -9827,6 +9881,9 @@
       ],
       "You have successfully unsubscribed": [
         "Predplatné bolo úspešne zrušené"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Nastavenie klávesových skratiek upravené"
       ]
     },
     "Suffix": {
@@ -10501,6 +10558,12 @@
       ],
       "Your shorter address is now ready": [
         "Vaša skrátená adresa je pripravená"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName } klávesové skratky"
+      ],
+      "Help center": [
+        "Centrum pomoci"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -11181,6 +11244,77 @@
       ],
       "Passcode:": [
         "Prístupový kód:"
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "Vyhľadať správy"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Denný prehľad"
+      ],
+      "Month view": [
+        "Mesačný prehľad"
+      ],
+      "New event": [
+        "Nová udalosť"
+      ],
+      "Next period": [
+        "Ďalšie obdobie"
+      ],
+      "Previous period": [
+        "Predchádzajúce obdobie"
+      ],
+      "Search events": [
+        "Vyhľadať v udalostiach"
+      ],
+      "Today": [
+        "Dnes"
+      ],
+      "Week view": [
+        "Týždenný prehľad"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "Vytvoriť novú udalosť"
+      ],
+      "Day view": [
+        "Denný prehľad"
+      ],
+      "Month view": [
+        "Mesačný prehľad"
+      ],
+      "Next period": [
+        "Ďalšie obdobie"
+      ],
+      "Open quick actions menu": [
+        "Otvoriť ponuku rýchlych akcií"
+      ],
+      "Open this modal": [
+        "Otvoriť tento spôsob"
+      ],
+      "Previous period": [
+        "Predchádzajúce obdobie"
+      ],
+      "Search events": [
+        "Vyhľadať udalosti"
+      ],
+      "Today": [
+        "Dnes"
+      ],
+      "Week view": [
+        "Týždenný prehľad"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Základné činnosti"
+      ],
+      "View options": [
+        "Možnosti zobrazenia"
       ]
     }
   }

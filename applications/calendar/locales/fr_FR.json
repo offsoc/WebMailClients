@@ -2509,6 +2509,19 @@
       "time": [
         "fois",
         "fois"
+      ],
+      "Don't end": [
+        "Sans fin"
+      ],
+      "End after": [
+        "Se termine après"
+      ],
+      "End on": [
+        "Termine le"
+      ],
+      "event": [
+        "événement",
+        "événements"
       ]
     },
     "Cycle": {
@@ -3401,6 +3414,9 @@
       ],
       "Your import will not be processed.": [
         "Votre importation ne sera pas traitée."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } est votre nom d'utilisateur. Pour créer ${ emailAddress }, dirigez-vous vers Paramètres > Identités et adresses > Domaine court (pm.me)."
       ]
     },
     "Error accepting calendar invitation": {
@@ -3978,6 +3994,9 @@
       ],
       "Security Center": [
         "Centre de sécurité"
+      ],
+      "Repeat event": [
+        "Répéter l'événement"
       ]
     },
     "Hint": {
@@ -5449,11 +5468,21 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Le fuseau horaire de votre système semble avoir changé pour ${ timezone }. Voulez-vous mettre à jour votre préférence de fuseau horaire ?"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "Si les raccourcis clavier sont activés, vous pouvez utiliser les touches suivantes pour des actions rapides ou pour accéder à différentes vues. Le raccourci ${ metaKey } + K est toujours activé."
+      ],
+      "Open shortcut cheat sheet": [
+        "Ouvrir l'aide-mémoire des raccourcis"
       ]
     },
     "info": {
       "Selected color:": [
         "Couleur sélectionnée :"
+      ],
+      "${ filteredList.length } command found.": [
+        "${ filteredList.length } commande trouvée.",
+        "${ filteredList.length } commandes trouvées."
       ]
     },
     "Info calendar search": {
@@ -5464,6 +5493,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Veuillez nous contacter via ${ email } pour recevoir des instructions concernant la procédure de règlement en espèces."
+      ],
+      "How to send a cash payment?": [
+        "Comment envoyer un paiement en espèces ?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Veuillez trouver les instructions dans cet article : ${ howToSendCashArticleUrl }"
       ]
     },
     "Info message": {
@@ -6006,6 +6041,18 @@
       ],
       "Your password (admin)": [
         "Votre mot de passe (admin)"
+      ],
+      "Every": [
+        "Chaque"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Raccourci clavier : ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Raccourcis clavier"
+      ],
+      "On": [
+        "Activé"
       ]
     },
     "Label for contact group color": {
@@ -6491,6 +6538,9 @@
       ],
       "on the third Wednesday": [
         "chaque troisième mercredi"
+      ],
+      "on the ${ shortenedDay }": [
+        "le ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -7027,6 +7077,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Nous analysons le dark web et vérifions si vos adresses ou vos alias ${ BRAND_NAME } ont été divulgués et nous vous informons immédiatement des résultats."
+      ],
+      "SSO integration": [
+        "Authentification unique (SSO) intégrée"
       ]
     },
     "new_plans: feature highlight": {
@@ -7657,6 +7710,33 @@
       ],
       "Save 80% on your first month.": [
         "Économisez 80 % sur votre premier mois"
+      ],
+      "Don’t show this offer again": [
+        "Ne plus montrer cette offre"
+      ],
+      "Last day to save": [
+        "Dernier jour pour réaliser des économies"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus pour 12 mois"
+      ],
+      "Save": [
+        "Économisez"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Économisez ${ prices.savedPercentage } %"
+      ],
+      "Save big when you pay annually": [
+        "Économisez un maximum en optant pour le paiement annuel !"
+      ],
+      "This offer won't be shown again.": [
+        "Cette offre ne sera plus affichée."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Lorsque vous passez d'un abonnement mensuel à un abonnement annuel."
+      ],
+      "You currently pay": [
+        "Vous payez actuellement"
       ]
     },
     "Offer feature": {
@@ -7782,6 +7862,18 @@
       "Year": [
         "Année",
         "Années"
+      ],
+      "Custom...": [
+        "Personnaliser..."
+      ],
+      "Every month ${ description }": [
+        "Chaque mois ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "Chaque semaine ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "Chaque jour de la semaine ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -8106,6 +8198,9 @@
       ],
       "Start typing an email address": [
         "Commencez à saisir une adresse e-mail."
+      ],
+      "Filter quick actions": [
+        "Filtrer les actions rapides"
       ]
     },
     "Placeholder for contact group name": {
@@ -9466,6 +9561,9 @@
       ],
       "You have successfully unsubscribed": [
         "La désinscription a été effectuée."
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Les préférences des raccourcis clavier ont été mises à jour."
       ]
     },
     "Suffix": {
@@ -10118,6 +10216,30 @@
       ],
       "Your shorter address is now ready": [
         "Votre adresse au format plus court est maintenant prête."
+      ],
+      "${ appName } keyboard shortcuts": [
+        "Raccourcis clavier ${ appName }"
+      ],
+      "Does not repeat": [
+        "Ne pas répéter"
+      ],
+      "Every day": [
+        "Chaque jour"
+      ],
+      "Every month ${ option.text }": [
+        "Chaque mois ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "Chaque semaine le ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "Chaque jour de la semaine ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "Chaque année"
+      ],
+      "Help center": [
+        "Aide & Support"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10483,10 +10605,10 @@
         "Voulez-vous vraiment supprimer définitivement ce contact ?"
       ],
       "Cannot contain a dot at the beginning": [
-        "Cette entrée ne peut pas commencer par un point."
+        "L'entrée ne peut pas commencer par un point."
       ],
       "Cannot contain a dot at the end": [
-        "L'entrée ne peut se terminer par un point."
+        "L'entrée ne peut pas terminer par un point."
       ],
       "Contacts could not be merged": [
         "Les contacts n'ont pas pu être fusionnés."
@@ -10837,6 +10959,77 @@
       ],
       "Passcode:": [
         "Code d’accès :"
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "Rechercher des messages"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Vue de la journée"
+      ],
+      "Month view": [
+        "Vue mensuelle"
+      ],
+      "New event": [
+        "Nouvel événement"
+      ],
+      "Next period": [
+        "Période suivante"
+      ],
+      "Previous period": [
+        "Période précédente"
+      ],
+      "Search events": [
+        "Recherche d'événements"
+      ],
+      "Today": [
+        "Aujourd'hui"
+      ],
+      "Week view": [
+        "Vue de la semaine"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "Créer un nouvel événement"
+      ],
+      "Day view": [
+        "Vue de la journée"
+      ],
+      "Month view": [
+        "Vue mensuelle"
+      ],
+      "Next period": [
+        "Période suivante"
+      ],
+      "Open quick actions menu": [
+        "Ouvrir le menu des actions rapides"
+      ],
+      "Open this modal": [
+        "Ouvrir cette fenêtre"
+      ],
+      "Previous period": [
+        "Période précédente"
+      ],
+      "Search events": [
+        "Recherche d'événements"
+      ],
+      "Today": [
+        "Aujourd’hui"
+      ],
+      "Week view": [
+        "Vue de la semaine"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Actions basiques"
+      ],
+      "View options": [
+        "Afficher les options"
       ]
     }
   }

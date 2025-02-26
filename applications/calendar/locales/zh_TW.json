@@ -1236,6 +1236,9 @@
       ],
       "Take a tour": [
         "瀏覽"
+      ],
+      "Close": [
+        "關閉"
       ]
     },
     "Calendar access select label": {
@@ -5358,11 +5361,20 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "您的系統時區似乎已更改為 ${ timezone }。您要更新您的時區喜好設定嗎？"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "若鍵盤快捷鍵啟用，您將可以使用下列快捷鍵快速操作或切換不同視角。${ metaKey }+K將永遠啟用。"
+      ],
+      "Open shortcut cheat sheet": [
+        "開啟快捷鍵備忘單"
       ]
     },
     "info": {
       "Selected color:": [
         "已選取的色彩:"
+      ],
+      "${ filteredList.length } command found.": [
+        "找到 ${ filteredList.length } 個指令。"
       ]
     },
     "Info calendar search": {
@@ -5907,6 +5919,12 @@
       ],
       "Your password (admin)": [
         "您的密碼（管理員）"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "鍵盤快速鍵: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "鍵盤快捷鍵"
       ]
     },
     "Label for contact group color": {
@@ -6892,6 +6910,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "我們會掃描暗網去檢查你的${ BRAND_NAME }地址或别名是否被外洩，並且在發現任何問題時立即通知你。"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "針對影音串流優化的獨立伺服器"
+      ],
+      "SSO integration": [
+        "SSO 整合"
+      ],
+      "Use on up to ${ n } device at once": [
+        "最多同一時間於 ${ n } 裝置"
       ]
     },
     "new_plans: feature highlight": {
@@ -7474,6 +7501,30 @@
       ],
       "Save 80% on your first month.": [
         "首月省下80%"
+      ],
+      "Don’t show this offer again": [
+        "不再顯示此優惠"
+      ],
+      "Last day to save": [
+        "最後優惠日"
+      ],
+      "Mail Plus for 12 months": [
+        "12個月的Mail Plus"
+      ],
+      "Save": [
+        "儲存"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "省下${ prices.savedPercentage }%"
+      ],
+      "This offer won't be shown again.": [
+        "此優惠將不再顯示。"
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "當您從每月切換至每年訂月。"
+      ],
+      "You currently pay": [
+        "您目前付款"
       ]
     },
     "Offer feature": {
@@ -7913,6 +7964,9 @@
       ],
       "Start typing an email address": [
         "在此輸入一個電郵位址"
+      ],
+      "Filter quick actions": [
+        "過濾快速動作"
       ]
     },
     "Placeholder for contact group name": {
@@ -9205,6 +9259,9 @@
       ],
       "You have successfully unsubscribed": [
         "您已成功取消訂購"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "鍵盤快捷鍵喜好設定已更新"
       ]
     },
     "Suffix": {
@@ -9846,6 +9903,12 @@
       ],
       "Your shorter address is now ready": [
         "您的短地址已完成"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName }鍵盤快捷鍵"
+      ],
+      "Help center": [
+        "說明中心"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10137,6 +10200,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "您的免費滿意體驗將於 ${ textDate } 結束。${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "不允許連續2點"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "無法於開頭使用點"
+      ],
+      "Cannot contain a dot at the end": [
+        "無法於最後使用點"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "僅允許英文小寫字母、數字、點號、連字號和底線"
       ]
     },
     "Warning in modal to accept calendar invitation; Description": {
@@ -10382,6 +10457,85 @@
       ],
       "Passcode:": [
         "數字密碼:"
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "搜尋訊息"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "日檢視"
+      ],
+      "Month view": [
+        "月檢視"
+      ],
+      "New event": [
+        "新增事件"
+      ],
+      "Next period": [
+        "下一個時期"
+      ],
+      "Previous period": [
+        "上一期"
+      ],
+      "Search events": [
+        "搜尋活動"
+      ],
+      "Today": [
+        "今日"
+      ],
+      "Week view": [
+        "週檢視"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "建立新事件"
+      ],
+      "Day view": [
+        "日檢視"
+      ],
+      "Month view": [
+        "月檢視"
+      ],
+      "Next period": [
+        "下一個時期"
+      ],
+      "Open quick actions menu": [
+        "開啟快速動作清單"
+      ],
+      "Open this modal": [
+        "打開這個視窗"
+      ],
+      "Previous period": [
+        "上一期"
+      ],
+      "Search events": [
+        "搜尋活動"
+      ],
+      "Today": [
+        "今天"
+      ],
+      "Week view": [
+        "週檢視"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "基本動作"
+      ],
+      "View options": [
+        "檢視選項"
+      ]
+    },
+    "new_plans: Subtext": {
+      "The discounted price of ${ priceCoupon } is valid for the first month. Then it will automatically be renewed at ${ priceLine }. You can cancel at any time.": [
+        "於第一個月享受${ priceCoupon }優惠折扣。而後將以每 ${ priceLine } 月的價格自動續約。您可以於任何時候取消訂閱。"
+      ],
+      "Unlock all ${ BRAND_NAME } premium products and features for just ${ priceLine }. Cancel anytime.": [
+        "只要${ priceLine }解鎖全部的${ BRAND_NAME }頂級產品及功能。隨時取消。"
       ]
     }
   }

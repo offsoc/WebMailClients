@@ -799,6 +799,9 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Brezplačno preskušanje namizne aplikacije poteče dne ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Remove Zoom meeting": [
+        "Odstrani sestanek Zoom"
       ]
     },
     "Action subline": {
@@ -1046,7 +1049,7 @@
         "Opozorila o kakovosti gesla"
       ],
       "Private photo backup": [
-        "Osebna varnostna kopija fotografij"
+        "Zasebna varnostna kopija fotografij"
       ],
       "Protect 10 devices at a time": [
         "Zaščitite 10 naprav hkrati"
@@ -1055,7 +1058,7 @@
         "Varna shramba in skupna raba datotek"
       ],
       "Secure vault and link sharing": [
-        "Varna in zanesljiva skupna raba"
+        "Varna skupna raba trezorjev in povezav"
       ],
       "Unlimited folders, labels and filters": [
         "Neomejeno število map, oznak in filtrov"
@@ -1083,7 +1086,7 @@
         "Dostopajte do blokirane vsebine in brskajte zasebno. Vključuje več kot 8.500 strežnikov v več kot 110 državah, 10 naprav, pretočne storitve z visoko hitrostjo, onemogočanje oglasov in zaščito pred zlonamerno programsko opremo, VPN Accelerator in še več."
       ],
       "Access content on streaming services including Netflix, Disney+, Prime Video, and more, from anywhere.": [
-        "Dostopajte do vsebin na pretočnih storitvah, kot so Netflix, Disney+, Prime Video in še več, od kjerkoli."
+        "Dostopajte do vsebin na pretočnih storitvah, kot so Netflix, Disney+, Prime Video in druge, od kjerkoli."
       ],
       "Secure your emails and schedule with end-to-end encryption. Includes ${ addresses } email address, support for custom email domains, ${ BRAND_NAME } Scribe writing assistant, unlimited hide-my-email aliases and more.": [
         "Zaščitite svoje e-pošte in urnike s šifriranjem od konca do konca. Vključuje ${ addresses } e-poštni naslov, podporo za e-poštne domene po meri, ${ BRAND_NAME } Scribe pisni asistent, neomejeno število vzdevkov hide-my-email in še več.",
@@ -1224,6 +1227,9 @@
       ],
       "Take a tour": [
         "Oglejte si"
+      ],
+      "Close": [
+        "Zapri"
       ]
     },
     "Calendar access select label": {
@@ -5363,11 +5369,23 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Vaš sistemski časovni pas se je spremenil v ${ timezone }. Ali želite posodobiti nastavitve časovnega pasu?"
+      ],
+      "Enabling auto-deletion…": [
+        "Omogočanje samodejnega brisanja …"
+      ],
+      "Open shortcut cheat sheet": [
+        "Odpri seznam bližnjic"
       ]
     },
     "info": {
       "Selected color:": [
         "Izberi barvo:"
+      ],
+      "${ filteredList.length } command found.": [
+        "Najden ${ filteredList.length } ukaz.",
+        "Najdena ${ filteredList.length } ukaza.",
+        "Najdeni ${ filteredList.length } ukazi.",
+        "Najdenih ${ filteredList.length } ukazov."
       ]
     },
     "Info calendar search": {
@@ -5921,6 +5939,12 @@
       ],
       "Your password (admin)": [
         "Vaše geslo (admin)"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Bližnjica na tipkovnici: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Bližnjice na tipkovnici"
       ]
     },
     "Label for contact group color": {
@@ -6927,6 +6951,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Pregledujemo temni splet in preverjamo, ali so bili razkriti naslovi ali vzdevki ${ BRAND_NAME }. V primeru uhajanja podatkov vas bomo o tem obvestili."
+      ],
+      "200 GB of storage": [
+        "200 GB prostora za shranjevanje"
       ]
     },
     "new_plans: feature highlight": {
@@ -9198,6 +9225,9 @@
       ],
       "You have successfully unsubscribed": [
         "Naročnina je preklicana"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Nastavitve bližnjic na tipkovnici so posodobljene"
       ]
     },
     "Suffix": {
@@ -9851,6 +9881,9 @@
       ],
       "Your exposed information": [
         "Vaša razkrita informacija"
+      ],
+      "Upgrade complete!": [
+        "Nadgradnja opravljena!"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10481,6 +10514,26 @@
       ],
       "Meeting ID:": [
         "ID sestanka:"
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "Išči sporočila"
+      ]
+    },
+    "Downgrade warning": {
+      "Remove discount": [
+        "Odstrani popust"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Open this modal": [
+        "Odpri to okno"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Osnovna dejanja"
       ]
     }
   }

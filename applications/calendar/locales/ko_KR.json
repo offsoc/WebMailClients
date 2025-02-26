@@ -2493,6 +2493,18 @@
       ],
       "time": [
         "시간"
+      ],
+      "Don't end": [
+        "종료하지 않기"
+      ],
+      "End after": [
+        "다음 날짜 이후 종료:"
+      ],
+      "End on": [
+        "다음 날짜에 종료:"
+      ],
+      "event": [
+        "이벤트"
       ]
     },
     "Cycle": {
@@ -2646,7 +2658,7 @@
         "최상의 계정 보안 상태를 유지하려면, 복구 문구를 설정하세요."
       ],
       "To import via a CSV and VCF file, ensure the file does not exceed ${ MAX_IMPORT_FILE_SIZE_STRING } or ${ MAX_IMPORT_CONTACTS_STRING } contacts. If your file is bigger, please split it into smaller files. ${ learnMoreLink }.": [
-        "CSV 파일 및 VCF 파일을 통한 불러오기를 위해, 파일이 ${ MAX_IMPORT_FILE_SIZE_STRING } 또는 ${ MAX_IMPORT_CONTACTS_STRING } 연락처를 초과하지 않도록 하십시오. 파일이 더 크면, 더 작은 파일로 나누세요. ${ learnMoreLink }."
+        "CSV 파일 및 VCF 파일을 통한 불러오기를 위해, 파일이 ${ MAX_IMPORT_FILE_SIZE_STRING } 또는 연락처 ${ MAX_IMPORT_CONTACTS_STRING }개를 초과하지 않도록 않도록 해주세요. 파일이 더 크다면, 더 작은 파일로 나눠주세요. ${ learnMoreLink }."
       ],
       "To import your contacts from Google or Outlook, ${ easySwitchLink }.": [
         "Google 및 Outlook에서 콘텐츠를 불러오려면, ${ easySwitchLink }"
@@ -3369,6 +3381,9 @@
       ],
       "Your import will not be processed.": [
         "가져오기가 처리되지 않았습니다."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name }이(가) 회원님의 사용자 이름입니다. ${ emailAddress }를 생성하려면, 설정 > 신원 및 주소 > 짧은 도메인 (pm.me)로 이동하세요."
       ]
     },
     "Error accepting calendar invitation": {
@@ -3937,6 +3952,9 @@
       ],
       "Security Center": [
         "보안 센터"
+      ],
+      "Repeat event": [
+        "일정 반복"
       ]
     },
     "Hint": {
@@ -5370,11 +5388,20 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "시스템 시간대가 ${ timezone } 로 변경된 것 같습니다. 여기의 시간대도 변경하시겠습니까?"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "키보드 단축키가 활성화되면, , 다음 키를 사용하여 빠른 작업을 수행하거나 다른 보기로 이동할 수 있습니다. ${ metaKey } + K는 항상 활성화되어 있습니다."
+      ],
+      "Open shortcut cheat sheet": [
+        "단축키 목록 보기"
       ]
     },
     "info": {
       "Selected color:": [
         "선택한 색상:"
+      ],
+      "${ filteredList.length } command found.": [
+        "${ filteredList.length }개의 명령을 찾았습니다."
       ]
     },
     "Info calendar search": {
@@ -5385,6 +5412,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "현금으로 결제하는 방법을 알고 싶으시면 ${ email }으로 연락해 주세요."
+      ],
+      "How to send a cash payment?": [
+        "결제 수단 전송 방법"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "이 문서의 설명을 따라주세요: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info message": {
@@ -5919,6 +5952,12 @@
       ],
       "Your password (admin)": [
         "사용자의 비밀번호 (관리자)"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "키보드 단축키: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "키보드 단축키"
       ]
     },
     "Label for contact group color": {
@@ -6396,6 +6435,9 @@
       ],
       "on the third Wednesday": [
         "세 번째 수요일에"
+      ],
+      "on the ${ shortenedDay }": [
+        "${ shortenedDay }에"
       ]
     },
     "New Label form": {
@@ -6904,6 +6946,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "${ BRAND_NAME } 주소나 별칭이 유출되었는지 확인하기 위해 다크 웹을 탐색하며 발견한 것이 있다면 즉시 알려드립니다."
+      ],
+      "Dedicated servers optimized for streaming": [
+        "스트리밍에 최적화된 전용 서버"
+      ],
+      "SSO integration": [
+        "SSO 통합"
+      ],
+      "Use on up to ${ n } device at once": [
+        "동시에 ${ n }개 기기에서 사용하세요"
       ]
     },
     "new_plans: feature highlight": {
@@ -7091,7 +7142,7 @@
         "최대 ${ n }개 캘린더를 생성하거나 친구, 가족, 동료 및 조직에서 생성하세요."
       ],
       "Create up to ${ n } email addresses/aliases that you can assign to family members. Use them for online identities, e.g., JohnShopper@${ domain } for shopping accounts.": [
-        "가족 구성원에게 할당할 수 있는 최대 ${ n }개의 이메일 주소/별명을 생성하세요. 이를 온라인 신원으로 사용하세요. 예를 들면, 쇼핑 계정에는 JohnShopper@${ domain }을 사용할 수 있습니다."
+        "가족 구성원에게 할당할 수 있는 이메일 주소/별칭을 ${ n }개까지 생성할 수 있습니다. 온라인 신원으로 사용할 수 있고, 쇼핑 계정으로 홍쇼핑@${ domain }을(를) 사용하는 것을 예로 들 수 있습니다."
       ],
       "Custom domains for aliases, additional mailboxes, the ability to send emails from aliases, and more": [
         "별칭을 위한 커스텀 도메인, 추가 메일함, 별칭으로부터의 이메일 전송 기능 등"
@@ -7509,6 +7560,33 @@
       ],
       "Save 80% on your first month.": [
         "첫 달에 80% 할인 받기"
+      ],
+      "Don’t show this offer again": [
+        "이 제안을 다시 보지 않기"
+      ],
+      "Last day to save": [
+        "매월에서 매년 구독으로 변경하여"
+      ],
+      "Mail Plus for 12 months": [
+        "12개월 Mail Plus"
+      ],
+      "Save": [
+        "절약되는 가격:"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "${ prices.savedPercentage }% 절약"
+      ],
+      "Save big when you pay annually": [
+        "매년 결제로 더 크게 절약하세요"
+      ],
+      "This offer won't be shown again.": [
+        "이 제안은 다시 표시되지 않습니다."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "절약할 수 있는 마지막 날."
+      ],
+      "You currently pay": [
+        "현재 결제:"
       ]
     },
     "Offer feature": {
@@ -7555,7 +7633,7 @@
     },
     "Onboarding Proton": {
       "Configure your organization, link your domain name, and create accounts to ensure all members of your organization are protected.": [
-        "조직을 구성하고, 도메인 이름을 연결하고, 계정을 만들어 조직의 모든 구성원이 보호되도록 하십시오."
+        "조직을 구성하고, 도메인 이름을 연결하고, 계정을 만들어 조직의 모든 구성원을 보호하세요."
       ],
       "Discover all ${ BRAND_NAME } services": [
         "모든 ${ BRAND_NAME } 서비스를 둘러보기"
@@ -7630,6 +7708,18 @@
       ],
       "Year": [
         "년"
+      ],
+      "Custom...": [
+        "사용자 정의..."
+      ],
+      "Every month ${ description }": [
+        "매달 ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "매주 ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "매주 ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -7951,6 +8041,9 @@
       ],
       "Start typing an email address": [
         "이메일 주소 입력을 시작하세요"
+      ],
+      "Filter quick actions": [
+        "빠른 동작 필터링"
       ]
     },
     "Placeholder for contact group name": {
@@ -8098,10 +8191,10 @@
     },
     "Security Center - Info": {
       "${ name } and ${ remainingCount } other potential leaks detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details. ${ link }": [
-        "${ name }과 ${ remainingCount }개의 잠재적인 유출이 탐지되었습니다. ${ DARK_WEB_MONITORING_NAME }을 활성화하여 세부사항을 확인하십시오. ${ link }"
+        "${ name }와(과) ${ remainingCount }개의 잠재적인 유출이 탐지되었습니다. ${ DARK_WEB_MONITORING_NAME }을 활성화하여 세부사항을 확인하십시오. ${ link }"
       ],
       "${ name } and 1 other potential leak detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details. ${ link }": [
-        "${ name }과 하나의 잠재적인 유출이 탐지되었습니다. ${ DARK_WEB_MONITORING_NAME }을 활성화하여 세부사항을 확인하십시오. ${ link }"
+        "${ name }와(과) 하나의 잠재적인 유출이 탐지되었습니다. ${ DARK_WEB_MONITORING_NAME }을 활성화하여 세부사항을 확인하십시오. ${ link }"
       ],
       "A potential ${ name } leak was detected. Turn on ${ DARK_WEB_MONITORING_NAME } to view details. ${ link }": [
         "잠재적인 ${ name } 유출이 탐지되었습니다. ${ DARK_WEB_MONITORING_NAME }을 활성화하여 세부사항을 확인하십시오. ${ link }"
@@ -8810,7 +8903,7 @@
         "생산성을 업그레이드하세요"
       ],
       "We don't sell your data": [
-        "저희는 사용자의 데이터를 판매하지 않습니다"
+        "당사는 사용자의 데이터를 판매하지 않습니다"
       ],
       "Your privacy is our mission": [
         "당신의 프라이버시는 저희의 사명입니다"
@@ -9093,7 +9186,7 @@
         "시스템이 더 이상 이 결제 수단으로 자동 결제할 수 없습니다, 다만 고객님의 구독이 청구 주기가 끝날 때까지 갱신될 것입니다. 구독을 다운그레이드하거나 변경하려면, 청구 기간이 끝나기 전에 수동으로 해야합니다. 또한, 수동 결제를 하는 것을 잊어버리고 모든 결제 수단에 자동 결제가 비활성화된 경우, 고객님의 계정이 자동 다운그레이드되어 많은 기능이 손실될 수 있습니다."
       ],
       "Our system will no longer auto-charge you using this payment method, but your subscription will still renew at the end of the billing cycle. If you want to downgrade or change your subscription, you still need to do that yourself before the end of the billing period. We cannot auto-downgrade you because if you are over free plan storage quota or using other paid features, we cannot auto delete files, emails, or other data for you. If you disable automatic payment, remember to pay your next subscription invoice before the due date to prevent account suspension.": [
-        "당사 시스템이 더 이상 이 결제 수단을 사용하여 자동 갱신할 수 없으나, 구독이 여전히 마지막 결제일에 갱신됩니다. 만일 플랜을 다운그레이드 또는 변경하시려면, 결제일이 끝나기 직전 수행해야 합니다. 만약 무료 플랜 저장 공간을 초과하여 사용하시거나 다른 유료 계정을 사용시 파일, 이메일 및 기타 데이터를 자동으로 삭제할 수 없기에 자동으로 다운그레이드할 수 없습니다. 자동 결제 수단을 비활성화 하시려면, 계정 정지를 방지하기 위해 마감일 전에 다음 구독 청구서를 지불하는 것을 잊지 말아주세요."
+        "당사 시스템이 더 이상 이 결제 수단을 사용하여 자동 갱신할 수 없으나, 구독은 여전히 마지막 결제일에 갱신됩니다. 만약 플랜을 다운그레이드 또는 변경하시려면, 결제일이 다가오기 직전에 수행해야 합니다. 만약 무료 플랜의 제공 저장 공간을 초과하여 사용하시거나 다른 유료 계정을 사용시 시스템이 파일, 이메일 및 기타 데이터를 자동으로 삭제할 수 없기 때문에 플랜이 자동으로 다운그레이드되지 않습니다. 자동 결제를 비활성화 하실 때, 계정 정지를 방지하기 위해 마감일 전에 다음 구독 청구서를 지불하는 것을 잊지 말아주세요."
       ]
     },
     "Subscription saving": {
@@ -9275,6 +9368,9 @@
       ],
       "You have successfully unsubscribed": [
         "성공적으로 구독 취소했습니다."
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "키보드 단축키 설정 업데이트 됨"
       ]
     },
     "Suffix": {
@@ -9564,7 +9660,7 @@
         "${ count }개의 그룹 삭제"
       ],
       "Delete ${ value }": [
-        "${ value }을(를) 삭제할까요"
+        "${ value }을(를) 삭제"
       ],
       "Delete event": [
         "이벤트 지우기"
@@ -9916,6 +10012,30 @@
       ],
       "Your shorter address is now ready": [
         "짧은 주소가 준비되었습니다"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName } 키보드 단축키"
+      ],
+      "Does not repeat": [
+        "반복하지 않음"
+      ],
+      "Every day": [
+        "매일"
+      ],
+      "Every month ${ option.text }": [
+        "매달 ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "매주 ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "매주 ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "매년"
+      ],
+      "Help center": [
+        "지원 센터"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10213,6 +10333,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "무료 체험이 ${ textDate } 에 종료됩니다. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "마침표 2개가 연속해서 올 수 없습니다"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "시작에 점(.)을 포함할 수 없습니다."
+      ],
+      "Cannot contain a dot at the end": [
+        "끝에 점(.)을 포함할 수 없습니다."
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "영숫자 소문자, 점, 하이픈 및 밑줄만 허용됩니다."
       ]
     },
     "Warning in modal to accept calendar invitation; Description": {
@@ -10458,6 +10590,77 @@
       ],
       "Passcode:": [
         "비밀번호:"
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "메시지 검색"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "일간 보기"
+      ],
+      "Month view": [
+        "월간 보기"
+      ],
+      "New event": [
+        "새로운 이벤트"
+      ],
+      "Next period": [
+        "다음 기간"
+      ],
+      "Previous period": [
+        "이전 기간"
+      ],
+      "Search events": [
+        "이벤트 검색"
+      ],
+      "Today": [
+        "오늘"
+      ],
+      "Week view": [
+        "주간 보기"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "새 이벤트 만들기"
+      ],
+      "Day view": [
+        "일간 보기"
+      ],
+      "Month view": [
+        "월간 보기"
+      ],
+      "Next period": [
+        "다음 생리"
+      ],
+      "Open quick actions menu": [
+        "빠른 동작 매뉴 열기"
+      ],
+      "Open this modal": [
+        "이 모달 열기"
+      ],
+      "Previous period": [
+        "이전 기간"
+      ],
+      "Search events": [
+        "이벤트 검색"
+      ],
+      "Today": [
+        "오늘"
+      ],
+      "Week view": [
+        "주간 보기"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "간단한 단축키"
+      ],
+      "View options": [
+        "옵션 보기"
       ]
     }
   }

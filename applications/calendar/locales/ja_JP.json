@@ -315,7 +315,7 @@
         "添付ファイルとして転送"
       ],
       "Get ${ planName } for ${ priceCoupon }": [
-        "${ planName } で ${ priceCoupon }を入手"
+        "${ planName } を ${ priceCoupon }で入手"
       ],
       "Get ${ planOrAppName }": [
         "${ planOrAppName } を入手"
@@ -1242,6 +1242,9 @@
       ],
       "Take a tour": [
         "ツアーを開始"
+      ],
+      "Close": [
+        "閉じる"
       ]
     },
     "Calendar access select label": {
@@ -2490,6 +2493,18 @@
       ],
       "time": [
         "回"
+      ],
+      "Don't end": [
+        "終了しない"
+      ],
+      "End after": [
+        "終了までの回数:"
+      ],
+      "End on": [
+        "終了"
+      ],
+      "event": [
+        "予定"
       ]
     },
     "Cycle": {
@@ -2720,7 +2735,7 @@
         "より優れた機能を持つ VPN を見つけた"
       ],
       "I have not managed to connect": [
-        "接続することができませんでした"
+        "接続することができなかった"
       ],
       "I only needed a VPN short-term": [
         "VPN が短期間のみ必要だった"
@@ -2729,7 +2744,7 @@
         "別の ${ BRAND_NAME } アカウントを使っている"
       ],
       "It doesn't do what I need": [
-        "必要としていることをしてくれない"
+        "必要な機能がない"
       ],
       "Missing feature(s)": [
         "機能が不足している"
@@ -3366,6 +3381,9 @@
       ],
       "Your import will not be processed.": [
         "インポートできませんでした。"
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "あなたのユーザー名は${ user.Name }です。 ${ emailAddress }を作成するには、設定 > 署名とアドレス > 短縮ドメイン (@pm.me) に移動してください。"
       ]
     },
     "Error accepting calendar invitation": {
@@ -3934,6 +3952,9 @@
       ],
       "Security Center": [
         "セキュリティセンター"
+      ],
+      "Repeat event": [
+        "繰り返し予定"
       ]
     },
     "Hint": {
@@ -4050,7 +4071,7 @@
         "このファイルには予定の招待が含まれています:"
       ],
       "This file contains an invitation response:": [
-        "このファイルには招待の回答が含まれています："
+        "このファイルには招待への回答が含まれています："
       ],
       "This file contains some data that we cannot import:": [
         "このファイルにはインポートできないデータが含まれています:"
@@ -5367,11 +5388,20 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "システムのタイムゾーンが${ timezone }に変更されたようです。タイムゾーンの設定を更新しますか？"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "キーボードショートカットが有効になっている場合は、次のキーを使用してクイックアクションを実行したり、別のビューにジャンプすることができます。 ${ metaKey } + K は常に有効です。"
+      ],
+      "Open shortcut cheat sheet": [
+        "ショートカットのチートシートを開く"
       ]
     },
     "info": {
       "Selected color:": [
         "選択した色:"
+      ],
+      "${ filteredList.length } command found.": [
+        "${ filteredList.length }個のコマンドが見つかりました。"
       ]
     },
     "Info calendar search": {
@@ -5382,6 +5412,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "現金での支払い方法については、${ email } 宛までお問い合わせください。"
+      ],
+      "How to send a cash payment?": [
+        "現金支払いを送る方法は?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "記事の手順を見つけてください： ${ howToSendCashArticleUrl }"
       ]
     },
     "Info message": {
@@ -5855,7 +5891,7 @@
         "開始日"
       ],
       "State": [
-        "状態"
+        "州"
       ],
       "Street address": [
         "番地"
@@ -5916,6 +5952,18 @@
       ],
       "Your password (admin)": [
         "あなたのパスワード (管理者)"
+      ],
+      "Every": [
+        "毎"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "キーボードショートカット: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "キーボードショートカット"
+      ],
+      "On": [
+        "に"
       ]
     },
     "Label for contact group color": {
@@ -6130,7 +6178,7 @@
         "${ itemsToImportCount } ラベルからすべてのメッセージをインポートし、それらを次のようにラベル付けします"
       ],
       "Import all messages from ${ selectedItemsToImportCount } out of ${ itemsToImportCount } folder and label them as": [
-        "${ itemsToImportCount } フォルダから ${ selectedItemsToImportCount } のすべてのメッセージをインポートし、ラベル付けします"
+        "${ itemsToImportCount } つのフォルダのうち ${ selectedItemsToImportCount } つからすべてのメッセージをインポートし、ラベルを付けします"
       ],
       "Import all messages from ${ selectedItemsToImportCount } out of ${ itemsToImportCount } label and label them as": [
         "${ selectedItemsToImportCount } からすべてのメッセージを${ itemsToImportCount } ラベルからインポートし、それらをラベル付けします"
@@ -6393,6 +6441,9 @@
       ],
       "on the third Wednesday": [
         "第3水曜日"
+      ],
+      "on the ${ shortenedDay }": [
+        "${ shortenedDay } に"
       ]
     },
     "New Label form": {
@@ -6901,6 +6952,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "ダークウェブをスキャンして、あなたの ${ BRAND_NAME } アドレスやエイリアスが漏洩していないかを確認し、何か見つかった場合はすぐに警告します。"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "ストリーミングに最適化された専用サーバー"
+      ],
+      "SSO integration": [
+        "SSO 統合"
+      ],
+      "Use on up to ${ n } device at once": [
+        "一度に最大 ${ n } 台のデバイスで使用"
       ]
     },
     "new_plans: feature highlight": {
@@ -7202,7 +7262,7 @@
         "暗号化クラウドストレージでファイルの安全を保ちます。自動同期、暗号化ファイル共有などが含まれます。"
       ],
       "Securely share individual items with anyone (even if they don't use ${ PASS_APP_NAME })": [
-        "誰にでも(${ PASS_APP_NAME }を使っていない人にも)個人のアイテムを安全に共有"
+        "誰にでも (${ PASS_APP_NAME }を使っていない人にも) 個人のアイテムを安全に共有"
       ],
       "Securely store your contacts’ details, such as phone number, address, birthday, and personal notes. Zero-access encryption ensures even ${ BRAND_NAME } can't access them.": [
         "電話番号、住所、誕生日、個人的なメモなどの連絡先の詳細を安全に保存します。 ゼロアクセス暗号化により、${ BRAND_NAME } であってもアクセスできなくなります。"
@@ -7506,6 +7566,33 @@
       ],
       "Save 80% on your first month.": [
         "最初の月は 80 %割引。"
+      ],
+      "Don’t show this offer again": [
+        "今後このオファーを表示しない"
+      ],
+      "Last day to save": [
+        "節約できる最後の日"
+      ],
+      "Mail Plus for 12 months": [
+        "12 か月分のMail Plus"
+      ],
+      "Save": [
+        "節約"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "${ prices.savedPercentage }%を節約"
+      ],
+      "Save big when you pay annually": [
+        "年払いで大幅に節約"
+      ],
+      "This offer won't be shown again.": [
+        "このオファーは二度と表示されません。"
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "月額プランから年間プランに切り替える場合。"
+      ],
+      "You currently pay": [
+        "現在の支払い方法"
       ]
     },
     "Offer feature": {
@@ -7627,6 +7714,18 @@
       ],
       "Year": [
         "年"
+      ],
+      "Custom...": [
+        "カスタム..."
+      ],
+      "Every month ${ description }": [
+        "毎月 ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "毎週 ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "毎週平日 ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -7759,7 +7858,7 @@
         "支払い処理中"
       ],
       "Please reactivate your subscription first to decrease the number of add-ons.": [
-        "アドオンの数を減らすには、まずサブスクリプションを再アクティブ化してください。"
+        "アドオンを減らすには、まずサブスクリプションを再有効化してください。"
       ],
       "Please select billing country": [
         "請求先の国を選択してください"
@@ -7820,7 +7919,7 @@
     },
     "Payments.plan_name": {
       "Free": [
-        "無料"
+        "Free"
       ]
     },
     "Payments.Sepa": {
@@ -7941,13 +8040,16 @@
         "理由を選択"
       ],
       "Select state": [
-        "状態の選択"
+        "州を選択"
       ],
       "Share what you think could make ${ BRAND_NAME } better": [
         "${ BRAND_NAME }をより良くするためには何が必要だと思うか共有してください。"
       ],
       "Start typing an email address": [
         "メールアドレスを入力"
+      ],
+      "Filter quick actions": [
+        "クイックアクションのフィルター"
       ]
     },
     "Placeholder for contact group name": {
@@ -8165,7 +8267,7 @@
         "この許可はあと${ timeRemaining.inHours }時間で期限切れになります。"
       ],
       "This permission expires soon": [
-        "この許可はすぐに取り消されます"
+        "この権限はまもなく有効期限が切れます"
       ],
       "You can now change your password for the account ${ boldEmail } freely for ${ boldDaysRemaining }.": [
         "アカウント ${ boldEmail } のパスワードを、あと ${ boldDaysRemaining } 日間は自由に変更可能です。"
@@ -8935,10 +9037,10 @@
         "追加のストレージとユーザー"
       ],
       "Folders, labels and filters": [
-        "フォルダ、ラベル、ファイル"
+        "フォルダー、ラベル、フィルター"
       ],
       "Folders, labels, and custom filters": [
-        "フォルダ、ラベル、そしてカスタムフィルター"
+        "フォルダー、ラベル、カスタムフィルター"
       ],
       "Helping activists in Hong Kong": [
         "香港の活動家を支援"
@@ -9272,6 +9374,9 @@
       ],
       "You have successfully unsubscribed": [
         "サブスクリプションをキャンセルしました"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "キーボードショートカットの設定が更新されました"
       ]
     },
     "Suffix": {
@@ -9913,6 +10018,30 @@
       ],
       "Your shorter address is now ready": [
         "短いアドレスの準備ができました"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName } キーボードショートカット"
+      ],
+      "Does not repeat": [
+        "繰り返さない"
+      ],
+      "Every day": [
+        "毎日"
+      ],
+      "Every month ${ option.text }": [
+        "毎月 ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "毎週 ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "毎週平日 ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "毎年"
+      ],
+      "Help center": [
+        "ヘルプセンター"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10210,6 +10339,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "無料トライアルは ${ textDate } に終了します。${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "2 つの連続したドットは使用できません"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "最初にドットを含めることはできません"
+      ],
+      "Cannot contain a dot at the end": [
+        "最後にドットを含めることはできません"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "英数字の小文字、ドット、ハイフン、アンダースコアのみが使用できます"
       ]
     },
     "Warning in modal to accept calendar invitation; Description": {
@@ -10455,6 +10596,77 @@
       ],
       "Passcode:": [
         "パスコード："
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "メッセージを検索"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "日表示"
+      ],
+      "Month view": [
+        "月表示"
+      ],
+      "New event": [
+        "新しい予定"
+      ],
+      "Next period": [
+        "次の期間"
+      ],
+      "Previous period": [
+        "前の期間"
+      ],
+      "Search events": [
+        "予定を検索"
+      ],
+      "Today": [
+        "今日"
+      ],
+      "Week view": [
+        "週表示"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "新しい予定の作成"
+      ],
+      "Day view": [
+        "日表示"
+      ],
+      "Month view": [
+        "月表示"
+      ],
+      "Next period": [
+        "次の期間"
+      ],
+      "Open quick actions menu": [
+        "クイックアクションメニューを開く"
+      ],
+      "Open this modal": [
+        "モーダルを開く"
+      ],
+      "Previous period": [
+        "前の期間"
+      ],
+      "Search events": [
+        "予定を検索"
+      ],
+      "Today": [
+        "今日"
+      ],
+      "Week view": [
+        "週表示"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "基本操作"
+      ],
+      "View options": [
+        "表示オプション"
       ]
     }
   }

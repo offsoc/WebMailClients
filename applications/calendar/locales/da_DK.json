@@ -794,6 +794,12 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Din desktop app's gratis prøveperiode slutter den ${ upgradeButton }. ${ formattedEndDate }"
+      ],
+      "Get ${ planOrAppName }": [
+        "Få ${ planOrAppName }"
+      ],
+      "More actions": [
+        "Flere handlinger"
       ]
     },
     "Action subline": {
@@ -1210,6 +1216,21 @@
       ],
       "Continue your subscription": [
         "Fortsæt dit abonnement"
+      ],
+      "Close": [
+        "Luk"
+      ],
+      "Create label": [
+        "Opret etiket"
+      ],
+      "Discover and set up features": [
+        "Udforsk og konfigurer funktioner"
+      ],
+      "Remind me later": [
+        "Påmind mig senere"
+      ],
+      "Set up other features": [
+        "Konfigurer andre funktioner"
       ]
     },
     "Calendar access select label": {
@@ -2461,6 +2482,19 @@
       "time": [
         "gang",
         "gange"
+      ],
+      "Don't end": [
+        "Slutter ikke"
+      ],
+      "End after": [
+        "Slutter efter"
+      ],
+      "End on": [
+        "Slutter"
+      ],
+      "event": [
+        "begivenhed",
+        "begivenheder"
       ]
     },
     "Cycle": {
@@ -3353,6 +3387,9 @@
       ],
       "Your import will not be processed.": [
         "Din import vil ikke blive behandlet."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } er dit brugernavn. For at oprette ${ emailAddress } skal du gå til Indstillinger > Identitet og adresser > Kort domæne (pm.me)"
       ]
     },
     "Error accepting calendar invitation": {
@@ -3486,6 +3523,9 @@
       ],
       "Unsupported event": [
         "Ikke-understøttet begivenhed"
+      ],
+      "Time zone component ignored": [
+        "Tidszonekomponent ignoreret"
       ]
     },
     "Error message": {
@@ -3916,6 +3956,9 @@
       ],
       "Security Center": [
         "Sikkerhedscenter"
+      ],
+      "Repeat event": [
+        "Gentag begivenhed"
       ]
     },
     "Hint": {
@@ -3956,6 +3999,24 @@
       ],
       "Time zone not supported": [
         "Tidszone understøttes ikke"
+      ],
+      "Calendar time zone not supported": [
+        "Kalendertidszone understøttes ikke"
+      ],
+      "Edited event not supported": [
+        "Redigeret begivenhed understøttes ikke"
+      ],
+      "Only the Gregorian calendar scale is allowed": [
+        "Kun den gregorianske kalenderskala er tilladt"
+      ],
+      "Recurring event has no occurrences": [
+        "Tilbagevendende begivenhed har ingen forekomster"
+      ],
+      "Recurring rule not supported": [
+        "Tilbagevendende regel understøttes ikke"
+      ],
+      "Start time out of bounds": [
+        "Starttid uden for grænserne"
       ]
     },
     "Import calendar": {
@@ -5341,11 +5402,28 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Din systemtidszone ser ud til at være ændret til ${ timezone }. Vil du opdatere din tidszone præferencer?"
+      ],
+      "Create a secure cloud for ${ value } member": [
+        "Opret en sikker sky til ${ value } medlem",
+        "Opret en sikker sky til ${ value } medlemmer"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "Hvis tastaturgenveje er aktiveret, kan du bruge følgende taster til hurtige handlinger eller til at springe til forskellige visninger. ${ metaKey } + K er altid aktiveret."
+      ],
+      "Open shortcut cheat sheet": [
+        "Åbn snydeark med genveje"
+      ],
+      "SEPA payments are not available at the moment. Please try again later.": [
+        "SEPA-betalinger er ikke tilgængelige i øjeblikket. Prøv venligst igen senere."
       ]
     },
     "info": {
       "Selected color:": [
         "Valgte farve:"
+      ],
+      "${ filteredList.length } command found.": [
+        "${ filteredList.length } kommando fundet.",
+        "${ filteredList.length } kommandoer funder."
       ]
     },
     "Info calendar search": {
@@ -5889,6 +5967,15 @@
       ],
       "Your password (admin)": [
         "Din adgangskode (admin)"
+      ],
+      "Every": [
+        "Hver"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Tastaturgenvej: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Tastaturgenveje"
       ]
     },
     "Label for contact group color": {
@@ -6876,6 +6963,10 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Vi scanner det mørke web for at tjekke, om dine ${ BRAND_NAME }-adresser eller aliasser er blevet lækket, og giver dig straks besked, hvis vi finder noget."
+      ],
+      "Use on up to ${ n } device at once": [
+        "Brug op til ${ n } enhed samtidig",
+        "Brug op til ${ n } enheder samtidig"
       ]
     },
     "new_plans: feature highlight": {
@@ -7558,6 +7649,18 @@
       "Year": [
         "År",
         "År"
+      ],
+      "Custom...": [
+        "Brugerdefineret..."
+      ],
+      "Every month ${ description }": [
+        "Hver måned ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "Hver uge ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "Hver hverdag ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -9178,6 +9281,9 @@
       ],
       "You have successfully unsubscribed": [
         "Du har afmeldt dig"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Indstillinger for tastaturgenveje opdateret"
       ]
     },
     "Suffix": {
@@ -9821,6 +9927,24 @@
       ],
       "Your shorter address is now ready": [
         "Din kortere adresse er nu klar"
+      ],
+      "Does not repeat": [
+        "Gentages ikke"
+      ],
+      "Every day": [
+        "Hver dag"
+      ],
+      "Every month ${ option.text }": [
+        "Hver måned ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "Hver uge ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "Hver hverdag ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "Hvert år"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -9981,6 +10105,10 @@
       "Your subscription will automatically renew in ${ cycle } month.": [
         "Dit abonnement vil automatisk forny i ${ cycle } måned.",
         "Dit abonnement vil automatisk forny i ${ cycle } måneder."
+      ],
+      "Your new subscription will automatically renew in ${ cycle } month.": [
+        "Dit nye abonnement vil automatisk blive fornyet om ${ cycle } måned.",
+        "Dit nye abonnement vil automatisk blive fornyet om ${ cycle } måneder."
       ]
     },
     "vpn_2step: feature": {
@@ -10016,6 +10144,10 @@
       ],
       "Securely exchange Bitcoin via email instead of complex, 26-character Bitcoin addresses that are prone to error": [
         "Udveksl Bitcoin sikkert via e-mail i stedet for komplekse, 26-tegns Bitcoin-adresser, der er tilbøjelige til fejl"
+      ],
+      "${ n } ${ BRAND_NAME } email address": [
+        "${ n } ${ BRAND_NAME } e-mailadresse",
+        "${ n } ${ BRAND_NAME } e-mailadresser"
       ]
     },
     "wallet_signup_2024:app-switcher": {
@@ -10394,6 +10526,77 @@
       ],
       "Passcode:": [
         "Adgangskode:"
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "Søg i beskeder"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Dagsvisning"
+      ],
+      "Month view": [
+        "Månedsvisning"
+      ],
+      "New event": [
+        "Ny begivenhed"
+      ],
+      "Next period": [
+        "Næste periode"
+      ],
+      "Previous period": [
+        "Forrige periode"
+      ],
+      "Search events": [
+        "Søg begivenheder"
+      ],
+      "Today": [
+        "I dag"
+      ],
+      "Week view": [
+        "Ugevisning"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "Opret ny begivenhed"
+      ],
+      "Day view": [
+        "Dagsvisning"
+      ],
+      "Month view": [
+        "Månedsvisning"
+      ],
+      "Next period": [
+        "Næste periode"
+      ],
+      "Open quick actions menu": [
+        "Åbn menu for hurtige handlinger"
+      ],
+      "Open this modal": [
+        "Åbn dette hjælpevindue"
+      ],
+      "Previous period": [
+        "Forrige periode"
+      ],
+      "Search events": [
+        "Søg begivenheder"
+      ],
+      "Today": [
+        "I dag"
+      ],
+      "Week view": [
+        "Ugevisning"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Grundlæggende handlinger"
+      ],
+      "View options": [
+        "Vis indstillinger"
       ]
     }
   }

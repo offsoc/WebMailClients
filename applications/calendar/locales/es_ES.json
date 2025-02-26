@@ -2509,6 +2509,19 @@
       "time": [
         "vez",
         "veces"
+      ],
+      "Don't end": [
+        "No termina"
+      ],
+      "End after": [
+        "Termina después de"
+      ],
+      "End on": [
+        "Termina el"
+      ],
+      "event": [
+        "evento",
+        "eventos"
       ]
     },
     "Cycle": {
@@ -2606,7 +2619,7 @@
         "${ PROTON_SENTINEL_NAME } protege tu cuenta con monitoreo dedicado 24/7 de actividades sospechosas, incluyendo la intervención de especialistas en seguridad."
       ],
       "2FA adds an extra security layer, preventing unauthorized access.": [
-        "La autenticación de dos factores añade una capa de seguridad adicional, evitando el acceso no autorizado."
+        "La autenticación de dos factores añade una capa de seguridad adicional, evitando accesos no autorizados."
       ],
       "Also included": [
         "También incluido"
@@ -2630,7 +2643,7 @@
         "Borrando contactos... Esto puede tardar unos minutos. Cuando se finaliza el proceso, puedes cerrar esta ventana."
       ],
       "Designed for users seeking heightened protection for their accounts.": [
-        "Diseñado para usuarios que buscan una protección más intensificada para sus cuentas."
+        "Diseñado para usuarios que buscan una mayor protección para sus cuentas."
       ],
       "Encrypting and importing contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
         "Cifrando e importando contactos... Esto puede tardar unos minutos. Cuando se finaliza el proceso, puedes cerrar esta ventana."
@@ -2672,7 +2685,7 @@
         "Para importar tus contactos desde Google u Outlook, ${ easySwitchLink }."
       ],
       "Upgrade your account to activate ${ PROTON_SENTINEL_NAME }, our cutting-edge AI-driven security solution with dedicated 24/7 expert support.": [
-        "Actualiza tu cuenta para activar ${ PROTON_SENTINEL_NAME }, nuestra solución de seguridad de última generación impulsada por inteligencia artificial con soporte dedicado de expertos las 24 horas, los 7 días de la semana."
+        "Mejora tu cuenta para activar ${ PROTON_SENTINEL_NAME }, nuestra solución de seguridad de última generación impulsada por inteligencia artificial con soporte dedicado de expertos las 24 horas, los 7 días de la semana."
       ],
       "Use Drag and Drop to rank merging priority between contacts. Uncheck the contacts you do not want to merge.": [
         "Arrastra y suelta los contactos para clasificarlos por prioridad. Desmarca los contactos que no quieres combinar."
@@ -2687,10 +2700,10 @@
         "Puedes marcar los contactos que no quieres ni combinar ni mantener para eliminarlos. Se eliminarán solo después de que pulses el botón."
       ],
       "Your account and data recovery methods are set and 2FA is enabled.": [
-        "Los métodos de recuperación de cuenta y datos están configurados y la opción de 2FA está habilitada."
+        "Tu cuenta y los métodos de recuperación de datos están configurados y la 2FA está activada."
       ],
       "Your account and data recovery methods are set.": [
-        "Se han establecido los métodos de recuperación de cuenta y datos."
+        "Se han establecido los métodos de recuperación de cuenta y de datos."
       ],
       "You’ve already created 10 aliases. Get unlimited aliases and 500 GB of storage with ${ BRAND_NAME } Unlimited.": [
         "Ya has creado 10 alias. Obtén alias ilimitados y 500 GB de almacenamiento con ${ BRAND_NAME } Unlimited."
@@ -3401,6 +3414,9 @@
       ],
       "Your import will not be processed.": [
         "No se procesará tu importación."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } es tu nombre de usuario. Para crear ${ emailAddress }, ve a Ajustes > Identidad y direcciones > Dominio corto (pm.me)"
       ]
     },
     "Error accepting calendar invitation": {
@@ -3978,6 +3994,9 @@
       ],
       "Security Center": [
         "Centro de seguridad"
+      ],
+      "Repeat event": [
+        "Repetir el evento"
       ]
     },
     "Hint": {
@@ -5449,11 +5468,21 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "La zona horaria del sistema parece haber cambiado a ${ timezone }. ¿Quieres actualizar tu preferencia de zona horaria?"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "Si los atajos de teclado están activados, podrás usar las siguientes teclas para acciones rápidas o saltar a diferentes vistas.El atajo ${ metaKey } +K está siempre activado."
+      ],
+      "Open shortcut cheat sheet": [
+        "Abrir la lista de trucos de atajos"
       ]
     },
     "info": {
       "Selected color:": [
         "Color seleccionado:"
+      ],
+      "${ filteredList.length } command found.": [
+        "${ filteredList.length } comando encontrado.",
+        "${ filteredList.length } comandos encontrados."
       ]
     },
     "Info calendar search": {
@@ -5464,6 +5493,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Contáctanos a ${ email } para obtener instrucciones sobre cómo pagarnos en efectivo."
+      ],
+      "How to send a cash payment?": [
+        "¿Cómo enviar un pago en efectivo?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Encuentra las instrucciones en el artículo: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info message": {
@@ -6006,6 +6041,18 @@
       ],
       "Your password (admin)": [
         "Tu contraseña (admin)"
+      ],
+      "Every": [
+        "Cada"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Atajo de teclado: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Atajos de teclado"
+      ],
+      "On": [
+        "Activado"
       ]
     },
     "Label for contact group color": {
@@ -6491,6 +6538,9 @@
       ],
       "on the third Wednesday": [
         "el tercer miércoles"
+      ],
+      "on the ${ shortenedDay }": [
+        "en el ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -7027,6 +7077,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Escaneamos la red oscura para verificar si tus direcciones o alias de ${ BRAND_NAME } han sido filtrados y alertarte de inmediato si encontramos algo."
+      ],
+      "SSO integration": [
+        "Integración SSO"
       ]
     },
     "new_plans: feature highlight": {
@@ -7280,7 +7333,7 @@
         "Opción para ver las bandejas de entrada de los usuarios no privados como ellos lo hacen, incluidos el mensaje completo y los datos de contacto"
       ],
       "Organization management tool that lets admins add and remove users, manage their access to ${ BRAND_NAME } services, and perform other tasks.": [
-        "Herramienta de gestión de la organización que permite a los administradores agregar y eliminar usuarios, administrar su acceso a los servicios de ${ BRAND_NAME }, y realizar otras acciones."
+        "Herramienta de gestión de la organización que permite a los administradores añadir y eliminar usuarios, administrar su acceso a los servicios de ${ BRAND_NAME }, y realizar otras acciones."
       ],
       "Our robust infrastructure ensures you will be able to access your account when you need it": [
         "Nuestra sólida infraestructura garantiza que podrás acceder a tu cuenta cuando lo necesites."
@@ -7657,6 +7710,33 @@
       ],
       "Save 80% on your first month.": [
         "Ahorra un 80 % en tu primer mes."
+      ],
+      "Don’t show this offer again": [
+        "No volver a mostrar esta oferta"
+      ],
+      "Last day to save": [
+        "Último día para ahorrar"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus por 12 meses"
+      ],
+      "Save": [
+        "Ahorra"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Ahorra un ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "¡Ahorra a lo grande pagando anualmente!"
+      ],
+      "This offer won't be shown again.": [
+        "Esta oferta no se volverá a mostrar."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Cuando cambias de una suscripción mensual a una anual."
+      ],
+      "You currently pay": [
+        "Actualmente pagas"
       ]
     },
     "Offer feature": {
@@ -7782,6 +7862,18 @@
       "Year": [
         "Año",
         "Años"
+      ],
+      "Custom...": [
+        "Personalizar..."
+      ],
+      "Every month ${ description }": [
+        "Cada mes ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "Cada semana ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "Cada día de la semana ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -8106,6 +8198,9 @@
       ],
       "Start typing an email address": [
         "Comienza a escribir una dirección de correo electrónico."
+      ],
+      "Filter quick actions": [
+        "Filtrar las acciones rápidas"
       ]
     },
     "Placeholder for contact group name": {
@@ -9466,6 +9561,9 @@
       ],
       "You have successfully unsubscribed": [
         "Has cancelado la suscripción."
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Preferencias de atajos de teclado actualizadas"
       ]
     },
     "Suffix": {
@@ -10118,6 +10216,30 @@
       ],
       "Your shorter address is now ready": [
         "Tu dirección en formato más corto ya está lista."
+      ],
+      "${ appName } keyboard shortcuts": [
+        "Atajos de teclado de ${ appName }"
+      ],
+      "Does not repeat": [
+        "No se repite"
+      ],
+      "Every day": [
+        "Cada día"
+      ],
+      "Every month ${ option.text }": [
+        "Cada mes ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "Cada semana el ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "Cada día de la semana ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "Cada año"
+      ],
+      "Help center": [
+        "Centro de ayuda"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10574,12 +10696,12 @@
     },
     "Weekly recurring event, frequency": {
       "Every ${ interval } week on ${ multipleDaysString }": [
-        "Cada semana los ${ multipleDaysString } ${ interval }",
+        "Cada ${ interval } semana los ${ multipleDaysString }",
         "Cada ${ interval } semanas los ${ multipleDaysString }"
       ],
       "Every ${ interval } week on all days": [
-        "Cada semana todos los días ${ interval }",
-        "Cada ${ interval } semanas todos los días"
+        "Todos los días cada ${ interval } semana",
+        "Todos los días cada ${ interval } semanas"
       ],
       "Every ${ interval } week on Friday": [
         "Cada semana los viernes ${ interval }",
@@ -10822,7 +10944,7 @@
         "Añadir una reunión de Zoom"
       ],
       "Adding conferencing details": [
-        "Agregando los detalles de la conferencia"
+        "Añadiendo los detalles de la conferencia"
       ],
       "Loading Zoom configuration": [
         "Cargando la configuración de Zoom"
@@ -10837,6 +10959,77 @@
       ],
       "Passcode:": [
         "Código de acceso:"
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "Buscar mensajes"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Vista diaria"
+      ],
+      "Month view": [
+        "Vista mensual"
+      ],
+      "New event": [
+        "Nuevo evento"
+      ],
+      "Next period": [
+        "Siguiente periodo"
+      ],
+      "Previous period": [
+        "Periodo anterior"
+      ],
+      "Search events": [
+        "Buscar eventos"
+      ],
+      "Today": [
+        "Hoy"
+      ],
+      "Week view": [
+        "Vista semanal"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "Crear un evento"
+      ],
+      "Day view": [
+        "Vista diaria"
+      ],
+      "Month view": [
+        "Vista mensual"
+      ],
+      "Next period": [
+        "Siguiente periodo"
+      ],
+      "Open quick actions menu": [
+        "Abrir el menú de acciones rápidas"
+      ],
+      "Open this modal": [
+        "Abrir esta ventana"
+      ],
+      "Previous period": [
+        "Periodo anterior"
+      ],
+      "Search events": [
+        "Buscar eventos"
+      ],
+      "Today": [
+        "Hoy"
+      ],
+      "Week view": [
+        "Vista semanal"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Acciones básicas"
+      ],
+      "View options": [
+        "Ver las opciones"
       ]
     }
   }

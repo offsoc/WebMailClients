@@ -2509,6 +2509,19 @@
       "time": [
         "keer",
         "keer"
+      ],
+      "Don't end": [
+        "Niet eindigen"
+      ],
+      "End after": [
+        "Eindigt na"
+      ],
+      "End on": [
+        "Eindigt op"
+      ],
+      "event": [
+        "gebeurtenis",
+        "gebeurtenissen"
       ]
     },
     "Cycle": {
@@ -3401,6 +3414,9 @@
       ],
       "Your import will not be processed.": [
         "Uw import zal niet worden verwerkt."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } is uw gebruikersnaam. Om ${ emailAddress } te maken gaat u naar Instellingen > Identiteit en adressen > Kort domein (pm.me)"
       ]
     },
     "Error accepting calendar invitation": {
@@ -3978,6 +3994,9 @@
       ],
       "Security Center": [
         "Beveiligingscentrum"
+      ],
+      "Repeat event": [
+        "Gebeurtenis herhalen"
       ]
     },
     "Hint": {
@@ -5449,11 +5468,21 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Uw systeemtijdzone lijkt te zijn veranderd naar ${ timezone }. Wilt u uw voorkeur voor uw tijdzone bijwerken?"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "Als sneltoetsen ingeschakeld zijn, kunt u de volgende toetsen gebruiken voor snelle acties of naar verschillende weergaven springen. ${ metaKey } + K is altijd ingeschakeld."
+      ],
+      "Open shortcut cheat sheet": [
+        "Open de shortcut voor cheat sheet"
       ]
     },
     "info": {
       "Selected color:": [
         "Geselecteerde kleur:"
+      ],
+      "${ filteredList.length } command found.": [
+        "${ filteredList.length } opdracht gevonden.",
+        "${ filteredList.length } opdrachten gevonden."
       ]
     },
     "Info calendar search": {
@@ -5464,6 +5493,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Neem contact met ons op via ${ email } voor instructies hoe u ons met contant geld kunt betalen."
+      ],
+      "How to send a cash payment?": [
+        "Hoe een contante betaling versturen?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Instructies kan u vinden in het artikel: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info message": {
@@ -6003,6 +6038,18 @@
       ],
       "Your password (admin)": [
         "Uw wachtwoord (admin)"
+      ],
+      "Every": [
+        "Elke"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Toetsenbordsneltoets: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Toetsenbord snelkoppelingen"
+      ],
+      "On": [
+        "Op"
       ]
     },
     "Label for contact group color": {
@@ -6488,6 +6535,9 @@
       ],
       "on the third Wednesday": [
         "op de derde woensdag"
+      ],
+      "on the ${ shortenedDay }": [
+        "op ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -7024,6 +7074,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "We scannen het dark web om te controleren of uw ${ BRAND_NAME } adressen of aliassen zijn gelekt en waarschuwen u onmiddellijk wanneer we iets vinden."
+      ],
+      "SSO integration": [
+        "SSO-integratie"
       ]
     },
     "new_plans: feature highlight": {
@@ -7654,6 +7707,33 @@
       ],
       "Save 80% on your first month.": [
         "Bespaar 80% op uw eerste maand."
+      ],
+      "Don’t show this offer again": [
+        "Toon deze aanbieding niet opnieuw"
+      ],
+      "Last day to save": [
+        "Laatste dag om op te besparen"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus voor 12 maanden"
+      ],
+      "Save": [
+        "Opslaan"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Bespaar ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Bespaar veel wanneer u jaarlijks betaalt"
+      ],
+      "This offer won't be shown again.": [
+        "Deze aanbieding wordt niet meer getoond."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Wanneer u overschakelt van een maandelijks naar jaarabonnement."
+      ],
+      "You currently pay": [
+        "U betaalt momenteel"
       ]
     },
     "Offer feature": {
@@ -7779,6 +7859,18 @@
       "Year": [
         "Jaar",
         "Jaren"
+      ],
+      "Custom...": [
+        "Aangepast..."
+      ],
+      "Every month ${ description }": [
+        "Elke maand ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "Elke week op ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "Elke weekdag ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -7980,7 +8072,7 @@
     },
     "Payments.Sepa": {
       "By confirming this payment, you authorize ${ BRAND_NAME } and Stripe, our payment service provider, to instruct your bank to debit your account accordingly. You can get a refund within 8 weeks from the debit date, under the conditions of your agreement with your bank.": [
-        "Door deze betaling te bevestigen, machtigt u ${ BRAND_NAME } en Stripe, onze betalingsserviceprovider, om uw bank opdracht te geven om uw rekening naar behoren in rekening te brengen. U kunt een restitutie binnen 8 weken ontvangen van de debitdatum, onder de voorwaarden van uw overeenkomst met uw bank."
+        "Door deze betaling te bevestigen, machtigt u ${ BRAND_NAME } en Stripe, onze betalingsserviceprovider, om uw bank opdracht te geven om uw factuur naar behoren in rekening te brengen. U kunt een restitutie ontvangen binnen 8 weken van de betaaldatum, onder de voorwaarden van uw overeenkomst met uw bank."
       ],
       "Street address, postal code, and city": [
         "Straatnaam, postcode en plaats"
@@ -8103,6 +8195,9 @@
       ],
       "Start typing an email address": [
         "Voer een e-mailadres in"
+      ],
+      "Filter quick actions": [
+        "Snelle acties filteren"
       ]
     },
     "Placeholder for contact group name": {
@@ -9463,6 +9558,9 @@
       ],
       "You have successfully unsubscribed": [
         "U bent succesvol afgemeld"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Sneltoetsvoorkeuren bijgewerkt"
       ]
     },
     "Suffix": {
@@ -10115,6 +10213,30 @@
       ],
       "Your shorter address is now ready": [
         "Uw kortere adres is nu klaar"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName } sneltoetsen"
+      ],
+      "Does not repeat": [
+        "Wordt niet herhaald"
+      ],
+      "Every day": [
+        "Elke dag"
+      ],
+      "Every month ${ option.text }": [
+        "Elke maand ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "Elke week op ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "Elke weekdag ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "Jaarlijks"
+      ],
+      "Help center": [
+        "Helpcentrum"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10834,6 +10956,77 @@
       ],
       "Passcode:": [
         "Toegangscode:"
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "Doorzoek berichten"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Dagweergave"
+      ],
+      "Month view": [
+        "Maandweergave"
+      ],
+      "New event": [
+        "Nieuw event"
+      ],
+      "Next period": [
+        "Volgende periode"
+      ],
+      "Previous period": [
+        "Vorige periode"
+      ],
+      "Search events": [
+        "Zoek events"
+      ],
+      "Today": [
+        "Vandaag"
+      ],
+      "Week view": [
+        "Weekweergave"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "Nieuw event aanmaken"
+      ],
+      "Day view": [
+        "Dagweergave"
+      ],
+      "Month view": [
+        "Maandweergave"
+      ],
+      "Next period": [
+        "Volgende periode"
+      ],
+      "Open quick actions menu": [
+        "Open snelle acties menu"
+      ],
+      "Open this modal": [
+        "Open dit hulpvenster"
+      ],
+      "Previous period": [
+        "Vorige periode"
+      ],
+      "Search events": [
+        "Zoek events"
+      ],
+      "Today": [
+        "Vandaag"
+      ],
+      "Week view": [
+        "Weekweergave"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Basisacties"
+      ],
+      "View options": [
+        "Weergaveopties"
       ]
     }
   }

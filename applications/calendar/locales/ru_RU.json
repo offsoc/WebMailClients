@@ -2538,6 +2538,21 @@
         "раза",
         "раз",
         "раз"
+      ],
+      "Don't end": [
+        "Не завершать"
+      ],
+      "End after": [
+        "Закончить после"
+      ],
+      "End on": [
+        "Закончить"
+      ],
+      "event": [
+        "событие",
+        "события",
+        "событий",
+        "событий"
       ]
     },
     "Cycle": {
@@ -3462,6 +3477,9 @@
       ],
       "Your import will not be processed.": [
         "Импорт не будет обработан."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } - это ваше имя пользователя. Чтобы создать ${ emailAddress }, перейдите в Настройки > Идентификация и адреса > Короткий домен (pm.me)"
       ]
     },
     "Error accepting calendar invitation": {
@@ -4057,6 +4075,9 @@
       ],
       "Security Center": [
         "Центр безопасности"
+      ],
+      "Repeat event": [
+        "Повторить событие"
       ]
     },
     "Hint": {
@@ -5604,11 +5625,23 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Похоже, что ваш часовой пояс изменился на ${ timezone }. Вы хотите обновить настройки часового пояса?"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "Если включены сочетания клавиш, вы можете использовать следующие кнопки для быстрых действий или перехода к различным видам. ${ metaKey } + K включена всегда."
+      ],
+      "Open shortcut cheat sheet": [
+        "Открыть шпаргалку сочетаний клавиш"
       ]
     },
     "info": {
       "Selected color:": [
         "Выбранный цвет"
+      ],
+      "${ filteredList.length } command found.": [
+        "${ filteredList.length } команда найдена.",
+        "${ filteredList.length } команды найдены.",
+        "${ filteredList.length } команд найдено.",
+        "${ filteredList.length } команд найдено."
       ]
     },
     "Info calendar search": {
@@ -5619,6 +5652,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Пожалуйста, свяжитесь с нами по ${ email } для получения инструкций по оплате наличными."
+      ],
+      "How to send a cash payment?": [
+        "Как отправить оплату наличными?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Найдите инструкции в статье: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info message": {
@@ -6168,6 +6207,18 @@
       ],
       "Your password (admin)": [
         "Ваш пароль (admin)"
+      ],
+      "Every": [
+        "Каждый"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Комбинация клавиш: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Сочетания клавиш"
+      ],
+      "On": [
+        "В"
       ]
     },
     "Label for contact group color": {
@@ -6669,6 +6720,9 @@
       ],
       "on the third Wednesday": [
         "в третью среду"
+      ],
+      "on the ${ shortenedDay }": [
+        "в ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -7237,6 +7291,21 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Мы сканируем Темную паутину на предмет утечки ваших адресов или псевдонимов ${ BRAND_NAME } и немедленно оповещаем вас, если что-то находим."
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Выделенные серверы, оптимизированные для трансляций"
+      ],
+      "SSO integration": [
+        "Интеграция с SSO"
+      ],
+      "Tor over VPN": [
+        "Tor через VPN"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Используйте одновременно до ${ n } устройства",
+        "Используйте одновременно до ${ n } устройств",
+        "Используйте одновременно до ${ n } устройств",
+        "Используйте одновременно до ${ n } устройств"
       ]
     },
     "new_plans: feature highlight": {
@@ -7909,6 +7978,33 @@
       ],
       "Save 80% on your first month.": [
         "Сэкономьте 80% в первый месяц."
+      ],
+      "Don’t show this offer again": [
+        "Больше не показывать это предложение"
+      ],
+      "Last day to save": [
+        "Последний день, чтобы сэкономить"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus за 12 месяцев"
+      ],
+      "Save": [
+        "Сохранить"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Сэкономьте ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Экономьте больше, когда платите ежегодно"
+      ],
+      "This offer won't be shown again.": [
+        "Это предложение больше не будет показано."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "При переключении с ежемесячной на годовую подписку."
+      ],
+      "You currently pay": [
+        "Вы оплачиваете сейчас"
       ]
     },
     "Offer feature": {
@@ -8042,6 +8138,18 @@
         "Года",
         "Лет",
         "Лет"
+      ],
+      "Custom...": [
+        "Пользовательский..."
+      ],
+      "Every month ${ description }": [
+        "Ежемесячно ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "Каждую неделю ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "Каждый будний день ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -8250,6 +8358,9 @@
     "Payments.Sepa": {
       "Street address, postal code, and city": [
         "Адрес улицы, почтовый индекс и город"
+      ],
+      "By confirming this payment, you authorize ${ BRAND_NAME } and Stripe, our payment service provider, to instruct your bank to debit your account accordingly. You can get a refund within 8 weeks from the debit date, under the conditions of your agreement with your bank.": [
+        "Подтверждая этот платеж, вы уполномочиваете ${ BRAND_NAME } и Stripe, нашего поставщика платежных услуг, дать указание вашему банку списать средства с вашего счета. Вы можете получить деньги обратно в течение 8 недель с момента списания, в соответствии с условиями вашего договора с банком."
       ]
     },
     "PGP key encryption warning": {
@@ -8369,6 +8480,9 @@
       ],
       "Start typing an email address": [
         "Начните вводить адрес эл. почты"
+      ],
+      "Filter quick actions": [
+        "Фильтр быстрых действий"
       ]
     },
     "Placeholder for contact group name": {
@@ -9801,6 +9915,9 @@
       ],
       "You have successfully unsubscribed": [
         "Подписка отменена"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Настройки сочетаний клавиш обновлены"
       ]
     },
     "Suffix": {
@@ -10475,6 +10592,30 @@
       ],
       "Your shorter address is now ready": [
         "Ваш укороченный адрес готов"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName } быстрых клавиш"
+      ],
+      "Does not repeat": [
+        "Не повторяется"
+      ],
+      "Every day": [
+        "Каждый день"
+      ],
+      "Every month ${ option.text }": [
+        "Ежемесячно ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "Каждую неделю в ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "Каждый будний день ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "Каждый год"
+      ],
+      "Help center": [
+        "Справочный центр"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10777,6 +10918,12 @@
         "Ваша подписка будет автоматически продлена через ${ cycle } месяца.",
         "Ваша подписка будет автоматически продлена через ${ cycle } месяцев.",
         "Ваша подписка будет автоматически продлена через ${ cycle } месяцев."
+      ],
+      "Your new subscription will automatically renew in ${ cycle } month.": [
+        "Ваша подписка будет автоматически продлена через ${ cycle } месяц.",
+        "Ваша подписка будет автоматически продлена через ${ cycle } месяца.",
+        "Ваша подписка будет автоматически продлена через ${ cycle } месяцев.",
+        "Ваша подписка будет автоматически продлена через ${ cycle } месяцев."
       ]
     },
     "vpn_2step: feature": {
@@ -10816,6 +10963,12 @@
       ],
       "Securely exchange Bitcoin via email instead of complex, 26-character Bitcoin addresses that are prone to error": [
         "Безопасно обменивайте Bitcoin по эл. почте вместо сложных, 26-значных Bitcoin-адресов, склонных к ошибкам"
+      ],
+      "${ n } ${ BRAND_NAME } email address": [
+        "адрес электронной почты ${ n } ${ BRAND_NAME }",
+        "адреса электронной почты ${ n } ${ BRAND_NAME }",
+        "адреса электронной почты ${ n } ${ BRAND_NAME }",
+        "адреса электронной почты ${ n } ${ BRAND_NAME }"
       ]
     },
     "wallet_signup_2024:app-switcher": {
@@ -10921,6 +11074,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Ваш бесплатный пробный период заканчивается ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "2 точки подряд не допускаются"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Не может содержать точку в начале"
+      ],
+      "Cannot contain a dot at the end": [
+        "Не может содержать точку в конце"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Допускаются только алфавитно-цифровые строчные символы, точки, дефисы и символы подчеркивания"
       ]
     },
     "Warning in modal to accept calendar invitation; Description": {
@@ -11256,6 +11421,85 @@
       ],
       "Passcode:": [
         "Код доступа:"
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "Поиск сообщений"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Вид по дням"
+      ],
+      "Month view": [
+        "Вид по месяцам"
+      ],
+      "New event": [
+        "Новое событие"
+      ],
+      "Next period": [
+        "Следующий период"
+      ],
+      "Previous period": [
+        "Предыдущий период"
+      ],
+      "Search events": [
+        "Поиск событий"
+      ],
+      "Today": [
+        "Cегодня"
+      ],
+      "Week view": [
+        "Вид по неделям"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "Создать новое событие"
+      ],
+      "Day view": [
+        "Вид по дням"
+      ],
+      "Month view": [
+        "Вид по месяцам"
+      ],
+      "Next period": [
+        "Следующий период"
+      ],
+      "Open quick actions menu": [
+        "Открыть меню быстрых действий"
+      ],
+      "Open this modal": [
+        "Открыть это модальное окно"
+      ],
+      "Previous period": [
+        "Предыдущий период"
+      ],
+      "Search events": [
+        "Поиск событий"
+      ],
+      "Today": [
+        "Cегодня"
+      ],
+      "Week view": [
+        "Вид по неделям"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Основные действия"
+      ],
+      "View options": [
+        "Просмотр настроек"
+      ]
+    },
+    "new_plans: Subtext": {
+      "The discounted price of ${ priceCoupon } is valid for the first month. Then it will automatically be renewed at ${ priceLine }. You can cancel at any time.": [
+        "Цена со скидкой ${ priceCoupon } действительна в течение первого месяца. Затем она будет автоматически продлена по цене ${ priceLine }. Вы можете отменить это в любое время."
+      ],
+      "Unlock all ${ BRAND_NAME } premium products and features for just ${ priceLine }. Cancel anytime.": [
+        "Разблокируйте все премиум продукты и возможности ${ BRAND_NAME } всего за ${ priceLine }. Отменить можно в любое время."
       ]
     }
   }
