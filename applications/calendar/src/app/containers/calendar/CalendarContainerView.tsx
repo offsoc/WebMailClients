@@ -4,7 +4,6 @@ import { Suspense, lazy, useCallback, useEffect, useMemo, useRef, useState } fro
 import { differenceInCalendarDays, format, isToday } from 'date-fns';
 import { c, msgid } from 'ttag';
 
-import { useUser } from '@proton/account/user/hooks';
 import { Button, ButtonLike, CircleLoader } from '@proton/atoms';
 import {
     AppLink,
@@ -18,8 +17,6 @@ import {
     ErrorBoundary,
     FloatingButton,
     Icon,
-    InboxDesktopFreeTrialTopBanner,
-    InboxDesktopOutdatedAppTopBanner,
     LocalizedMiniCalendar,
     PrimaryButton,
     PrivateAppContainer,
@@ -74,6 +71,8 @@ import { useCalendarSearch } from './search/CalendarSearchProvider';
 const LazyCalendarShortcutsAndCommander = lazy(
     () => import(/* webpackChunkName: "CalendarShortcutsAndCommander" */ './CalendarShortcutsAndCommander')
 );
+
+const LazyInboxDesktopCalendarTop = lazy(() => import('@proton/components/containers/desktop/InboxDesktopCalendarTop'));
 
 /**
  * Converts a local date into the corresponding UTC date at 0 hours.
@@ -152,7 +151,6 @@ const CalendarContainerView = ({
     const [groups = []] = useContactGroups();
     const isCalendarEncryptedSearchEnabled = !!useFeature(FeatureCode.CalendarEncryptedSearch).feature?.Value;
     const searchSpotlightAnchorRef = useRef<HTMLButtonElement>(null);
-    const [user] = useUser();
 
     const { viewportWidth } = useActiveBreakpoint();
 
@@ -386,8 +384,11 @@ const CalendarContainerView = ({
 
     const top = !isDrawerApp && (
         <>
-            {isElectronMail && <InboxDesktopOutdatedAppTopBanner />}
-            {isElectronMail && !user.hasPaidMail && <InboxDesktopFreeTrialTopBanner />}
+            {isElectronMail && (
+                <Suspense fallback="">
+                    <LazyInboxDesktopCalendarTop />
+                </Suspense>
+            )}
             <TopBanners app={APPS.PROTONCALENDAR}>
                 <SmartBanner app={APPS.PROTONCALENDAR} />
             </TopBanners>
