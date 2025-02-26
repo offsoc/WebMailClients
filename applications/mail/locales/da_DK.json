@@ -1423,6 +1423,12 @@
       ],
       "Zoom out": [
         "Zoom ud"
+      ],
+      "Get ${ planOrAppName }": [
+        "Få ${ planOrAppName }"
+      ],
+      "More actions": [
+        "Flere handlinger"
       ]
     },
     "action": {
@@ -1883,6 +1889,24 @@
       ],
       "Next": [
         "Næste"
+      ],
+      "Close": [
+        "Luk"
+      ],
+      "Create label": [
+        "Opret etiket"
+      ],
+      "Discover and set up features": [
+        "Udforsk og konfigurer funktioner"
+      ],
+      "Got it": [
+        "Forstået"
+      ],
+      "Remind me later": [
+        "Påmind mig senere"
+      ],
+      "Set up other features": [
+        "Konfigurer andre funktioner"
       ]
     },
     "Calendar attachment tooltip": {
@@ -5351,6 +5375,24 @@
       ],
       "Time zone not supported": [
         "Tidszone understøttes ikke"
+      ],
+      "Calendar time zone not supported": [
+        "Kalendertidszone understøttes ikke"
+      ],
+      "Edited event not supported": [
+        "Redigeret begivenhed understøttes ikke"
+      ],
+      "Only the Gregorian calendar scale is allowed": [
+        "Kun den gregorianske kalenderskala er tilladt"
+      ],
+      "Recurring event has no occurrences": [
+        "Tilbagevendende begivenhed har ingen forekomster"
+      ],
+      "Recurring rule not supported": [
+        "Tilbagevendende regel understøttes ikke"
+      ],
+      "Start time out of bounds": [
+        "Starttid uden for grænserne"
       ]
     },
     "ICS widget label for event details": {
@@ -7717,6 +7759,21 @@
       ],
       "You can add your own custom domain to ${ MAIL_APP_NAME }": [
         "Du kan tilføje dit eget brugerdefinerede domæne til ${ MAIL_APP_NAME }"
+      ],
+      "Access 6,500+ high-speed servers on up to 10 devices to keep your browsing data safe. Available on ${ ios }, ${ android }, ${ appleTV }, and ${ desktop }.": [
+        "Få adgang til 6.500+ højhastighedsservere på op til 10 enheder for at holde dine browserdata sikre. Tilgængelig på ${ ios }, ${ android }, ${ appleTV } og ${ desktop }."
+      ],
+      "Creating multiple free accounts is not permitted by our ${ termsLink }.": [
+        "Det er ikke tilladt at oprette flere gratis konti i henhold til vores ${ termsLink }."
+      ],
+      "For additional information and to remove restrictions, please login at ${ mailLink }.": [
+        "For yderligere information og for at fjerne begrænsninger, log ind på ${ mailLink }."
+      ],
+      "SEPA payments are not available at the moment. Please try again later.": [
+        "SEPA-betalinger er ikke tilgængelige i øjeblikket. Prøv venligst igen senere."
+      ],
+      "Start using the shorter, catchier version of your email address.": [
+        "Begynd at bruge den kortere, mere catchy version af din e-mailadresse."
       ]
     },
     "info": {
@@ -8543,6 +8600,9 @@
       ],
       "Your password (admin)": [
         "Din adgangskode (admin)"
+      ],
+      "Remove metadata": [
+        "Fjern metadata"
       ]
     },
     "Label (begin date/advanced search)": {

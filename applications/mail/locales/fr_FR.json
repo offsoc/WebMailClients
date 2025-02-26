@@ -1471,6 +1471,9 @@
       ],
       "Set as album cover": [
         "Définir en tant que couverture d'album"
+      ],
+      "Use ${ PASS_APP_NAME }": [
+        "Utiliser ${ PASS_APP_NAME }"
       ]
     },
     "action": {
@@ -7889,6 +7892,18 @@
       ],
       "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
         "Définissez ${ MAIL_APP_NAME } comme votre application de messagerie par défaut. ${ MAIL_APP_NAME } s’ouvrira automatiquement lorsque vous cliquerez sur un lien de messagerie."
+      ],
+      "${ BRAND_NAME }'s password manager lets you create, store, and autofill passwords, so you never have to reset them.": [
+        "Le gestionnaire de mots de passe de ${ BRAND_NAME } vous permet de créer, de stocker et de remplir automatiquement les mots de passe, afin que vous n'ayez jamais à les réinitialiser."
+      ],
+      "Detection takes place on your device, so no data from your emails is sent to our servers.": [
+        "La détection se passe sur votre appareil : aucune donnée de vos e-mails n'est envoyée à nos serveurs."
+      ],
+      "More infos": [
+        "Plus d'informations"
+      ],
+      "This was shown to you because your email subject line contains password reset keywords.": [
+        "Ceci s'affiche car la ligne de l'objet de votre e-mail contient des mots-clés de réinitialisation de mot de passe."
       ]
     },
     "info": {
@@ -7906,6 +7921,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Veuillez nous contacter via ${ email } pour recevoir des instructions concernant la procédure de règlement en espèces."
+      ],
+      "How to send a cash payment?": [
+        "Comment envoyer un paiement en espèces ?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Veuillez trouver les instructions dans cet article : ${ howToSendCashArticleUrl }"
       ]
     },
     "Info on errors": {
@@ -8727,6 +8748,9 @@
       ],
       "Your password (admin)": [
         "Votre mot de passe (admin)"
+      ],
+      "Don't show this suggestion": [
+        "Ne pas afficher cette suggestion"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9334,6 +9358,9 @@
       ],
       "on the third Wednesday": [
         "chaque troisième mercredi"
+      ],
+      "on the ${ shortenedDay }": [
+        "le ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -10401,6 +10428,33 @@
       ],
       "Save 80% on your first month.": [
         "Économisez 80 % sur votre premier mois"
+      ],
+      "Don’t show this offer again": [
+        "Ne plus montrer cette offre"
+      ],
+      "Last day to save": [
+        "Dernier jour pour réaliser des économies"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus pour 12 mois"
+      ],
+      "Save": [
+        "Économisez"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Économisez ${ prices.savedPercentage } %"
+      ],
+      "Save big when you pay annually": [
+        "Économisez un maximum en optant pour le paiement annuel !"
+      ],
+      "This offer won't be shown again.": [
+        "Cette offre ne sera plus affichée."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Lorsque vous passez d'un abonnement mensuel à un abonnement annuel."
+      ],
+      "You currently pay": [
+        "Vous payez actuellement"
       ]
     },
     "Offer feature": {
@@ -11025,6 +11079,9 @@
       ],
       "Type text or keyword": [
         "Tapez le texte ou le mot clé."
+      ],
+      "Filter quick actions": [
+        "Filtrer les actions rapides"
       ]
     },
     "Placeholder for contact group name": {
@@ -13710,6 +13767,12 @@
       ],
       "Help center": [
         "Aide & Support"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "Raccourcis clavier ${ appName }"
+      ],
+      "On-device suggestions": [
+        "Suggestions sur l'appareil"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14059,7 +14122,7 @@
         "L'entrée ne peut pas commencer par un point."
       ],
       "Cannot contain a dot at the end": [
-        "L'entrée ne peut se terminer par un point."
+        "L'entrée ne peut pas terminer par un point."
       ],
       "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
         "Seuls les caractères alphanumériques en minuscule, les points et les tirets (dont le tiret bas/underscore) sont autorisés."

@@ -1478,6 +1478,9 @@
       ],
       "Set as album cover": [
         "Ustaw jako okładkę albumu"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "Ustawienie ${ MAIL_APP_NAME } jako domyślnej aplikacji do obsługi poczty e-mail"
       ]
     },
     "action": {
@@ -4605,6 +4608,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Wyszukiwanie pasuje do zbyt wielu wyników. Sprecyzuj wyszukiwanie i spróbuj ponownie."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } to nazwa użytkownika. Aby utworzyć ${ emailAddress }, przejdź do Ustawienia > Tożsamość i adresy > Krótka domena (pm.me)."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -8058,7 +8064,7 @@
         "Otrzymaj powiadomienie o wycieku swojego hasła i innych danych przez usługi stron trzecich."
       ],
       "Invite family members and get everything up and running.": [
-        "Zaproś członków rodziny i rozpocznij."
+        "Zaproś użytkowników rodziny i rozpocznij."
       ],
       "or discover other features:": [
         "lub poznaj inne funkcje:"
@@ -8128,6 +8134,15 @@
       ],
       "You get notified if your password or other data was leaked from a third-party service.": [
         "Otrzymasz powiadomienie, jeśli Twoje hasło lub inne dane wyciekły z usługi zewnętrznej."
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "Ustaw ${ MAIL_APP_NAME } jako domyślną aplikację e-mail."
+      ],
+      "More infos": [
+        "Więcej informacji"
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "Ustaw ${ MAIL_APP_NAME } jako domyślną aplikację e-mail. Aplikacja ${ MAIL_APP_NAME } otworzy się automatycznie po kliknięciu łącza do wiadomości e-mail."
       ]
     },
     "info": {
@@ -10186,7 +10201,7 @@
         "Dedykowane serwery zoptymalizowane pod kątem streamingu"
       ],
       "SSO integration": [
-        "Integracja z SSO"
+        "Logowanie SSO"
       ],
       "Use on up to ${ n } device at once": [
         "Używanie na maksymalnie ${ n } urządzeniu",
@@ -10821,7 +10836,7 @@
         "Zacznij korzystać z ${ BRAND_NAME }"
       ],
       "Start using the shorter, catchier version of your email address.": [
-        "Używaj krótszej i bardziej chwytliwej nazwy swojego adresu e-mail."
+        "Używaj krótszej i bardziej chwytliwej wersji swojego adresu e-mail."
       ],
       "Welcome to ${ MAIL_APP_NAME }": [
         "Witaj w ${ MAIL_APP_NAME }"

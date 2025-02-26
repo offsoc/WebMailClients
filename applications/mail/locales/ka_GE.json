@@ -1471,6 +1471,9 @@
       ],
       "Set as album cover": [
         "ალბომის ყდად დაყენება"
+      ],
+      "Use ${ PASS_APP_NAME }": [
+        "${ PASS_APP_NAME }-ის გამოყენება"
       ]
     },
     "action": {
@@ -7858,6 +7861,15 @@
       ],
       "Make ${ MAIL_APP_NAME } your default email application.": [
         "დააყენეთ ${ MAIL_APP_NAME } თქვენს ნაგულისხმევ ელფოსტის აპლიკაციად."
+      ],
+      "Detection takes place on your device, so no data from your emails is sent to our servers.": [
+        "აღმოჩენა თქვენს მოწყობილობაზე ხდება, ასე რომ, თქვენი ელფოსტებიდან მონაცემები ჩვენს სერვერებზე არ იგზავნება."
+      ],
+      "More infos": [
+        "მეტი ინფორმაცია"
+      ],
+      "This was shown to you because your email subject line contains password reset keywords.": [
+        "ეს ნაჩვენებია იმიტომ, რომ თქვენი ელფოსტის ხაზი პაროლის ჩამოყრის საკვანძო სიტყვებს შეიცავს."
       ]
     },
     "info": {
@@ -7875,6 +7887,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "ნაღდი ფულით გადახდის შემთხვევაში მეტი დეტალების მისაღებად დაგვიკავშირდით ${ email }."
+      ],
+      "How to send a cash payment?": [
+        "როგორ გავაგზავნო გადასახდელი თანხა?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "ინსტრუქციებს იპოვით სტატიაში: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info on errors": {
@@ -8693,6 +8711,9 @@
       ],
       "Your password (admin)": [
         "თქვენი პაროლი (admin)"
+      ],
+      "Don't show this suggestion": [
+        "არ მაჩვენო ეს შეთავაზება"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9300,6 +9321,9 @@
       ],
       "on the third Wednesday": [
         "მესამე ოთხშაბათს"
+      ],
+      "on the ${ shortenedDay }": [
+        "${ shortenedDay }-ზე"
       ]
     },
     "New Label form": {
@@ -10367,6 +10391,33 @@
       ],
       "Save 80% on your first month.": [
         "დაზოეთ 80% პირველ თვეს."
+      ],
+      "Don’t show this offer again": [
+        "აღარ მაჩვენო ეს შემოთავაზება"
+      ],
+      "Last day to save": [
+        "ბოლო დღე შესანახად"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus 12 თვით"
+      ],
+      "Save": [
+        "შენახვა"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "დაზოგეთ ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "დაზოგეთ ბევრი, როცა წელიწადში ერთხელ იხდით"
+      ],
+      "This offer won't be shown again.": [
+        "ამ შემოთავაზებას აღარ გაჩვენებთ."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "როცა თვიურიდან წლიურ გამოწერაზე გადახვალთ."
+      ],
+      "You currently pay": [
+        "ამჟამად იხდით"
       ]
     },
     "Offer feature": {
@@ -10973,6 +11024,9 @@
       ],
       "Type text or keyword": [
         "შეიყვანეთ ტექსტი ან საკვანძო სიტყვა"
+      ],
+      "Filter quick actions": [
+        "სწრაფი ქმედებების გაფილტვრა"
       ]
     },
     "Placeholder for contact group name": {
@@ -13655,6 +13709,12 @@
       ],
       "Help center": [
         "დახმარების ცენტრი"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName }-ის კლავიატურის მალსახმობები"
+      ],
+      "On-device suggestions": [
+        "შეთავაზებები მოწყობილობაზე"
       ]
     },
     "Today icon tooltip in mini calendar": {

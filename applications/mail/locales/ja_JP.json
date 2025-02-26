@@ -1463,6 +1463,12 @@
       ],
       "Set as album cover": [
         "アルバムカバーに設定"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "${ MAIL_APP_NAME } をデフォルトのメールアプリケーションとして設定する"
+      ],
+      "Use ${ PASS_APP_NAME }": [
+        "${ PASS_APP_NAME } を使用"
       ]
     },
     "action": {
@@ -7752,6 +7758,21 @@
       ],
       "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
         "${ MAIL_APP_NAME }をデフォルトのメールアプリに設定しましょう。メールのリンクをクリックした時に、自動で${ MAIL_APP_NAME }が開きます。"
+      ],
+      "${ BRAND_NAME }'s password manager lets you create, store, and autofill passwords, so you never have to reset them.": [
+        "${ BRAND_NAME }のパスワードマネージャーは、パスワードを作成、保存、自動入力することができ流ので、パスワードをリセットする必要はもうありません。"
+      ],
+      "Detection takes place on your device, so no data from your emails is sent to our servers.": [
+        "検出はお客様のデバイス上で行われるため、お客様のメールのデータは当社のサーバーに送信されません。"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "${ MAIL_APP_NAME } をデフォルトのメールアプリケーションとして設定する。"
+      ],
+      "More infos": [
+        "もっと詳しく"
+      ],
+      "This was shown to you because your email subject line contains password reset keywords.": [
+        "これは、メールの件名にパスワードリセットキーワードが含まれているため表示されました。"
       ]
     },
     "info": {
@@ -7768,6 +7789,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "現金での支払い方法については、${ email } 宛までお問い合わせください。"
+      ],
+      "How to send a cash payment?": [
+        "現金支払いを送る方法は?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "記事の手順を見つけてください： ${ howToSendCashArticleUrl }"
       ]
     },
     "Info on errors": {
@@ -8581,6 +8608,9 @@
       ],
       "Your password (admin)": [
         "あなたのパスワード (管理者)"
+      ],
+      "Don't show this suggestion": [
+        "この提案を表示しない"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9180,6 +9210,9 @@
       ],
       "on the third Wednesday": [
         "第3水曜日"
+      ],
+      "on the ${ shortenedDay }": [
+        "${ shortenedDay } に"
       ]
     },
     "New Label form": {
@@ -10220,6 +10253,33 @@
       ],
       "Save 80% on your first month.": [
         "最初の月は 80 %割引。"
+      ],
+      "Don’t show this offer again": [
+        "今後このオファーを表示しない"
+      ],
+      "Last day to save": [
+        "節約できる最後の日"
+      ],
+      "Mail Plus for 12 months": [
+        "12 か月分のMail Plus"
+      ],
+      "Save": [
+        "節約"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "${ prices.savedPercentage }%を節約"
+      ],
+      "Save big when you pay annually": [
+        "年払いで大幅に節約"
+      ],
+      "This offer won't be shown again.": [
+        "このオファーは二度と表示されません。"
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "月額プランから年間プランに切り替える場合。"
+      ],
+      "You currently pay": [
+        "現在の支払い方法"
       ]
     },
     "Offer feature": {
@@ -10830,6 +10890,9 @@
       ],
       "Type text or keyword": [
         "テキストまたはキーワードを入力"
+      ],
+      "Filter quick actions": [
+        "クイックアクションのフィルター"
       ]
     },
     "Placeholder for contact group name": {
@@ -13433,6 +13496,12 @@
       ],
       "Help center": [
         "ヘルプセンター"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName } キーボードショートカット"
+      ],
+      "On-device suggestions": [
+        "デバイス上の提案"
       ]
     },
     "Today icon tooltip in mini calendar": {

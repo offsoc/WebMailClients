@@ -1463,6 +1463,9 @@
       ],
       "Set as album cover": [
         "Pasang sebagai sampul album"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "Tetapkan ${ MAIL_APP_NAME } sebagai aplikasi email bawaan Anda"
       ]
     },
     "action": {
@@ -7749,6 +7752,12 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Paket terjadwal Anda dimulai pada ${ renewalTime } dan akan diperbarui secara otomatis setiap bulannya."
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "Tetapkan ${ MAIL_APP_NAME } sebagai aplikasi email bawaan Anda."
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "Tetapkan ${ MAIL_APP_NAME } sebagai aplikasi email bawaan Anda. Ke depannya, ${ MAIL_APP_NAME } akan terbuka secara otomatis pada saat Anda mengeklik tautan email."
       ]
     },
     "info": {
@@ -10217,6 +10226,30 @@
       ],
       "Save 80% on your first month.": [
         "Hemat 80% pada bulan pertama Anda."
+      ],
+      "Don’t show this offer again": [
+        "Jangan tampilkan penawaran ini lagi"
+      ],
+      "Last day to save": [
+        "Hari terakhir untuk menghemat"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus selama 12 bulan"
+      ],
+      "Save": [
+        "Simpan"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Hemat ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Hemat besar-besaran pada saat Anda membayar secara tahunan"
+      ],
+      "This offer won't be shown again.": [
+        "Penawaran ini tidak akan lagi ditampilkan."
+      ],
+      "You currently pay": [
+        "Anda saat ini membayar"
       ]
     },
     "Offer feature": {
@@ -10832,6 +10865,9 @@
       ],
       "Type text or keyword": [
         "Ketik teks atau kata kunci"
+      ],
+      "Filter quick actions": [
+        "Filter tindakan cepat"
       ]
     },
     "Placeholder for contact group name": {
@@ -13435,6 +13471,9 @@
       ],
       "Help center": [
         "Pusat bantuan"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "Pintasan keyboard ${ appName }"
       ]
     },
     "Today icon tooltip in mini calendar": {

@@ -1471,6 +1471,9 @@
       ],
       "Set as album cover": [
         "Imposta come copertina dell'album"
+      ],
+      "Use ${ PASS_APP_NAME }": [
+        "Utilizza ${ PASS_APP_NAME }"
       ]
     },
     "action": {
@@ -7889,6 +7892,18 @@
       ],
       "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
         "Imposta ${ MAIL_APP_NAME } come applicazione mail predefinita. ${ MAIL_APP_NAME } si aprirà automaticamente quando clicchi su un collegamento di posta."
+      ],
+      "${ BRAND_NAME }'s password manager lets you create, store, and autofill passwords, so you never have to reset them.": [
+        "Il gestore password di ${ BRAND_NAME } ti consente di creare, memorizzare e compilare automaticamente le password, così non dovrai mai reimpostarle."
+      ],
+      "Detection takes place on your device, so no data from your emails is sent to our servers.": [
+        "Il rilevamento avviene sul tuo dispositivo, quindi nessun dato proveniente dalle tue email viene inviato ai nostri server."
+      ],
+      "More infos": [
+        "Maggiori informazioni"
+      ],
+      "This was shown to you because your email subject line contains password reset keywords.": [
+        "Questo viene mostrato perché la riga dell'oggetto dell'email contiene parole chiave per la reimpostazione della password."
       ]
     },
     "info": {
@@ -7906,6 +7921,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Per favore contattaci a ${ email } per le istruzioni su come pagare in contanti."
+      ],
+      "How to send a cash payment?": [
+        "Come inviare un pagamento in contanti?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Puoi trovare le istruzioni nell'articolo: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info on errors": {
@@ -8727,6 +8748,9 @@
       ],
       "Your password (admin)": [
         "La tua password (admin)"
+      ],
+      "Don't show this suggestion": [
+        "Non mostrare questo suggerimento"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9334,6 +9358,9 @@
       ],
       "on the third Wednesday": [
         "il terzo Mercoledì"
+      ],
+      "on the ${ shortenedDay }": [
+        "il ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -10406,6 +10433,33 @@
       ],
       "Save 80% on your first month.": [
         "Salva l'80% nel tuo primo mese."
+      ],
+      "Don’t show this offer again": [
+        "Non mostrare più questa offerta"
+      ],
+      "Last day to save": [
+        "Ultimo giorno per risparmiare"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus per 12 mesi"
+      ],
+      "Save": [
+        "Salva"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Risparmia il ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Risparmia di più pagando annualmente"
+      ],
+      "This offer won't be shown again.": [
+        "Questa offerta non verrà più mostrata."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Quando si passa da un abbonamento mensile a uno annuale."
+      ],
+      "You currently pay": [
+        "Attualmente paghi"
       ]
     },
     "Offer feature": {
@@ -11024,6 +11078,9 @@
       ],
       "Type text or keyword": [
         "Inserisci testo o parola chiave"
+      ],
+      "Filter quick actions": [
+        "Filtra le azioni rapide"
       ]
     },
     "Placeholder for contact group name": {
@@ -13709,6 +13766,12 @@
       ],
       "Help center": [
         "Centro assistenza"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName } scorciatoie da tastiera"
+      ],
+      "On-device suggestions": [
+        "Suggerimenti sul dispositivo"
       ]
     },
     "Today icon tooltip in mini calendar": {

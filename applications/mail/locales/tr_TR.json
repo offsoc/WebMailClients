@@ -1467,13 +1467,16 @@
         "Uzaklaştır"
       ],
       "Make ${ MAIL_APP_NAME } your default email application": [
-        "${ MAIL_APP_NAME } 'i varsayılan e-posta uygulamanız yapın"
+        "${ MAIL_APP_NAME } varsayılan e-posta uygulamanız olsun"
       ],
       "Set as album cover": [
         "Albüm kapağı olarak ayarla"
       ],
       "Trust key": [
         "Güven anahtarı"
+      ],
+      "Use ${ PASS_APP_NAME }": [
+        "${ PASS_APP_NAME } uygulamasını kullan"
       ]
     },
     "action": {
@@ -7888,10 +7891,22 @@
         "Zamanlanmış tarifeniz ${ renewalTime } tarihinde başlayacak ve her ay otomatik olarak yenilenecek."
       ],
       "Make ${ MAIL_APP_NAME } your default email application.": [
-        "${ MAIL_APP_NAME } 'i varsayılan e-posta uygulamanız yapın."
+        "${ MAIL_APP_NAME } varsayılan e-posta uygulamanız olsun."
       ],
       "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
-        "Varsayılan e-posta uygulamanız olarak ${ MAIL_APP_NAME } ayarlayın. Bir e-posta bağlantısına tıkladığınızda ${ MAIL_APP_NAME } otomatik olarak açılacaktır."
+        "${ MAIL_APP_NAME } uygulamasını varsayılan e-posta uygulamanız olarak ayarlayın. Bir e-posta bağlantısına tıkladığınızda ${ MAIL_APP_NAME } otomatik olarak açılır."
+      ],
+      "${ BRAND_NAME }'s password manager lets you create, store, and autofill passwords, so you never have to reset them.": [
+        "${ BRAND_NAME } parola yöneticisi, parolaları oluşturmanız, kaydetmenizi ve otomatik olarak doldurmanızı sağlar. Böylece parolalarınızı asla sıfırlamak zorunda kalmazsınız."
+      ],
+      "Detection takes place on your device, so no data from your emails is sent to our servers.": [
+        "Algılama aygıtınızda yapılır. Bu nedenle e-postalarınızdan sunucularımıza hiçbir veri gönderilmez."
+      ],
+      "More infos": [
+        "Ayrıntılı bilgi alın"
+      ],
+      "This was shown to you because your email subject line contains password reset keywords.": [
+        "Bu bilgi, e-posta konu satırınızda parola sıfırlama anahtar sözcükleri bulunduğundan görüntülendi."
       ]
     },
     "info": {
@@ -7909,6 +7924,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Nakit ödemenin nasıl yapılacağı ile ilgili bilgi almak için bizimle ${ email } adresinden görüşün."
+      ],
+      "How to send a cash payment?": [
+        "Nakit ödeme nasıl yapılır?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Lütfen yönerge için şu yazıya bakın: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info on errors": {
@@ -8727,6 +8748,9 @@
       ],
       "Your password (admin)": [
         "Parolanız (yönetici)"
+      ],
+      "Don't show this suggestion": [
+        "Bu öneriyi gösterme"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -8888,7 +8912,7 @@
         "Ayrıntılı bilgi alın"
       ],
       "Less": [
-        "Daha az görüntüle"
+        "Daha az"
       ],
       "Manage blocked email addresses": [
         "Engellenmiş e-posta adresleri yönetimi"
@@ -9334,6 +9358,9 @@
       ],
       "on the third Wednesday": [
         "üçüncü Çarşamba günü"
+      ],
+      "on the ${ shortenedDay }": [
+        "${ shortenedDay } gününde"
       ]
     },
     "New Label form": {
@@ -10401,6 +10428,33 @@
       ],
       "Save 80% on your first month.": [
         "İlk ayınızda % 80 indirim kazanın."
+      ],
+      "Don’t show this offer again": [
+        "Bu teklif bir daha görüntülenmesin"
+      ],
+      "Last day to save": [
+        "İndirim kazanmak için son gün"
+      ],
+      "Mail Plus for 12 months": [
+        "12 aylık Mail Plus"
+      ],
+      "Save": [
+        "İndirim"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "%${ prices.savedPercentage } indirim"
+      ],
+      "Save big when you pay annually": [
+        "Yıllık ödeme yaparak büyük indirim kazanın"
+      ],
+      "This offer won't be shown again.": [
+        "Bu teklif bir daha görüntülenmeyecek."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Aylık abonelikten yıllık aboneliğe geçtiğinizde."
+      ],
+      "You currently pay": [
+        "Şu anda ödediğiniz"
       ]
     },
     "Offer feature": {
@@ -10535,7 +10589,7 @@
         "Görüntülenecek adı ayarlayın"
       ],
       "Start using ${ BRAND_NAME }": [
-        "${ BRAND_NAME } kullanmaya başlayın"
+        "${ BRAND_NAME } ile başla"
       ],
       "Start using the shorter, catchier version of your email address.": [
         "E-posta adresinizin daha kısa ve akılda kalıcı sürümünü kullanmaya başlayın."
@@ -11019,6 +11073,9 @@
       ],
       "Type text or keyword": [
         "Metin ya da anahtar sözcük yazın"
+      ],
+      "Filter quick actions": [
+        "Hızlı işlemleri süz"
       ]
     },
     "Placeholder for contact group name": {
@@ -13704,6 +13761,12 @@
       ],
       "Help center": [
         "Yardım merkezi"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName } klavye kısayolları"
+      ],
+      "On-device suggestions": [
+        "Aygıt üzerinde öneriler"
       ]
     },
     "Today icon tooltip in mini calendar": {

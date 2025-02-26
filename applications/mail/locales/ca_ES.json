@@ -1467,10 +1467,13 @@
         "Hide-my-email"
       ],
       "Make ${ MAIL_APP_NAME } your default email application": [
-        "Estableix ${ MAIL_APP_NAME } com a aplicació de correu electrònic per defecte"
+        "Estableix ${ MAIL_APP_NAME } com a aplicació de correu electrònic predeterminada"
       ],
       "Set as album cover": [
         "Estableix com a portada de l'àlbum"
+      ],
+      "Use ${ PASS_APP_NAME }": [
+        "Utilitzeu ${ PASS_APP_NAME }"
       ]
     },
     "action": {
@@ -7880,10 +7883,22 @@
         "El vostre pla programat comença el ${ renewalTime } i es renovarà automàticament cada mes."
       ],
       "Make ${ MAIL_APP_NAME } your default email application.": [
-        "Establiu ${ MAIL_APP_NAME } com a aplicació de correu electrònic per defecte."
+        "Establiu ${ MAIL_APP_NAME } com a aplicació de correu electrònic predeterminada."
       ],
       "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
-        "Establiu ${ MAIL_APP_NAME } com a aplicació de correu electrònic per defecte. ${ MAIL_APP_NAME } s'obrirà automàticament en fer clic a un enllaç de correu electrònic."
+        "Establiu ${ MAIL_APP_NAME } com a aplicació de correu electrònic per defecte. ${ MAIL_APP_NAME } s'obrirà automàticament quan cliqueu un enllaç de correu electrònic."
+      ],
+      "${ BRAND_NAME }'s password manager lets you create, store, and autofill passwords, so you never have to reset them.": [
+        "El gestor de contrasenyes de ${ BRAND_NAME } us permet crear, emmagatzemar i emplenar automàticament contrasenyes, de manera que mai no les haureu de restablir."
+      ],
+      "Detection takes place on your device, so no data from your emails is sent to our servers.": [
+        "La detecció es realitza al vostre dispositiu, de manera que no s'envien dades dels vostres correus electrònics als nostres servidors."
+      ],
+      "More infos": [
+        "Més informació"
+      ],
+      "This was shown to you because your email subject line contains password reset keywords.": [
+        "Se us ha mostrat perquè la línia d'assumpte del vostre correu electrònic conté paraules clau de restabliment de la contrasenya."
       ]
     },
     "info": {
@@ -7901,6 +7916,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Contacteu amb nosaltres en ${ email } per a rebre instruccions de com fer un pagament en efectiu."
+      ],
+      "How to send a cash payment?": [
+        "Com enviar un pagament en efectiu?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Trobeu les instruccions a l'article: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info on errors": {
@@ -8722,6 +8743,9 @@
       ],
       "Your password (admin)": [
         "La seva contrasenya (admin)"
+      ],
+      "Don't show this suggestion": [
+        "No mostra aquest suggeriment"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9329,6 +9353,9 @@
       ],
       "on the third Wednesday": [
         "en el tercer Dimecres"
+      ],
+      "on the ${ shortenedDay }": [
+        "el ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -10396,6 +10423,33 @@
       ],
       "Save 80% on your first month.": [
         "Estalvieu un 80% en el vostre primer mes."
+      ],
+      "Don’t show this offer again": [
+        "No tornis a mostrar aquesta oferta"
+      ],
+      "Last day to save": [
+        "Últim dia per estalviar"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus durant 12 mesos"
+      ],
+      "Save": [
+        "Estalvieu"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Estalvieu el ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Estalvieu de debò pagant anualment!"
+      ],
+      "This offer won't be shown again.": [
+        "Aquesta oferta no es tornarà a mostrar."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Quan canvieu d'una subscripció mensual a una anual."
+      ],
+      "You currently pay": [
+        "Actualment pagueu"
       ]
     },
     "Offer feature": {
@@ -11015,6 +11069,9 @@
       ],
       "Type text or keyword": [
         "Escrigui text o paraula clau"
+      ],
+      "Filter quick actions": [
+        "Filtra les accions ràpides"
       ]
     },
     "Placeholder for contact group name": {
@@ -13700,6 +13757,12 @@
       ],
       "Help center": [
         "Centre d'ajuda"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "Dreceres de teclat de ${ appName }"
+      ],
+      "On-device suggestions": [
+        "Suggeriments al dispositiu"
       ]
     },
     "Today icon tooltip in mini calendar": {

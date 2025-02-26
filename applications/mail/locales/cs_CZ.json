@@ -1481,6 +1481,9 @@
       ],
       "Set as album cover": [
         "Nastavit jako obálku alba"
+      ],
+      "Use ${ PASS_APP_NAME }": [
+        "Použít ${ PASS_APP_NAME }"
       ]
     },
     "action": {
@@ -8151,6 +8154,18 @@
       ],
       "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
         "Nastavte ${ MAIL_APP_NAME } jako výchozí e-mailovou aplikaci. ${ MAIL_APP_NAME } se automaticky otevře po kliknutí na e-mailový odkaz."
+      ],
+      "${ BRAND_NAME }'s password manager lets you create, store, and autofill passwords, so you never have to reset them.": [
+        "Správce hesel ${ BRAND_NAME } vám umožňuje vytvářet, ukládat a automaticky vyplňovat hesla, takže je nikdy nebudete muset resetovat."
+      ],
+      "Detection takes place on your device, so no data from your emails is sent to our servers.": [
+        "Detekce probíhá na vašem zařízení, takže žádná data z vašich e-mailů nejsou odesílána na naše servery."
+      ],
+      "More infos": [
+        "Více informací"
+      ],
+      "This was shown to you because your email subject line contains password reset keywords.": [
+        "Toto se vám zobrazilo, protože předmět vašeho e-mailu obsahuje klíčová slova pro reset hesla."
       ]
     },
     "info": {
@@ -8170,6 +8185,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Prosíme kontaktujte nás na ${ email } pro více informací, jak zaplatit v hotovosti."
+      ],
+      "How to send a cash payment?": [
+        "Jak poslat platbu v hotovosti?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Pokyny naleznete v článku: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info on errors": {
@@ -8998,6 +9019,9 @@
       ],
       "Your password (admin)": [
         "Vaše heslo (admin)"
+      ],
+      "Don't show this suggestion": [
+        "Nezobrazovat tento návrh"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9621,6 +9645,9 @@
       ],
       "on the third Wednesday": [
         "třetí středu"
+      ],
+      "on the ${ shortenedDay }": [
+        "${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -10742,6 +10769,33 @@
       ],
       "Save 80% on your first month.": [
         "Ušetřete 80% za první měsíc."
+      ],
+      "Don’t show this offer again": [
+        "Tuto nabídku již nezobrazovat"
+      ],
+      "Last day to save": [
+        "Poslední den, kdy můžete ušetřit"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus na 12 měsíců"
+      ],
+      "Save": [
+        "Ušetřete"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Ušetřete ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Při roční platbě můžete výrazně ušetřit"
+      ],
+      "This offer won't be shown again.": [
+        "Tato nabídka se již nezobrazí."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Při přechodu z měsíčního na roční předplatné."
+      ],
+      "You currently pay": [
+        "V současnosti platíte"
       ]
     },
     "Offer feature": {
@@ -11366,6 +11420,9 @@
       ],
       "Type text or keyword": [
         "Zadejte text nebo klíčové slovo"
+      ],
+      "Filter quick actions": [
+        "Filtrování rychlých akcí"
       ]
     },
     "Placeholder for contact group name": {
@@ -14215,6 +14272,12 @@
       ],
       "Help center": [
         "Centrum podpory"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName } klávesové zkratky"
+      ],
+      "On-device suggestions": [
+        "Návrhy v zařízení"
       ]
     },
     "Today icon tooltip in mini calendar": {
