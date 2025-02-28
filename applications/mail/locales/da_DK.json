@@ -1429,6 +1429,18 @@
       ],
       "More actions": [
         "Flere handlinger"
+      ],
+      "Get the app": [
+        "Hent appen"
+      ],
+      "Get the browser extension": [
+        "Hent browserudvidelsen"
+      ],
+      "Go to ${ DRIVE_APP_NAME }": [
+        "Gå til ${ DRIVE_APP_NAME }"
+      ],
+      "Invite members": [
+        "Invitér medlemmer"
       ]
     },
     "action": {
@@ -7774,6 +7786,21 @@
       ],
       "Start using the shorter, catchier version of your email address.": [
         "Begynd at bruge den kortere, mere catchy version af din e-mailadresse."
+      ],
+      "${ BRAND_NAME }'s password manager lets you create, store, and autofill passwords, so you never have to reset them.": [
+        "${ BRAND_NAME }'s adgangskodeadministrator gør det muligt for dig at oprette, gemme og automatisk udfylde adgangskoder, så du aldrig behøver at nulstille dem."
+      ],
+      "Detection takes place on your device, so no data from your emails is sent to our servers.": [
+        "Registreringen sker på din enhed, så ingen data fra dine e-mails sendes til vores servere."
+      ],
+      "Join ${ PROTON_SENTINEL_NAME } program for our highest level of account security and support.": [
+        "Tilmeld dig ${ PROTON_SENTINEL_NAME }-programmet for at vores højeste niveau af kontosikkerhed og support."
+      ],
+      "More infos": [
+        "Mere info"
+      ],
+      "This was shown to you because your email subject line contains password reset keywords.": [
+        "Dette blev vist til dig, fordi din e-mail-emnelinje indeholder nøgleord til nulstilling af adgangskode."
       ]
     },
     "info": {

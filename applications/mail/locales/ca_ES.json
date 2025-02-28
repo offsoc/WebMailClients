@@ -7898,7 +7898,7 @@
         "Més informació"
       ],
       "This was shown to you because your email subject line contains password reset keywords.": [
-        "Se us ha mostrat perquè la línia d'assumpte del vostre correu electrònic conté paraules clau de restabliment de la contrasenya."
+        "Si us ha mostrat perquè la línia d'assumpte del vostre correu electrònic conté paraules clau de restabliment de la contrasenya."
       ]
     },
     "info": {
@@ -7921,7 +7921,7 @@
         "Com enviar un pagament en efectiu?"
       ],
       "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
-        "Trobeu les instruccions a l'article: ${ howToSendCashArticleUrl }"
+        "Veieu les instruccions a l'article: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info on errors": {
@@ -8745,7 +8745,7 @@
         "La seva contrasenya (admin)"
       ],
       "Don't show this suggestion": [
-        "No mostra aquest suggeriment"
+        "No tornis a mostrar aquest suggeriment"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -10450,6 +10450,18 @@
       ],
       "You currently pay": [
         "Actualment pagueu"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "L'oferta caduca el ${ formattedDate }."
+      ],
+      "Pay annually, secure our best offer": [
+        "Pagueu anualment i assegureu-vos la nostra millor oferta"
+      ],
+      "Special offer": [
+        "Oferta especial"
+      ],
+      "Your subscription renews soon": [
+        "La subscripció es renovarà aviat."
       ]
     },
     "Offer feature": {
