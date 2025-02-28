@@ -814,6 +814,9 @@
       ],
       "Get ${ planName } for ${ priceCoupon }": [
         "Wybierz plan ${ planName } za ${ priceCoupon }"
+      ],
+      "Get ${ planOrAppName }": [
+        "Uzyskaj ${ planOrAppName }"
       ]
     },
     "Action subline": {
@@ -3456,6 +3459,9 @@
       ],
       "Your import will not be processed.": [
         "Twój import nie zostanie przetworzony."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } to nazwa użytkownika. Aby utworzyć ${ emailAddress }, przejdź do Ustawienia > Tożsamość i adresy > Krótka domena (pm.me)."
       ]
     },
     "Error accepting calendar invitation": {
@@ -3591,6 +3597,9 @@
       ],
       "Unsupported event": [
         "Wydarzenie jest nieobsługiwane"
+      ],
+      "Time zone component ignored": [
+        "Element strefy czasowej ignorowany"
       ]
     },
     "Error message": {
@@ -4117,6 +4126,9 @@
       ],
       "Time zone not supported": [
         "Strefa czasowa nie jest obsługiwana"
+      ],
+      "Only the Gregorian calendar scale is allowed": [
+        "Dozwolona jest tylko skala kalendarza gregoriańskiego"
       ]
     },
     "Import calendar": {
@@ -5583,11 +5595,32 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Zaplanowany plan rozpocznie się ${ renewalTime } i odnowi się automatycznie co miesiąc."
+      ],
+      "${ PROTON_SENTINEL_NAME } protects your account with dedicated monitoring of suspicious activity.": [
+        "${ PROTON_SENTINEL_NAME } chroni Twoje konto dzięki dedykowanemu monitorowaniu podejrzanej aktywności."
+      ],
+      "AI powered assistant to help you craft better emails, quickly and effortlessly.": [
+        "Asystent sztucznej inteligencji, który pomaga tworzyć lepsze wiadomości, szybko i bez wysiłku."
+      ],
+      "Emails moved to Trash and Spam more than 30 days ago will be cleared automatically.": [
+        "Wiadomości e-mail przeniesione do Kosza i Spamu ponad 30 dni temu zostaną automatycznie wyczyszczone."
+      ],
+      "Open shortcut cheat sheet": [
+        "Otwórz listę skrótów"
+      ],
+      "You get notified if your password or other data was leaked from a third-party service.": [
+        "Otrzymasz powiadomienie, jeśli Twoje hasło lub inne dane wyciekły z usługi zewnętrznej."
       ]
     },
     "info": {
       "Selected color:": [
         "Wybrany kolor:"
+      ],
+      "${ filteredList.length } command found.": [
+        "Znaleziono ${ filteredList.length } polecenie.",
+        "Znaleziono ${ filteredList.length } polecenia.",
+        "Znaleziono ${ filteredList.length } poleceń.",
+        "Znaleziono ${ filteredList.length } poleceń."
       ]
     },
     "Info calendar search": {
@@ -6144,6 +6177,12 @@
       ],
       "Your password (admin)": [
         "Twoje hasło (administratora)"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Skrót klawiszowy: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Skróty klawiszowe"
       ]
     },
     "Label for contact group color": {
@@ -7228,6 +7267,18 @@
       ],
       "Secure file storage and sharing": [
         "Bezpieczne przechowywanie i udostępnianie plików"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Dedykowane serwery zoptymalizowane pod kątem streamingu"
+      ],
+      "SSO integration": [
+        "Logowanie SSO"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Używanie na maksymalnie ${ n } urządzeniu",
+        "Używanie na maksymalnie ${ n } urządzeniach jednocześnie",
+        "Używanie na maksymalnie ${ n } urządzeniach jednocześnie",
+        "Używanie na maksymalnie ${ n } urządzeniach jednocześnie"
       ]
     },
     "new_plans: feature highlight": {
@@ -8233,6 +8284,9 @@
       ],
       "Street address, postal code, and city": [
         "Ulica, kod pocztowy i miejscowość"
+      ],
+      "By confirming this payment, you authorize ${ BRAND_NAME } and Stripe, our payment service provider, to instruct your bank to debit your account accordingly. You can get a refund within 8 weeks from the debit date, under the conditions of your agreement with your bank.": [
+        "Potwierdzając tę płatność, użytkownik upoważnia ${ BRAND_NAME } i Stripe, naszego dostawcę usług płatniczych, do zlecenia bankowi odpowiedniego obciążenia jego konta. Użytkownik może otrzymać zwrot pieniędzy w ciągu 8 tygodni od daty obciążenia konta, zgodnie z warunkami umowy z bankiem."
       ]
     },
     "PGP key encryption warning": {
@@ -9784,6 +9838,9 @@
       ],
       "Event content search enabled": [
         "Wyszukiwanie zawartości wydarzeń zostało włączone"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Ustawienia skrótów klawiszowych zostały zaktualizowane"
       ]
     },
     "Suffix": {
@@ -10455,6 +10512,18 @@
       ],
       "${ feature } is now active": [
         "Funkcja ${ feature } jest aktywna"
+      ],
+      "Does not repeat": [
+        "Nie powtarza się"
+      ],
+      "Every day": [
+        "Codziennie"
+      ],
+      "Help center": [
+        "Centrum pomocy"
+      ],
+      "You can now create unlimited folders and labels": [
+        "Możesz utworzyć nieograniczoną liczbę folderów i etykiet"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10795,6 +10864,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Darmowa wersja próbna zakończy się ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "2 następujące po sobie kropki są niedozwolone"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Nie może zawierać kropki na początku"
+      ],
+      "Cannot contain a dot at the end": [
+        "Nie może zawierać kropki na końcu"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Dozwolone są tylko małe znaki alfanumeryczne, kropki, myślniki i podkreślenia."
       ]
     },
     "Warning in modal to accept calendar invitation; Description": {
@@ -11251,6 +11332,9 @@
     "new_plans: Subtext": {
       "Unlock all ${ BRAND_NAME } premium products and features for just ${ priceLine }. Cancel anytime.": [
         "Odblokuj wszystkie usługi i funkcje premium ${ BRAND_NAME } za ${ priceLine }. Anuluj w dowolnym momencie."
+      ],
+      "The discounted price of ${ priceCoupon } is valid for the first month. Then it will automatically be renewed at ${ priceLine }. You can cancel at any time.": [
+        "Promocyjna cena ${ priceCoupon } jest ważna przez pierwszy miesiąc. Następnie zostanie ona automatycznie odnowiona po cenie ${ priceLine }. Możesz anulować w dowolnym momencie."
       ]
     },
     "Valentine_2025": {
@@ -11265,6 +11349,74 @@
       ],
       "🎁 Your free gift to share, valued at ${ price }﻿: ": [
         "🎁 Twój prezent o wartości ${ price }, którym możesz się podzielić﻿: "
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "Szukaj wiadomości"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Widok dnia"
+      ],
+      "Month view": [
+        "Widok miesiąca"
+      ],
+      "New event": [
+        "Nowe wydarzenie"
+      ],
+      "Next period": [
+        "Następny okres"
+      ],
+      "Previous period": [
+        "Poprzedni okres"
+      ],
+      "Search events": [
+        "Szukaj wydarzeń"
+      ],
+      "Today": [
+        "Dzisiaj"
+      ],
+      "Week view": [
+        "Widok tygodnia"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "Utwórz nowe wydarzenie"
+      ],
+      "Day view": [
+        "Widok dnia"
+      ],
+      "Month view": [
+        "Widok miesiąca"
+      ],
+      "Next period": [
+        "Następny okres"
+      ],
+      "Open quick actions menu": [
+        "Otwórz szybkie akcje"
+      ],
+      "Open this modal": [
+        "Otwórz okno"
+      ],
+      "Previous period": [
+        "Poprzedni okres"
+      ],
+      "Search events": [
+        "Szukaj wydarzeń"
+      ],
+      "Today": [
+        "Dzisiaj"
+      ],
+      "Week view": [
+        "Widok tygodnia"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Podstawowe akcje"
       ]
     }
   }

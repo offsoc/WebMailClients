@@ -968,7 +968,7 @@
     },
     "Badge": {
       "New!": [
-        "Nouă!"
+        "Nou!"
       ]
     },
     "bf2023: Deal details": {
@@ -2525,6 +2525,20 @@
         "dată",
         "ori",
         "de ori"
+      ],
+      "Don't end": [
+        "Nu se termină"
+      ],
+      "End after": [
+        "Se termină după"
+      ],
+      "End on": [
+        "Se termină"
+      ],
+      "event": [
+        "eveniment",
+        "evenimente",
+        "evenimente"
       ]
     },
     "Cycle": {
@@ -3020,7 +3034,7 @@
         "Acest contact nu se poate exporta."
       ],
       "Checkout expired, please try again": [
-        "Finalizarea comenzii a expirat, mai reîncercați."
+        "Finalizarea comenzii a expirat. Reîncercați."
       ],
       "Contact could not be saved": [
         "Contactul nu a putut fi salvat"
@@ -3060,7 +3074,7 @@
         "Deselectați cel puțin ${ calendarsToFixCount } de calendare sau"
       ],
       "Domain not available, try again later": [
-        "Domeniul nu este disponibil, reîncercați mai târziu."
+        "Domeniul nu este disponibil. Reîncercați mai târziu."
       ],
       "Email address disabled": [
         "Adresă de e-mail dezactivată"
@@ -3433,6 +3447,9 @@
       ],
       "Your import will not be processed.": [
         "Importarea nu va fi procesată."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "Numele de utilizator este ${ user.Name }. Pentru a crea ${ emailAddress }, accesați Setări > Identitate și adrese > Domeniu scurt (pm.me)"
       ]
     },
     "Error accepting calendar invitation": {
@@ -3589,7 +3606,7 @@
         "Deschidere în navigator web"
       ],
       "Please refresh the page or try again later.": [
-        "Reîmprospătați pagina sau reîncercați mai târziu."
+        "Împrospătați pagina sau reîncercați mai târziu."
       ],
       "Something went wrong": [
         "Ceva nu a funcționat corect."
@@ -4019,6 +4036,9 @@
       ],
       "Security Center": [
         "Centru de securitate"
+      ],
+      "Repeat event": [
+        "Repetare eveniment"
       ]
     },
     "Hint": {
@@ -5531,11 +5551,22 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Fusul orar al sistemului pare să se fi schimbat la ${ timezone }. Actualizați fusul orar preferat?"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "Dacă sunt activate combinațiile de taste, puteți utiliza următoarele taste pentru acțiuni rapide sau pentru a trece la diferite vizualizări. ${ metaKey } + K este întotdeauna activată."
+      ],
+      "Open shortcut cheat sheet": [
+        "Deschidere listă combinații de taste"
       ]
     },
     "info": {
       "Selected color:": [
         "Culoare selectată:"
+      ],
+      "${ filteredList.length } command found.": [
+        "S-a ${ filteredList.length } comandă.",
+        "S-au găsit ${ filteredList.length } comenzi.",
+        "S-au găsit ${ filteredList.length } de comenzi."
       ]
     },
     "Info calendar search": {
@@ -5546,6 +5577,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Pentru plata cu numerar contactați-ne la ${ email } pentru instrucțiuni."
+      ],
+      "How to send a cash payment?": [
+        "Cum se trimite o plată în numerar?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Găsiți instrucțiunile în articolul: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info message": {
@@ -6090,6 +6127,18 @@
       ],
       "Your password (admin)": [
         "Parola dvs. (administrator)"
+      ],
+      "Every": [
+        "La fiecare"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Combinații taste: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Combinații de taste"
+      ],
+      "On": [
+        "Activat"
       ]
     },
     "Label for contact group color": {
@@ -6583,6 +6632,9 @@
       ],
       "on the third Wednesday": [
         "în a treia miercuri"
+      ],
+      "on the ${ shortenedDay }": [
+        "${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -7144,6 +7196,17 @@
       ],
       "Tor over VPN": [
         "Tor prin VPN"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Servere dedicate optimizate pentru transmisii în flux"
+      ],
+      "SSO integration": [
+        "Integrare SSO"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Folosiți pe maxim ${ n } un dispozitiv",
+        "Folosiți pe maxim ${ n } dispozitive simultan",
+        "Folosiți pe maxim ${ n } de dispozitive simultan"
       ]
     },
     "new_plans: feature highlight": {
@@ -7805,6 +7868,45 @@
       ],
       "Save 80% on your first month.": [
         "Economisiți 80% în prima lună."
+      ],
+      "Don’t show this offer again": [
+        "Nu mai arăta această ofertă"
+      ],
+      "Last day to save": [
+        "Ultima zi de economisire"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus pentru 12 luni"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "Oferta expiră ${ formattedDate }."
+      ],
+      "Pay annually, secure our best offer": [
+        "Plătiți anual, asigurați-vă cea mai bună ofertă"
+      ],
+      "Save": [
+        "Economisiți"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Economisiți ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Economisiți mult dacă plătiți anual"
+      ],
+      "Special offer": [
+        "Ofertă specială"
+      ],
+      "This offer won't be shown again.": [
+        "Această ofertă nu va mai fi afișată."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Când comutați de la un abonament lunar la unul anual."
+      ],
+      "You currently pay": [
+        "Acum plătiți"
+      ],
+      "Your subscription renews soon": [
+        "Abonamentul se va reînnoi în curând"
       ]
     },
     "Offer feature": {
@@ -7934,6 +8036,18 @@
         "an",
         "ani",
         "de ani"
+      ],
+      "Custom...": [
+        "Personal..."
+      ],
+      "Every month ${ description }": [
+        "Lunar ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "Săptămânal ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "În fiecare zi a săptămânii ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -8259,6 +8373,9 @@
       ],
       "Start typing an email address": [
         "Introduceți o adresă de e-mail"
+      ],
+      "Filter quick actions": [
+        "Filtrare acțiuni rapide"
       ]
     },
     "Placeholder for contact group name": {
@@ -9658,6 +9775,9 @@
       ],
       "Event content search enabled": [
         "Căutarea în conținutul evenimentelor este activat."
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Preferințele combinațiilor de taste au fost actualizate"
       ]
     },
     "Suffix": {
@@ -10321,6 +10441,30 @@
       ],
       "Your shorter address is now ready": [
         "Adresa scurtă este pregătită acum"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "Combinații de taste ${ appName }"
+      ],
+      "Does not repeat": [
+        "Nu se repetă"
+      ],
+      "Every day": [
+        "Zilnic"
+      ],
+      "Every month ${ option.text }": [
+        "Lunar ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "Săptămânal ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "În fiecare zi a săptămânii ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "Anual"
+      ],
+      "Help center": [
+        "Centru de ajutor"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10648,6 +10792,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Perioada de probare se încheie în curând la ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "Nu se acceptă două puncte simultan."
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Nu se acceptă punct la început."
+      ],
+      "Cannot contain a dot at the end": [
+        "Nu se acceptă punct la sfârșit."
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Sunt permise doar litere mici, cifre, puncte, cratime și caracter de subliniere."
       ]
     },
     "Warning in modal to accept calendar invitation; Description": {
@@ -10963,6 +11119,77 @@
     "wallet_signup_2024:app-switcher": {
       "A safer way to hold Bitcoin": [
         "Un mod mai sigur de a deține bitcoin"
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "Căutare mesaje"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Afișare zi"
+      ],
+      "Month view": [
+        "Afișare lună"
+      ],
+      "New event": [
+        "Eveniment nou"
+      ],
+      "Next period": [
+        "Perioada următoare"
+      ],
+      "Previous period": [
+        "Perioada anterioară"
+      ],
+      "Search events": [
+        "Căutare evenimente"
+      ],
+      "Today": [
+        "Astăzi"
+      ],
+      "Week view": [
+        "Afișare săptămână"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "Creare eveniment"
+      ],
+      "Day view": [
+        "Afișare zi"
+      ],
+      "Month view": [
+        "Afișare lună"
+      ],
+      "Next period": [
+        "Perioada următoare"
+      ],
+      "Open quick actions menu": [
+        "Deschidere meniu acțiuni rapide"
+      ],
+      "Open this modal": [
+        "Deschidere ca fereastră"
+      ],
+      "Previous period": [
+        "Perioada anterioară"
+      ],
+      "Search events": [
+        "Căutare evenimente"
+      ],
+      "Today": [
+        "Astăzi"
+      ],
+      "Week view": [
+        "Afișare săptămână"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Acțiuni de bază"
+      ],
+      "View options": [
+        "Opțiuni de afișare"
       ]
     }
   }

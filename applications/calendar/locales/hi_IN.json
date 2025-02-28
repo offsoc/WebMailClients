@@ -2401,6 +2401,9 @@
       ],
       "Your account and data recovery methods are set.": [
         "आपका खाता और डेटा पुनर्प्राप्ति विधियाँ सेट हैं।"
+      ],
+      "Create a Zoom meeting and add joining details to your event with one click.": [
+        "एक क्लिक के साथ ज़ूम मीटिंग बनाएं और अपने कार्यक्रम में जॉइनिंग विवरण जोड़ें।"
       ]
     },
     "Description of the purpose of the import CSV modal": {
@@ -4700,11 +4703,21 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "आपका सिस्टम समय क्षेत्र ${ timezone } में बदल गया है। अपने समय क्षेत्र पसंद को अपडेट करें?"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "यदि कीबोर्ड शॉर्टकट सक्षम हैं, तो आप त्वरित कार्यों के लिए या अलग-अलग दृश्यों पर जाने के लिए निम्नलिखित कुंजियों का उपयोग कर सकते हैं। ${ metaKey } + K हमेशा सक्षम रहता है।"
+      ],
+      "Open shortcut cheat sheet": [
+        "शॉर्टकट चीट शीट खोलें"
       ]
     },
     "info": {
       "Selected color:": [
         "रंग चुनें:"
+      ],
+      "${ filteredList.length } command found.": [
+        "${ filteredList.length } कमांड मिला।",
+        "${ filteredList.length } कमांड मिले।"
       ]
     },
     "Info calendar search": {
@@ -5224,6 +5237,12 @@
       ],
       "Your password (admin)": [
         "आपका पासवर्ड (व्यवस्थापक)"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "कीबोर्ड शॉर्टकट: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "कीबोर्ड शॉर्टकट्स"
       ]
     },
     "Label for contact group color": {
@@ -7234,6 +7253,12 @@
       ],
       "Invite friends to ${ BRAND_NAME }": [
         "${ BRAND_NAME } पे दोस्तो को बुलाएं"
+      ],
+      "Seamlessly create and add video meeting links to your events.": [
+        "आसानी से वीडियो मीटिंग लिंक बनाएं और अपने कार्यक्रम में जोड़ें।"
+      ],
+      "Video conferencing is here!": [
+        "वीडियो कॉन्फ्रेंसिंग अब उपलब्ध है!"
       ]
     },
     "sso": {
@@ -7599,6 +7624,9 @@
       ],
       "You have successfully unsubscribed": [
         "आपने अपनी सदस्यता सफलतापूर्वक समाप्त किया"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "कीबोर्ड शॉर्टकट प्राथमिकताएं अपडेट की गईं"
       ]
     },
     "Suffix": {
@@ -8705,6 +8733,70 @@
     "wallet_signup_2024:Bug category": {
       "Wallet problem": [
         "वॉलेट समस्या"
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "संदेश खोजें"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "दिन दृश्य"
+      ],
+      "Month view": [
+        "महीना दृश्य"
+      ],
+      "New event": [
+        "नया कार्यक्रम"
+      ],
+      "Search events": [
+        "कार्यक्रम खोजें"
+      ],
+      "Today": [
+        "आज"
+      ],
+      "Week view": [
+        "सप्ताह दृश्य"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "नया कार्यक्रम बनाएँ"
+      ],
+      "Day view": [
+        "दिन दृश्य"
+      ],
+      "Month view": [
+        "महीना दृश्य"
+      ],
+      "Open quick actions menu": [
+        "त्वरित कार्य मेन्यू खोलें"
+      ],
+      "Open this modal": [
+        "इस मोडल को खोलें"
+      ],
+      "Search events": [
+        "कार्यक्रम खोजें"
+      ],
+      "Today": [
+        "आज"
+      ],
+      "Week view": [
+        "सप्ताह दृश्य"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "बुनियादी क्रियाएं"
+      ],
+      "View options": [
+        "विकल्प देखें"
+      ]
+    },
+    "Zoom integration": {
+      "Add Zoom meeting": [
+        "ज़ूम मीटिंग जोड़ें"
       ]
     }
   }

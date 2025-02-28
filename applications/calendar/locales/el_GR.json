@@ -2509,6 +2509,19 @@
       "time": [
         "φορά",
         "φορές"
+      ],
+      "Don't end": [
+        "Χωρίς τέλος"
+      ],
+      "End after": [
+        "Τέλος μετά"
+      ],
+      "End on": [
+        "Τέλος στις"
+      ],
+      "event": [
+        "εκδήλωση",
+        "εκδηλώσεις"
       ]
     },
     "Cycle": {
@@ -3239,7 +3252,7 @@
         "Παρακαλούμε επιλέξτε μια χώρα"
       ],
       "Please select a state": [
-        "Παρακαλώ διαλέξτε πολιτεία"
+        "Παρακαλούμε διαλέξτε πολιτεία"
       ],
       "Port is required": [
         "Απαιτείται θύρα"
@@ -3401,6 +3414,9 @@
       ],
       "Your import will not be processed.": [
         "Η εισαγωγή σας δεν θα υποβληθεί σε επεξεργασία."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } είναι το όνομα χρήστη σας. Για να δημιουργήσετε το ${ emailAddress }, παρακαλούμε μεταβείτε στις Ρυθμίσεις > Ταυτότητα και διευθύνσεις > Σύντομος τομέας (pm.me)"
       ]
     },
     "Error accepting calendar invitation": {
@@ -3928,7 +3944,7 @@
     },
     "Google Meet": {
       "Join Google Meet": [
-        "Συμμετάσχετε στο Google Meet"
+        "Συνδεθείτε στο Google Meet"
       ],
       "Joining instructions": [
         "Οδηγίες συμμετοχής"
@@ -3978,12 +3994,15 @@
       ],
       "Security Center": [
         "Κέντρο Ασφαλείας"
+      ],
+      "Repeat event": [
+        "Επαναλαμβανόμενη εκδήλωση"
       ]
     },
     "Hint": {
       "Found ${ itemsCount } suggestion, use keyboard to navigate.": [
-        "Βρέθηκε ${ itemsCount } πρόταση, χρησιμοποιήστε το πληκτρολόγιο για πλοήγηση.",
-        "Βρέθηκαν ${ itemsCount } προτάσεις, χρησιμοποιήστε το πληκτρολόγιο για πλοήγηση."
+        "Βρέθηκε ${ itemsCount } υπόδειξη, χρησιμοποιήστε το πληκτρολόγιο για πλοήγηση.",
+        "Βρέθηκαν ${ itemsCount } υποδείξεις, χρησιμοποιήστε το πληκτρολόγιο για πλοήγηση."
       ],
       "Use Up and Down keys to access and browse suggestions after input. Press Enter to confirm your choice, or Escape to close the suggestions box.": [
         "Χρησιμοποιήστε τα πλήκτρα Up και Down για πρόσβαση και περιήγηση στις προτάσεις μετά την εισαγωγή. Πατήστε Enter για να επιβεβαιώσετε την επιλογή σας, ή διαφυγής για να κλείσετε το πλαίσιο προτάσεων."
@@ -5452,11 +5471,21 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Η ζώνη ώρας του συστήματός σας φαίνεται ότι έχει αλλάξει σε ${ timezone }. Θέλετε να ενημερώσετε τις προτιμήσεις ζώνης ώρας;"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "Εάν είναι ενεργοποιημένες οι συντομεύσεις πληκτρολογίου, μπορείτε να χρησιμοποιήσετε τα ακόλουθα πλήκτρα για γρήγορες ενέργειες ή για να μεταβείτε σε διαφορετικές προβολές. Το ${ metaKey } + K είναι πάντα ενεργοποιημένο."
+      ],
+      "Open shortcut cheat sheet": [
+        "Άνοιγμα λίστας συντομεύσεων"
       ]
     },
     "info": {
       "Selected color:": [
         "Επιλεγμένο χρώμα:"
+      ],
+      "${ filteredList.length } command found.": [
+        "Βρέθηκε ${ filteredList.length } εντολή.",
+        "Βρέθηκαν ${ filteredList.length } εντολές."
       ]
     },
     "Info calendar search": {
@@ -5467,6 +5496,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Παρακαλώ επικοινωνήστε μαζί μας στο ${ email } για οδηγίες πληρωμής με μετρητά."
+      ],
+      "How to send a cash payment?": [
+        "Πώς να στείλετε μια πληρωμή σε μετρητά;"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Παρακαλούμε βρείτε τις οδηγίες στο άρθρο: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info message": {
@@ -6006,6 +6041,18 @@
       ],
       "Your password (admin)": [
         "Ο κωδικός σας (διαχειριστής)"
+      ],
+      "Every": [
+        "Κάθε"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Συντόμευση πληκτρολογίου: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Συντομεύσεις πληκτρολογίου"
+      ],
+      "On": [
+        "Ενεργό"
       ]
     },
     "Label for contact group color": {
@@ -6491,6 +6538,9 @@
       ],
       "on the third Wednesday": [
         "κάθε τρίτη Τετάρτη"
+      ],
+      "on the ${ shortenedDay }": [
+        "στις ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -7030,6 +7080,16 @@
       ],
       "Tor over VPN": [
         "Tor μέσω VPN"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Αποκλειστικοί διακομιστές βελτιστοποιημένοι για ροή"
+      ],
+      "SSO integration": [
+        "Ενσωμάτωση SSO"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Χρήση σε έως και ${ n } συσκευή ταυτόχρονα",
+        "Χρήση σε έως και ${ n } συσκευές ταυτόχρονα"
       ]
     },
     "new_plans: feature highlight": {
@@ -7666,6 +7726,45 @@
       ],
       "Save 80% on your first month.": [
         "Εξοικονομήστε 80% τον πρώτο μήνα σας."
+      ],
+      "Don’t show this offer again": [
+        "Να μην εμφανιστεί ξανά αυτή η προσφορά"
+      ],
+      "Last day to save": [
+        "Τελευταία ημέρα αποθήκευσης"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus για 12 μήνες"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "Η προσφορά λήγει στις ${ formattedDate }."
+      ],
+      "Pay annually, secure our best offer": [
+        "Πληρώστε ετησίως, εξασφαλίστε την καλύτερη προσφορά μας"
+      ],
+      "Save": [
+        "Εξοικονομήστε"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Εξοικονομίστε ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Εξοικονομήστε χρήματα όταν πληρώνετε ετησίως"
+      ],
+      "Special offer": [
+        "Ειδική προσφορά"
+      ],
+      "This offer won't be shown again.": [
+        "Αυτή η προσφορά δε θα εμφανιστεί ξανά."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Όταν αλλάζετε από μηνιαία σε ετήσια συνδρομή."
+      ],
+      "You currently pay": [
+        "Αυτή τη στιγμή πληρώνετε"
+      ],
+      "Your subscription renews soon": [
+        "Η συνδρομή σας ανανεωθεί σύντομα"
       ]
     },
     "Offer feature": {
@@ -7791,6 +7890,18 @@
       "Year": [
         "Έτος",
         "Χρόνια"
+      ],
+      "Custom...": [
+        "Προσαρμοσμένο..."
+      ],
+      "Every month ${ description }": [
+        "Κάθε μήνα ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "Κάθε εβδομάδα ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "Κάθε εργάσιμη μέρα ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -7982,7 +8093,7 @@
         "Δεν είμαστε σε θέση να επαληθεύσουμε τον τρόπο πληρωμής σας. Παρακαλούμε επιλέξτε διαφορετικό τρόπο πληρωμής ή προσπαθήστε ξανά."
       ],
       "Your card was declined. Please try a different card or contact your bank to authorize the charge.": [
-        "Η κάρτα σας απορρίφθηκε. Παρακαλώ δοκιμάστε μια διαφορετική κάρτα ή επικοινωνήστε με την τράπεζα σας για να εγκρίνετε τη χρέωση."
+        "Η κάρτα σας απορρίφθηκε. Παρακαλούμε δοκιμάστε μια διαφορετική κάρτα ή επικοινωνήστε με την τράπεζα σας για να εγκρίνετε τη χρέωση."
       ]
     },
     "Payments.plan_name": {
@@ -8118,6 +8229,9 @@
       ],
       "Start typing an email address": [
         "Έναρξη πληκτρολόγησης διεύθυνσης ηλεκτρονικού ταχυδρομείου"
+      ],
+      "Filter quick actions": [
+        "Φιλτράρισμα γρήγορων ενεργειών"
       ]
     },
     "Placeholder for contact group name": {
@@ -9481,6 +9595,9 @@
       ],
       "Event content search enabled": [
         "Αναζήτηση σε περιεχόμενο εκδήλωσης ενεργοποιημένη"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Οι προτιμήσεις συντομεύσεων πληκτρολογίου ενημερώθηκαν"
       ]
     },
     "Suffix": {
@@ -10133,6 +10250,30 @@
       ],
       "Your shorter address is now ready": [
         "Η συντομότερη διεύθυνσή σας είναι τώρα έτοιμη"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName } συντομεύσεις πληκτρολογίου"
+      ],
+      "Does not repeat": [
+        "Δεν επαναλαμβάνεται"
+      ],
+      "Every day": [
+        "Κάθε μέρα"
+      ],
+      "Every month ${ option.text }": [
+        "Κάθε μήνα ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "Κάθε εβδομάδα στις ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "Κάθε εργάσιμη μέρα ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "Κάθε χρόνο"
+      ],
+      "Help center": [
+        "Κέντρο βοήθειας"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10452,6 +10593,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Η δωρεάν δοκιμή σας λήγει στις ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "2 διαδοχικές κουκκίδες δεν επιτρέπονται"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Δεν μπορεί να περιέχει τελεία στην αρχή"
+      ],
+      "Cannot contain a dot at the end": [
+        "Δεν μπορεί να περιέχει τελεία στο τέλος"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Επιτρέπονται μόνο αλφαριθμητικοί πεζοί χαρακτήρες, τελείες, παύλες και παύλες υπογράμμισης"
       ]
     },
     "Warning in modal to accept calendar invitation; Description": {
@@ -10720,13 +10873,84 @@
     },
     "Zoom Meeting": {
       "Join Zoom meeting": [
-        "Συνδεθήτε στη σύσκεψη Zoom"
+        "Συνδεθείτε στη σύσκεψη Zoom"
       ],
       "Meeting ID:": [
         "ID συνάντησης:"
       ],
       "Passcode:": [
         "Κωδικός πρόσβασης:"
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "Αναζήτηση μηνυμάτων"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Προβολή ημέρας"
+      ],
+      "Month view": [
+        "Προβολή μήνα"
+      ],
+      "New event": [
+        "Νέα εκδήλωση"
+      ],
+      "Next period": [
+        "Επόμενη περιόδος"
+      ],
+      "Previous period": [
+        "Προηγούμενη περιόδος"
+      ],
+      "Search events": [
+        "Αναζήτηση εκδηλώσεων"
+      ],
+      "Today": [
+        "Σήμερα"
+      ],
+      "Week view": [
+        "Προβολή εβδομάδας"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "Δημιουργία νέας εκδήλωσης"
+      ],
+      "Day view": [
+        "Προβολή ημέρας"
+      ],
+      "Month view": [
+        "Προβολή μήνα"
+      ],
+      "Next period": [
+        "Επόμενη περιόδος"
+      ],
+      "Open quick actions menu": [
+        "Άνοιγμα μενού γρήγορων ενεργειών"
+      ],
+      "Open this modal": [
+        "Άνοιγμα αυτού του modal"
+      ],
+      "Previous period": [
+        "Προηγούμενη περιόδος"
+      ],
+      "Search events": [
+        "Αναζήτηση εκδηλώσεων"
+      ],
+      "Today": [
+        "Σήμερα"
+      ],
+      "Week view": [
+        "Προβολή εβδομάδας"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Βασικές ενέργειες"
+      ],
+      "View options": [
+        "Επιλογές προβολής"
       ]
     }
   }

@@ -2509,6 +2509,19 @@
       "time": [
         "volta",
         "volte"
+      ],
+      "Don't end": [
+        "Non termina"
+      ],
+      "End after": [
+        "Termina dopo"
+      ],
+      "End on": [
+        "Finisce il"
+      ],
+      "event": [
+        "evento",
+        "eventi"
       ]
     },
     "Cycle": {
@@ -3401,6 +3414,9 @@
       ],
       "Your import will not be processed.": [
         "La tua importazione non verrà elaborata."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } è il tuo nome utente. Per creare ${ emailAddress }, vai su Impostazioni > Identità e indirizzi > Dominio breve (pm.me)"
       ]
     },
     "Error accepting calendar invitation": {
@@ -3978,6 +3994,9 @@
       ],
       "Security Center": [
         "Centro sicurezza"
+      ],
+      "Repeat event": [
+        "Ripeti l'evento"
       ]
     },
     "Hint": {
@@ -5452,11 +5471,21 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Il fuso orario di sistema sembra essere cambiato a ${ timezone }. Vuoi aggiornare la tua preferenza di fuso orario?"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "Se le scorciatoie da tastiera sono abilitate, puoi utilizzare i seguenti tasti per azioni rapide o per passare a viste diverse. ${ metaKey } + K è sempre abilitato."
+      ],
+      "Open shortcut cheat sheet": [
+        "Apri le istruzioni per le scorciatoie"
       ]
     },
     "info": {
       "Selected color:": [
         "Colore selezionato:"
+      ],
+      "${ filteredList.length } command found.": [
+        "${ filteredList.length } comando trovato.",
+        "${ filteredList.length } comandi trovati."
       ]
     },
     "Info calendar search": {
@@ -5467,6 +5496,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Per favore contattaci a ${ email } per le istruzioni su come pagare in contanti."
+      ],
+      "How to send a cash payment?": [
+        "Come inviare un pagamento in contanti?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Puoi trovare le istruzioni nell'articolo: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info message": {
@@ -6009,6 +6044,18 @@
       ],
       "Your password (admin)": [
         "La tua password (admin)"
+      ],
+      "Every": [
+        "Ogni"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Scorciatoia da tastiera: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Scorciatoie da tastiera"
+      ],
+      "On": [
+        "Attivo"
       ]
     },
     "Label for contact group color": {
@@ -6494,6 +6541,9 @@
       ],
       "on the third Wednesday": [
         "il terzo Mercoledì"
+      ],
+      "on the ${ shortenedDay }": [
+        "il ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -7033,6 +7083,16 @@
       ],
       "Tor over VPN": [
         "Tor su VPN"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Server dedicati ottimizzati per lo streaming"
+      ],
+      "SSO integration": [
+        "Integrazione SSO"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Utilizza fino a ${ n } dispositivo per volta",
+        "Utilizza fino a ${ n } dispositivi per volta"
       ]
     },
     "new_plans: feature highlight": {
@@ -7674,6 +7734,45 @@
       ],
       "Save 80% on your first month.": [
         "Salva l'80% nel tuo primo mese."
+      ],
+      "Don’t show this offer again": [
+        "Non mostrare più questa offerta"
+      ],
+      "Last day to save": [
+        "Ultimo giorno per risparmiare"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus per 12 mesi"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "L'offerta scade il ${ formattedDate }."
+      ],
+      "Pay annually, secure our best offer": [
+        "Paga annualmente, assicurati la nostra migliore offerta"
+      ],
+      "Save": [
+        "Salva"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Risparmia il ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Risparmia di più pagando annualmente"
+      ],
+      "Special offer": [
+        "Offerta speciale"
+      ],
+      "This offer won't be shown again.": [
+        "Questa offerta non verrà più mostrata."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Quando si passa da un abbonamento mensile a uno annuale."
+      ],
+      "You currently pay": [
+        "Attualmente paghi"
+      ],
+      "Your subscription renews soon": [
+        "Il tuo abbonamento si rinnoverà presto"
       ]
     },
     "Offer feature": {
@@ -7799,6 +7898,18 @@
       "Year": [
         "Anno",
         "Anni"
+      ],
+      "Custom...": [
+        "Personalizzare..."
+      ],
+      "Every month ${ description }": [
+        "Ogni mese ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "Ogni settimana ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "Ogni giorno della settimana ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -8126,6 +8237,9 @@
       ],
       "Start typing an email address": [
         "Inizia a digitare un indirizzo email"
+      ],
+      "Filter quick actions": [
+        "Filtra le azioni rapide"
       ]
     },
     "Placeholder for contact group name": {
@@ -9489,6 +9603,9 @@
       ],
       "Event content search enabled": [
         "Ricerca nel contenuto dei eventi abilitata"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Preferenze scorciatoie da tastiera aggiornate"
       ]
     },
     "Suffix": {
@@ -10141,6 +10258,30 @@
       ],
       "Your shorter address is now ready": [
         "Il tuo indirizzo breve ora è pronto"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName } scorciatoie da tastiera"
+      ],
+      "Does not repeat": [
+        "Nessuna ripetizione"
+      ],
+      "Every day": [
+        "Ogni giorno"
+      ],
+      "Every month ${ option.text }": [
+        "Ogni mese ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "Ogni settimana il ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "Ogni giorno della settimana ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "Ogni anno"
+      ],
+      "Help center": [
+        "Centro assistenza"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10343,8 +10484,8 @@
         "Bitcoin via email"
       ],
       "${ n } ${ BRAND_NAME } email address": [
-        "${ n }indirizzo email ${ BRAND_NAME }",
-        "${ n }indirizzi email ${ BRAND_NAME }"
+        "${ n } indirizzo email ${ BRAND_NAME }",
+        "${ n } indirizzi email ${ BRAND_NAME }"
       ],
       "Bitcoin via Email": [
         "Bitcoin via email"
@@ -10460,6 +10601,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "La tua prova gratuita termina il ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "Non sono ammessi 2 punti consecutivi"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Non può contenere un punto all'inizio"
+      ],
+      "Cannot contain a dot at the end": [
+        "Non può contenere un punto alla fine"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Sono consentiti solo caratteri alfanumerici minuscoli, punti, trattini e caratteri di sottolineatura"
       ]
     },
     "Warning in modal to accept calendar invitation; Description": {
@@ -10858,6 +11011,77 @@
       ],
       "🎁 Your free gift to share, valued at ${ price }﻿: ": [
         "🎁 Il tuo regalo gratuito da condividere, del valore di ${ price }﻿: "
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "Cerca messaggi"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Vista giornaliera"
+      ],
+      "Month view": [
+        "Vista mensile"
+      ],
+      "New event": [
+        "Nuovo evento"
+      ],
+      "Next period": [
+        "Prossimo periodo"
+      ],
+      "Previous period": [
+        "Periodo precedente"
+      ],
+      "Search events": [
+        "Cerca eventi"
+      ],
+      "Today": [
+        "Oggi"
+      ],
+      "Week view": [
+        "Vista settimanale"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "Crea nuovo evento"
+      ],
+      "Day view": [
+        "Vista giornaliera"
+      ],
+      "Month view": [
+        "Vista mensile"
+      ],
+      "Next period": [
+        "Prossimo periodo"
+      ],
+      "Open quick actions menu": [
+        "Apri il menu delle azioni rapide"
+      ],
+      "Open this modal": [
+        "Apri questa finestra"
+      ],
+      "Previous period": [
+        "Periodo precedente"
+      ],
+      "Search events": [
+        "Cerca eventi"
+      ],
+      "Today": [
+        "Oggi"
+      ],
+      "Week view": [
+        "Vista settimanale"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Azioni di base"
+      ],
+      "View options": [
+        "Visualizza opzioni"
       ]
     }
   }

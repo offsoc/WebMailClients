@@ -2509,6 +2509,19 @@
       "time": [
         "vez",
         "vezes"
+      ],
+      "Don't end": [
+        "Não termina"
+      ],
+      "End after": [
+        "Termina depois de"
+      ],
+      "End on": [
+        "Termina em"
+      ],
+      "event": [
+        "evento",
+        "eventos"
       ]
     },
     "Cycle": {
@@ -3401,6 +3414,9 @@
       ],
       "Your import will not be processed.": [
         "Sua importação não será processada."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } é seu nome de usuário. Para criar um ${ emailAddress }, vá para Configurações > \nIdentidade e endereços > Domínio curto (pm.me)"
       ]
     },
     "Error accepting calendar invitation": {
@@ -3978,6 +3994,9 @@
       ],
       "Security Center": [
         "Central de segurança"
+      ],
+      "Repeat event": [
+        "Repetir o evento"
       ]
     },
     "Hint": {
@@ -5452,11 +5471,18 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "O fuso horário de seu sistema parece ter mudado para ${ timezone }. Você deseja atualizar suas preferências de fuso horário?"
+      ],
+      "Open shortcut cheat sheet": [
+        "Abrir o mapa de atalhos"
       ]
     },
     "info": {
       "Selected color:": [
         "Cor selecionada:"
+      ],
+      "${ filteredList.length } command found.": [
+        "${ filteredList.length } comando encontrado.",
+        "${ filteredList.length } comandos encontrados."
       ]
     },
     "Info calendar search": {
@@ -6009,6 +6035,18 @@
       ],
       "Your password (admin)": [
         "Sua senha (admin)"
+      ],
+      "Every": [
+        "A cada"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Atalho de teclado: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Atalhos do teclado"
+      ],
+      "On": [
+        "Ativado"
       ]
     },
     "Label for contact group color": {
@@ -6494,6 +6532,9 @@
       ],
       "on the third Wednesday": [
         "na terceira Quarta-feira"
+      ],
+      "on the ${ shortenedDay }": [
+        "no dia ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -7033,6 +7074,16 @@
       ],
       "Tor over VPN": [
         "Tor sobre VPN"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Servidores dedicados otimizados para streaming"
+      ],
+      "SSO integration": [
+        "Integração SSO"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Use até ${ n } dispositivo ao mesmo tempo",
+        "Use até ${ n } dispositivos ao mesmo tempo"
       ]
     },
     "new_plans: feature highlight": {
@@ -7674,6 +7725,33 @@
       ],
       "Save 80% on your first month.": [
         "Economize 80% no seu primeiro mês"
+      ],
+      "Don’t show this offer again": [
+        "Não mostrar mais esta oferta"
+      ],
+      "Last day to save": [
+        "Último dia para eocnomizar"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus por 12 meses"
+      ],
+      "Save": [
+        "Economize"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Economize ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Aproveite descontos incríveis ao pagar anualmente!"
+      ],
+      "This offer won't be shown again.": [
+        "Esta oferta não será exibida novamente."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Quando você muda de uma assinatura mensal para anual."
+      ],
+      "You currently pay": [
+        "Você paga atualmente"
       ]
     },
     "Offer feature": {
@@ -7799,6 +7877,9 @@
       "Year": [
         "Ano",
         "Anos"
+      ],
+      "Custom...": [
+        "Personalizada..."
       ]
     },
     "Option group label": {
@@ -8001,7 +8082,7 @@
     },
     "Payments.plan_name": {
       "Free": [
-        "Gratuito"
+        "Free"
       ]
     },
     "Payments.Sepa": {
@@ -8132,6 +8213,9 @@
       ],
       "Start typing an email address": [
         "Comece a digitar um endereço de e-mail"
+      ],
+      "Filter quick actions": [
+        "Filtrar as ações rápidas"
       ]
     },
     "Placeholder for contact group name": {
@@ -9495,6 +9579,9 @@
       ],
       "Event content search enabled": [
         "Pesquisa de conteúdo de evento ativada"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Preferências de atalhos de teclado atualizadas"
       ]
     },
     "Suffix": {
@@ -10147,6 +10234,21 @@
       ],
       "Your shorter address is now ready": [
         "Seu endereço mais curto já está pronto"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "Atalhos do teclado do ${ appName }"
+      ],
+      "Does not repeat": [
+        "Não repetir"
+      ],
+      "Every day": [
+        "Todos os dias"
+      ],
+      "Every year": [
+        "Anualmente"
+      ],
+      "Help center": [
+        "Central de ajuda"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10466,6 +10568,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Sua avaliação gratuita termina em ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "Não é permitido o uso de 2 pontos consecutivos."
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Não pode começar por um ponto."
+      ],
+      "Cannot contain a dot at the end": [
+        "Não pode conter um ponto no final."
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Só são permitidos caracteres alfanuméricos em minúsculas, pontos, hífenes e sublinhados"
       ]
     },
     "Warning in modal to accept calendar invitation; Description": {
@@ -10864,6 +10978,77 @@
       ],
       "🎁 Your free gift to share, valued at ${ price }﻿: ": [
         "🎁 Seu presente para compartilhar, no valor de ${ price }﻿: "
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "Pesquisar mensagens"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Visão diária"
+      ],
+      "Month view": [
+        "Visão mensal"
+      ],
+      "New event": [
+        "Novo evento"
+      ],
+      "Next period": [
+        "Próximo período"
+      ],
+      "Previous period": [
+        "Período anterior"
+      ],
+      "Search events": [
+        "Pesquisar eventos"
+      ],
+      "Today": [
+        "Hoje"
+      ],
+      "Week view": [
+        "Vista semanal"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "Criar um evento"
+      ],
+      "Day view": [
+        "Visualização diária"
+      ],
+      "Month view": [
+        "Visão mensal"
+      ],
+      "Next period": [
+        "Próximo período"
+      ],
+      "Open quick actions menu": [
+        "Abrir o menu de ações rápidas"
+      ],
+      "Open this modal": [
+        "Abrir esta janela"
+      ],
+      "Previous period": [
+        "Período anterior"
+      ],
+      "Search events": [
+        "Pesquisar eventos"
+      ],
+      "Today": [
+        "Hoje"
+      ],
+      "Week view": [
+        "Visão semanal"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Ações básicas"
+      ],
+      "View options": [
+        "Ver opções"
       ]
     }
   }

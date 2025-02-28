@@ -3823,6 +3823,12 @@
       ],
       "Your password (admin)": [
         "Vaša lozinka (administrator)"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Tipkovni prečac: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Tipkovni prečaci"
       ]
     },
     "Label for contact group color": {
@@ -5241,6 +5247,9 @@
       ],
       "You have successfully unsubscribed": [
         "Uspješno ste poništili pretplatu"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Postavke tipkovnih prečaca su ažurirane"
       ]
     },
     "Suffix": {
@@ -6157,6 +6166,21 @@
     "wallet_signup_2024:Bug category": {
       "Wallet problem": [
         "Problem s novčanikom"
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "Pretraži poruke"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Open this modal": [
+        "Otvori ovaj modal"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Osnovne radnje"
       ]
     }
   }

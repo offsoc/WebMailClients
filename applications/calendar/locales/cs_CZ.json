@@ -2541,6 +2541,21 @@
         "krát",
         "krát",
         "krát"
+      ],
+      "Don't end": [
+        "Neukončovat"
+      ],
+      "End after": [
+        "Ukončit po"
+      ],
+      "End on": [
+        "Ukončit v"
+      ],
+      "event": [
+        "událost",
+        "události",
+        "událostí",
+        "událostí"
       ]
     },
     "Cycle": {
@@ -3465,6 +3480,9 @@
       ],
       "Your import will not be processed.": [
         "Váš import nebude zpracován."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } je vaše uživatelské jméno. Pro vytvoření ${ emailAddress } jděte prosím do Nastavení > Identita a adresy > Krátká doména (pm.me)"
       ]
     },
     "Error accepting calendar invitation": {
@@ -4060,6 +4078,9 @@
       ],
       "Security Center": [
         "Bezpečnostní centrum"
+      ],
+      "Repeat event": [
+        "Opakovat událost"
       ]
     },
     "Hint": {
@@ -5610,11 +5631,23 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Zdá se, že se vaše systémové časové pásmo změnilo na ${ timezone }. Chcete aktualizovat nastavení časového pásma?"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "Pokud jsou povoleny klávesové zkratky, můžete pro rychlé akce nebo pro přechod do různých zobrazení použít následující klávesy. Zkratka ${ metaKey } + K je vždy povolena."
+      ],
+      "Open shortcut cheat sheet": [
+        "Otevření nápovědy pro klávesové zkratky"
       ]
     },
     "info": {
       "Selected color:": [
         "Vybraná barva:"
+      ],
+      "${ filteredList.length } command found.": [
+        "${ filteredList.length } příkaz nalezen.",
+        "${ filteredList.length } příkazy nalezeny.",
+        "${ filteredList.length } příkazů nalezeno.",
+        "${ filteredList.length } příkazů nalezeno."
       ]
     },
     "Info calendar search": {
@@ -5625,6 +5658,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Prosíme kontaktujte nás na ${ email } pro více informací, jak zaplatit v hotovosti."
+      ],
+      "How to send a cash payment?": [
+        "Jak poslat platbu v hotovosti?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Pokyny naleznete v článku: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info message": {
@@ -6174,6 +6213,18 @@
       ],
       "Your password (admin)": [
         "Vaše heslo (admin)"
+      ],
+      "Every": [
+        "Každý"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Klávesová zkratka: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Klávesové zkratky"
+      ],
+      "On": [
+        "Zap."
       ]
     },
     "Label for contact group color": {
@@ -6675,6 +6726,9 @@
       ],
       "on the third Wednesday": [
         "třetí středu"
+      ],
+      "on the ${ shortenedDay }": [
+        "${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -7258,6 +7312,18 @@
       ],
       "Tor over VPN": [
         "TOR skrze VPN"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Dedikované servery optimalizované pro streamování"
+      ],
+      "SSO integration": [
+        "Integrace SSO"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Používejte na ${ n } zařízení",
+        "Používejte až na ${ n } zařízeních najednou",
+        "Používejte až na ${ n } zařízeních najednou",
+        "Používejte až na ${ n } zařízeních najednou"
       ]
     },
     "new_plans: feature highlight": {
@@ -7944,6 +8010,45 @@
       ],
       "Save 80% on your first month.": [
         "Ušetřete 80% za první měsíc."
+      ],
+      "Don’t show this offer again": [
+        "Tuto nabídku již nezobrazovat"
+      ],
+      "Last day to save": [
+        "Poslední den, kdy můžete ušetřit"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus na 12 měsíců"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "Nabídka vyprší ${ formattedDate }"
+      ],
+      "Pay annually, secure our best offer": [
+        "Plaťte ročně, zajistěte si naši nejlepší nabídku"
+      ],
+      "Save": [
+        "Ušetřete"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Ušetřete ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Při roční platbě můžete výrazně ušetřit"
+      ],
+      "Special offer": [
+        "Speciální nabídka"
+      ],
+      "This offer won't be shown again.": [
+        "Tato nabídka se již nezobrazí."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Při přechodu z měsíčního na roční předplatné."
+      ],
+      "You currently pay": [
+        "V současnosti platíte"
+      ],
+      "Your subscription renews soon": [
+        "Vaše předplatné se brzy obnoví"
       ]
     },
     "Offer feature": {
@@ -8077,6 +8182,18 @@
         "Roky",
         "Let",
         "Let"
+      ],
+      "Custom...": [
+        "Vlastní..."
+      ],
+      "Every month ${ description }": [
+        "Každý měsíc ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "Každý týden ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "Každý den v týdnu ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -8413,6 +8530,9 @@
       ],
       "Start typing an email address": [
         "Začněte psát e-mailovou adresu"
+      ],
+      "Filter quick actions": [
+        "Filtrování rychlých akcí"
       ]
     },
     "Placeholder for contact group name": {
@@ -9848,6 +9968,9 @@
       ],
       "Event content search enabled": [
         "Vyhledávání v obsahu události povoleno"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Nastavení klávesových zkratek upraveno"
       ]
     },
     "Suffix": {
@@ -10522,6 +10645,30 @@
       ],
       "Your shorter address is now ready": [
         "Vaše kratší adresa je nyní připravena"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName } klávesové zkratky"
+      ],
+      "Does not repeat": [
+        "Neopakovat"
+      ],
+      "Every day": [
+        "Každý den"
+      ],
+      "Every month ${ option.text }": [
+        "Každý měsíc ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "Každý týden v(e) ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "Každý den v týdnu ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "Každý rok"
+      ],
+      "Help center": [
+        "Centrum podpory"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10867,6 +11014,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Bezplatná zkušební verze končí ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "2 po sobě jdoucí tečky nejsou povoleny"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Na začátku nesmí být tečka"
+      ],
+      "Cannot contain a dot at the end": [
+        "Na konci nesmí být tečka"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Povoleny jsou pouze alfanumerické malé znaky, tečky, pomlčky a podtržítka"
       ]
     },
     "Warning in modal to accept calendar invitation; Description": {
@@ -11202,6 +11361,77 @@
       ],
       "Passcode:": [
         "Přístupový kód:"
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "Prohledat zprávy"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Denní přehled"
+      ],
+      "Month view": [
+        "Měsíční přehled"
+      ],
+      "New event": [
+        "Nová událost"
+      ],
+      "Next period": [
+        "Další období"
+      ],
+      "Previous period": [
+        "Předchozí období"
+      ],
+      "Search events": [
+        "Hledat události"
+      ],
+      "Today": [
+        "Dnes"
+      ],
+      "Week view": [
+        "Týdenní přehled"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "Vytvořit novou událost"
+      ],
+      "Day view": [
+        "Denní přehled"
+      ],
+      "Month view": [
+        "Měsíční přehled"
+      ],
+      "Next period": [
+        "Další období"
+      ],
+      "Open quick actions menu": [
+        "Otevřít nabídku rychlých akcí"
+      ],
+      "Open this modal": [
+        "Otevřít tuto nápovědu"
+      ],
+      "Previous period": [
+        "Předchozí období"
+      ],
+      "Search events": [
+        "Hledat události"
+      ],
+      "Today": [
+        "Dnes"
+      ],
+      "Week view": [
+        "Týdenní přehled"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Základní akce"
+      ],
+      "View options": [
+        "Zobrazit možnosti"
       ]
     }
   }

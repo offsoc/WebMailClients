@@ -5529,11 +5529,20 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Схоже, системний часовий пояс змінено на ${ timezone }. Хочете оновити налаштування часового поясу?"
+      ],
+      "Open shortcut cheat sheet": [
+        "Відкрити довідку з комбінацій клавіш"
       ]
     },
     "info": {
       "Selected color:": [
         "Вибраний колір:"
+      ],
+      "${ filteredList.length } command found.": [
+        "Знайдено ${ filteredList.length } команду.",
+        "Знайдено ${ filteredList.length } команди.",
+        "Знайдено ${ filteredList.length } команд.",
+        "Знайдено ${ filteredList.length } команд."
       ]
     },
     "Info calendar search": {
@@ -6087,6 +6096,12 @@
       ],
       "Your password (admin)": [
         "Новий пароль (адмін)"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Комбінація клавіш: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Комбінації клавіш"
       ]
     },
     "Label for contact group color": {
@@ -9651,6 +9666,9 @@
       ],
       "You have successfully unsubscribed": [
         "Ви успішно скасували передплату"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Налаштування комбінацій клавіш оновлено"
       ]
     },
     "Suffix": {
@@ -10981,6 +10999,21 @@
     "wallet_signup_2024:app-switcher": {
       "A safer way to hold Bitcoin": [
         "Безпечніший спосіб зберігання Bitcoin"
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "Пошук повідомлень"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Open this modal": [
+        "Відкрити це вікно"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Основні дії"
       ]
     }
   }

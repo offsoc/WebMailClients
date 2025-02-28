@@ -2509,6 +2509,19 @@
       "time": [
         "fois",
         "fois"
+      ],
+      "Don't end": [
+        "Sans fin"
+      ],
+      "End after": [
+        "Se termine après"
+      ],
+      "End on": [
+        "Termine le"
+      ],
+      "event": [
+        "événement",
+        "événements"
       ]
     },
     "Cycle": {
@@ -3401,6 +3414,9 @@
       ],
       "Your import will not be processed.": [
         "Votre importation ne sera pas traitée."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } est votre nom d'utilisateur. Pour créer ${ emailAddress }, dirigez-vous vers Paramètres > Identités et adresses > Domaine court (pm.me)."
       ]
     },
     "Error accepting calendar invitation": {
@@ -3978,6 +3994,9 @@
       ],
       "Security Center": [
         "Centre de sécurité"
+      ],
+      "Repeat event": [
+        "Répéter l'événement"
       ]
     },
     "Hint": {
@@ -5452,11 +5471,21 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Le fuseau horaire de votre système semble avoir changé pour ${ timezone }. Voulez-vous mettre à jour votre préférence de fuseau horaire ?"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "Si les raccourcis clavier sont activés, vous pouvez utiliser les touches suivantes pour des actions rapides ou pour accéder à différentes vues. Le raccourci ${ metaKey } + K est toujours activé."
+      ],
+      "Open shortcut cheat sheet": [
+        "Ouvrir l'aide-mémoire des raccourcis"
       ]
     },
     "info": {
       "Selected color:": [
         "Couleur sélectionnée :"
+      ],
+      "${ filteredList.length } command found.": [
+        "${ filteredList.length } commande trouvée.",
+        "${ filteredList.length } commandes trouvées."
       ]
     },
     "Info calendar search": {
@@ -5467,6 +5496,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Veuillez nous contacter via ${ email } pour recevoir des instructions concernant la procédure de règlement en espèces."
+      ],
+      "How to send a cash payment?": [
+        "Comment envoyer un paiement en espèces ?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Veuillez trouver les instructions dans cet article : ${ howToSendCashArticleUrl }"
       ]
     },
     "Info message": {
@@ -6009,6 +6044,18 @@
       ],
       "Your password (admin)": [
         "Votre mot de passe (admin)"
+      ],
+      "Every": [
+        "Chaque"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Raccourci clavier : ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Raccourcis clavier"
+      ],
+      "On": [
+        "Activé"
       ]
     },
     "Label for contact group color": {
@@ -6494,6 +6541,9 @@
       ],
       "on the third Wednesday": [
         "chaque troisième mercredi"
+      ],
+      "on the ${ shortenedDay }": [
+        "le ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -7033,6 +7083,16 @@
       ],
       "Tor over VPN": [
         "Tor via VPN"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Serveurs dédiés optimisés pour le streaming"
+      ],
+      "SSO integration": [
+        "Authentification unique (SSO) intégrée"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Utiliser sur jusqu'à ${ n } appareil à la fois",
+        "Utiliser sur jusqu'à ${ n } appareils à la fois"
       ]
     },
     "new_plans: feature highlight": {
@@ -7669,6 +7729,45 @@
       ],
       "Save 80% on your first month.": [
         "Économisez 80 % sur votre premier mois"
+      ],
+      "Don’t show this offer again": [
+        "Ne plus montrer cette offre"
+      ],
+      "Last day to save": [
+        "Dernier jour pour réaliser des économies"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus pour 12 mois"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "L'offre arrive à expiration le ${ formattedDate }."
+      ],
+      "Pay annually, secure our best offer": [
+        "Payez à l'année et assurez-vous de bénéficier de notre meilleure offre."
+      ],
+      "Save": [
+        "Économisez"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Économisez ${ prices.savedPercentage } %"
+      ],
+      "Save big when you pay annually": [
+        "Économisez un maximum en optant pour le paiement annuel !"
+      ],
+      "Special offer": [
+        "Offre spéciale"
+      ],
+      "This offer won't be shown again.": [
+        "Cette offre ne sera plus affichée."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Lorsque vous passez d'un abonnement mensuel à un abonnement annuel."
+      ],
+      "You currently pay": [
+        "Vous payez actuellement"
+      ],
+      "Your subscription renews soon": [
+        "Votre abonnement se renouvelle bientôt."
       ]
     },
     "Offer feature": {
@@ -7794,6 +7893,18 @@
       "Year": [
         "Année",
         "Années"
+      ],
+      "Custom...": [
+        "Personnaliser..."
+      ],
+      "Every month ${ description }": [
+        "Chaque mois ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "Chaque semaine ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "Chaque jour de la semaine ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -7905,7 +8016,7 @@
     },
     "Payments": {
       "Billing Country": [
-        "Pays de facturation"
+        "Pays de facturation "
       ],
       "Card number": [
         "Numéro de la carte"
@@ -8121,6 +8232,9 @@
       ],
       "Start typing an email address": [
         "Commencez à saisir une adresse e-mail."
+      ],
+      "Filter quick actions": [
+        "Filtrer les actions rapides"
       ]
     },
     "Placeholder for contact group name": {
@@ -8656,7 +8770,7 @@
         "Passez à Premium"
       ],
       "Upgrade for ${ pricingTitle }": [
-        "Passez à un abonnement supérieur pour ${ pricingTitle }"
+        "Changez d'abonnement pour ${ pricingTitle }"
       ]
     },
     "specialoffer: Offers": {
@@ -9484,6 +9598,9 @@
       ],
       "Event content search enabled": [
         "La recherche dans le contenu des événements a été activée."
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Les préférences des raccourcis clavier ont été mises à jour."
       ]
     },
     "Suffix": {
@@ -10136,6 +10253,30 @@
       ],
       "Your shorter address is now ready": [
         "Votre adresse au format plus court est maintenant prête."
+      ],
+      "${ appName } keyboard shortcuts": [
+        "Raccourcis clavier ${ appName }"
+      ],
+      "Does not repeat": [
+        "Ne pas répéter"
+      ],
+      "Every day": [
+        "Chaque jour"
+      ],
+      "Every month ${ option.text }": [
+        "Chaque mois ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "Chaque semaine le ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "Chaque jour de la semaine ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "Chaque année"
+      ],
+      "Help center": [
+        "Aide & Support"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10455,6 +10596,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Votre essai gratuit se termine le ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "L'usage de 2 points consécutifs n'est pas autorisé."
+      ],
+      "Cannot contain a dot at the beginning": [
+        "L'entrée ne peut pas commencer par un point."
+      ],
+      "Cannot contain a dot at the end": [
+        "L'entrée ne peut pas terminer par un point."
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Seuls les caractères alphanumériques en minuscule, les points et les tirets (dont le tiret bas/underscore) sont autorisés."
       ]
     },
     "Warning in modal to accept calendar invitation; Description": {
@@ -10853,6 +11006,77 @@
       ],
       "🎁 Your free gift to share, valued at ${ price }﻿: ": [
         "🎁 Votre cadeau gratuit à partager, d'une valeur de ${ price } : "
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "Rechercher des messages"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Vue de la journée"
+      ],
+      "Month view": [
+        "Vue du mois"
+      ],
+      "New event": [
+        "Nouvel événement"
+      ],
+      "Next period": [
+        "Période suivante"
+      ],
+      "Previous period": [
+        "Période précédente"
+      ],
+      "Search events": [
+        "Recherche d'événements"
+      ],
+      "Today": [
+        "Aujourd'hui"
+      ],
+      "Week view": [
+        "Vue de la semaine"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "Créer un événement"
+      ],
+      "Day view": [
+        "Vue de la journée"
+      ],
+      "Month view": [
+        "Vue du mois"
+      ],
+      "Next period": [
+        "Période suivante"
+      ],
+      "Open quick actions menu": [
+        "Ouvrir le menu des actions rapides"
+      ],
+      "Open this modal": [
+        "Ouvrir cette fenêtre"
+      ],
+      "Previous period": [
+        "Période précédente"
+      ],
+      "Search events": [
+        "Recherche d'événements"
+      ],
+      "Today": [
+        "Aujourd’hui"
+      ],
+      "Week view": [
+        "Vue de la semaine"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Actions basiques"
+      ],
+      "View options": [
+        "Afficher les options"
       ]
     }
   }

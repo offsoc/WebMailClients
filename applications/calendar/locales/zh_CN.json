@@ -663,7 +663,7 @@
         "显示时区"
       ],
       "Sign out": [
-        "退出"
+        "登出"
       ],
       "Sign out of all accounts": [
         "退出所有账户"
@@ -2493,6 +2493,18 @@
       ],
       "time": [
         "次"
+      ],
+      "Don't end": [
+        "不结束"
+      ],
+      "End after": [
+        "结束于"
+      ],
+      "End on": [
+        "结束于"
+      ],
+      "event": [
+        "事件"
       ]
     },
     "Cycle": {
@@ -3369,6 +3381,9 @@
       ],
       "Your import will not be processed.": [
         "此次导入将不会进行。"
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } 是您的用户名。要创建 ${ emailAddress }，请进入设置 > 身份和地址 > 短域 (pm.me)"
       ]
     },
     "Error accepting calendar invitation": {
@@ -3937,6 +3952,9 @@
       ],
       "Security Center": [
         "安全中心"
+      ],
+      "Repeat event": [
+        "重复事件"
       ]
     },
     "Hint": {
@@ -4559,7 +4577,7 @@
         "专用服务器"
       ],
       "default email address": [
-        "首选邮件地址"
+        "首选邮箱地址"
       ],
       "Deleting event...": [
         "正在删除事件..."
@@ -4616,7 +4634,7 @@
         "自动对邮件进行数字签名"
       ],
       "Emails moved to Trash and Spam more than 30 days ago will be cleared automatically.": [
-        "超过 30 天前移至废件箱和垃圾邮件的电子邮件将自动清除。"
+        "超过 30 天前移至回收站和垃圾邮件的电子邮件将自动清除。"
       ],
       "Enabling auto-deletion…": [
         "正在启用自动删除…"
@@ -4796,7 +4814,7 @@
         "已合并"
       ],
       "Messages to all your email addresses will go to your inbox.": [
-        "发送到您所有电子邮件地址的信息将全部转至您的收件箱。"
+        "发送到您所有邮箱地址的信息将全部转至您的收件箱。"
       ],
       "MM/YY": [
         "月/年"
@@ -5373,11 +5391,20 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "您的系统时区似乎已更改为 ${ timezone }。您想要更新您的时区偏好吗？"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "如果启用了键盘快捷键，可以使用以下按键进行快速操作或跳转到不同视图。${ metaKey } + K 始终处于启用状态。"
+      ],
+      "Open shortcut cheat sheet": [
+        "打开快捷键列表"
       ]
     },
     "info": {
       "Selected color:": [
         "所选颜色"
+      ],
+      "${ filteredList.length } command found.": [
+        "找到 ${ filteredList.length } 条命令。"
       ]
     },
     "Info calendar search": {
@@ -5388,6 +5415,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "请联系 ${ email } 了解如何使用现金支付。"
+      ],
+      "How to send a cash payment?": [
+        "如何进行现金支付？"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "请参阅文章中的说明：${ howToSendCashArticleUrl }"
       ]
     },
     "Info message": {
@@ -5922,6 +5955,18 @@
       ],
       "Your password (admin)": [
         "您的密码(管理员)"
+      ],
+      "Every": [
+        "每个"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "快捷键：${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "开启快捷键"
+      ],
+      "On": [
+        "在"
       ]
     },
     "Label for contact group color": {
@@ -6050,7 +6095,7 @@
         "安全上网"
       ],
       "Trash": [
-        "废件箱"
+        "回收站"
       ],
       "What’s this?": [
         "这是什么？"
@@ -6399,6 +6444,9 @@
       ],
       "on the third Wednesday": [
         "第三个星期三"
+      ],
+      "on the ${ shortenedDay }": [
+        "在 ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -6600,10 +6648,10 @@
         "一次轻松订阅，享受所有高级 ${ BRAND_NAME } 服务"
       ],
       "Auto-delete Spam and Trash": [
-        "自动清理垃圾邮件和废件箱"
+        "自动清理垃圾邮件和回收站"
       ],
       "Auto-delete spam and trashed messages": [
-        "自动删除垃圾邮件和废件箱中邮件"
+        "自动删除垃圾邮件和回收站中邮件"
       ],
       "Auto-reply": [
         "自动回复"
@@ -6916,6 +6964,15 @@
       ],
       "Tor over VPN": [
         "经 Tor 连接 VPN"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "专为流媒体优化的专用服务器"
+      ],
+      "SSO integration": [
+        "SSO 集成"
+      ],
+      "Use on up to ${ n } device at once": [
+        "最多可同时在 ${ n } 台设备上使用"
       ]
     },
     "new_plans: feature highlight": {
@@ -7040,6 +7097,12 @@
       ],
       "Unlock all ${ BRAND_NAME } premium products and features for just ${ priceMailPlus }. Cancel anytime.": [
         "只需 ${ priceMailPlus } 即可解锁所有 ${ BRAND_NAME } 高级产品和功能。可随时取消。"
+      ],
+      "The discounted price of ${ priceCoupon } is valid for the first month. Then it will automatically be renewed at ${ priceLine }. You can cancel at any time.": [
+        "${ priceCoupon } 折扣价的有效期仅限第一个月。之后将以 ${ priceLine } 的价格自动续订。您可以随时取消。"
+      ],
+      "Unlock all ${ BRAND_NAME } premium products and features for just ${ priceLine }. Cancel anytime.": [
+        "只需 ${ priceLine } 即可解锁所有 ${ BRAND_NAME } 高级产品和功能。随时取消。"
       ]
     },
     "new_plans: title": {
@@ -7085,7 +7148,7 @@
         "可对收到的邮件自动予以回复"
       ],
       "Automatically clear out messages older than 30 days from Trash and Spam": [
-        "垃圾邮件和废件箱中的邮件超过 30 天自动删除"
+        "垃圾邮件和回收站中的邮件超过 30 天自动删除"
       ],
       "Automatically forward emails sent to your ${ MAIL_APP_NAME } account to any other email address.": [
         "将您的 ${ MAIL_APP_NAME } 账户收到的邮件自动转发至其他邮箱。"
@@ -7521,6 +7584,42 @@
       ],
       "Save 80% on your first month.": [
         "第一个月可节省 80% 的费用。"
+      ],
+      "Don’t show this offer again": [
+        "不再显示此优惠"
+      ],
+      "Last day to save": [
+        "保存的最后日期"
+      ],
+      "Mail Plus for 12 months": [
+        "12 个月的 Mail Plus"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "优惠有效期至 ${ formattedDate }"
+      ],
+      "Pay annually, secure our best offer": [
+        "按年支付，确保我们的最佳优惠"
+      ],
+      "Save": [
+        "节省"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "节省 ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "按年付费可节省大量费用"
+      ],
+      "This offer won't be shown again.": [
+        "此优惠不再显示。"
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "当您从每月订阅切换到年度订阅时。"
+      ],
+      "You currently pay": [
+        "您目前支付"
+      ],
+      "Your subscription renews soon": [
+        "您的订阅即将续订"
       ]
     },
     "Offer feature": {
@@ -7642,6 +7741,18 @@
       ],
       "Year": [
         "年"
+      ],
+      "Custom...": [
+        "自定义..."
+      ],
+      "Every month ${ description }": [
+        "每月 ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "每周 ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "每个工作日 ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -7966,6 +8077,9 @@
       ],
       "Start typing an email address": [
         "请输入邮箱地址"
+      ],
+      "Filter quick actions": [
+        "过滤快捷操作"
       ]
     },
     "Placeholder for contact group name": {
@@ -8101,7 +8215,7 @@
         "用于 Amazon 购物等等"
       ],
       "When asked for your email address, give this alias instead. Aliases are provided by ${ passLink }.": [
-        "当网站要求您输入电子邮件地址时，请用这个别名代替。别名由 ${ passLink }提供。"
+        "当网站要求您输入电子邮件地址时，请用这个别名代替。别名由 ${ passLink } 提供。"
       ]
     },
     "Security Center (link to Pass App)": {
@@ -8292,7 +8406,7 @@
     },
     "session_recovery:sign_out:action": {
       "Sign out": [
-        "退出"
+        "登出"
       ],
       "Stay signed in": [
         "保持登录"
@@ -8306,10 +8420,10 @@
         "${ passwordReset }现已可用。"
       ],
       "If you sign out before you reset your password, you could lose access to your account.": [
-        "如果您在重置密码完成之前退出，您可能会失去对账户的访问权限。"
+        "如果您在重置密码完成之前登出，您可能会失去对账户的访问权限。"
       ],
       "If you sign out without resetting your password, you could lose access to your account.": [
-        "如果您未重置密码就退出，您可能会失去对账户的访问权限。"
+        "如果您未重置密码就登出，您可能会失去对账户的访问权限。"
       ],
       "You will be able to reset your password in ${ boldTimeLeft }.": [
         "您可以在${ boldTimeLeft }之内重置密码。"
@@ -8322,7 +8436,7 @@
     },
     "session_recovery:sign_out:title": {
       "Sign out without password reset?": [
-        "退出而不重置密码？"
+        "登出而不重置密码？"
       ]
     },
     "Settings update growler warning": {
@@ -9293,6 +9407,9 @@
       ],
       "Event content search enabled": [
         "已启用事件内容搜索"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "快捷键设置已更改"
       ]
     },
     "Suffix": {
@@ -9864,7 +9981,7 @@
         "登录并授予权限"
       ],
       "Sign out": [
-        "退出"
+        "登出"
       ],
       "Start a new import": [
         "开始导入"
@@ -9934,6 +10051,30 @@
       ],
       "Your shorter address is now ready": [
         "您的较短地址现已准备就绪"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName } 快捷键"
+      ],
+      "Does not repeat": [
+        "不重复"
+      ],
+      "Every day": [
+        "每天"
+      ],
+      "Every month ${ option.text }": [
+        "每月 ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "每周在 ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "每个工作日 ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "每年"
+      ],
+      "Help center": [
+        "帮助中心"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10125,7 +10266,7 @@
         "通过电子邮件接收比特币"
       ],
       "${ n } ${ BRAND_NAME } email address": [
-        "${ n } ${ BRAND_NAME } 电子邮箱地址"
+        "${ n } 个 ${ BRAND_NAME } 邮箱地址"
       ],
       "Bitcoin via Email": [
         "通过电子邮件获取比特币"
@@ -10240,6 +10381,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "您的免费体验期将于 ${ textDate } 结束。${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "不允许出现 2 个连续的点"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "开头不能包含点"
+      ],
+      "Cannot contain a dot at the end": [
+        "末尾不能包含点"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "只允许使用字母数字小写字符、点、连字符和下划线"
       ]
     },
     "Warning in modal to accept calendar invitation; Description": {
@@ -10485,6 +10638,77 @@
       ],
       "Passcode:": [
         "密码："
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "搜索邮件"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "日视图"
+      ],
+      "Month view": [
+        "月视图"
+      ],
+      "New event": [
+        "新事件"
+      ],
+      "Next period": [
+        "下个周期"
+      ],
+      "Previous period": [
+        "上个周期"
+      ],
+      "Search events": [
+        "搜索事件"
+      ],
+      "Today": [
+        "今天"
+      ],
+      "Week view": [
+        "周视图"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "创建新事件"
+      ],
+      "Day view": [
+        "日视图"
+      ],
+      "Month view": [
+        "月视图"
+      ],
+      "Next period": [
+        "下个周期"
+      ],
+      "Open quick actions menu": [
+        "打开快捷操作菜单"
+      ],
+      "Open this modal": [
+        "打开此面板"
+      ],
+      "Previous period": [
+        "上个周期"
+      ],
+      "Search events": [
+        "搜索事件"
+      ],
+      "Today": [
+        "今天"
+      ],
+      "Week view": [
+        "周视图"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "基本操作"
+      ],
+      "View options": [
+        "查看选项"
       ]
     }
   }

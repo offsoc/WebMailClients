@@ -4097,6 +4097,9 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Izḍi usrid n unagraw-inek·inem yettban yettusenfel ɣer ${ timezone }. Tebɣiḍ ad tleqqmeḍ asmenyif-inek·inem n yizḍi usrid?"
+      ],
+      "Open shortcut cheat sheet": [
+        "Ldi tiferkit n tkatut n yinegzumen"
       ]
     },
     "Info for cash payment method": {
@@ -4560,6 +4563,12 @@
       ],
       "Your password (admin)": [
         "Awal-ik uffir (anedbal)"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Anezgum n unasiw: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Inegzumen n unasiw"
       ]
     },
     "Label for contact group color": {
@@ -6285,6 +6294,9 @@
       ],
       "You have successfully unsubscribed": [
         "Teffɣeḍ seg ujerred akken iwata"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Ismenyifen n yinegzumen n unasiw ttwaleqqmen"
       ]
     },
     "Suffix": {
@@ -7322,6 +7334,21 @@
     "wallet_signup_2024:Bug category": {
       "Wallet problem": [
         "Ugur n tikkelt"
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "Nadi iznan"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Open this modal": [
+        "Ldi modal-agi"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Tigawin tizadurin"
       ]
     }
   }

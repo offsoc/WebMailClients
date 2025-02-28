@@ -2493,6 +2493,18 @@
       ],
       "time": [
         "kali"
+      ],
+      "Don't end": [
+        "Jangan akhiri"
+      ],
+      "End after": [
+        "Akhiri setelah"
+      ],
+      "End on": [
+        "Akhiri pada"
+      ],
+      "event": [
+        "acara"
       ]
     },
     "Cycle": {
@@ -3369,6 +3381,9 @@
       ],
       "Your import will not be processed.": [
         "Impor Anda tidak akan diproses."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } merupakan nama pengguna Anda. Untuk membuat ${ emailAddress }, silakan tuju Pengaturan > Identitas dan alamat > Domain pendek (pm.me)"
       ]
     },
     "Error accepting calendar invitation": {
@@ -3937,6 +3952,9 @@
       ],
       "Security Center": [
         "Pusat Keamanan"
+      ],
+      "Repeat event": [
+        "Ulangi acara"
       ]
     },
     "Hint": {
@@ -5373,11 +5391,20 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Zona waktu sistem Anda sepertinya telah diubah menjadi ${ timezone }. Apakah Anda ingin memperbarui preferensi zona waktu Anda?"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "Jika pintasan keyboard diaktifkan, Anda dapat menggunakan tombol-tombol berikut untuk tindakan cepat atau menuju tampilan berbeda. ${ metaKey } + K selalu diaktifkan."
+      ],
+      "Open shortcut cheat sheet": [
+        "Buka lembar contekan pintasan"
       ]
     },
     "info": {
       "Selected color:": [
         "Warna terpilih:"
+      ],
+      "${ filteredList.length } command found.": [
+        "${ filteredList.length } perintah ditemukan."
       ]
     },
     "Info calendar search": {
@@ -5388,6 +5415,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Silakan hubungi kami di ${ email } untuk intruksi cara membayar dengan tunai."
+      ],
+      "How to send a cash payment?": [
+        "Bagaimana cara mengirim pembayaran tunai?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Silakan ikuti instruksi yang tertera pada artikel berikut: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info message": {
@@ -5922,6 +5955,18 @@
       ],
       "Your password (admin)": [
         "Kata sandi Anda (admin)"
+      ],
+      "Every": [
+        "Setiap"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Pintasan keyboard: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Pintasan keyboard"
+      ],
+      "On": [
+        "Aktif"
       ]
     },
     "Label for contact group color": {
@@ -6399,6 +6444,9 @@
       ],
       "on the third Wednesday": [
         "pada hari Rabu ketiga"
+      ],
+      "on the ${ shortenedDay }": [
+        "pada ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -6916,6 +6964,15 @@
       ],
       "Tor over VPN": [
         "Tor via VPN"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Server khusus yang dioptimalkan untuk streaming"
+      ],
+      "SSO integration": [
+        "Integrasi SSO"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Gunakan pada hingga ${ n } perangkat secara bersamaan"
       ]
     },
     "new_plans: feature highlight": {
@@ -7527,6 +7584,45 @@
       ],
       "Save 80% on your first month.": [
         "Hemat 80% pada bulan pertama Anda."
+      ],
+      "Don’t show this offer again": [
+        "Jangan tampilkan penawaran ini lagi"
+      ],
+      "Last day to save": [
+        "Hari terakhir untuk menghemat"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus selama 12 bulan"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "Penawaran akan berakhir pada ${ formattedDate }."
+      ],
+      "Pay annually, secure our best offer": [
+        "Bayar per tahun, kantongi penawaran terbaik kami"
+      ],
+      "Save": [
+        "Simpan"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Hemat ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Hemat besar-besaran pada saat Anda membayar secara tahunan"
+      ],
+      "Special offer": [
+        "Penawaran spesial"
+      ],
+      "This offer won't be shown again.": [
+        "Penawaran ini tidak akan lagi ditampilkan."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Pada saat Anda beralih dari langganan bulanan ke langganan tahunan."
+      ],
+      "You currently pay": [
+        "Anda saat ini membayar"
+      ],
+      "Your subscription renews soon": [
+        "Langganan Anda akan segera diperbarui"
       ]
     },
     "Offer feature": {
@@ -7648,6 +7744,18 @@
       ],
       "Year": [
         "Tahun"
+      ],
+      "Custom...": [
+        "Sesuaikan..."
+      ],
+      "Every month ${ description }": [
+        "Setiap bulan ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "Setiap minggu ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "Setiap hari ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -7972,6 +8080,9 @@
       ],
       "Start typing an email address": [
         "Mulai ketik alamat email"
+      ],
+      "Filter quick actions": [
+        "Filter tindakan cepat"
       ]
     },
     "Placeholder for contact group name": {
@@ -9299,6 +9410,9 @@
       ],
       "Event content search enabled": [
         "Pencarian konten acara diaktifkan"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Preferensi pintasan keyboard diperbarui"
       ]
     },
     "Suffix": {
@@ -9940,6 +10054,30 @@
       ],
       "Your shorter address is now ready": [
         "Alamat lebih pendek Anda sudah siap"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "Pintasan keyboard ${ appName }"
+      ],
+      "Does not repeat": [
+        "Tidak berulang"
+      ],
+      "Every day": [
+        "Setiap hari"
+      ],
+      "Every month ${ option.text }": [
+        "Setiap bulan ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "Setiap minggu pada ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "Setiap hari ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "Setiap tahun"
+      ],
+      "Help center": [
+        "Pusat bantuan"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10246,6 +10384,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Masa uji coba gratis Anda akan berakhir pada ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "Alias tidak dapat mengandung 2 titik secara berurutan"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Alias tidak dapat dimulai dengan titik"
+      ],
+      "Cannot contain a dot at the end": [
+        "Alias tidak dapat diakhiri dengan titik"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Alias hanya dapat mengandung karakter alfanumerik yang ditulis dalam huruf kecil, titik, tanda hubung, dan garis bawah"
       ]
     },
     "Warning in modal to accept calendar invitation; Description": {
@@ -10491,6 +10641,77 @@
       ],
       "Passcode:": [
         "Kode sandi:"
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "Cari pesan"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Tampilan hari"
+      ],
+      "Month view": [
+        "Tampilan bulan"
+      ],
+      "New event": [
+        "Acara baru"
+      ],
+      "Next period": [
+        "Periode berikutnya"
+      ],
+      "Previous period": [
+        "Periode sebelumnya"
+      ],
+      "Search events": [
+        "Cari acara"
+      ],
+      "Today": [
+        "Hari ini"
+      ],
+      "Week view": [
+        "Tampilan minggu"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "Buat acara baru"
+      ],
+      "Day view": [
+        "Tampilan hari"
+      ],
+      "Month view": [
+        "Tampilan bulan"
+      ],
+      "Next period": [
+        "Periode berikutnya"
+      ],
+      "Open quick actions menu": [
+        "Buka menu tindakan cepat"
+      ],
+      "Open this modal": [
+        "Buka jendela ini"
+      ],
+      "Previous period": [
+        "Periode sebelumnya"
+      ],
+      "Search events": [
+        "Cari acara"
+      ],
+      "Today": [
+        "Hari ini"
+      ],
+      "Week view": [
+        "Tampilan minggu"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Tindakan dasar"
+      ],
+      "View options": [
+        "Lihat opsi"
       ]
     }
   }

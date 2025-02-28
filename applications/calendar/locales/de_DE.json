@@ -2509,6 +2509,19 @@
       "time": [
         "mal",
         "mal"
+      ],
+      "Don't end": [
+        "Hört nicht auf"
+      ],
+      "End after": [
+        "Endet nach"
+      ],
+      "End on": [
+        "Endet am"
+      ],
+      "event": [
+        "Termin",
+        "Termine"
       ]
     },
     "Cycle": {
@@ -3401,6 +3414,9 @@
       ],
       "Your import will not be processed.": [
         "Dein Import wird nicht verarbeitet."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } ist dein Benutzername. Um ${ emailAddress } zu erstellen, gehe bitte zu Einstellungen > Identität und E-Mail-Adressen > Kurzdomain (pm.me)"
       ]
     },
     "Error accepting calendar invitation": {
@@ -3978,6 +3994,9 @@
       ],
       "Security Center": [
         "Sicherheitszentrum"
+      ],
+      "Repeat event": [
+        "Termin wiederholen"
       ]
     },
     "Hint": {
@@ -4627,7 +4646,7 @@
         "Dezidierte Server"
       ],
       "default email address": [
-        "standard E-Mail-Adresse"
+        "Standard-E-Mail-Adresse"
       ],
       "Deleting event...": [
         "Termin wird gelöscht...",
@@ -5452,11 +5471,21 @@
       ],
       "or discover other features:": [
         "oder entdecke andere Funktionen:"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "Wenn Tastaturkürzel aktiviert sind, kannst du die folgenden Tasten für Schnellaktionen oder zum Springen zu verschiedenen Ansichten verwenden. ${ metaKey } + K ist immer aktiviert."
+      ],
+      "Open shortcut cheat sheet": [
+        "Spickzettel für Tastaturkürzel öffnen"
       ]
     },
     "info": {
       "Selected color:": [
         "Ausgewählte Farbe:"
+      ],
+      "${ filteredList.length } command found.": [
+        "${ filteredList.length } Befehl gefunden.",
+        "${ filteredList.length } Befehle gefunden."
       ]
     },
     "Info calendar search": {
@@ -5467,6 +5496,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Bitte kontaktiere uns unter ${ email } für Anweisungen, wie du unsere Rechnung mit Bargeld begleichen kannst."
+      ],
+      "How to send a cash payment?": [
+        "Wie sendet man eine Bargeldzahlung?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Die Anleitung dazu findest du im Artikel: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info message": {
@@ -6006,6 +6041,18 @@
       ],
       "Your password (admin)": [
         "Dein Passwort (Admin)"
+      ],
+      "Every": [
+        "Jede"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Tastaturkürzel: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Tastaturkürzel"
+      ],
+      "On": [
+        "Ein"
       ]
     },
     "Label for contact group color": {
@@ -6491,6 +6538,9 @@
       ],
       "on the third Wednesday": [
         "am dritten Mittwoch"
+      ],
+      "on the ${ shortenedDay }": [
+        "am ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -7030,6 +7080,16 @@
       ],
       "${ PASS_APP_NAME } + SimpleLogin lifetime": [
         "Lebenslanger Zugang zu den Funktionen von ${ PASS_APP_NAME } und SimpleLogin"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Für Streaming optimierte dedizierte Server"
+      ],
+      "SSO integration": [
+        "SSO-Integration"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Gleichzeitige Verwendung auf bis zu ${ n } Gerät",
+        "Gleichzeitige Verwendung auf bis zu ${ n } Geräten"
       ]
     },
     "new_plans: feature highlight": {
@@ -7666,6 +7726,45 @@
       ],
       "Save 80% on your first month.": [
         "Spare 80% im ersten Monat."
+      ],
+      "Don’t show this offer again": [
+        "Dieses Angebot nicht mehr zeigen"
+      ],
+      "Last day to save": [
+        "Letzter Tag zum Sparen"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus für 12 Monate"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "Angebot läuft am ${ formattedDate } ab."
+      ],
+      "Pay annually, secure our best offer": [
+        "Jährlich zahlen, unser bestes Angebot sichern"
+      ],
+      "Save": [
+        "Sparen"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Spare ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Spare kräftig, wenn du jährlich bezahlst"
+      ],
+      "Special offer": [
+        "Sonderangebot"
+      ],
+      "This offer won't be shown again.": [
+        "Dieses Angebot wird nicht wieder angezeigt."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Beim Wechsel von einem Monats- zu einem Jahresabonnement."
+      ],
+      "You currently pay": [
+        "Du bezahlst derzeit"
+      ],
+      "Your subscription renews soon": [
+        "Dein Abonnement verlängert sich bald"
       ]
     },
     "Offer feature": {
@@ -7791,6 +7890,18 @@
       "Year": [
         "Jahr",
         "Jahre"
+      ],
+      "Custom...": [
+        "Benutzerdefiniert..."
+      ],
+      "Every month ${ description }": [
+        "Monatlich ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "Wöchentlich ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "Werktags ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -8113,6 +8224,9 @@
       ],
       "Start typing an email address": [
         "E-Mail-Adresse eingeben"
+      ],
+      "Filter quick actions": [
+        "Schnellaktionen filtern"
       ]
     },
     "Placeholder for contact group name": {
@@ -9476,6 +9590,9 @@
       ],
       "Event content search enabled": [
         "Suche nach Termininhalten aktiviert"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Tastaturkürzel-Einstellungen aktualisiert"
       ]
     },
     "Suffix": {
@@ -10128,6 +10245,30 @@
       ],
       "You can now create unlimited folders and labels": [
         "Du kannst jetzt unbegrenzt viele Ordner und Kategorien erstellen."
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName }-Tastaturkürzel"
+      ],
+      "Does not repeat": [
+        "Keine Wiederholung"
+      ],
+      "Every day": [
+        "Täglich"
+      ],
+      "Every month ${ option.text }": [
+        "Monatlich ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "Wöchentlich am ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "Werktags ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "Jährlich"
+      ],
+      "Help center": [
+        "Hilfecenter"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10442,6 +10583,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Deine kostenlose Testversion endet am ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "2 aufeinanderfolgende Punkte sind nicht erlaubt"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Darf keinen Punkt am Anfang enthalten"
+      ],
+      "Cannot contain a dot at the end": [
+        "Darf keinen Punkt am Ende enthalten"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Nur alphanumerische Kleinbuchstaben, Punkte, Bindestriche und Unterstriche sind erlaubt"
       ]
     },
     "Warning in modal to accept calendar invitation; Description": {
@@ -10850,6 +11003,77 @@
       ],
       "🎁 Your free gift to share, valued at ${ price }﻿: ": [
         "🎁 Dein Gratisgeschenk zum Teilen, im Wert von ${ price }: "
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "Nachrichten durchsuchen"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Tagesansicht"
+      ],
+      "Month view": [
+        "Monatsansicht"
+      ],
+      "New event": [
+        "Neuer Termin"
+      ],
+      "Next period": [
+        "Nächster Zeitraum"
+      ],
+      "Previous period": [
+        "Vorheriger Zeitraum"
+      ],
+      "Search events": [
+        "Termine suchen"
+      ],
+      "Today": [
+        "Heute"
+      ],
+      "Week view": [
+        "Wochenansicht"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "Neuer Termin erstellen"
+      ],
+      "Day view": [
+        "Tagesansicht"
+      ],
+      "Month view": [
+        "Monatsansicht"
+      ],
+      "Next period": [
+        "Nächster Zeitraum"
+      ],
+      "Open quick actions menu": [
+        "Menü für Schnellaktionen öffnen"
+      ],
+      "Open this modal": [
+        "Diesen Dialog öffnen"
+      ],
+      "Previous period": [
+        "Vorheriger Zeitraum"
+      ],
+      "Search events": [
+        "Termine suchen"
+      ],
+      "Today": [
+        "Heute"
+      ],
+      "Week view": [
+        "Wochenansicht"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Standardaktionen"
+      ],
+      "View options": [
+        "Optionen anzeigen"
       ]
     }
   }

@@ -2509,6 +2509,19 @@
       "time": [
         "kez",
         "kez"
+      ],
+      "Don't end": [
+        "Bitmesin"
+      ],
+      "End after": [
+        "Şu kadar sonra bitsin"
+      ],
+      "End on": [
+        "Şu tarihte bitsin"
+      ],
+      "event": [
+        "etkinlik",
+        "etkinlik"
       ]
     },
     "Cycle": {
@@ -3401,6 +3414,9 @@
       ],
       "Your import will not be processed.": [
         "İçe aktarma işleminiz yapılmayacak."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } kullanıcı adınızdır. ${ emailAddress } oluşturmak için lütfen Ayarlar > Kimlik ve adresler > Kısa etki alanı (pm.me) bölümüne gidin."
       ]
     },
     "Error accepting calendar invitation": {
@@ -3978,6 +3994,9 @@
       ],
       "Security Center": [
         "Güvenlik merkezi"
+      ],
+      "Repeat event": [
+        "Etkinliği yinele"
       ]
     },
     "Hint": {
@@ -5452,11 +5471,21 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Sistem saat diliminiz ${ timezone } olarak değişmiş gibi görünüyor. Saat dilimi ayarınızı güncellemek ister misiniz?"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "Klavye kısayolları etkinleştirilmişse, hızlı işlemler yapmak veya farklı görünümlere geçmek için aşağıdaki tuşları kullanabilirsiniz. ${ metaKey } + K her zaman kullanılabilir."
+      ],
+      "Open shortcut cheat sheet": [
+        "Kısayol rehberini aç"
       ]
     },
     "info": {
       "Selected color:": [
         "Seçilmiş renk:"
+      ],
+      "${ filteredList.length } command found.": [
+        "${ filteredList.length } komut bulundu.",
+        "${ filteredList.length } komut bulundu."
       ]
     },
     "Info calendar search": {
@@ -5467,6 +5496,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Nakit ödemenin nasıl yapılacağı ile ilgili bilgi almak için bizimle ${ email } adresinden görüşün."
+      ],
+      "How to send a cash payment?": [
+        "Nakit ödeme nasıl yapılır?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Lütfen yönerge için şu yazıya bakın: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info message": {
@@ -6006,6 +6041,18 @@
       ],
       "Your password (admin)": [
         "Parolanız (yönetici)"
+      ],
+      "Every": [
+        "Her"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Klavye kısayolu: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Klavye kısayolları"
+      ],
+      "On": [
+        "Şu zamanda"
       ]
     },
     "Label for contact group color": {
@@ -6491,6 +6538,9 @@
       ],
       "on the third Wednesday": [
         "üçüncü Çarşamba günü"
+      ],
+      "on the ${ shortenedDay }": [
+        "${ shortenedDay } gününde"
       ]
     },
     "New Label form": {
@@ -7030,6 +7080,16 @@
       ],
       "Tor over VPN": [
         "VPN üzerinden Tor"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Yayın akışı izlemek için ayarlanmış özel sunucular"
+      ],
+      "SSO integration": [
+        "Tek oturum açma bütünleştirmesi"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Aynı anda ${ n } aygıta kadar kullanın",
+        "Aynı anda ${ n } aygıta kadar kullanın"
       ]
     },
     "new_plans: feature highlight": {
@@ -7666,6 +7726,45 @@
       ],
       "Save 80% on your first month.": [
         "İlk ayınızda % 80 indirim kazanın."
+      ],
+      "Don’t show this offer again": [
+        "Bu teklif bir daha görüntülenmesin"
+      ],
+      "Last day to save": [
+        "İndirim kazanmak için son gün"
+      ],
+      "Mail Plus for 12 months": [
+        "12 aylık Mail Plus"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "Teklifin geçerliliği ${ formattedDate } tarihinde sona erecek."
+      ],
+      "Pay annually, secure our best offer": [
+        "Yıllık ödeme yapın en iyi teklifimizi güvence altına alın"
+      ],
+      "Save": [
+        "İndirim"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "%${ prices.savedPercentage } indirim"
+      ],
+      "Save big when you pay annually": [
+        "Yıllık ödeme yaparak büyük indirim kazanın"
+      ],
+      "Special offer": [
+        "Özel teklif"
+      ],
+      "This offer won't be shown again.": [
+        "Bu teklif bir daha görüntülenmeyecek."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Aylık abonelikten yıllık aboneliğe geçtiğinizde."
+      ],
+      "You currently pay": [
+        "Şu anda ödediğiniz"
+      ],
+      "Your subscription renews soon": [
+        "Aboneliğiniz yakında yenilenecek"
       ]
     },
     "Offer feature": {
@@ -7707,7 +7806,7 @@
         "Sonraki"
       ],
       "Start using ${ appName }": [
-        "${ appName } kullanmaya başlayın"
+        "${ appName } ile başla"
       ]
     },
     "Onboarding Proton": {
@@ -7791,6 +7890,18 @@
       "Year": [
         "Yıl",
         "Yıl"
+      ],
+      "Custom...": [
+        "Özel..."
+      ],
+      "Every month ${ description }": [
+        "Her ay ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "Her hafta ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "Hafta içi her gün ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -8118,6 +8229,9 @@
       ],
       "Start typing an email address": [
         "Bir e-posta adresi yazmaya başlayın"
+      ],
+      "Filter quick actions": [
+        "Hızlı işlemleri süz"
       ]
     },
     "Placeholder for contact group name": {
@@ -9481,6 +9595,9 @@
       ],
       "Event content search enabled": [
         "Etkinlik içeriğini arama özelliği açıldı"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Klavye kısayol ayarları güncellendi"
       ]
     },
     "Suffix": {
@@ -10133,6 +10250,30 @@
       ],
       "Your shorter address is now ready": [
         "Daha kısa adresiniz hazır"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName } klavye kısayolları"
+      ],
+      "Does not repeat": [
+        "Yinelenmiyor"
+      ],
+      "Every day": [
+        "Her gün"
+      ],
+      "Every month ${ option.text }": [
+        "Her ay ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "Her hafta ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "Her hafta içi gün ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "Her yıl"
+      ],
+      "Help center": [
+        "Yardım merkezi"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10452,6 +10593,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Ücretsiz denemeniz ${ textDate } tarihinde sona erecek. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "Arka arka 2 nokta yazılamaz"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Başlangıçta nokta bulunamaz"
+      ],
+      "Cannot contain a dot at the end": [
+        "Sonda nokta bulunamaz"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Yalnızca küçük harfler, rakamlar, nokta, tire ve alt çizgi karakterleri kullanılabilir"
       ]
     },
     "Warning in modal to accept calendar invitation; Description": {
@@ -10850,6 +11003,77 @@
       ],
       "🎁 Your free gift to share, valued at ${ price }﻿: ": [
         "🎁 ${ price } değerindeki paylaşması ücretsiz hediyeniz: "
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "İleti arama"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Günlük görünüm"
+      ],
+      "Month view": [
+        "Aylık görünüm"
+      ],
+      "New event": [
+        "Yeni etkinlik"
+      ],
+      "Next period": [
+        "Sonraki dönem"
+      ],
+      "Previous period": [
+        "Önceki dönem"
+      ],
+      "Search events": [
+        "Etkinlik ara"
+      ],
+      "Today": [
+        "Bugün"
+      ],
+      "Week view": [
+        "Haftalık görünüm"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "Yeni etkinlik oluştur"
+      ],
+      "Day view": [
+        "Günlük görünüm"
+      ],
+      "Month view": [
+        "Aylık görünüm"
+      ],
+      "Next period": [
+        "Sonraki dönem"
+      ],
+      "Open quick actions menu": [
+        "Hızlı işlemler menüsünü aç"
+      ],
+      "Open this modal": [
+        "Bu pencereyi aç"
+      ],
+      "Previous period": [
+        "Önceki dönem"
+      ],
+      "Search events": [
+        "Etkinlik ara"
+      ],
+      "Today": [
+        "Bugün"
+      ],
+      "Week view": [
+        "Haftalık görünüm"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Temel işlemler"
+      ],
+      "View options": [
+        "Seçenekleri görüntüle"
       ]
     }
   }

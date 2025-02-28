@@ -2502,6 +2502,19 @@
       "time": [
         "დრო",
         "დრო"
+      ],
+      "Don't end": [
+        "არ დაასრულო"
+      ],
+      "End after": [
+        "სრულდება შემდეგ"
+      ],
+      "End on": [
+        "დასრულება"
+      ],
+      "event": [
+        "მოვლენა",
+        "მოვლენა"
       ]
     },
     "Cycle": {
@@ -3971,6 +3984,9 @@
       ],
       "Security Center": [
         "უსაფრთხოების ცენტრი"
+      ],
+      "Repeat event": [
+        "მოვლენის გამეორება"
       ]
     },
     "Hint": {
@@ -5439,11 +5455,18 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "თქვენი სისტემის დროის სარტყელი, როგორც ჩანს, შეიცვალა ${ timezone }-ზე. გსურთ, განაახლოთ თქვენი დროის სარტყელის პარამეტრი?"
+      ],
+      "Open shortcut cheat sheet": [
+        "მალსახმობების ჩამონათვლის გახსნა"
       ]
     },
     "info": {
       "Selected color:": [
         "არჩეული ფერი:"
+      ],
+      "${ filteredList.length } command found.": [
+        "აღმოჩენილია ${ filteredList.length } ბრძანება.",
+        "აღმოჩენილია ${ filteredList.length } ბრძანება."
       ]
     },
     "Info calendar search": {
@@ -5454,6 +5477,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "ნაღდი ფულით გადახდის შემთხვევაში მეტი დეტალების მისაღებად დაგვიკავშირდით ${ email }."
+      ],
+      "How to send a cash payment?": [
+        "როგორ გავაგზავნო გადასახდელი თანხა?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "ინსტრუქციებს იპოვით სტატიაში: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info message": {
@@ -5993,6 +6022,18 @@
       ],
       "Your password (admin)": [
         "თქვენი პაროლი (admin)"
+      ],
+      "Every": [
+        "ყოველი"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "კლავიატურის მალსახმობი: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "კლავიატურის მალსახმობები"
+      ],
+      "On": [
+        "ჩართ"
       ]
     },
     "Label for contact group color": {
@@ -6478,6 +6519,9 @@
       ],
       "on the third Wednesday": [
         "მესამე ოთხშაბათს"
+      ],
+      "on the ${ shortenedDay }": [
+        "${ shortenedDay }-ზე"
       ]
     },
     "New Label form": {
@@ -7017,6 +7061,16 @@
       ],
       "Tor over VPN": [
         "Tor VPN-ის ზემოდან"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "სტრიმინგზე ოპტიმიზებული გამოყოფილი სერვერები"
+      ],
+      "SSO integration": [
+        "SSO-ის ინტეგრაცია"
+      ],
+      "Use on up to ${ n } device at once": [
+        "ერთდროულად ${ n }-მდე მოწყობილობა",
+        "ერთდროულად ${ n }-მდე მოწყობილობა"
       ]
     },
     "new_plans: feature highlight": {
@@ -7143,6 +7197,12 @@
       ],
       "Unlock all ${ BRAND_NAME } premium products and features for just ${ priceMailPlus }. Cancel anytime.": [
         "განბლოკეთ ${ BRAND_NAME }-ის ყველა ფასიანი პროდუქტი და ფუნქცია სულ რაღაც ${ priceMailPlus }-ად. გააუქმეთ როცა მოინდომებთ."
+      ],
+      "The discounted price of ${ priceCoupon } is valid for the first month. Then it will automatically be renewed at ${ priceLine }. You can cancel at any time.": [
+        "დაკლებული ფასი ${ priceCoupon }-სთვის პირველ თვეშია ხელმისაწვდომი. ამის შემდეგ ის ავტომატურად განახლდება ფასით ${ priceLine } თვით. გაუქმება ყოველთვის შეგიძლიათ."
+      ],
+      "Unlock all ${ BRAND_NAME } premium products and features for just ${ priceLine }. Cancel anytime.": [
+        "განბლოკეთ ${ BRAND_NAME }-ის ყველა ფასიანი პროდუქტი და ფუნქცია სულ რაღაც ${ priceLine }-ად. გააუქმეთ როცა მოინდომებთ."
       ]
     },
     "new_plans: title": {
@@ -7647,6 +7707,33 @@
       ],
       "Save 80% on your first month.": [
         "დაზოეთ 80% პირველ თვეს."
+      ],
+      "Don’t show this offer again": [
+        "აღარ მაჩვენო ეს შემოთავაზება"
+      ],
+      "Last day to save": [
+        "ბოლო დღე შესანახად"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus 12 თვით"
+      ],
+      "Save": [
+        "შენახვა"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "დაზოგეთ ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "დაზოგეთ ბევრი, როცა წელიწადში ერთხელ იხდით"
+      ],
+      "This offer won't be shown again.": [
+        "ამ შემოთავაზებას აღარ გაჩვენებთ."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "როცა თვიურიდან წლიურ გამოწერაზე გადახვალთ."
+      ],
+      "You currently pay": [
+        "ამჟამად იხდით"
       ]
     },
     "Offer feature": {
@@ -7772,6 +7859,18 @@
       "Year": [
         "წელი",
         "წელი"
+      ],
+      "Custom...": [
+        "ხელით..."
+      ],
+      "Every month ${ description }": [
+        "ყოველთვე ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "ყოველკვირა ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "კვირის ყოველ დღეს ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -8090,6 +8189,9 @@
       ],
       "Start typing an email address": [
         "დაიწყეთ ელფოსტის მისამართის აკრეფა"
+      ],
+      "Filter quick actions": [
+        "სწრაფი ქმედებების გაფილტვრა"
       ]
     },
     "Placeholder for contact group name": {
@@ -9450,6 +9552,9 @@
       ],
       "Event content search enabled": [
         "მოვლენის შემცველობაში ძებნა ჩაირთო"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "კლავიატურის მალსახმობების პარამეტრები განახლებულია"
       ]
     },
     "Suffix": {
@@ -10102,6 +10207,30 @@
       ],
       "Your shorter address is now ready": [
         "თქვენი მოკლე მისამართი ახლა მზადაა"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName }-ის კლავიატურის მალსახმობები"
+      ],
+      "Does not repeat": [
+        "არ მეორდება"
+      ],
+      "Every day": [
+        "ყოველდღე"
+      ],
+      "Every month ${ option.text }": [
+        "ყოველთვე ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "ყოველკვირა ${ weekdaysLong[currentDay] }-ზე"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "ყოველ ${ startOfTheWeekDay }-${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "ყოველ წელს"
+      ],
+      "Help center": [
+        "დახმარების ცენტრი"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10421,6 +10550,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "თქვენი უფასო სატესტო ვერსიის დამთავრების თარიღია ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "2 წერტილი ზედიზედ დაშებული არაა"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "დასაწყისში წერტილი არ შეიძლება"
+      ],
+      "Cannot contain a dot at the end": [
+        "ბოლოში წერტილი არ შეიძლება"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "დაშვებულია, მხოლოდ, დაბალი რეგისტრის მქონე ალფარცხვითი სიმბოლოები, წერტილები, ტირეები და ქვედა ტირეები"
       ]
     },
     "Warning in modal to accept calendar invitation; Description": {
@@ -10696,6 +10837,77 @@
       ],
       "Passcode:": [
         "საკვანძო კოდი:"
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "შეტყობინებების ძებნა"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "დღის ხედი"
+      ],
+      "Month view": [
+        "თვის ხედი"
+      ],
+      "New event": [
+        "ახალი მოვლენა"
+      ],
+      "Next period": [
+        "შემდეგი პერიოდი"
+      ],
+      "Previous period": [
+        "წინა პერიოდი"
+      ],
+      "Search events": [
+        "მოვლენების ძებნა"
+      ],
+      "Today": [
+        "დღეს"
+      ],
+      "Week view": [
+        "კვირის ხედი"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "ახალი მოვლენის შექმნა"
+      ],
+      "Day view": [
+        "დღის ხედი"
+      ],
+      "Month view": [
+        "თვის ხედი"
+      ],
+      "Next period": [
+        "შემდეგი პერიოდი"
+      ],
+      "Open quick actions menu": [
+        "სწრაფი ქმედებების მენიუს გახსნა"
+      ],
+      "Open this modal": [
+        "ფანჯრის გახსნა"
+      ],
+      "Previous period": [
+        "წინა პერიოდი"
+      ],
+      "Search events": [
+        "მოვლენების ძებნა"
+      ],
+      "Today": [
+        "დღეს"
+      ],
+      "Week view": [
+        "კვირის ხედი"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "ძირითადი მოქმედებები"
+      ],
+      "View options": [
+        "პარამეტრების ნახვა"
       ]
     }
   }

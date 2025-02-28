@@ -2509,6 +2509,19 @@
       "time": [
         "gang",
         "ganger"
+      ],
+      "Don't end": [
+        "Avsluttes ikke"
+      ],
+      "End after": [
+        "Slutter etter"
+      ],
+      "End on": [
+        "Slutter på"
+      ],
+      "event": [
+        "hendelse",
+        "hendelser"
       ]
     },
     "Cycle": {
@@ -3401,6 +3414,9 @@
       ],
       "Your import will not be processed.": [
         "Importen din blir ikke behandlet."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } er ditt brukernavn. For å opprette ${ emailAddress }, gå til Innstillinger > Identitet og adresser > Kort domene (pm.me)"
       ]
     },
     "Error accepting calendar invitation": {
@@ -3978,6 +3994,9 @@
       ],
       "Security Center": [
         "Sikkerhetssenter"
+      ],
+      "Repeat event": [
+        "Gjenta hendelse"
       ]
     },
     "Hint": {
@@ -5452,11 +5471,21 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Systemets tidssone ser ut til å ha endret seg til ${ timezone }. Vil du oppdatere preferansen for tidssone?"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "Hvis tastatursnarveier er aktivert, kan du bruke følgende taster for hurtighandlinger eller for å hoppe til forskjellige visninger. ${ metaKey } + K er alltid aktivert."
+      ],
+      "Open shortcut cheat sheet": [
+        "Åpne jukseark for snarveier"
       ]
     },
     "info": {
       "Selected color:": [
         "Valgt farge:"
+      ],
+      "${ filteredList.length } command found.": [
+        "${ filteredList.length } kommando funnet.",
+        "${ filteredList.length } kommandoer funnet."
       ]
     },
     "Info calendar search": {
@@ -5467,6 +5496,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Kontakt oss på ${ email } for instruksjoner om hvordan du betaler med kontanter."
+      ],
+      "How to send a cash payment?": [
+        "Hvordan sende en kontant betaling?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Finn instruksjonene i artikkelen: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info message": {
@@ -6006,6 +6041,18 @@
       ],
       "Your password (admin)": [
         "Ditt passord (admin)"
+      ],
+      "Every": [
+        "Hver"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Tastatursnarvei: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Tastatursnarveier"
+      ],
+      "On": [
+        "På"
       ]
     },
     "Label for contact group color": {
@@ -6491,6 +6538,9 @@
       ],
       "on the third Wednesday": [
         "på den tredje onsdagen"
+      ],
+      "on the ${ shortenedDay }": [
+        "på ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -7030,6 +7080,16 @@
       ],
       "Tor over VPN": [
         "TOR over VPN"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Dedikerte tjenere optimalisert for strømming"
+      ],
+      "SSO integration": [
+        "SSO-integrasjon"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Bruk på opptil ${ n } enhet samtidig",
+        "Bruk på opptil ${ n } enheter samtidig"
       ]
     },
     "new_plans: feature highlight": {
@@ -7666,6 +7726,45 @@
       ],
       "Save 80% on your first month.": [
         "Spar 80% på den første måneden."
+      ],
+      "Don’t show this offer again": [
+        "Ikke vis dette tilbudet igjen"
+      ],
+      "Last day to save": [
+        "Siste dag for å spare"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus for 12 måneder"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "Tilbudet utløper ${ formattedDate }"
+      ],
+      "Pay annually, secure our best offer": [
+        "Betal årlig, sikre deg vårt beste tilbud"
+      ],
+      "Save": [
+        "Spar"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Spar ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Spar mye når du betaler årlig"
+      ],
+      "Special offer": [
+        "Spesialtilbud"
+      ],
+      "This offer won't be shown again.": [
+        "Dette tilbudet vises ikke igjen."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Når du bytter fra et månedlig til et årlig abonnement."
+      ],
+      "You currently pay": [
+        "Du betaler for øyeblikket"
+      ],
+      "Your subscription renews soon": [
+        "Abonnementet ditt fornyes snart"
       ]
     },
     "Offer feature": {
@@ -7791,6 +7890,18 @@
       "Year": [
         "År",
         "År"
+      ],
+      "Custom...": [
+        "Tilpasset..."
+      ],
+      "Every month ${ description }": [
+        "Hver måned ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "Hver uke ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "Hver ukedag ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -8118,6 +8229,9 @@
       ],
       "Start typing an email address": [
         "Begynn å skrive inn en e-postadresse"
+      ],
+      "Filter quick actions": [
+        "Filtrer hurtighandlinger"
       ]
     },
     "Placeholder for contact group name": {
@@ -9340,7 +9454,7 @@
         "Kalender lagt til. Det kan ta noen minutter å synkronisere."
       ],
       "Calendar created": [
-        "Kalender oprettet"
+        "Kalender opprettet"
       ],
       "Calendar information updated": [
         "Kalenderinformasjon oppdatert"
@@ -9481,6 +9595,9 @@
       ],
       "Event content search enabled": [
         "Søk etter hendelsesinnhold aktivert"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Innstillinger for hurtigtaster oppdatert"
       ]
     },
     "Suffix": {
@@ -10133,6 +10250,30 @@
       ],
       "Your shorter address is now ready": [
         "Den kortere adressen din er nå klar"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName }-tastatursnarveier"
+      ],
+      "Does not repeat": [
+        "Gjentas ikke"
+      ],
+      "Every day": [
+        "Hver dag"
+      ],
+      "Every month ${ option.text }": [
+        "Hver måned ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "Hver uke på ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "Hver ukedag ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "Hvert år"
+      ],
+      "Help center": [
+        "Hjelpesenter"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10452,6 +10593,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Prøveperioden avsluttes ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "2 påfølgende prikker er ikke tillatt"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Kan ikke inneholde en prikk i begynnelsen"
+      ],
+      "Cannot contain a dot at the end": [
+        "Kan ikke inneholde en prikk ved slutten"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Bare små alfanumeriske tegn, punktum og bindestreker (inkludert understrek) er tillatt."
       ]
     },
     "Warning in modal to accept calendar invitation; Description": {
@@ -10727,6 +10880,77 @@
       ],
       "Passcode:": [
         "Adgangskode:"
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "Søk i meldinger"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Dagsvisning"
+      ],
+      "Month view": [
+        "Månedsvisning"
+      ],
+      "New event": [
+        "Ny hendelse"
+      ],
+      "Next period": [
+        "Neste periode"
+      ],
+      "Previous period": [
+        "Forrige periode"
+      ],
+      "Search events": [
+        "Søk etter hendelser"
+      ],
+      "Today": [
+        "I dag"
+      ],
+      "Week view": [
+        "Ukesvisning"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "Opprett ny hendelse"
+      ],
+      "Day view": [
+        "Dagsvisning"
+      ],
+      "Month view": [
+        "Månedsvisning"
+      ],
+      "Next period": [
+        "Neste periode"
+      ],
+      "Open quick actions menu": [
+        "Åpne meny for hurtighandlinger"
+      ],
+      "Open this modal": [
+        "Åpne dette hjelpevinduet"
+      ],
+      "Previous period": [
+        "Forrige periode"
+      ],
+      "Search events": [
+        "Søk etter hendelser"
+      ],
+      "Today": [
+        "I dag"
+      ],
+      "Week view": [
+        "Ukesvisning"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Basic-handlinger"
+      ],
+      "View options": [
+        "Vis alternativer"
       ]
     }
   }

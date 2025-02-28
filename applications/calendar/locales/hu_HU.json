@@ -2368,6 +2368,10 @@
       "time": [
         "alkalommal",
         "alkalommal"
+      ],
+      "event": [
+        "esemény",
+        "esemény"
       ]
     },
     "Cycle": {
@@ -3182,6 +3186,9 @@
       ],
       "Your import will not be processed.": [
         "Az importálás nem lesz feldolgozva."
+      ],
+      "Please select a country": [
+        "Kérjük, válasszon egy országot"
       ]
     },
     "Error accepting calendar invitation": {
@@ -3706,6 +3713,9 @@
       ],
       "Security Center": [
         "Biztonsági központ"
+      ],
+      "Repeat event": [
+        "Esemény ismétlése"
       ]
     },
     "Hint": {
@@ -5048,11 +5058,33 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Úgy tűnik, hogy a rendszer időzónája ${ timezone } -re változott. Szeretne erre az időzónára frissíteni?"
+      ],
+      "default email address": [
+        "alapértelmezett e-mail cím"
+      ],
+      "Emails moved to Trash and Spam more than 30 days ago will be cleared automatically.": [
+        "30 napnál régebben a Kukába és a Levélszemétbe áthelyezett e-mailek automatikusan törlődnek."
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "Ha a gyorsbillentyűk engedélyezve vannak, a következő billentyűkkel gyors műveleteket végezhet, illetve különböző nézetekre ugorhat. ${ metaKey } + K mindig engedélyezve van."
+      ],
+      "Open shortcut cheat sheet": [
+        "Gyorsbillentyű tippek megnyitása"
+      ],
+      "Setting up your new address…": [
+        "Új e-mail cím beállítása..."
+      ],
+      "This is now your ${ defaultEmailAddress } for sending new messages.": [
+        "Ez mostantól az ${ defaultEmailAddress } az új üzenetek küldéséhez."
       ]
     },
     "info": {
       "Selected color:": [
         "A kiválasztott szín:"
+      ],
+      "${ filteredList.length } command found.": [
+        "${ filteredList.length } parancs található.",
+        "${ filteredList.length } parancs található."
       ]
     },
     "Info calendar search": {
@@ -5581,6 +5613,12 @@
       ],
       "Your password (admin)": [
         "Jelszó (adminisztrátor)"
+      ],
+      "Keyboard shortcut: ${ shortcut }": [
+        "Gyorsbillentyű: ${ shortcut }"
+      ],
+      "Keyboard shortcuts": [
+        "Gyorsbillentyűk"
       ]
     },
     "Label for contact group color": {
@@ -8408,6 +8446,12 @@
       ],
       "You have successfully unsubscribed": [
         "Sikeresen leiratkozott"
+      ],
+      "Event content search enabled": [
+        "Eseménytartalom keresés engedélyezve"
+      ],
+      "Keyboard shortcuts preferences updated": [
+        "Gyorsbillentyű beállítások frissítve"
       ]
     },
     "Suffix": {
@@ -9603,6 +9647,62 @@
     "wallet_signup_2024:app-switcher": {
       "A safer way to hold Bitcoin": [
         "Biztonságosabb módja a Bitcoin tárolásának"
+      ]
+    },
+    "action": {
+      "Search messages": [
+        "Üzenetek keresése"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Napi nézet"
+      ],
+      "Month view": [
+        "Havi nézet"
+      ],
+      "New event": [
+        "Új esemény"
+      ],
+      "Search events": [
+        "Események keresése"
+      ],
+      "Today": [
+        "Ma"
+      ],
+      "Week view": [
+        "Heti nézet"
+      ]
+    },
+    "Keyboard shortcut name": {
+      "Create new event": [
+        "Új esemény létrehozása"
+      ],
+      "Day view": [
+        "Napi nézet"
+      ],
+      "Month view": [
+        "Havi nézet"
+      ],
+      "Open quick actions menu": [
+        "Gyorsműveletek menü megnyitása"
+      ],
+      "Open this modal": [
+        "Ablak megnyitása"
+      ],
+      "Search events": [
+        "Események keresése"
+      ],
+      "Today": [
+        "Ma"
+      ],
+      "Week view": [
+        "Heti nézet"
+      ]
+    },
+    "Keyboard shortcut section name": {
+      "Basic actions": [
+        "Alapműveletek"
       ]
     }
   }
