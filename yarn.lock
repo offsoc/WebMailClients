@@ -21246,16 +21246,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron@npm:29.4.6":
-  version: 29.4.6
-  resolution: "electron@npm:29.4.6"
+"electron@npm:33.4.0":
+  version: 33.4.0
+  resolution: "electron@npm:33.4.0"
   dependencies:
     "@electron/get": "npm:^2.0.0"
     "@types/node": "npm:^20.9.0"
     extract-zip: "npm:^2.0.1"
   bin:
     electron: cli.js
-  checksum: 10c0/25847e3e3b0fdac2bd85d962d7db38b5870a45165f42f198d7158364e476110445bb790a20edb553a7fe4fb60d54d12241bb4582e89038ecdf354105ef204847
+  checksum: 10c0/10de99e51f680f381b07d9569382a5305619ca2c3a5dcf5a1aa741c3bf8bdd51e0c6d5abcf37de825a1ab85fadcf098ec9532333a04502ae5ac2c728641c86d4
   languageName: node
   linkType: hard
 
@@ -36081,7 +36081,7 @@ __metadata:
     cross-env: "npm:^7.0.3"
     css-loader: "npm:^7.1.2"
     dotenv: "npm:^16.4.7"
-    electron: "npm:29.4.6"
+    electron: "npm:34.3.0"
     electron-log: "npm:^5.3.3"
     electron-squirrel-startup: "npm:^1.0.1"
     electron-store: "npm:^8.2.0"
