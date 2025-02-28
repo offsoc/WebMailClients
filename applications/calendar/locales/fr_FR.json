@@ -7737,6 +7737,18 @@
       ],
       "You currently pay": [
         "Vous payez actuellement"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "L'offre arrive à expiration le ${ formattedDate }."
+      ],
+      "Pay annually, secure our best offer": [
+        "Payez à l'année et assurez-vous de bénéficier de notre meilleure offre."
+      ],
+      "Special offer": [
+        "Offre spéciale"
+      ],
+      "Your subscription renews soon": [
+        "Votre abonnement se renouvelle bientôt."
       ]
     },
     "Offer feature": {
@@ -8733,7 +8745,7 @@
         "Passez à Premium"
       ],
       "Upgrade for ${ pricingTitle }": [
-        "Passez à un abonnement supérieur pour ${ pricingTitle }"
+        "Changez d'abonnement pour ${ pricingTitle }"
       ]
     },
     "specialoffer: Offers": {
@@ -10971,7 +10983,7 @@
         "Vue de la journée"
       ],
       "Month view": [
-        "Vue mensuelle"
+        "Vue du mois"
       ],
       "New event": [
         "Nouvel événement"
@@ -10994,13 +11006,13 @@
     },
     "Keyboard shortcut name": {
       "Create new event": [
-        "Créer un nouvel événement"
+        "Créer un événement"
       ],
       "Day view": [
         "Vue de la journée"
       ],
       "Month view": [
-        "Vue mensuelle"
+        "Vue du mois"
       ],
       "Next period": [
         "Période suivante"

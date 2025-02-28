@@ -2493,6 +2493,18 @@
       ],
       "time": [
         "kali"
+      ],
+      "Don't end": [
+        "Jangan akhiri"
+      ],
+      "End after": [
+        "Akhiri setelah"
+      ],
+      "End on": [
+        "Akhiri pada"
+      ],
+      "event": [
+        "acara"
       ]
     },
     "Cycle": {
@@ -3940,6 +3952,9 @@
       ],
       "Security Center": [
         "Pusat Keamanan"
+      ],
+      "Repeat event": [
+        "Ulangi acara"
       ]
     },
     "Hint": {
@@ -5397,6 +5412,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Silakan hubungi kami di ${ email } untuk intruksi cara membayar dengan tunai."
+      ],
+      "How to send a cash payment?": [
+        "Bagaimana cara mengirim pembayaran tunai?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Silakan ikuti instruksi yang tertera pada artikel berikut: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info message": {
@@ -5937,6 +5958,12 @@
       ],
       "Keyboard shortcuts": [
         "Pintasan keyboard"
+      ],
+      "Every": [
+        "Setiap"
+      ],
+      "On": [
+        "Aktif"
       ]
     },
     "Label for contact group color": {
@@ -6414,6 +6441,9 @@
       ],
       "on the third Wednesday": [
         "pada hari Rabu ketiga"
+      ],
+      "on the ${ shortenedDay }": [
+        "pada ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -7560,6 +7590,21 @@
       ],
       "You currently pay": [
         "Anda saat ini membayar"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "Penawaran akan berakhir pada ${ formattedDate }."
+      ],
+      "Pay annually, secure our best offer": [
+        "Bayar per tahun, kantongi penawaran terbaik kami"
+      ],
+      "Special offer": [
+        "Penawaran spesial"
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Pada saat Anda beralih dari langganan bulanan ke langganan tahunan."
+      ],
+      "Your subscription renews soon": [
+        "Langganan Anda akan segera diperbarui"
       ]
     },
     "Offer feature": {
@@ -7681,6 +7726,18 @@
       ],
       "Year": [
         "Tahun"
+      ],
+      "Custom...": [
+        "Sesuaikan..."
+      ],
+      "Every month ${ description }": [
+        "Setiap bulan ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "Setiap minggu ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "Setiap hari ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -9979,6 +10036,24 @@
       ],
       "Help center": [
         "Pusat bantuan"
+      ],
+      "Does not repeat": [
+        "Tidak berulang"
+      ],
+      "Every day": [
+        "Setiap hari"
+      ],
+      "Every month ${ option.text }": [
+        "Setiap bulan ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "Setiap minggu pada ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "Setiap hari ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "Setiap tahun"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {

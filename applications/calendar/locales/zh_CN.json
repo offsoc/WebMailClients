@@ -663,7 +663,7 @@
         "显示时区"
       ],
       "Sign out": [
-        "退出"
+        "登出"
       ],
       "Sign out of all accounts": [
         "退出所有账户"
@@ -2493,6 +2493,18 @@
       ],
       "time": [
         "次"
+      ],
+      "Don't end": [
+        "不结束"
+      ],
+      "End after": [
+        "结束于"
+      ],
+      "End on": [
+        "结束于"
+      ],
+      "event": [
+        "事件"
       ]
     },
     "Cycle": {
@@ -3940,6 +3952,9 @@
       ],
       "Security Center": [
         "安全中心"
+      ],
+      "Repeat event": [
+        "重复事件"
       ]
     },
     "Hint": {
@@ -4619,7 +4634,7 @@
         "自动对邮件进行数字签名"
       ],
       "Emails moved to Trash and Spam more than 30 days ago will be cleared automatically.": [
-        "超过 30 天前移至废件箱和垃圾邮件的电子邮件将自动清除。"
+        "超过 30 天前移至回收站和垃圾邮件的电子邮件将自动清除。"
       ],
       "Enabling auto-deletion…": [
         "正在启用自动删除…"
@@ -5397,6 +5412,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "请联系 ${ email } 了解如何使用现金支付。"
+      ],
+      "How to send a cash payment?": [
+        "如何进行现金支付？"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "请参阅文章中的说明：${ howToSendCashArticleUrl }"
       ]
     },
     "Info message": {
@@ -5937,6 +5958,12 @@
       ],
       "Keyboard shortcuts": [
         "开启快捷键"
+      ],
+      "Every": [
+        "每个"
+      ],
+      "On": [
+        "在"
       ]
     },
     "Label for contact group color": {
@@ -6065,7 +6092,7 @@
         "安全上网"
       ],
       "Trash": [
-        "废件箱"
+        "回收站"
       ],
       "What’s this?": [
         "这是什么？"
@@ -6414,6 +6441,9 @@
       ],
       "on the third Wednesday": [
         "第三个星期三"
+      ],
+      "on the ${ shortenedDay }": [
+        "在 ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -6615,10 +6645,10 @@
         "一次轻松订阅，享受所有高级 ${ BRAND_NAME } 服务"
       ],
       "Auto-delete Spam and Trash": [
-        "自动清理垃圾邮件和废件箱"
+        "自动清理垃圾邮件和回收站"
       ],
       "Auto-delete spam and trashed messages": [
-        "自动删除垃圾邮件和废件箱中邮件"
+        "自动删除垃圾邮件和回收站中邮件"
       ],
       "Auto-reply": [
         "自动回复"
@@ -7100,7 +7130,7 @@
         "可对收到的邮件自动予以回复"
       ],
       "Automatically clear out messages older than 30 days from Trash and Spam": [
-        "垃圾邮件和废件箱中的邮件超过 30 天自动删除"
+        "垃圾邮件和回收站中的邮件超过 30 天自动删除"
       ],
       "Automatically forward emails sent to your ${ MAIL_APP_NAME } account to any other email address.": [
         "将您的 ${ MAIL_APP_NAME } 账户收到的邮件自动转发至其他邮箱。"
@@ -7563,6 +7593,15 @@
       ],
       "You currently pay": [
         "您目前支付"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "优惠有效期至 ${ formattedDate }"
+      ],
+      "Pay annually, secure our best offer": [
+        "按年支付，确保我们的最佳优惠"
+      ],
+      "Your subscription renews soon": [
+        "您的订阅即将续订"
       ]
     },
     "Offer feature": {
@@ -7684,6 +7723,18 @@
       ],
       "Year": [
         "年"
+      ],
+      "Custom...": [
+        "自定义..."
+      ],
+      "Every month ${ description }": [
+        "每月 ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "每周 ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "每个工作日 ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -8331,7 +8382,7 @@
     },
     "session_recovery:sign_out:action": {
       "Sign out": [
-        "退出"
+        "登出"
       ],
       "Stay signed in": [
         "保持登录"
@@ -8345,10 +8396,10 @@
         "${ passwordReset }现已可用。"
       ],
       "If you sign out before you reset your password, you could lose access to your account.": [
-        "如果您在重置密码完成之前退出，您可能会失去对账户的访问权限。"
+        "如果您在重置密码完成之前登出，您可能会失去对账户的访问权限。"
       ],
       "If you sign out without resetting your password, you could lose access to your account.": [
-        "如果您未重置密码就退出，您可能会失去对账户的访问权限。"
+        "如果您未重置密码就登出，您可能会失去对账户的访问权限。"
       ],
       "You will be able to reset your password in ${ boldTimeLeft }.": [
         "您可以在${ boldTimeLeft }之内重置密码。"
@@ -8361,7 +8412,7 @@
     },
     "session_recovery:sign_out:title": {
       "Sign out without password reset?": [
-        "退出而不重置密码？"
+        "登出而不重置密码？"
       ]
     },
     "Settings update growler warning": {
@@ -9906,7 +9957,7 @@
         "登录并授予权限"
       ],
       "Sign out": [
-        "退出"
+        "登出"
       ],
       "Start a new import": [
         "开始导入"
@@ -9982,6 +10033,24 @@
       ],
       "Help center": [
         "帮助中心"
+      ],
+      "Does not repeat": [
+        "不重复"
+      ],
+      "Every day": [
+        "每天"
+      ],
+      "Every month ${ option.text }": [
+        "每月 ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "每周在 ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "每个工作日 ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "每年"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {

@@ -7734,6 +7734,18 @@
       ],
       "You currently pay": [
         "Şu anda ödediğiniz"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "Teklifin geçerliliği ${ formattedDate } tarihinde sona erecek."
+      ],
+      "Pay annually, secure our best offer": [
+        "Yıllık ödeme yapın en iyi teklifimizi güvence altına alın"
+      ],
+      "Special offer": [
+        "Özel teklif"
+      ],
+      "Your subscription renews soon": [
+        "Aboneliğiniz yakında yenilenecek"
       ]
     },
     "Offer feature": {

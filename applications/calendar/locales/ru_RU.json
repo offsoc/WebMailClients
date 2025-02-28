@@ -8005,6 +8005,18 @@
       ],
       "You currently pay": [
         "Вы оплачиваете сейчас"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "Срок действия предложения истекает ${ formattedDate }."
+      ],
+      "Pay annually, secure our best offer": [
+        "Платите ежегодно, получите наше лучшее предложение"
+      ],
+      "Special offer": [
+        "Специальное предложение"
+      ],
+      "Your subscription renews soon": [
+        "Ваша подписка скоро обновится"
       ]
     },
     "Offer feature": {

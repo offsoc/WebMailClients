@@ -2511,13 +2511,13 @@
         "vegades"
       ],
       "Don't end": [
-        "No s'acaba"
+        "No finalitza"
       ],
       "End after": [
-        "Acaba després de"
+        "Finalitza després de"
       ],
       "End on": [
-        "Acaba el"
+        "Finalitza el"
       ],
       "event": [
         "esdeveniment",
@@ -5498,7 +5498,7 @@
         "Com enviar un pagament en efectiu?"
       ],
       "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
-        "Trobeu les instruccions a l'article: ${ howToSendCashArticleUrl }"
+        "Veieu les instruccions a l'article: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info message": {
@@ -7737,6 +7737,18 @@
       ],
       "You currently pay": [
         "Actualment pagueu"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "L'oferta caduca el ${ formattedDate }."
+      ],
+      "Pay annually, secure our best offer": [
+        "Pagueu anualment i assegureu-vos la nostra millor oferta"
+      ],
+      "Special offer": [
+        "Oferta especial"
+      ],
+      "Your subscription renews soon": [
+        "La subscripció es renovarà aviat."
       ]
     },
     "Offer feature": {

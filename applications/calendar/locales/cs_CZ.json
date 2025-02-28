@@ -8016,6 +8016,18 @@
       ],
       "You currently pay": [
         "V současnosti platíte"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "Nabídka vyprší ${ formattedDate }"
+      ],
+      "Pay annually, secure our best offer": [
+        "Plaťte ročně, zajistěte si naši nejlepší nabídku"
+      ],
+      "Special offer": [
+        "Speciální nabídka"
+      ],
+      "Your subscription renews soon": [
+        "Vaše předplatné se brzy obnoví"
       ]
     },
     "Offer feature": {

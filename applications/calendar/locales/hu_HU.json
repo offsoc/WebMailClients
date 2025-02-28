@@ -2368,6 +2368,10 @@
       "time": [
         "alkalommal",
         "alkalommal"
+      ],
+      "event": [
+        "esemény",
+        "esemény"
       ]
     },
     "Cycle": {
@@ -3182,6 +3186,9 @@
       ],
       "Your import will not be processed.": [
         "Az importálás nem lesz feldolgozva."
+      ],
+      "Please select a country": [
+        "Kérjük, válasszon egy országot"
       ]
     },
     "Error accepting calendar invitation": {
@@ -3706,6 +3713,9 @@
       ],
       "Security Center": [
         "Biztonsági központ"
+      ],
+      "Repeat event": [
+        "Esemény ismétlése"
       ]
     },
     "Hint": {
@@ -5048,6 +5058,21 @@
       ],
       "Open shortcut cheat sheet": [
         "Gyorsbillentyű tippek megnyitása"
+      ],
+      "default email address": [
+        "alapértelmezett e-mail cím"
+      ],
+      "Emails moved to Trash and Spam more than 30 days ago will be cleared automatically.": [
+        "30 napnál régebben a Kukába és a Levélszemétbe áthelyezett e-mailek automatikusan törlődnek."
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "Ha a gyorsbillentyűk engedélyezve vannak, a következő billentyűkkel gyors műveleteket végezhet, illetve különböző nézetekre ugorhat. ${ metaKey } + K mindig engedélyezve van."
+      ],
+      "Setting up your new address…": [
+        "Új e-mail cím beállítása..."
+      ],
+      "This is now your ${ defaultEmailAddress } for sending new messages.": [
+        "Ez mostantól az ${ defaultEmailAddress } az új üzenetek küldéséhez."
       ]
     },
     "info": {
@@ -9604,11 +9629,52 @@
     "Keyboard shortcut name": {
       "Open this modal": [
         "Ablak megnyitása"
+      ],
+      "Create new event": [
+        "Új esemény létrehozása"
+      ],
+      "Day view": [
+        "Napi nézet"
+      ],
+      "Month view": [
+        "Havi nézet"
+      ],
+      "Open quick actions menu": [
+        "Gyorsműveletek menü megnyitása"
+      ],
+      "Search events": [
+        "Események keresése"
+      ],
+      "Today": [
+        "Ma"
+      ],
+      "Week view": [
+        "Heti nézet"
       ]
     },
     "Keyboard shortcut section name": {
       "Basic actions": [
         "Alapműveletek"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Napi nézet"
+      ],
+      "Month view": [
+        "Havi nézet"
+      ],
+      "New event": [
+        "Új esemény"
+      ],
+      "Search events": [
+        "Események keresése"
+      ],
+      "Today": [
+        "Ma"
+      ],
+      "Week view": [
+        "Heti nézet"
       ]
     }
   }
