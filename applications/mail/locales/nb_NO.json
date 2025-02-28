@@ -10445,6 +10445,18 @@
       ],
       "You currently pay": [
         "Du betaler for øyeblikket"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "Tilbudet utløper ${ formattedDate }"
+      ],
+      "Pay annually, secure our best offer": [
+        "Betal årlig, sikre deg vårt beste tilbud"
+      ],
+      "Special offer": [
+        "Spesialtilbud"
+      ],
+      "Your subscription renews soon": [
+        "Abonnementet ditt fornyes snart"
       ]
     },
     "Offer feature": {

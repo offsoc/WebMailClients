@@ -10787,6 +10787,18 @@
       ],
       "You currently pay": [
         "У цяперашні час аплачана"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "Прапанова міне ${ formattedDate }"
+      ],
+      "Pay annually, secure our best offer": [
+        "Плаціце штогод, каб атрымаць нашу лепшую прапанову"
+      ],
+      "Special offer": [
+        "Спецыяльная прапанова"
+      ],
+      "Your subscription renews soon": [
+        "Ваша падпіска неўзабаве падоўжыцца"
       ]
     },
     "Offer feature": {

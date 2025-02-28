@@ -10448,6 +10448,18 @@
       ],
       "You currently pay": [
         "Actualmente pagas"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "La oferta expira el ${ formattedDate }."
+      ],
+      "Pay annually, secure our best offer": [
+        "Paga anualmente y asegúrate nuestra mejor oferta."
+      ],
+      "Special offer": [
+        "Oferta especial"
+      ],
+      "Your subscription renews soon": [
+        "Tu suscripción se renueva pronto."
       ]
     },
     "Offer feature": {

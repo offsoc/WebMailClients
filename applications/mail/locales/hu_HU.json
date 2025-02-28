@@ -4163,6 +4163,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "A keresés túl sok találatot eredményezett. Korlátozza a keresést majd próbálja meg újra."
+      ],
+      "Please select a country": [
+        "Kérjük, válasszon egy országot"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7091,6 +7094,33 @@
       ],
       "Your phone number will only be used for this one-time verification.": [
         "A telefonszám csak erre az egyszeri ellenőrzésre lesz felhasználva."
+      ],
+      "Active": [
+        "Aktív"
+      ],
+      "Automatically clear out emails moved to Trash and Spam more than 30 days ago.": [
+        "Automatikusan törli a 30 napnál régebbi, Kukába vagy Levélszemétbe áthelyezett e-maileket."
+      ],
+      "default email address": [
+        "alapértelmezett e-mail cím"
+      ],
+      "Download on the App Store": [
+        "Töltse le az App Store-ból"
+      ],
+      "Emails moved to Trash and Spam more than 30 days ago will be cleared automatically.": [
+        "30 napnál régebben a Kukába és a Levélszemétbe áthelyezett e-mailek automatikusan törlődnek."
+      ],
+      "Get it on Google Play": [
+        "Szerezze be a Google Play-en"
+      ],
+      "Get notified if your password or other data was leaked from a third-party service.": [
+        "Értesítést kap, ha jelszava vagy más adata kiszivárgott egy harmadik fél szolgáltatásából."
+      ],
+      "Setting up your new address…": [
+        "Új e-mail cím beállítása..."
+      ],
+      "This is now your ${ defaultEmailAddress } for sending new messages.": [
+        "Ez mostantól az ${ defaultEmailAddress } az új üzenetek küldéséhez."
       ]
     },
     "info": {

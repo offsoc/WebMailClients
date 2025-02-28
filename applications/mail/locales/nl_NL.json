@@ -10448,6 +10448,18 @@
       ],
       "You currently pay": [
         "U betaalt momenteel"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "Aanbieding vervalt op ${ formattedDate }."
+      ],
+      "Pay annually, secure our best offer": [
+        "Betaal jaarlijks om te genieten van ons beste aanbod"
+      ],
+      "Special offer": [
+        "Speciale aanbieding"
+      ],
+      "Your subscription renews soon": [
+        "Uw abonnement verloopt binnenkort"
       ]
     },
     "Offer feature": {

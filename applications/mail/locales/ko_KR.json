@@ -10262,6 +10262,18 @@
       ],
       "You currently pay": [
         "현재 결제:"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "이 혜택은 ${ formattedDate }에 만료됩니다."
+      ],
+      "Pay annually, secure our best offer": [
+        "매년 결제로 구독하여 최고의 할인 혜택을 받아가세요"
+      ],
+      "Special offer": [
+        "특가 할인"
+      ],
+      "Your subscription renews soon": [
+        "구독이 곧 끝나게 됩니다"
       ]
     },
     "Offer feature": {
