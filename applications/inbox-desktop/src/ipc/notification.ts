@@ -73,7 +73,7 @@ async function setBadgeCount(value: number) {
 
             const browserView = new BrowserView();
 
-            await new Promise((resolve) => {
+            await new Promise<void>((resolve) => {
                 browserView.webContents.once("dom-ready", resolve);
                 // We need to load something on the browser view so we can
                 // now that DOM is ready to execute injected JS
