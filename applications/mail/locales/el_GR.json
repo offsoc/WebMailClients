@@ -5358,7 +5358,7 @@
     },
     "Google Meet": {
       "Join Google Meet": [
-        "Συμμετάσχετε στο Google Meet"
+        "Συνδεθείτε στο Google Meet"
       ],
       "Joining instructions": [
         "Οδηγίες συμμετοχής"
@@ -10427,6 +10427,9 @@
       ],
       "Your subscription renews soon": [
         "Η συνδρομή σας ανανεωθεί σύντομα"
+      ],
+      "Special offer": [
+        "Ειδική προσφορά"
       ]
     },
     "Offer feature": {
@@ -12039,6 +12042,9 @@
       ],
       "Billed yearly": [
         "Ετήσια χρέωση"
+      ],
+      "Billed every 6 months": [
+        "Χρέωση κάθε 6 μήνες"
       ]
     },
     "Subscription attribute": {
@@ -14327,7 +14333,7 @@
     },
     "Zoom Meeting": {
       "Join Zoom meeting": [
-        "Συνδεθήτε στη σύσκεψη Zoom"
+        "Συνδεθείτε στη σύσκεψη Zoom"
       ],
       "Meeting ID:": [
         "ID συνάντησης:"

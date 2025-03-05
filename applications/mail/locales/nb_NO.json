@@ -10427,6 +10427,9 @@
       ],
       "Your subscription renews soon": [
         "Abonnementet ditt fornyes snart"
+      ],
+      "Special offer": [
+        "Spesialtilbud"
       ]
     },
     "Offer feature": {
@@ -12039,6 +12042,9 @@
       ],
       "Billed yearly": [
         "Faktureres årlig"
+      ],
+      "Billed every 6 months": [
+        "Faktureres hver 6. måned"
       ]
     },
     "Subscription attribute": {

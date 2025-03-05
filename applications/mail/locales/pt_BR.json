@@ -10409,6 +10409,12 @@
       ],
       "You currently pay": [
         "Você paga atualmente"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "A oferta expira a ${ formattedDate }."
+      ],
+      "Special offer": [
+        "Oferta especial"
       ]
     },
     "Offer feature": {

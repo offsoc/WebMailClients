@@ -1273,7 +1273,7 @@
         "Pesan ini mengandung gambar yang tersemat."
       ],
       "This message contains remote content.": [
-        "Pesan ini mengandung remote content."
+        "Pesan ini mengandung konten yang berasal dari sumber eksternal."
       ],
       "This weekend": [
         "Minggu ini"
@@ -1466,6 +1466,9 @@
       ],
       "Zoom out": [
         "Perkecil"
+      ],
+      "Use ${ PASS_APP_NAME }": [
+        "Gunakan ${ PASS_APP_NAME }"
       ]
     },
     "action": {
@@ -7761,6 +7764,9 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Paket terjadwal Anda dimulai pada ${ renewalTime } dan akan diperbarui secara otomatis setiap bulannya."
+      ],
+      "Detection takes place on your device, so no data from your emails is sent to our servers.": [
+        "Pendeteksian berlangsung pada perangkat Anda, sehingga tidak ada data dari email Anda yang dikirim ke server kami."
       ]
     },
     "info": {
@@ -7908,7 +7914,7 @@
         "Muat gambar yang tersemat"
       ],
       "Load remote content": [
-        "Muat remote content"
+        "Muat konten eksternal"
       ],
       "Mark as read": [
         "Tandai telah dibaca"
@@ -8582,6 +8588,9 @@
       ],
       "Your password (admin)": [
         "Kata sandi Anda (admin)"
+      ],
+      "Don't show this suggestion": [
+        "Jangan tampilkan saran ini"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9178,6 +9187,9 @@
       ],
       "on the third Wednesday": [
         "pada hari Rabu ketiga"
+      ],
+      "on the ${ shortenedDay }": [
+        "pada ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -10224,6 +10236,21 @@
       ],
       "You currently pay": [
         "Anda saat ini membayar"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "Penawaran akan berakhir pada ${ formattedDate }."
+      ],
+      "Pay annually, secure our best offer": [
+        "Bayar per tahun, kantongi penawaran terbaik kami"
+      ],
+      "Special offer": [
+        "Penawaran spesial"
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Pada saat Anda beralih dari langganan bulanan ke langganan tahunan."
+      ],
+      "Your subscription renews soon": [
+        "Langganan Anda akan segera diperbarui"
       ]
     },
     "Offer feature": {
@@ -11805,6 +11832,9 @@
       ],
       "Billed yearly": [
         "Ditagih setiap tahun"
+      ],
+      "Billed every 6 months": [
+        "Ditagih setiap 6 bulan"
       ]
     },
     "Subscription attribute": {
@@ -13030,7 +13060,7 @@
         "Muat gambar yang tersemat"
       ],
       "Load remote content": [
-        "Muat remote content"
+        "Muat konten eksternal"
       ],
       "Mark as read": [
         "Tandai telah dibaca"
@@ -13436,6 +13466,9 @@
       ],
       "Your shorter address is now ready": [
         "Alamat lebih pendek Anda sudah siap"
+      ],
+      "On-device suggestions": [
+        "Saran pada perangkat"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14000,6 +14033,14 @@
       ],
       "Passcode:": [
         "Kode sandi:"
+      ]
+    },
+    "Info for cash payment method": {
+      "How to send a cash payment?": [
+        "Bagaimana cara mengirim pembayaran tunai?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Silakan ikuti instruksi yang tertera pada artikel berikut: ${ howToSendCashArticleUrl }"
       ]
     }
   }

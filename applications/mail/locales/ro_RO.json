@@ -10589,6 +10589,18 @@
       ],
       "You currently pay": [
         "Acum plătiți"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "Oferta expiră ${ formattedDate }."
+      ],
+      "Pay annually, secure our best offer": [
+        "Plătiți anual, asigurați-vă cea mai bună ofertă"
+      ],
+      "Special offer": [
+        "Ofertă specială"
+      ],
+      "Your subscription renews soon": [
+        "Abonamentul se va reînnoi în curând"
       ]
     },
     "Offer feature": {
@@ -12232,6 +12244,9 @@
       ],
       "Billed yearly": [
         "Facturat anual"
+      ],
+      "Billed every 6 months": [
+        "Facturat la fiecare 6 luni"
       ]
     },
     "Subscription attribute": {

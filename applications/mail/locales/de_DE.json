@@ -385,7 +385,7 @@
         "Alias deaktivieren"
       ],
       "Disabling alias": [
-        "Alias deaktivieren"
+        "Alias wird deaktiviert"
       ],
       "Discard": [
         "Verwerfen"
@@ -1379,7 +1379,7 @@
         "Farbschema „${ label }“ verwenden"
       ],
       "Use ${ PASS_APP_NAME }": [
-        "Benutze ${ PASS_APP_NAME }"
+        "${ PASS_APP_NAME } verwenden"
       ],
       "Use a different card": [
         "Eine andere Karte verwenden"
@@ -1467,7 +1467,7 @@
         "Deine kostenlose Testversion der Desktop-App endet am ${ formattedEndDate }. ${ upgradeButton }"
       ],
       "Your email writing assistant": [
-        "Dein E-Mail Schreibeisstent"
+        "Dein E-Mail-Schreibassistent"
       ],
       "Zoom in": [
         "Vergrößern"
@@ -6811,7 +6811,7 @@
         "Monatlich ${ onDayString }"
       ],
       "More infos": [
-        "Weitere Infos"
+        "Weitere Informationen"
       ],
       "More refine actions": [
         "Weitere Verbesserungsaktionen"
@@ -6969,7 +6969,7 @@
         "Bitte teile uns mit, was das Problem ist"
       ],
       "Please share what you expected": [
-        "Bitte teil was du erwartet hast"
+        "Bitte teile deine Erwartungen"
       ],
       "Please try again in a few moments": [
         "Bitte versuche es in Kürze erneut."
@@ -10405,7 +10405,7 @@
         "Jährlich zahlen, unser bestes Angebot sichern"
       ],
       "Save": [
-        "Sparen"
+        "Spare"
       ],
       "Save ${ prices.savedPercentage }%": [
         "Spare ${ prices.savedPercentage }%"
@@ -10427,6 +10427,9 @@
       ],
       "Your subscription renews soon": [
         "Dein Abonnement verlängert sich bald"
+      ],
+      "Special offer": [
+        "Sonderangebot"
       ]
     },
     "Offer feature": {
@@ -12039,6 +12042,9 @@
       ],
       "Billed yearly": [
         "Wird jährlich abgerechnet"
+      ],
+      "Billed every 6 months": [
+        "Wird alle 6 Monate abgerechnet"
       ]
     },
     "Subscription attribute": {
