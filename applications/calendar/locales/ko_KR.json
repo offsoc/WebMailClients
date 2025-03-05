@@ -5961,6 +5961,9 @@
       ],
       "On": [
         "켬"
+      ],
+      "Every": [
+        "전체"
       ]
     },
     "Label for contact group color": {
@@ -10649,7 +10652,7 @@
         "월간 보기"
       ],
       "Next period": [
-        "다음 생리"
+        "다음 기간"
       ],
       "Open quick actions menu": [
         "빠른 동작 매뉴 열기"

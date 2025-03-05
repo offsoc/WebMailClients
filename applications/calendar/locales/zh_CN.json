@@ -750,7 +750,7 @@
         "上传图片"
       ],
       "Use ${ label } theme": [
-        "使用 ${ label } 配色"
+        "使用 ${ label } 主题"
       ],
       "Use a different card": [
         "使用其他银行卡"
@@ -845,7 +845,7 @@
         "${ domains } 个额外的自有域名"
       ],
       "${ ips } server": [
-        "${ ips } 个服务器"
+        "${ ips } 台服务器"
       ],
       "${ price } per dedicated server": [
         "${ price } 每个专用服务器"
@@ -5906,7 +5906,7 @@
         "系统信息"
       ],
       "Theme": [
-        "配色"
+        "主题"
       ],
       "Thomas": [
         "Thomas"
@@ -7602,6 +7602,9 @@
       ],
       "Your subscription renews soon": [
         "您的订阅即将续订"
+      ],
+      "Special offer": [
+        "特价"
       ]
     },
     "Offer feature": {
@@ -7663,7 +7666,7 @@
         "通过左上角的切换按钮可以前往所有 ${ BRAND_NAME } 服务：${ MAIL_SHORT_APP_NAME }、${ VPN_SHORT_APP_NAME }、${ CALENDAR_SHORT_APP_NAME }、${ DRIVE_SHORT_APP_NAME } 和 ${ PASS_SHORT_APP_NAME }。"
       ],
       "You will be able to change your theme any time in your settings.": [
-        "您可以随时在设置中更换配色。"
+        "您可以随时在设置中更换主题。"
       ]
     },
     "Option": {

@@ -1272,6 +1272,9 @@
       ],
       "Take a tour": [
         "Ознакомительный тур"
+      ],
+      "Close": [
+        "Закрыть"
       ]
     },
     "Calendar access select label": {
@@ -9328,6 +9331,9 @@
       ],
       "Billed yearly": [
         "Ежегодная оплата"
+      ],
+      "Billed every 6 months": [
+        "Списано каждые 6 месяцев"
       ]
     },
     "Subscription attribute": {

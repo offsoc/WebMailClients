@@ -2804,7 +2804,7 @@
     },
     "driveplus2024: Deal details": {
       "Extended version history": [
-        "Genişletilmiş sürüm geçmişi"
+        "Ayrıntılı sürüm geçmişi"
       ],
       "Priority support": [
         "Öncelikli destek"
@@ -3024,7 +3024,7 @@
         "Kişi imzası doğrulanamadı"
       ],
       "Content search cannot be enabled in this browser. Please quit private browsing mode or use another browser.": [
-        "Bu tarayıcıda içerik arama özelliği açılamıyor. Lütfen gizli/özel tarayıcı kipinden çıkın ya da farklı bir tarayıcı deneyin."
+        "Bu tarayıcıda içerik arama özelliği açılamıyor. Lütfen gizli/özel pencereden çıkın ya da farklı bir tarayıcı deneyin."
       ],
       "Content search cannot be enabled. Please restart the application or clear data.": [
         "İçerik arama açılamadı. Lütfen uygulamayı yeniden başlatın ya da verileri temizleyin."
@@ -4964,7 +4964,7 @@
         "PGP/ınline yalnızca düz metin biçimi ile uyumludur."
       ],
       "PGP/MIME automatically sends the message using the current composer mode.": [
-        "PGP/MIME geçerli oluşturucu kipinde iletiyi otomatik olarak gönderir."
+        "PGP/MIME geçerli oluşturucu görünümünde iletiyi otomatik olarak gönderir."
       ],
       "Please authenticate your card in the verification tab.": [
         "Lütfen doğrulama sekmesinden kartınızı doğrulayın."
@@ -7354,7 +7354,7 @@
         "Wi-Fi ağınıza bağlı her aygıtı koruyun. Ayrıca doğrudan VPN ayarlarını desteklemeyen aygıtlarınız olduğunda da işe yarar."
       ],
       "Protect your family from harmful websites and access our high-speed VPN servers to stream your favorite content": [
-        "Ailenizi zararlı sitelerden koruyun ve en sevdiğiniz yayın akışlarını izlemek için yüksek hızlı VPN sunucularımıza erişin"
+        "Ailenizi zararlı sitelerden koruyun ve sevdiğiniz yayın akışlarını izlemek için yüksek hızlı VPN sunucularımıza erişin"
       ],
       "Protect your real email address from being disclosed or leaked with aliases (a randomly-generated email address that forwards emails to your main inbox).": [
         "Takma adlarla (e-postaları asıl gelen kutunuza ileten, rastgele oluşturulmuş bir e-posta adresi) gerçek e-posta adresinizin açığa çıkmasını veya sızdırılmasını engelleyin."
@@ -7739,7 +7739,7 @@
         "Teklifin geçerliliği ${ formattedDate } tarihinde sona erecek."
       ],
       "Pay annually, secure our best offer": [
-        "Yıllık ödeme yapın en iyi teklifimizi güvence altına alın"
+        "Yıllık ödeme yapın, en iyi teklifimizi değerlendirin"
       ],
       "Special offer": [
         "Özel teklif"
@@ -7882,7 +7882,7 @@
         "Her hafta ${ everyWeekDescription }"
       ],
       "Every weekday ${ everyWeekdayDescription }": [
-        "Hafta içi her gün ${ everyWeekdayDescription }"
+        "Her hafta içi ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -8999,6 +8999,9 @@
       ],
       "Billed yearly": [
         "Yılda bir faturalanır"
+      ],
+      "Billed every 6 months": [
+        "6 ayda bir faturalanır"
       ]
     },
     "Subscription attribute": {
@@ -9722,7 +9725,7 @@
         "Hesap güvenliği"
       ],
       "Add a custom logo": [
-        "Özel bir logo ekle"
+        "Özel logo ekle"
       ],
       "Add another notification to remind you of this event": [
         "Bu etkinliği hatırlatacak başka bir bildirim ekleyin"

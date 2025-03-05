@@ -9002,6 +9002,9 @@
       ],
       "Billed yearly": [
         "Facturación anual"
+      ],
+      "Billed every 6 months": [
+        "Se factura cada 6 meses"
       ]
     },
     "Subscription attribute": {

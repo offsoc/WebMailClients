@@ -7743,6 +7743,9 @@
       ],
       "Your subscription renews soon": [
         "A sua subscrição renova em breve."
+      ],
+      "Special offer": [
+        "Oferta especial"
       ]
     },
     "Offer feature": {
@@ -8996,6 +8999,9 @@
       ],
       "Billed yearly": [
         "Faturação anual"
+      ],
+      "Billed every 6 months": [
+        "Faturação a cada 6 meses"
       ]
     },
     "Subscription attribute": {
@@ -10912,7 +10918,7 @@
         "Acções básicas"
       ],
       "View options": [
-        "Ver as opções"
+        "Ver opções"
       ]
     }
   }

@@ -2541,6 +2541,21 @@
         "krát",
         "krát",
         "krát"
+      ],
+      "Don't end": [
+        "Neukončovať"
+      ],
+      "End after": [
+        "Ukončiť po"
+      ],
+      "End on": [
+        "Koniec"
+      ],
+      "event": [
+        "udalosť",
+        "udalosti",
+        "udalostí",
+        "udalostí"
       ]
     },
     "Cycle": {
@@ -4063,6 +4078,9 @@
       ],
       "Security Center": [
         "Centrum zabezpečenia"
+      ],
+      "Repeat event": [
+        "Opakovať udalosť"
       ]
     },
     "Hint": {
@@ -5637,6 +5655,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Prosím kontaktujte nás na ${ email } pre viac informácií, ako uhradiť platobnú transakciu v hotovosti."
+      ],
+      "How to send a cash payment?": [
+        "Ako poslať hotovostnú platbu?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Pokyny nájdete v článku: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info message": {
@@ -6192,6 +6216,12 @@
       ],
       "Keyboard shortcuts": [
         "Klávesové skratky"
+      ],
+      "Every": [
+        "Každý"
+      ],
+      "On": [
+        "Zap."
       ]
     },
     "Label for contact group color": {
@@ -6693,6 +6723,9 @@
       ],
       "on the third Wednesday": [
         "v tretiu stredu"
+      ],
+      "on the ${ shortenedDay }": [
+        "v ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -7983,6 +8016,18 @@
       ],
       "You currently pay": [
         "V súčasnosti platíte"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "Ponuka skončí ${ formattedDate }."
+      ],
+      "Pay annually, secure our best offer": [
+        "Plaťte ročne, poistite si našu najlepšiu ponuku"
+      ],
+      "Special offer": [
+        "Špeciálna ponuka"
+      ],
+      "Your subscription renews soon": [
+        "Vaše predplatné čoskoro obnoví"
       ]
     },
     "Offer feature": {
@@ -8116,6 +8161,18 @@
         "Roky",
         "Rokov",
         "Rokov"
+      ],
+      "Custom...": [
+        "Vlastné..."
+      ],
+      "Every month ${ description }": [
+        "Každý mesiac ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "Každý týždeň ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "Každý deň v týždni ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -10564,6 +10621,24 @@
       ],
       "Help center": [
         "Centrum pomoci"
+      ],
+      "Does not repeat": [
+        "Neopakuje sa"
+      ],
+      "Every day": [
+        "Každý deň"
+      ],
+      "Every month ${ option.text }": [
+        "Každý mesiac ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "Každý týždeň v ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "Každý deň v týždni ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "Každý rok"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {

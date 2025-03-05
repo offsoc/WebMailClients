@@ -2511,7 +2511,7 @@
         "mal"
       ],
       "Don't end": [
-        "Hört nicht auf"
+        "Endet nie"
       ],
       "End after": [
         "Endet nach"
@@ -7718,7 +7718,7 @@
         "Mail Plus für 12 Monate"
       ],
       "Save": [
-        "Sparen"
+        "Spare"
       ],
       "Save ${ prices.savedPercentage }%": [
         "Spare ${ prices.savedPercentage }%"
@@ -8999,6 +8999,9 @@
       ],
       "Billed yearly": [
         "Wird jährlich abgerechnet"
+      ],
+      "Billed every 6 months": [
+        "Wird alle 6 Monate abgerechnet"
       ]
     },
     "Subscription attribute": {
@@ -11003,7 +11006,7 @@
     },
     "Keyboard shortcut name": {
       "Create new event": [
-        "Neuer Termin erstellen"
+        "Neuen Termin erstellen"
       ],
       "Day view": [
         "Tagesansicht"

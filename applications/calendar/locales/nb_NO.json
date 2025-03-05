@@ -8999,6 +8999,9 @@
       ],
       "Billed yearly": [
         "Faktureres årlig"
+      ],
+      "Billed every 6 months": [
+        "Faktureres hver 6. måned"
       ]
     },
     "Subscription attribute": {

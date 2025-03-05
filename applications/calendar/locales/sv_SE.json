@@ -9010,6 +9010,9 @@
       ],
       "Billed yearly": [
         "Faktureras årligen"
+      ],
+      "Billed every 6 months": [
+        "Faktureras var 6:e månad"
       ]
     },
     "Subscription attribute": {
