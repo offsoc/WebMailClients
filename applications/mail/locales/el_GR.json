@@ -12072,6 +12072,9 @@
       ],
       "Billed yearly": [
         "Ετήσια χρέωση"
+      ],
+      "Billed every 6 months": [
+        "Χρέωση κάθε 6 μήνες"
       ]
     },
     "Subscription attribute": {

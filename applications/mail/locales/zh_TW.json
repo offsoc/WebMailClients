@@ -1457,6 +1457,15 @@
       ],
       "Zoom out": [
         "縮小"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "設定${ MAIL_APP_NAME }為預設電子郵件應用程式"
+      ],
+      "Set as album cover": [
+        "設定相簿封面"
+      ],
+      "Use ${ PASS_APP_NAME }": [
+        "使用：${ PASS_APP_NAME }"
       ]
     },
     "action": {
@@ -1517,7 +1526,7 @@
         "${ seats }撰寫幫手就位"
       ],
       "${ users } user": [
-        "${ users } 個使用者"
+        "${ users } 位使用者"
       ]
     },
     "Alert": {
@@ -2277,7 +2286,7 @@
     },
     "Checkout row": {
       "${ users } user": [
-        "${ users } 個使用者"
+        "${ users } 位使用者"
       ],
       "Total": [
         "總共"
@@ -4509,6 +4518,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "搜尋結果過多。請縮小您的搜尋範圍並重新試試。"
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "您的帳號名稱是 ${ user.Name }。如果要建立 ${ emailAddress } 這個電子郵件地址，請到「設定」>「身分 \n及地址」>「短網域名稱 (pm.me)」裡面去設定。"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7734,6 +7746,24 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "您的方案開始於${ renewalTime }及於每月重新開始。"
+      ],
+      "${ BRAND_NAME }'s password manager lets you create, store, and autofill passwords, so you never have to reset them.": [
+        "${ BRAND_NAME }的密碼管理器使您能創建，儲存，及自動填入密碼，所以您永遠不需要重設他們。"
+      ],
+      "Detection takes place on your device, so no data from your emails is sent to our servers.": [
+        "於您的裝置執行偵測，無電子郵件內容被傳送至我們的伺服器。"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "設定${ MAIL_APP_NAME }為預設電子郵件應用程式."
+      ],
+      "More infos": [
+        "更多資訊"
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "將 ${ MAIL_APP_NAME } 設為您預設郵件應用程式。當您點擊電郵位址連結時，${ MAIL_APP_NAME } 將會自動開啟。"
+      ],
+      "This was shown to you because your email subject line contains password reset keywords.": [
+        "此因為您電子郵件主旨行包含密碼重設關鍵字而顯示。"
       ]
     },
     "info": {
@@ -7750,6 +7780,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "請寄送電郵到 ${ email } 聯絡我們，以獲得如何將現金支付給我們的相關指引。"
+      ],
+      "How to send a cash payment?": [
+        "如何傳送現金付款?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "請參見此文章的指示:${ howToSendCashArticleUrl }"
       ]
     },
     "Info on errors": {
@@ -8563,6 +8599,9 @@
       ],
       "Your password (admin)": [
         "您的密碼（管理員）"
+      ],
+      "Don't show this suggestion": [
+        "不再顯示此建議"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9162,6 +9201,9 @@
       ],
       "on the third Wednesday": [
         "第三個週三"
+      ],
+      "on the ${ shortenedDay }": [
+        "在${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -10188,6 +10230,18 @@
       ],
       "You currently pay": [
         "您目前付款"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "優惠將於${ formattedDate }過期."
+      ],
+      "Pay annually, secure our best offer": [
+        "每年付款，安全及最適方案"
+      ],
+      "Special offer": [
+        "特別優惠"
+      ],
+      "Your subscription renews soon": [
+        "您的訂閱即將重新續約"
       ]
     },
     "Offer feature": {
@@ -11771,7 +11825,7 @@
         "${ n } 個極飆速 VPN 連線"
       ],
       "${ n } high-speed VPN connection per user": [
-        "${ n } 個極飆速 VPN 連線 / 每一位使用者"
+        "${ n } 組極飆速 VPN 連線 / 每一位使用者"
       ],
       "${ n } VPN connection": [
         "${ n } 個 VPN 連線"
@@ -13374,6 +13428,9 @@
       ],
       "Help center": [
         "說明中心"
+      ],
+      "On-device suggestions": [
+        "裝置上建議"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13506,13 +13563,13 @@
     },
     "VPN Plan Feature": {
       "${ n } server": [
-        "${ n } 台伺服器"
+        "${ n } 臺伺服器"
       ],
       "${ n } VPN connection": [
         "${ n } 條VPN連線"
       ],
       "${ numberOfServers } across ${ numberOfCountries } country": [
-        "${ numberOfServers } 台，分布於 ${ numberOfCountries }+ 個國家"
+        "${ numberOfServers } 臺伺服器，橫跨 ${ numberOfCountries }+ 個國家"
       ],
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "分布於 ${ numberOfCountries } 國家的 ${ numberOfServers } 台伺服器"

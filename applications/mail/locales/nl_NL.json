@@ -12075,6 +12075,9 @@
       ],
       "Billed yearly": [
         "Jaarlijks gefactureerd"
+      ],
+      "Billed every 6 months": [
+        "Elke 6 maanden gefactureerd"
       ]
     },
     "Subscription attribute": {

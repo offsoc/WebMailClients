@@ -1268,7 +1268,7 @@
         "Basculer vers ou ajouter un compte"
       ],
       "Take a tour": [
-        "Visite guidée"
+        "Laissez-vous guider"
       ],
       "This message contains embedded images.": [
         "Ce message contient des images intégrées."
@@ -1972,7 +1972,7 @@
         "Configurez d'autres fonctionnalités"
       ],
       "Take a tour": [
-        "Visite guidée"
+        "Laissez-vous guider"
       ]
     },
     "Calendar attachment tooltip": {
@@ -12081,6 +12081,9 @@
       ],
       "Billed yearly": [
         "Facturé annuellement"
+      ],
+      "Billed every 6 months": [
+        "Facturation tous les 6 mois"
       ]
     },
     "Subscription attribute": {

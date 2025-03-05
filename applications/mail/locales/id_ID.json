@@ -11858,6 +11858,9 @@
       ],
       "Billed yearly": [
         "Ditagih setiap tahun"
+      ],
+      "Billed every 6 months": [
+        "Ditagih setiap 6 bulan"
       ]
     },
     "Subscription attribute": {

@@ -385,7 +385,7 @@
         "Alias deaktivieren"
       ],
       "Disabling alias": [
-        "Alias deaktivieren"
+        "Alias wird deaktiviert"
       ],
       "Discard": [
         "Verwerfen"
@@ -1461,7 +1461,7 @@
         "Deine kostenlose Testversion der Desktop-App endet am ${ formattedEndDate }. ${ upgradeButton }"
       ],
       "Your email writing assistant": [
-        "Dein E-Mail Schreibeisstent"
+        "Dein E-Mail-Schreibassistent"
       ],
       "Zoom in": [
         "Vergrößern"
@@ -1476,7 +1476,7 @@
         "Setze als Album-Titelbild"
       ],
       "Use ${ PASS_APP_NAME }": [
-        "Benutze ${ PASS_APP_NAME }"
+        "${ PASS_APP_NAME } verwenden"
       ]
     },
     "action": {
@@ -6969,7 +6969,7 @@
         "Bitte teile uns mit, was das Problem ist"
       ],
       "Please share what you expected": [
-        "Bitte teil was du erwartet hast"
+        "Bitte teile deine Erwartungen"
       ],
       "Please try again in a few moments": [
         "Bitte versuche es in Kürze erneut."
@@ -7909,7 +7909,7 @@
         "Die Erkennung findet auf deinem Gerät statt, sodass keine Daten von deinen E-Mails an unsere Server gesendet werden."
       ],
       "More infos": [
-        "Weitere Infos"
+        "Weitere Informationen"
       ],
       "This was shown to you because your email subject line contains password reset keywords.": [
         "Dies wurde dir angezeigt, weil die Betreffzeile deiner E-Mail Schlüsselwörter zum Zurücksetzen des Passworts enthält."
@@ -10429,7 +10429,7 @@
         "Mail Plus für 12 Monate"
       ],
       "Save": [
-        "Sparen"
+        "Spare"
       ],
       "Save ${ prices.savedPercentage }%": [
         "Spare ${ prices.savedPercentage }%"
@@ -12072,6 +12072,9 @@
       ],
       "Billed yearly": [
         "Wird jährlich abgerechnet"
+      ],
+      "Billed every 6 months": [
+        "Wird alle 6 Monate abgerechnet"
       ]
     },
     "Subscription attribute": {

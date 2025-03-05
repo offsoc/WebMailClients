@@ -1477,6 +1477,9 @@
       ],
       "Use ${ PASS_APP_NAME }": [
         "Use ${ PASS_APP_NAME }"
+      ],
+      "Trust key": [
+        "Clave de confianza"
       ]
     },
     "action": {
@@ -12081,6 +12084,9 @@
       ],
       "Billed yearly": [
         "Facturación anual"
+      ],
+      "Billed every 6 months": [
+        "Se factura cada 6 meses"
       ]
     },
     "Subscription attribute": {

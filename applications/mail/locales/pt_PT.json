@@ -412,7 +412,7 @@
         "Transferir agora"
       ],
       "Download the desktop app": [
-        "Transfira a aplicação para desktop"
+        "Transfira a aplicação para computador"
       ],
       "Downloading": [
         "A transferir"
@@ -677,7 +677,7 @@
         "Inserir uma ligação"
       ],
       "Invite members": [
-        "Convide membros"
+        "Convidar membros"
       ],
       "Italic": [
         "Itálico"
@@ -6292,7 +6292,7 @@
         "Criar em"
       ],
       "Creating multiple free accounts is not permitted by our ${ termsLink }.": [
-        "A criação de várias contas gratuitas não é permitida pelos nossos ${ termsLink }."
+        "A criação de múltiplas contas gratuitas não é permitida pelos nossos ${ termsLink }."
       ],
       "Credit for the unused portion of your previous plan subscription": [
         "Crédito pela parte não utilizada no plano anterior da sua subscrição"
@@ -7213,7 +7213,7 @@
         "Mudar para"
       ],
       "Sync and manage files with the ${ DRIVE_APP_NAME } app. Create and share documents in ${ DOCS_APP_NAME }, and securely store them. All on ${ ios }, ${ android } and ${ desktop }.": [
-        "Sincronize e gire ficheiros com a aplicação ${ DRIVE_APP_NAME } . Crie e partilhe documentos no ${ DOCS_APP_NAME }e armazene-os de forma segura. Tudo em ${ ios }, ${ android } e ${ desktop }."
+        "Sincronize e gire ficheiros com a aplicação ${ DRIVE_APP_NAME }. Crie e partilhe documentos no ${ DOCS_APP_NAME }e armazene-os de forma segura. Tudo em ${ ios }, ${ android } e ${ desktop }."
       ],
       "Temporarily unavailable. Please check back later.": [
         "Temporariamente indisponível. Tente mais tarde."
@@ -10442,6 +10442,9 @@
       ],
       "Your subscription renews soon": [
         "A sua subscrição renova em breve."
+      ],
+      "Special offer": [
+        "Oferta especial"
       ]
     },
     "Offer feature": {
@@ -12057,6 +12060,9 @@
       ],
       "Billed yearly": [
         "Faturação anual"
+      ],
+      "Billed every 6 months": [
+        "Faturação a cada 6 meses"
       ]
     },
     "Subscription attribute": {

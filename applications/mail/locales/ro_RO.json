@@ -12262,6 +12262,9 @@
       ],
       "Billed yearly": [
         "Facturat anual"
+      ],
+      "Billed every 6 months": [
+        "Facturat la fiecare 6 luni"
       ]
     },
     "Subscription attribute": {

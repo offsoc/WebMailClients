@@ -1481,6 +1481,9 @@
       ],
       "Make ${ MAIL_APP_NAME } your default email application": [
         "Nastavte ${ MAIL_APP_NAME } ako vašu predvolenú emailovú aplikáciu"
+      ],
+      "Use ${ PASS_APP_NAME }": [
+        "Použiť ${ PASS_APP_NAME }"
       ]
     },
     "action": {
@@ -8148,6 +8151,18 @@
       ],
       "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
         "Nastavte ${ MAIL_APP_NAME } ako vašu predvolenú emailovú aplikáciu. ${ MAIL_APP_NAME } sa otvorí automaticky po kliknutí na emailový odkaz."
+      ],
+      "${ BRAND_NAME }'s password manager lets you create, store, and autofill passwords, so you never have to reset them.": [
+        "Správca hesiel ${ BRAND_NAME } vám umožňuje vytvárať, ukladať a automaticky vypĺňať heslá, takže ich už nikdy nebudete musieť obnovovať."
+      ],
+      "Detection takes place on your device, so no data from your emails is sent to our servers.": [
+        "Detekcia prebieha vo vašom zariadení, takže žiadne údaje z vašich emailov sa neodosielajú na naše servery."
+      ],
+      "More infos": [
+        "Viac informácií"
+      ],
+      "This was shown to you because your email subject line contains password reset keywords.": [
+        "Toto sa vám zobrazilo, pretože predmet vášho emailu obsahuje kľúčové slová pre resetovanie hesla."
       ]
     },
     "info": {
@@ -8167,6 +8182,12 @@
     "Info for cash payment method": {
       "Please contact us at ${ email } for instructions on how to pay us with cash.": [
         "Prosím kontaktujte nás na ${ email } pre viac informácií, ako uhradiť platobnú transakciu v hotovosti."
+      ],
+      "How to send a cash payment?": [
+        "Ako poslať hotovostnú platbu?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Pokyny nájdete v článku: ${ howToSendCashArticleUrl }"
       ]
     },
     "Info on errors": {
@@ -8995,6 +9016,9 @@
       ],
       "Your password (admin)": [
         "Vaše heslo (admin)"
+      ],
+      "Don't show this suggestion": [
+        "Nezobrazovať tento návrh"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9618,6 +9642,9 @@
       ],
       "on the third Wednesday": [
         "v tretiu stredu"
+      ],
+      "on the ${ shortenedDay }": [
+        "v ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -10748,6 +10775,18 @@
       ],
       "You currently pay": [
         "V súčasnosti platíte"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "Ponuka skončí ${ formattedDate }."
+      ],
+      "Pay annually, secure our best offer": [
+        "Plaťte ročne, poistite si našu najlepšiu ponuku"
+      ],
+      "Special offer": [
+        "Špeciálna ponuka"
+      ],
+      "Your subscription renews soon": [
+        "Vaše predplatné čoskoro obnoví"
       ]
     },
     "Offer feature": {
@@ -14221,6 +14260,9 @@
       ],
       "${ appName } keyboard shortcuts": [
         "${ appName } klávesové skratky"
+      ],
+      "On-device suggestions": [
+        "Návrhy v zariadení"
       ]
     },
     "Today icon tooltip in mini calendar": {
