@@ -1,6 +1,7 @@
 import { subDays } from 'date-fns';
 
-import { COUPON_CODES, CYCLE, PLANS, PLAN_TYPES } from '@proton/payments';
+import { CYCLE, PLANS, PLAN_TYPES } from '@proton/payments';
+import { COUPON_CODES } from '@proton/shared/lib/constants';
 import { External, type ProtonConfig, type Subscription, type UserModel } from '@proton/shared/lib/interfaces';
 
 import { getIsEligible } from './eligibility';
