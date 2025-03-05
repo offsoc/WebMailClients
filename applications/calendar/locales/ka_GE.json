@@ -7746,6 +7746,18 @@
       ],
       "You currently pay": [
         "ამჟამად იხდით"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "შეთავაზების ვადა იწურება ${ formattedDate }-ზე."
+      ],
+      "Pay annually, secure our best offer": [
+        "გადაიხადეთ წელიწადში ერთხელ, მიიღეთ ჩვენ საუკეთესო შეთავაზება"
+      ],
+      "Special offer": [
+        "სპეციალური შეთავაზება"
+      ],
+      "Your subscription renews soon": [
+        "თქვენი გამოწერა მალე განახლდება"
       ]
     },
     "Offer feature": {
@@ -8987,6 +8999,9 @@
       ],
       "Billed yearly": [
         "გადახდა წელიწადში ერთხელ"
+      ],
+      "Billed every 6 months": [
+        "გადახდა 6 თვეში ერთხელ"
       ]
     },
     "Subscription attribute": {

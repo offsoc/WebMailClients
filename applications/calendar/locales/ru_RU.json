@@ -1277,6 +1277,9 @@
       ],
       "Take a tour": [
         "Ознакомительный тур"
+      ],
+      "Close": [
+        "Закрыть"
       ]
     },
     "Calendar access select label": {
@@ -8042,6 +8045,18 @@
       ],
       "You currently pay": [
         "Вы оплачиваете сейчас"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "Срок действия предложения истекает ${ formattedDate }."
+      ],
+      "Pay annually, secure our best offer": [
+        "Платите ежегодно, получите наше лучшее предложение"
+      ],
+      "Special offer": [
+        "Специальное предложение"
+      ],
+      "Your subscription renews soon": [
+        "Ваша подписка скоро обновится"
       ]
     },
     "Offer feature": {
@@ -9347,6 +9362,9 @@
       ],
       "Billed yearly": [
         "Ежегодная оплата"
+      ],
+      "Billed every 6 months": [
+        "Списано каждые 6 месяцев"
       ]
     },
     "Subscription attribute": {

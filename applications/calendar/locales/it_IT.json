@@ -7782,6 +7782,9 @@
       ],
       "Your subscription renews soon": [
         "Il tuo abbonamento si rinnoverà presto"
+      ],
+      "Special offer": [
+        "Offerta speciale"
       ]
     },
     "Offer feature": {
@@ -9029,6 +9032,9 @@
       ],
       "Billed yearly": [
         "Fatturazione annuale"
+      ],
+      "Billed every 6 months": [
+        "Fatturato ogni 6 mesi"
       ]
     },
     "Subscription attribute": {

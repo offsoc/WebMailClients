@@ -696,7 +696,7 @@
         "Basculer vers ou ajouter un compte"
       ],
       "Take a tour": [
-        "Visite guidée"
+        "Laissez-vous guider"
       ],
       "Today": [
         "Aujourd'hui"
@@ -1259,7 +1259,7 @@
         "Configurez d'autres fonctionnalités"
       ],
       "Take a tour": [
-        "Visite guidée"
+        "Laissez-vous guider"
       ]
     },
     "Calendar access select label": {
@@ -7777,6 +7777,9 @@
       ],
       "Your subscription renews soon": [
         "Votre abonnement se renouvelle bientôt."
+      ],
+      "Special offer": [
+        "Offre spéciale"
       ]
     },
     "Offer feature": {
@@ -8767,7 +8770,7 @@
         "Passez à Premium"
       ],
       "Upgrade for ${ pricingTitle }": [
-        "Passez à un abonnement supérieur pour ${ pricingTitle }"
+        "Changez d'abonnement pour ${ pricingTitle }"
       ]
     },
     "specialoffer: Offers": {
@@ -9024,6 +9027,9 @@
       ],
       "Billed yearly": [
         "Facturé annuellement"
+      ],
+      "Billed every 6 months": [
+        "Facturation tous les 6 mois"
       ]
     },
     "Subscription attribute": {

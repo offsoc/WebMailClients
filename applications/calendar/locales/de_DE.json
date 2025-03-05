@@ -2529,7 +2529,7 @@
     },
     "Custom frequency option": {
       "Don't end": [
-        "Hört nicht auf"
+        "Endet nie"
       ],
       "End after": [
         "Endet nach"
@@ -5607,7 +5607,7 @@
     },
     "Keyboard shortcut name": {
       "Create new event": [
-        "Neuer Termin erstellen"
+        "Neuen Termin erstellen"
       ],
       "Day view": [
         "Tagesansicht"
@@ -7752,7 +7752,7 @@
         "Jährlich zahlen, unser bestes Angebot sichern"
       ],
       "Save": [
-        "Sparen"
+        "Spare"
       ],
       "Save ${ prices.savedPercentage }%": [
         "Spare ${ prices.savedPercentage }%"
@@ -7774,6 +7774,9 @@
       ],
       "Your subscription renews soon": [
         "Dein Abonnement verlängert sich bald"
+      ],
+      "Special offer": [
+        "Sonderangebot"
       ]
     },
     "Offer feature": {
@@ -9021,6 +9024,9 @@
       ],
       "Billed yearly": [
         "Wird jährlich abgerechnet"
+      ],
+      "Billed every 6 months": [
+        "Wird alle 6 Monate abgerechnet"
       ]
     },
     "Subscription attribute": {

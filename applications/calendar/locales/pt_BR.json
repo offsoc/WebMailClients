@@ -7762,6 +7762,12 @@
       ],
       "You currently pay": [
         "Você paga atualmente"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "A oferta expira a ${ formattedDate }."
+      ],
+      "Special offer": [
+        "Oferta especial"
       ]
     },
     "Offer feature": {
@@ -7884,6 +7890,12 @@
       "Year": [
         "Ano",
         "Anos"
+      ],
+      "Every month ${ description }": [
+        "Cada mês ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "Cada semana ${ everyWeekDescription }"
       ]
     },
     "Option group label": {
@@ -10238,6 +10250,9 @@
       ],
       "Your shorter address is now ready": [
         "Seu endereço mais curto já está pronto"
+      ],
+      "Every month ${ option.text }": [
+        "Cada mês ${ option.text }"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {

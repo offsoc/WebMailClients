@@ -7774,6 +7774,9 @@
       ],
       "Your subscription renews soon": [
         "Uw abonnement verloopt binnenkort"
+      ],
+      "Special offer": [
+        "Speciale aanbieding"
       ]
     },
     "Offer feature": {
@@ -9021,6 +9024,9 @@
       ],
       "Billed yearly": [
         "Jaarlijks gefactureerd"
+      ],
+      "Billed every 6 months": [
+        "Elke 6 maanden gefactureerd"
       ]
     },
     "Subscription attribute": {

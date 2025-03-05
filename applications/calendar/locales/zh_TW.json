@@ -862,7 +862,7 @@
         "${ seats }撰寫幫手就位"
       ],
       "${ users } user": [
-        "${ users } 個使用者"
+        "${ users } 位使用者"
       ]
     },
     "Alarm notification": {
@@ -1481,7 +1481,7 @@
     },
     "Checkout row": {
       "${ users } user": [
-        "${ users } 個使用者"
+        "${ users } 位使用者"
       ],
       "Total": [
         "總共"
@@ -3374,6 +3374,9 @@
       ],
       "Your import will not be processed.": [
         "將不會處理您的匯入。"
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "您的帳號名稱是 ${ user.Name }。如果要建立 ${ emailAddress } 這個電子郵件地址，請到「設定」>「身分 \n及地址」>「短網域名稱 (pm.me)」裡面去設定。"
       ]
     },
     "Error accepting calendar invitation": {
@@ -3939,6 +3942,9 @@
       ],
       "Security Center": [
         "安全中心"
+      ],
+      "Repeat event": [
+        "重複活動"
       ]
     },
     "Hint": {
@@ -5959,6 +5965,12 @@
       ],
       "Your password (admin)": [
         "您的密碼（管理員）"
+      ],
+      "Every": [
+        "每"
+      ],
+      "On": [
+        "開"
       ]
     },
     "Label for contact group color": {
@@ -6433,6 +6445,9 @@
       ],
       "on the third Wednesday": [
         "第三個週三"
+      ],
+      "on the ${ shortenedDay }": [
+        "在${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -7561,6 +7576,18 @@
       ],
       "You currently pay": [
         "您目前付款"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "優惠將於${ formattedDate }過期."
+      ],
+      "Pay annually, secure our best offer": [
+        "每年付款，安全及最適方案"
+      ],
+      "Special offer": [
+        "特別優惠"
+      ],
+      "Your subscription renews soon": [
+        "您的訂閱即將重新續約"
       ]
     },
     "Offer feature": {
@@ -7676,6 +7703,18 @@
       ],
       "Year": [
         "年"
+      ],
+      "Custom...": [
+        "個人化..."
+      ],
+      "Every month ${ description }": [
+        "每月${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "每週於${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "每週工作日${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -8615,6 +8654,9 @@
       ],
       "Video conferencing is here!": [
         "會議於此!"
+      ],
+      "Seamlessly create and add video meeting links to your events.": [
+        "無痕地創建和添加視訊會議連結至您的行程。"
       ]
     },
     "sso": {
@@ -8763,7 +8805,7 @@
         "${ n } 個極飆速 VPN 連線"
       ],
       "${ n } high-speed VPN connection per user": [
-        "${ n } 個極飆速 VPN 連線 / 每一位使用者"
+        "${ n } 組極飆速 VPN 連線 / 每一位使用者"
       ],
       "${ n } VPN connection": [
         "${ n } 個 VPN 連線"
@@ -9930,6 +9972,24 @@
       ],
       "Your shorter address is now ready": [
         "您的短地址已完成"
+      ],
+      "Does not repeat": [
+        "不重複"
+      ],
+      "Every day": [
+        "每天"
+      ],
+      "Every month ${ option.text }": [
+        "每月${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "每週於${ weekdaysLong[currentDay] }日"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "每週工作日${ startOfTheWeekDay }-${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "每年"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10065,13 +10125,13 @@
     },
     "VPN Plan Feature": {
       "${ n } server": [
-        "${ n } 台伺服器"
+        "${ n } 臺伺服器"
       ],
       "${ n } VPN connection": [
         "${ n } 條VPN連線"
       ],
       "${ numberOfServers } across ${ numberOfCountries } country": [
-        "${ numberOfServers } 台，分布於 ${ numberOfCountries }+ 個國家"
+        "${ numberOfServers } 臺伺服器，橫跨 ${ numberOfCountries }+ 個國家"
       ],
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "分布於 ${ numberOfCountries } 國家的 ${ numberOfServers } 台伺服器"
@@ -10475,6 +10535,19 @@
       ],
       "Passcode:": [
         "數字密碼:"
+      ]
+    },
+    "Custom frequency option": {
+      "event": [
+        "事件"
+      ]
+    },
+    "Info for cash payment method": {
+      "How to send a cash payment?": [
+        "如何傳送現金付款?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "請參見此文章的指示:${ howToSendCashArticleUrl }"
       ]
     }
   }

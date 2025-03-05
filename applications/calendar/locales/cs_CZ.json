@@ -8026,7 +8026,7 @@
         "Možná později"
       ],
       "Offer expires ${ formattedDate }.": [
-        "Nabídka vyprší ${ formattedDate }"
+        "Nabídka vyprší ${ formattedDate }."
       ],
       "Pay annually, secure our best offer": [
         "Plaťte ročně, zajistěte si naši nejlepší nabídku"
@@ -8054,6 +8054,9 @@
       ],
       "Your subscription renews soon": [
         "Vaše předplatné se brzy obnoví"
+      ],
+      "Special offer": [
+        "Speciální nabídka"
       ]
     },
     "Offer feature": {
@@ -9362,6 +9365,9 @@
       ],
       "Billed yearly": [
         "Účtováno ročně"
+      ],
+      "Billed every 6 months": [
+        "Účtováno každých 6 měsíců"
       ]
     },
     "Subscription attribute": {

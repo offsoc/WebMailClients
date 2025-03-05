@@ -7625,6 +7625,18 @@
       ],
       "You currently pay": [
         "現在の支払い方法"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "オファーの有効期限は ${ formattedDate }です。"
+      ],
+      "Pay annually, secure our best offer": [
+        "毎年払い、安全な私たちの最高のオファー"
+      ],
+      "Special offer": [
+        "特別オファー"
+      ],
+      "Your subscription renews soon": [
+        "サブスクリプションはまもなく更新されます"
       ]
     },
     "Offer feature": {

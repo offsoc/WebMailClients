@@ -7777,6 +7777,9 @@
       ],
       "Your subscription renews soon": [
         "La subscripció es renovarà aviat."
+      ],
+      "Special offer": [
+        "Oferta especial"
       ]
     },
     "Offer feature": {
@@ -9024,6 +9027,9 @@
       ],
       "Billed yearly": [
         "Facturació anual"
+      ],
+      "Billed every 6 months": [
+        "Facturació cada 6 mesos"
       ]
     },
     "Subscription attribute": {
