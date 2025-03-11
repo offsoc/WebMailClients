@@ -1,4 +1,4 @@
-import { BrowserView, BrowserWindow, Event, Rectangle, WebContents, app, nativeTheme } from "electron";
+import { BrowserWindow, Event, Rectangle, WebContents, WebContentsView, app, nativeTheme } from "electron";
 import { debounce } from "lodash";
 import { getWindowBounds, saveWindowBounds } from "../../store/boundsStore";
 import { getSettings, updateSettings } from "../../store/settingsStore";
@@ -39,7 +39,7 @@ type ViewID = keyof URLConfig;
 
 let currentViewID: ViewID;
 
-const browserViewMap: Record<ViewID, BrowserView | undefined> = {
+const viewMap: Record<ViewID, WebContentsView | undefined> = {
     mail: undefined,
     calendar: undefined,
     account: undefined,
@@ -75,6 +75,7 @@ const viewTitleMap: Record<ViewID, string> = {
 
 const PRELOADED_VIEWS: ViewID[] = ["mail", "calendar"];
 let mainWindow: undefined | BrowserWindow = undefined;
+let loadingView: undefined | WebContentsView = undefined;
 
 /**
  * @see https://www.electronjs.org/docs/latest/api/web-contents#event-did-fail-load
@@ -161,7 +162,7 @@ export const viewCreationAppStartup = async () => {
 };
 
 const createView = (viewID: ViewID) => {
-    const view = new BrowserView(getWindowConfig());
+    const view = new WebContentsView(getWindowConfig());
 
     if (viewID) {
         handleBeforeHandle(viewID, view);
@@ -188,21 +189,29 @@ const createView = (viewID: ViewID) => {
 
 const createViews = () => {
     mainLogger.info("Creating views");
-    browserViewMap.mail = createView("mail");
-    browserViewMap.calendar = createView("calendar");
-    browserViewMap.account = createView("account");
+    viewMap.mail = createView("mail");
+    viewMap.calendar = createView("calendar");
+    viewMap.account = createView("account");
 
     if (isWindows) {
         mainWindow!.setMenuBarVisibility(false);
     }
 
-    browserViewMap.mail.webContents.on("before-input-event", handleBeforeInput);
-    browserViewMap.calendar.webContents.on("before-input-event", handleBeforeInput);
-    browserViewMap.account.webContents.on("before-input-event", handleBeforeInput);
+    viewMap.mail.webContents.on("before-input-event", handleBeforeInput);
+    viewMap.calendar.webContents.on("before-input-event", handleBeforeInput);
+    viewMap.account.webContents.on("before-input-event", handleBeforeInput);
 
-    browserViewMap.mail.setAutoResize({ width: true, height: true });
-    browserViewMap.calendar.setAutoResize({ width: true, height: true });
-    browserViewMap.account.setAutoResize({ width: true, height: true });
+    mainWindow!.on("resize", () => {
+        if (!mainWindow || mainWindow.isDestroyed()) {
+            return;
+        }
+
+        const bounds = mainWindow.getBounds();
+        viewMap.mail?.setBounds({ x: 0, y: 0, width: bounds.width, height: bounds.height });
+        viewMap.calendar?.setBounds({ x: 0, y: 0, width: bounds.width, height: bounds.height });
+        viewMap.account?.setBounds({ x: 0, y: 0, width: bounds.width, height: bounds.height });
+        loadingView?.setBounds({ x: 0, y: 0, width: bounds.width, height: bounds.height });
+    });
 };
 
 const createBrowserWindow = () => {
@@ -221,7 +230,7 @@ const createBrowserWindow = () => {
     return mainWindow;
 };
 
-function updateViewBounds(view: BrowserView | undefined, viewID: ViewID | null = null) {
+function updateViewBounds(view: WebContentsView | undefined, viewID: ViewID | null = null) {
     if (!mainWindow || mainWindow.isDestroyed()) {
         return;
     }
@@ -266,7 +275,7 @@ function updateViewBounds(view: BrowserView | undefined, viewID: ViewID | null =
  * some window props will not be updated.
  */
 const debouncedUpdateViewsBounds = debounce(() => {
-    for (const [viewID, view] of Object.entries(browserViewMap)) {
+    for (const [viewID, view] of Object.entries(viewMap)) {
         if (view && viewID) {
             updateViewBounds(view, viewID as ViewID);
         }
@@ -301,7 +310,7 @@ export async function showView(viewID: CHANGE_VIEW_TARGET, url: string = "") {
         return;
     }
 
-    const view = browserViewMap[viewID]!;
+    const view = viewMap[viewID]!;
     updateViewBounds(view, viewID);
     view.webContents.setZoomFactor(getWindowBounds().zoom);
 
@@ -325,21 +334,21 @@ export async function showView(viewID: CHANGE_VIEW_TARGET, url: string = "") {
         viewLogger(viewID).debug(`showView loading mailto ${url} from`, getViewURL(viewID));
         await showLoadingPage(viewTitleMap[viewID]);
         await loadURL(viewID, url);
-        mainWindow!.setBrowserView(view);
+        mainWindow!.setContentView(view);
     } else if (url && urlHasOpenMailParams(url)) {
         viewLogger(viewID).debug(`showView loading open mail ${url} from`, getViewURL(viewID));
         await showLoadingPage(viewTitleMap[viewID]);
         await loadURL(viewID, url);
-        mainWindow!.setBrowserView(view);
+        mainWindow!.setContentView(view);
     } else if (url && !isSameURL(url, getViewURL(viewID))) {
         viewLogger(viewID).debug("showView current url is different", getViewURL(viewID));
         viewLogger(viewID).info("showView loading", url);
         await showLoadingPage(viewTitleMap[viewID]);
         await loadURL(viewID, url);
-        mainWindow!.setBrowserView(view);
+        mainWindow!.setContentView(view);
     } else {
         viewLogger(viewID).info("showView showing view for ", url);
-        mainWindow!.setBrowserView(view);
+        mainWindow!.setContentView(view);
     }
 }
 
@@ -349,7 +358,7 @@ export const openMail = (labelID: string | undefined, elementID: string | undefi
         return;
     }
 
-    const currentUrl = browserViewMap.mail!.webContents.getURL();
+    const currentUrl = viewMap.mail!.webContents.getURL();
     const url =
         labelID !== undefined && labelID !== "" && elementID !== undefined && elementID !== ""
             ? addHashToCurrentURL(
@@ -390,7 +399,7 @@ export async function loadURL(viewID: ViewID, url: string, { force } = { force: 
         return;
     }
 
-    const view = browserViewMap[viewID]!;
+    const view = viewMap[viewID]!;
     const viewURL = getViewURL(viewID);
 
     const currentLocalID = getLocalID(viewURL);
@@ -465,7 +474,7 @@ export async function loadURL(viewID: ViewID, url: string, { force } = { force: 
 }
 
 export async function showNetworkErrorPage(viewID: ViewID): Promise<void> {
-    const view = browserViewMap[viewID];
+    const view = viewMap[viewID];
 
     if (!view) {
         viewLogger(viewID).warn("cannot show error page, view is null");
@@ -505,13 +514,13 @@ async function showLoadingPage(title: string): Promise<void> {
     }
 
     mainLogger.info("Show loading view");
-    const loadingView = new BrowserView(getWindowConfig());
+    loadingView = new WebContentsView(getWindowConfig());
     await renderLoadingPage(loadingView, title);
 
-    mainWindow.setBrowserView(loadingView);
+    mainWindow.setContentView(loadingView);
 }
 
-async function renderLoadingPage(view: BrowserView, title: string): Promise<void> {
+async function renderLoadingPage(view: WebContentsView, title: string): Promise<void> {
     const filePath = app.isPackaged
         ? join(process.resourcesPath, "loading.html")
         : join(app.getAppPath(), "assets/loading.html");
@@ -531,7 +540,7 @@ async function renderLoadingPage(view: BrowserView, title: string): Promise<void
     }
 
     const [viewID] =
-        (Object.entries(browserViewMap) as Array<[ViewID, BrowserView]>).find(([, _view]) => _view === view) || [];
+        (Object.entries(viewMap) as Array<[ViewID, WebContentsView]>).find(([, _view]) => _view === view) || [];
 
     if (viewID) {
         viewURLMap[viewID] = filePath;
@@ -547,7 +556,7 @@ export function getViewURL(viewID: ViewID) {
 
 export function updateViewURL(webContents: WebContents, url: string) {
     const [viewID] =
-        (Object.entries(browserViewMap) as Array<[ViewID, BrowserView]>).find(
+        (Object.entries(viewMap) as Array<[ViewID, WebContentsView]>).find(
             ([, view]) => view.webContents === webContents,
         ) || [];
 
@@ -558,7 +567,7 @@ export function updateViewURL(webContents: WebContents, url: string) {
 
 export async function reloadHiddenViews() {
     const loadPromises = [];
-    for (const [viewID, view] of Object.entries(browserViewMap)) {
+    for (const [viewID, view] of Object.entries(viewMap)) {
         if (viewID !== currentViewID && view) {
             viewLogger(viewID as ViewID).info("Reloading hidden view");
             loadPromises.push(loadURL(viewID as ViewID, getViewURL(viewID as ViewID), { force: true }));
@@ -570,7 +579,7 @@ export async function reloadHiddenViews() {
 export async function resetHiddenViews({ toHomepage } = { toHomepage: false }) {
     const appURL = getAppURL();
     const loadPromises = [];
-    for (const [viewID, view] of Object.entries(browserViewMap)) {
+    for (const [viewID, view] of Object.entries(viewMap)) {
         if (viewID !== currentViewID && view) {
             if (PRELOADED_VIEWS.includes(viewID as ViewID) && toHomepage) {
                 const homepageURL = await updateLocalID(appURL[viewID as ViewID]);
@@ -602,15 +611,15 @@ export function toggleSpellCheck(enabled: boolean) {
 }
 
 export function getMailView() {
-    return browserViewMap.mail!;
+    return viewMap.mail!;
 }
 
 export function getCalendarView() {
-    return browserViewMap.calendar!;
+    return viewMap.calendar!;
 }
 
 export function getAccountView() {
-    return browserViewMap.account;
+    return viewMap.account;
 }
 
 export function getMainWindow() {
@@ -622,11 +631,11 @@ export function getCurrentViewID() {
 }
 
 export function getCurrentView() {
-    return browserViewMap[currentViewID];
+    return viewMap[currentViewID];
 }
 
 export function getWebContentsViewName(webContents: WebContents): ViewID | null {
-    for (const [viewID, view] of Object.entries(browserViewMap)) {
+    for (const [viewID, view] of Object.entries(viewMap)) {
         if (view?.webContents === webContents) {
             return viewID as ViewID;
         }
@@ -655,7 +664,7 @@ export function getZoom() {
 export function setZoom(zoomFactor: ZoomFactor) {
     mainLogger.info("set zoom factor to", zoomFactor);
 
-    for (const view of Object.values(browserViewMap)) {
+    for (const view of Object.values(viewMap)) {
         view?.webContents.setZoomFactor(zoomFactor);
     }
 
@@ -707,5 +716,5 @@ export const bringWindowToFront = () => {
 };
 
 export const getCurrentLocalID = (): string | null => {
-    return getLocalID(browserViewMap["mail"]!.webContents.getURL());
+    return getLocalID(viewMap["mail"]!.webContents.getURL());
 };
