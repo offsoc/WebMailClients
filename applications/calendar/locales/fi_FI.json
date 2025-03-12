@@ -809,6 +809,12 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Ilmainen työpöytäsovelluksen kokeilujaksosi päättyy ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Add another account": [
+        "Lisää toinen tili"
+      ],
+      "Help and feedback": [
+        "Tuki ja palaute"
       ]
     },
     "action": {
@@ -1090,6 +1096,12 @@
       ],
       "Version history": [
         "Versiohistoria"
+      ],
+      "Unlimited logins, credit cards, hide-my-email aliases and more": [
+        "Rajattomasti kirjautumistietoja, maksukortteja ja Hide-my-email-aliaksia ja muuta"
+      ],
+      "VPN Accelerator": [
+        "VPN Accelerator"
       ]
     },
     "BF2024: Offers": {
@@ -1146,6 +1158,12 @@
       ],
       "Two-year": [
         "Kaksivuotinen"
+      ],
+      "Lifetime": [
+        "Elinikäinen"
+      ],
+      "New!": [
+        "Uusi!"
       ]
     },
     "Browser": {
@@ -1254,6 +1272,9 @@
       ],
       "Take a tour": [
         "Katso esittely"
+      ],
+      "Close": [
+        "Sulje"
       ]
     },
     "Calendar access select label": {
@@ -3956,6 +3977,9 @@
       ],
       "Security Center": [
         "Suojauskeskus"
+      ],
+      "Repeat event": [
+        "Toista tapahtuma"
       ]
     },
     "Hint": {
@@ -5415,6 +5439,18 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Järjestelmäsi aikavyöhykkeeksi näyttää vaihtuneen ${ timezone }. Haluatko päivittää aikavyöhykeasetuksesi?"
+      ],
+      "Discover new features unlocked and start using them right away!": [
+        "Tutustu uusiin avattuihin ominaisuuksiin ja aloita niiden käyttö heti!"
+      ],
+      "Discover new features unlocked with ${ planTitle } and start using them right away!": [
+        "Tutustu uusiin ${ planTitle } -tilauksella avautuviin ominaisuuksiin ja aloita niiden käyttö heti!"
+      ],
+      "Other accounts": [
+        "Muut tilit"
+      ],
+      "You get notified if your password or other data was leaked from a third-party service.": [
+        "Saat ilmoituksen, jos salasanasi tai muita tietojasi on vuotanut muista palveluista."
       ]
     },
     "info": {
@@ -5529,6 +5565,30 @@
     "Keyboard shortcut name": {
       "Open this modal": [
         "Avaa tämä ruutu"
+      ],
+      "Create new event": [
+        "Luo uusi tapahtuma"
+      ],
+      "Day view": [
+        "Päivänäkymä"
+      ],
+      "Month view": [
+        "Kuukausinäkymä"
+      ],
+      "Next period": [
+        "Seuraava kausi"
+      ],
+      "Previous period": [
+        "Edellinen kausi"
+      ],
+      "Search events": [
+        "Etsi tapahtumia"
+      ],
+      "Today": [
+        "Tänään"
+      ],
+      "Week view": [
+        "Viikkonäkymä"
       ]
     },
     "Keyboard shortcut section name": {
@@ -5972,6 +6032,9 @@
       ],
       "Your password (admin)": [
         "Salasanasi (ylläpitäjä)"
+      ],
+      "Integrated 2FA authenticator": [
+        "Sisäänrakennettu kaksivaiheinen todentaja"
       ]
     },
     "Label for contact group color": {
@@ -6203,11 +6266,14 @@
       ],
       "for ${ price }": [
         "hintaan ${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "${ BRAND_NAME } Scribe kirjoitusavustaja"
       ]
     },
     "mailtrial2024: Action": {
       "Get the deal": [
-        "Hanki tarjous"
+        "Hyödynnä tarjous"
       ],
       "Special Offer": [
         "Erikoistarjous"
@@ -6980,6 +7046,19 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Skannaamme pimeää verkkoa tarkistaaksemme, onko ${ BRAND_NAME } -osoitteesi tai -aliaksesi vuotaneet ja hälytämme välittömästi, jos löydämme jotain."
+      ],
+      "${ size } storage per user": [
+        "${ size } tallennustilaa/käyttäjä"
+      ],
+      "Password manager to secure credentials": [
+        "Salasananhallinta kirjautumistietojen turvaamiseen"
+      ],
+      "SSO integration": [
+        "SSO-integraatio"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Käytä jopa ${ n } laitteella samanaikaisesti",
+        "Käytä jopa ${ n } laitteella samanaikaisesti"
       ]
     },
     "new_plans: feature highlight": {
@@ -7098,6 +7177,9 @@
       ],
       "You’re enjoying a promotional price on your current plan. If you downgrade your account, you will lose your promotional price and it won’t be available if you try to subscribe again.": [
         "Nykyisellä tilauksellasi nautit alennetusta etuhinnasta. Jos alennat tilisi, menetät etuhinnan, eikä se ole enää käytettävissä, jos joskus palaat tilaajaksi."
+      ],
+      "Pay once, secure your passwords and identity forever.": [
+        "Maksa kerran, suojaa salasanasi ja identiteettisi ikuisesti."
       ]
     },
     "new_plans: title": {
@@ -7599,6 +7681,30 @@
       ],
       "Save 80% on your first month.": [
         "Säästä 80 % ensimmäisestä kuukaudestasi."
+      ],
+      "Don’t show this offer again": [
+        "Älä näytä tätä tarjousta uudelleen"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus 12 kuukaudeksi"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "Tarjous vanhenee ${ formattedDate }"
+      ],
+      "Save": [
+        "Säästä"
+      ],
+      "Special offer": [
+        "Erikoistarjous"
+      ],
+      "This offer won't be shown again.": [
+        "Tätä tarjousta ei näytetä uudelleen"
+      ],
+      "You currently pay": [
+        "Maksat tällä hetkellä"
+      ],
+      "Your subscription renews soon": [
+        "Tilauksesi uusiutuu pian"
       ]
     },
     "Offer feature": {
@@ -7718,6 +7824,18 @@
       "Year": [
         "vuosi",
         "vuosi"
+      ],
+      "Custom...": [
+        "Mukautettu..."
+      ],
+      "Every month ${ description }": [
+        "Joka kuukausi ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "Joka viikko ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "Joka arkipäivä ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -7757,6 +7875,12 @@
       "Secure vault sharing (${ n } vault) and link sharing": [
         "Holvien (${ n } holvi) ja linkkien turvallinen jakaminen",
         "Holvien (${ n } holvia) ja linkkien turvallinen jakaminen"
+      ],
+      "Secure vault, item and link sharing": [
+        "Turvallinen holvin, kohteiden ja linkkien jakaminen"
+      ],
+      "Unlimited logins, notes, credit cards and more": [
+        "Rajattomasti kirjautumistietoja, muistiinpanoja, maksukortteja ja muuta"
       ]
     },
     "pass_signup_2024: Info": {
@@ -7772,6 +7896,9 @@
       ],
       "Team policies": [
         "Ryhmäkäytännöt"
+      ],
+      "Advanced account protection": [
+        "Edistynyt tilin suojaus"
       ]
     },
     "PassFamilyPlan2024": {
@@ -8039,6 +8166,9 @@
       ],
       "Start typing an email address": [
         "Aloita sähköpostiosoitteen kirjoitus"
+      ],
+      "Filter quick actions": [
+        "Suodata pikatoimintoja"
       ]
     },
     "Placeholder for contact group name": {
@@ -8610,7 +8740,7 @@
         "Laskutetaan ${ amount } 30 kuukaudelta"
       ],
       "Get the deal": [
-        "Hanki tarjous"
+        "Hyödynnä tarjous"
       ],
       "Renews after 1 year at a discounted price of ${ discountedAmount } instead of ${ regularAmount } (${ discount }% discount)": [
         "Uudistuu 1 vuoden kuluttua alennetulla ${ discountedAmount } hinnalla normaalin ${ regularAmount } sijaan (${ discount } % alennus)"
@@ -8825,6 +8955,9 @@
       ],
       "Billed yearly": [
         "Laskutetaan vuosittain"
+      ],
+      "Billed every 6 months": [
+        "Laskutetaan 6 kuukauden välein"
       ]
     },
     "Subscription attribute": {
@@ -8847,6 +8980,10 @@
       "${ n } VPN connection per user": [
         "${ n } VPN-yhteys/käyttäjä",
         "${ n } VPN-yhteyttä/käyttäjä"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "VPN-yhteys ${ n } laitteelle samanaikaisesti",
+        "VPN-yhteys ${ n } laitteelle samanaikaisesti"
       ]
     },
     "Subscription change warning": {
@@ -10042,6 +10179,24 @@
       ],
       "Your shorter address is now ready": [
         "Lyhyempi osoittesi on nyt valmis"
+      ],
+      "Does not repeat": [
+        "Ei toistu"
+      ],
+      "Every day": [
+        "Joka päivä"
+      ],
+      "Every month ${ option.text }": [
+        "Joka kuukausi ${ option.text }"
+      ],
+      "Every year": [
+        "Joka vuosi"
+      ],
+      "Help and feedback": [
+        "Tuki ja palaute"
+      ],
+      "Help center": [
+        "Tukikeskus"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10193,6 +10348,18 @@
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "${ numberOfServers } ${ numberOfCountries } maassa",
         "${ numberOfServers } ${ numberOfCountries } maassa"
+      ],
+      "${ n } device": [
+        "${ n } laite",
+        "${ n } laitetta"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } maa",
+        "${ numberOfCountries } maata"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "Valitsee automaattisesti ${ numberOfCountries } maasta",
+        "Valitsee automaattisesti ${ numberOfCountries } maasta"
       ]
     },
     "vpn_2024: renew": {
@@ -10345,6 +10512,9 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Ilmainen kokeilusi päättyy ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "Kahta peräkkäistä pistettä ei sallita"
       ]
     },
     "Warning in modal to accept calendar invitation; Description": {
@@ -10620,6 +10790,43 @@
       ],
       "Passcode:": [
         "Tunnuskoodi:"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Päivänäkymä"
+      ],
+      "Month view": [
+        "Kuukausinäkymä"
+      ],
+      "New event": [
+        "Uusi tapahtuma"
+      ],
+      "Next period": [
+        "Seuraava kausi"
+      ],
+      "Previous period": [
+        "Edellinen kausi"
+      ],
+      "Search events": [
+        "Etsi tapahtumia"
+      ],
+      "Today": [
+        "Tänään"
+      ],
+      "Week view": [
+        "Viikkonäkymä"
+      ]
+    },
+    "Custom frequency option": {
+      "event": [
+        "tapahtuma",
+        "tapahtumaa"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "Rajattomasti Hide-my-email-aliaksia"
       ]
     }
   }

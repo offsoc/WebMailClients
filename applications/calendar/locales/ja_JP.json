@@ -1082,6 +1082,9 @@
       ],
       "Version history": [
         "バージョン履歴"
+      ],
+      "VPN Accelerator": [
+        "VPN Accelerator"
       ]
     },
     "BF2024: Offers": {
@@ -6002,6 +6005,9 @@
       ],
       "Your password (admin)": [
         "あなたのパスワード (管理者)"
+      ],
+      "Integrated 2FA authenticator": [
+        "2要素認証システムの統合"
       ]
     },
     "Label for contact group color": {
@@ -6228,6 +6234,9 @@
       ],
       "for ${ price }": [
         "${ price } の場合"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "${ BRAND_NAME } Scribe 執筆アシスタント"
       ]
     },
     "mailtrial2024: Action": {
@@ -7815,6 +7824,9 @@
       ],
       "Team policies": [
         "チームポリシー"
+      ],
+      "Advanced account protection": [
+        "高度なアカウント保護"
       ]
     },
     "PassFamilyPlan2024": {
@@ -8855,6 +8867,9 @@
       ],
       "Billed yearly": [
         "年間請求"
+      ],
+      "Billed every 6 months": [
+        "6 ヵ月ごとに請求"
       ]
     },
     "Subscription attribute": {
@@ -10216,6 +10231,15 @@
       ],
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "${ numberOfCountries } か国で ${ numberOfServers } 台"
+      ],
+      "${ n } device": [
+        "${ n } 台のデバイス"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } ヶ国"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "${ numberOfCountries }ヶ国から自動選択"
       ]
     },
     "vpn_2024: renew": {
@@ -10622,6 +10646,11 @@
       ],
       "Passcode:": [
         "パスコード："
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "無制限の Hide-my-email エイリアス"
       ]
     }
   }

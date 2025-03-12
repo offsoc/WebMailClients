@@ -1080,6 +1080,9 @@
       ],
       "One-time payment, lifetime deal": [
         "एक बार का भुगतान, लाइफटाइम सौदा"
+      ],
+      "VPN Accelerator": [
+        "VPN Accelerator"
       ]
     },
     "BF2024: Offers": {
@@ -5880,6 +5883,9 @@
       ],
       "What is your main reason for canceling or downgrading?": [
         "रद्द करने या डाउनग्रेड करने का आपका मुख्य कारण क्या है?"
+      ],
+      "Integrated 2FA authenticator": [
+        "एकीकृत 2-एफए सत्यापन"
       ]
     },
     "Label for contact group color": {
@@ -6106,6 +6112,9 @@
       ],
       "Add ${ BRAND_NAME } Scribe writing assistant": [
         "${ BRAND_NAME } Scribe लेखन सहायक जोड़ें"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "${ BRAND_NAME } Scribe लेखन सहायक"
       ]
     },
     "mailtrial2024: Action": {
@@ -7605,6 +7614,9 @@
       ],
       "Team policies": [
         "टीम नीतियाँ"
+      ],
+      "Advanced account protection": [
+        "उन्नत खाता सुरक्षा"
       ]
     },
     "passwordless": {
@@ -8577,6 +8589,9 @@
       ],
       "Billed for 30 months": [
         "30 महीने के लिए बिल किया गया"
+      ],
+      "Billed every 6 months": [
+        "बिल हर 6 महीने पे"
       ]
     },
     "Subscription attribute": {
@@ -9949,6 +9964,18 @@
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "${ numberOfCountries } देश में ${ numberOfServers }",
         "${ numberOfCountries } देशों में ${ numberOfServers }"
+      ],
+      "${ n } device": [
+        "${ n } डिवाइस",
+        "${ n } डिवाइस"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } देश",
+        "${ numberOfCountries } देशे"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "${ numberOfCountries } देश से स्वतः चयनित",
+        "${ numberOfCountries } देशों से स्वतः चयनित"
       ]
     },
     "vpn_2024: renew": {
@@ -10850,6 +10877,11 @@
       ],
       "Passcode:": [
         "पासकोड:"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "असीमित Hide-my-email नकलीनाम"
       ]
     }
   }

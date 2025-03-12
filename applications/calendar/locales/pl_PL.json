@@ -4065,6 +4065,9 @@
       ],
       "Security Center": [
         "Centrum zabezpieczeń"
+      ],
+      "Repeat event": [
+        "Powtarzaj wydarzenie"
       ]
     },
     "Hint": {
@@ -5615,6 +5618,9 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Twoja strefa czasowa w systemie zmieniła się na ${ timezone }. Czy chcesz zaktualizować ustawienia strefy czasowej?"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "Jeśli włączone są skróty klawiaturowe, można używać następujących klawiszy do wykonywania szybkich akcji lub przechodzenia do różnych widoków. ${ metaKey } + K jest zawsze włączony."
       ]
     },
     "info": {
@@ -5769,6 +5775,9 @@
     "Keyboard shortcut section name": {
       "Basic actions": [
         "Podstawowe akcje"
+      ],
+      "View options": [
+        "Wyświetl opcje"
       ]
     },
     "Knowledge base link label": {
@@ -6208,6 +6217,18 @@
       ],
       "Your password (admin)": [
         "Twoje hasło (administratora)"
+      ],
+      "Every": [
+        "Każdy"
+      ],
+      "Integrated 2FA authenticator": [
+        "Zintegrowana aplikacja uwierzytelniająca 2FA"
+      ],
+      "On": [
+        "Wł."
+      ],
+      "State": [
+        "Województwo"
       ]
     },
     "Label for contact group color": {
@@ -6449,6 +6470,9 @@
       ],
       "for ${ price }": [
         "za ${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "Asystent pisania ${ BRAND_NAME } Scribe"
       ]
     },
     "mailtrial2024: Action": {
@@ -6706,6 +6730,9 @@
       ],
       "on the third Wednesday": [
         "w trzecią środę"
+      ],
+      "on the ${ shortenedDay }": [
+        "w ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -7963,6 +7990,48 @@
       ],
       "Save 80% on your first month.": [
         "Zaoszczędź 80% przez pierwszy miesiąc."
+      ],
+      "Don’t show this offer again": [
+        "Nie pokazuj tej oferty ponownie"
+      ],
+      "Last chance to get 80% off your first month of ${ plan } Plus.": [
+        "Ostatnia szansa, aby uzyskać 80% zniżki na pierwszy miesiąc ${ plan } Plus."
+      ],
+      "Last day to save": [
+        "Ostatni dzień, aby zaoszczędzić"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus na 12 miesięcy"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "Oferta wygasa ${ formattedDate }."
+      ],
+      "Pay annually, secure our best offer": [
+        "Płać co roku, uzyskaj najlepszą ofertę"
+      ],
+      "Save": [
+        "Zaoszczędź"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Zaoszczędź ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Dzięki płatnościom rocznym możesz sporo zaoszczędzić"
+      ],
+      "Special offer": [
+        "Specjalna oferta"
+      ],
+      "This offer won't be shown again.": [
+        "Ta oferta nie pojawi się ponownie."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Po przejściu z subskrypcji miesięcznej na roczną."
+      ],
+      "You currently pay": [
+        "Aktualnie płacisz"
+      ],
+      "Your subscription renews soon": [
+        "Subskrypcja wkrótce się odnowi"
       ]
     },
     "Offer feature": {
@@ -7986,6 +8055,9 @@
       ],
       "Storage": [
         "Przestrzeń dyskowa"
+      ],
+      "Free": [
+        "Free"
       ]
     },
     "Onboarding": {
@@ -8087,6 +8159,18 @@
         "lata",
         "lat",
         "roku"
+      ],
+      "Custom...": [
+        "Niestandardowe..."
+      ],
+      "Every month ${ description }": [
+        "Co miesiąc ${ description }"
+      ],
+      "Every week ${ everyWeekDescription }": [
+        "Co tydzień w ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "W każdy dzień tygodnia ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -8147,6 +8231,9 @@
       ],
       "Team policies": [
         "Zasady zespołu"
+      ],
+      "Advanced account protection": [
+        "Zaawansowana ochrona konta"
       ]
     },
     "PassFamilyPlan2024": {
@@ -8403,6 +8490,9 @@
       ],
       "Start typing an email address": [
         "Wpisz adres e-mail"
+      ],
+      "Filter quick actions": [
+        "Filtrowanie szybkich akcji"
       ]
     },
     "Placeholder for contact group name": {
@@ -10509,6 +10599,21 @@
       ],
       "Your shorter address is now ready": [
         "Krótszy adres jest już gotowy"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName } skróty klawiaturowe"
+      ],
+      "Every month ${ option.text }": [
+        "Co miesiąc ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "Co tydzień w ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "Co weekend ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Every year": [
+        "Co rok"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -11311,6 +11416,41 @@
       ],
       "Passcode:": [
         "Kod dostępu:"
+      ]
+    },
+    "Custom frequency option": {
+      "Don't end": [
+        "Nie kończyć"
+      ],
+      "End after": [
+        "Zakończ po"
+      ],
+      "End on": [
+        "Zakończ na"
+      ],
+      "event": [
+        "wydarzenie",
+        "wydarzenia",
+        "wydarzeń",
+        "wydarzeń"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "Nieograniczona liczba aliasów hide-my-email"
+      ]
+    },
+    "Info for cash payment method": {
+      "How to send a cash payment?": [
+        "Jak wysłać płatność gotówką?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Znajdź instrukcję w artykule: ${ howToSendCashArticleUrl }"
+      ]
+    },
+    "Payments.plan_name": {
+      "Free": [
+        "Free"
       ]
     }
   }

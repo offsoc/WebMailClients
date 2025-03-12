@@ -809,6 +809,15 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Bilgisayar uygulamasını ücretsiz deneme süreniz ${ formattedEndDate } tarihinde sona erecek. ${ upgradeButton }"
+      ],
+      "Add another account": [
+        "Başka bir hesap ekle"
+      ],
+      "Help and feedback": [
+        "Yardım ve geri bildirim"
+      ],
+      "Help and resources": [
+        "Yardım ve kaynaklar"
       ]
     },
     "action": {
@@ -1090,6 +1099,12 @@
       ],
       "Version history": [
         "Sürüm geçmişi"
+      ],
+      "Unlimited logins, credit cards, hide-my-email aliases and more": [
+        "Sınırsız sayıda oturum açma, kredi kartı, hide-my-email takma adları ve diğer kayıtlar"
+      ],
+      "VPN Accelerator": [
+        "VPN Accelerator"
       ]
     },
     "BF2024: Offers": {
@@ -1149,6 +1164,12 @@
       ],
       "Two-year": [
         "Iki yıllık"
+      ],
+      "Lifetime": [
+        "Lifetime"
+      ],
+      "New!": [
+        "Yeni!"
       ]
     },
     "Browser": {
@@ -2752,7 +2773,7 @@
     },
     "Disabled calendar tooltip": {
       "The event belongs to a disabled calendar.": [
-        "Etkinlik, kullanım dışı bırakılmış bir takvimde bulunuyor."
+        "Etkinlik, kullanımdan kaldırılmış bir takvimde bulunuyor."
       ]
     },
     "Don't ask to update timezone checkbox label": {
@@ -3068,7 +3089,7 @@
         "Etki alanı kullanılamıyor. Bir süre sonra yeniden deneyin"
       ],
       "Email address disabled": [
-        "E-posta adresi kullanım dışı"
+        "E-posta adresi kullanımdan kaldırılmış"
       ],
       "Email address is required": [
         "E-posta adresinin yazılması zorunludur"
@@ -4970,7 +4991,7 @@
         "Kuruluşunuzdaki diğer kullanıcılar meşgul zamanlarınızı görecek. Etkinlik bilgileri paylaşılmaz."
       ],
       "Our alerts prioritize safety. If you don’t recognize any of the breached information, you can safely ignore this report.": [
-        "Uyarılarımız güvenliğe öncelik verir. Ele geçirilen bilgiler size tanıdık gelmiyorsa, bu raporu güvenle yok sayabilirsiniz."
+        "Uyarılarımız güvenliğe öncelik verir. Sızdırılmış bilgiler size tanıdık gelmiyorsa, bu raporu güvenle yok sayabilirsiniz."
       ],
       "password": [
         "parola"
@@ -5117,7 +5138,7 @@
         "Geçici olarak kullanılamıyor. Lütfen bir süre sonra yeniden bakın."
       ],
       "The exposed information was leaked from a third-party service. Your ${ BRAND_NAME } Account information remains secure and encrypted. ${ learnMoreLink }": [
-        "Bilgiler üçüncü taraf bir hizmetten açığa çıkmış. ${ BRAND_NAME } Hesap bilgileriniz güvende ve şifrelenmiş olarak kalır. ${ learnMoreLink }"
+        "Bilgiler üçüncü taraf bir hizmetten sızdırılmış. ${ BRAND_NAME } hesap bilgileriniz güvende ve şifrelenmiş olarak kalır. ${ learnMoreLink }"
       ],
       "The following participants cannot be notified about your changes:": [
         "Değişiklikleriniz şu katılımcılara bildirilemeyecek:"
@@ -5153,7 +5174,7 @@
         "Doğrulama işlemi için yeni bir tarayıcı sekmesi açılacak. Kullanıyorsanız lütfen açılır pencere engelleyicileri kapatın."
       ],
       "This address is disabled. To be able to send to this address, the owner must first enable the address.": [
-        "Bu adres kullanım dışı bırakılmış. Bu adrese e-posta gönderebilmek için önce sahibi adresi kullanıma almalıdır."
+        "Bu adres kullanımdan kaldırılmış. Bu adrese e-posta gönderebilmek için önce sahibi adresi kullanıma almalıdır."
       ],
       "This event has been updated by the organizer. Would you like to change your answer only for this occurrence in this series?": [
         "Bu etkinlik düzenleyici tarafından güncellendi. Yanıtınızı yalnızca bu dizideki bu etkinlik için değiştirmek ister misiniz?"
@@ -5437,19 +5458,19 @@
         "Hesabınızda süresi geçmiş en az bir fatura var. Hesabınıza erişim kısıtlandı. Ödeme yapmazsanız e-postalarınız ve paylaşım bağlantılarınız engellenecek. ${ payInvoiceLink }"
       ],
       "Your address is disabled. A cancellation email cannot be sent to the event participants. Would you like to delete all events in this series anyway?": [
-        "Adresiniz kullanım dışı bırakılmış. Etkinlik katılımcılarına bir iptal bildirimi e-postası gönderilemeyecek. Yine de bu dizideki tüm etkinlikleri silmek ister misiniz?"
+        "Adresiniz kullanımdan kaldırılmış. Etkinlik katılımcılarına bir iptal bildirimi e-postası gönderilemeyecek. Yine de bu dizideki tüm etkinlikleri silmek ister misiniz?"
       ],
       "Your address is disabled. A cancellation email cannot be sent to the event participants. Would you like to delete this event anyway?": [
-        "Adresiniz kullanım dışı bırakılmış. Etkinlik katılımcılarına bir iptal bildirimi e-postası gönderilemeyecek. Yine de bu etkinliği silmek ister misiniz?"
+        "Adresiniz kullanımdan kaldırılmış. Etkinlik katılımcılarına bir iptal bildirimi e-postası gönderilemeyecek. Yine de bu etkinliği silmek ister misiniz?"
       ],
       "Your data is ready to import from ${ importedEmailAddressStrong } to your ${ BRAND_NAME } account.": [
         "Verileriniz ${ importedEmailAddressStrong } üzerinden ${ BRAND_NAME } hesabınız içine aktarılmaya hazır."
       ],
       "Your email address and password were leaked:": [
-        "E-posta adresiniz ve parolanız açığa çıkmış:"
+        "E-posta adresiniz ve parolanız sızdırılmış:"
       ],
       "Your email address was exposed:": [
-        "E-posta adresiniz açığa çıkmış:"
+        "E-posta adresiniz sızdırılmış:"
       ],
       "Your email will only be used for this one-time verification.": [
         "E-posta adresiniz yalnızca bu tek seferlik doğrulama için kullanılacak."
@@ -5473,7 +5494,7 @@
         "Bir sonraki fatura tarihiniz ${ renewalTime }. Tarifenizi hemen değiştirmeniz gerekiyorsa lütfen destek ekibi ile görüşün."
       ],
       "Your password was leaked:": [
-        "Parolanız açığa çıkmış:"
+        "Parolanız sızdırılmış:"
       ],
       "Your phone number will only be used for this one-time verification.": [
         "Telefon numaranız yalnızca bu tek seferlik doğrulama için kullanılacak."
@@ -5486,6 +5507,9 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Sistem saat diliminiz ${ timezone } olarak değişmiş gibi görünüyor. Saat dilimi ayarınızı güncellemek ister misiniz?"
+      ],
+      "Other accounts": [
+        "Diğer hesaplar"
       ]
     },
     "info": {
@@ -6087,6 +6111,9 @@
       ],
       "Your password (admin)": [
         "Parolanız (yönetici)"
+      ],
+      "Integrated 2FA authenticator": [
+        "Bütünleşik iki adımlı kimlik doğrulayıcı"
       ]
     },
     "Label for contact group color": {
@@ -6318,6 +6345,12 @@
       ],
       "for ${ price }": [
         "${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "${ BRAND_NAME } Scribe yazma yardımcısı"
+      ],
+      "Add-on with free trial": [
+        "Ücretsiz deneme sürümü ile eklenti"
       ]
     },
     "mailtrial2024: Action": {
@@ -6808,7 +6841,7 @@
         "Tüm platformlarda kullanılabilir"
       ],
       "Breach alerts": [
-        "Verilerin ele geçilrilmesi uyarıları"
+        "Veri sızıntısı uyarıları"
       ],
       "Calendar sharing": [
         "Takvim paylaşımı"
@@ -6847,7 +6880,7 @@
         "Özel çalışma alanı markası"
       ],
       "Data breach monitoring": [
-        "Verilerin ele geçirilmesini izleme"
+        "Veri sızıntılarını izleme"
       ],
       "Dedicated servers optimized for streaming": [
         "Yayın akışı izlemek için ayarlanmış özel sunucular"
@@ -7108,6 +7141,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "${ BRAND_NAME } adreslerinizin veya takma adlarınızın sızıp sızmadığını kontrol etmek için karanlık ağı tararız ve herhangi bir şey bulursak sizi hemen uyarırız."
+      ],
+      "${ size } storage per user": [
+        "Her kullanıcı için ${ size } depolama alanı"
+      ],
+      "Manage user permissions and access": [
+        "Kullanıcı izinleri ve erişimi yönetimi"
+      ],
+      "Password manager to secure credentials": [
+        "Kimlik bilgilerini korumak için parola yöneticisi"
       ]
     },
     "new_plans: feature highlight": {
@@ -7226,6 +7268,9 @@
       ],
       "You’re enjoying a promotional price on your current plan. If you downgrade your account, you will lose your promotional price and it won’t be available if you try to subscribe again.": [
         "Geçerli tarifenizde bir fırsat ücretinden yararlanıyorsunuz. Hesap tarifenizi düşürürseniz, fırsat ücretinizi kaybedersiniz ve bu tarifeye yeniden abone olamazsınız."
+      ],
+      "Pay once, secure your passwords and identity forever.": [
+        "Bir kez ödeyin, parolalarınızı ve kimliğinizi sonsuza kadar koruyun."
       ]
     },
     "new_plans: Subtext": {
@@ -7947,6 +7992,12 @@
       "Secure vault sharing (${ n } vault) and link sharing": [
         "Güvenli kasa paylaşımı (${ n } kasa) ve bağlantı ile paylaşım",
         "Güvenli kasa paylaşımı (${ n } kasa) ve bağlantı ile paylaşım"
+      ],
+      "Secure vault, item and link sharing": [
+        "Güvenli kasa, öge ve bağlantı paylaşımı"
+      ],
+      "Unlimited logins, notes, credit cards and more": [
+        "Sınırsız sayıda oturum açma, not, kredi kartı ve diğer kayıtlar"
       ]
     },
     "pass_signup_2024: Info": {
@@ -7962,6 +8013,9 @@
       ],
       "Team policies": [
         "Ekip ilkeleri"
+      ],
+      "Advanced account protection": [
+        "Gelişmiş hesap koruması"
       ]
     },
     "PassFamilyPlan2024": {
@@ -8394,7 +8448,7 @@
         "Olası ${ name } veri sızıntısı bulundu. Ayrıntıları görüntülemek için ${ DARK_WEB_MONITORING_NAME } özelliğini açın. ${ link }"
       ],
       "Get notified if your password or other data was leaked from a third-party service. ${ learnMoreLink }": [
-        "Parolanız veya diğer verileriniz üçüncü taraf bir hizmetten açığa çıkarsa bildirim alın. ${ learnMoreLink }"
+        "Parolanız veya diğer verileriniz üçüncü taraf bir hizmetten sızdırıldığında bildirim alın. ${ learnMoreLink }"
       ],
       "Our cutting-edge AI-driven security solution designed for users seeking heightened protection for their accounts. ${ learnMoreLink }": [
         "Hesapları için daha yüksek düzeyde koruma isteyen kullanıcılar için tasarlanmış, yapay zeka destekli son teknoloji güvenlik çözümümüz. ${ learnMoreLink }"
@@ -9049,6 +9103,10 @@
       "${ n } VPN connection per user": [
         "${ n } VPN bağlantısı / kullanıcı",
         "${ n } VPN bağlantısı / kullanıcı"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "Her kullanıcıya ${ n } aygıt ile VPN bağlantısı",
+        "Her kullanıcıya ${ n } aygıt ile VPN bağlantısı"
       ]
     },
     "Subscription change warning": {
@@ -9100,7 +9158,7 @@
         "Otomatik e-posta iletme ${ strongText }"
       ],
       "Data breach alerts ${ strongArgument }": [
-        "Verilerin ele geçirilmesi uyarıları ${ strongArgument }"
+        "Veri sızıntısı uyarıları ${ strongArgument }"
       ],
       "Desktop app": [
         "Bilgisayar uygulaması"
@@ -10057,7 +10115,7 @@
         "Gece teması"
       ],
       "No breaches detected": [
-        "Herhangi bir veri ele geçirilmemiş"
+        "Herhangi bir veri sızıntısı yok"
       ],
       "Notes": [
         "Notlar"
@@ -10264,10 +10322,13 @@
         "Takvim bağlantınız"
       ],
       "Your exposed information": [
-        "Açığa çıkmış bilgileriniz"
+        "Sızdırılmış bilgileriniz"
       ],
       "Your shorter address is now ready": [
         "Daha kısa adresiniz hazır"
+      ],
+      "Help and feedback": [
+        "Yardım ve geri bildirim"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10542,6 +10603,18 @@
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "${ numberOfCountries } ülkede ${ numberOfServers }",
         "${ numberOfCountries } ülkede ${ numberOfServers }"
+      ],
+      "${ n } device": [
+        "${ n } aygıt",
+        "${ n } aygıt"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } ülke",
+        "${ numberOfCountries } ülke"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "${ numberOfCountries } ülke arasından otomatik seçilir",
+        "${ numberOfCountries } ülke arasından otomatik seçilir"
       ]
     },
     "vpn_2024: renew": {
@@ -10716,7 +10789,7 @@
         "Bu paylaşılan takvime erişebilmek için bu adresi kullanıma alın ya da ${ boldCalendarOwnerEmail } ile görüşerek bir adrese yeni bir davet göndermesini isteyin."
       ],
       "You cannot join this calendar because your invited email address (${ boldInvitedAddress }) is disabled.": [
-        "Davet edildiğiniz e-posta adresi (${ boldInvitedAddress }) kullanım dışı bırakılmış olduğundan bu takvime katılamazsınız."
+        "Davet edildiğiniz e-posta adresi (${ boldInvitedAddress }) kullanımdan kaldırılmış olduğundan bu takvime katılamazsınız."
       ]
     },
     "Weekly recurring event, frequency": {
@@ -10984,6 +11057,36 @@
       ],
       "Passcode:": [
         "Parola:"
+      ]
+    },
+    "customer_support.feature.all": {
+      "For all ${ BRAND_NAME } services": [
+        "Tüm ${ BRAND_NAME } hizmetleri için"
+      ]
+    },
+    "customer_support.feature.drive": {
+      "For ${ DRIVE_APP_NAME }": [
+        "${ DRIVE_APP_NAME } için"
+      ]
+    },
+    "customer_support.feature.mail": {
+      "For ${ MAIL_APP_NAME }": [
+        "${ MAIL_APP_NAME } için"
+      ]
+    },
+    "customer_support.feature.pass": {
+      "For ${ PASS_APP_NAME }": [
+        "${ PASS_APP_NAME } için"
+      ]
+    },
+    "customer_support.feature.vpn": {
+      "For ${ VPN_APP_NAME }": [
+        "${ VPN_APP_NAME } için"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "Sınırsız sayıda hide-my-email takma adı"
       ]
     }
   }

@@ -809,6 +809,15 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "La tua prova gratuita dell'applicazione desktop termina ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Add another account": [
+        "Aggiungi un altro account"
+      ],
+      "Help and feedback": [
+        "Aiuto e feedback"
+      ],
+      "Help and resources": [
+        "Aiuto e risorse utili"
       ]
     },
     "action": {
@@ -1090,6 +1099,12 @@
       ],
       "Version history": [
         "Cronologia delle versioni"
+      ],
+      "Unlimited logins, credit cards, hide-my-email aliases and more": [
+        "Login, carte di credito, alias hide-my-email illimitati e molto altro ancora"
+      ],
+      "VPN Accelerator": [
+        "VPN Accelerator"
       ]
     },
     "BF2024: Offers": {
@@ -1149,6 +1164,12 @@
       ],
       "Two-year": [
         "Due anni"
+      ],
+      "Lifetime": [
+        "A vita"
+      ],
+      "New!": [
+        "Novità!"
       ]
     },
     "Browser": {
@@ -5486,6 +5507,9 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Il fuso orario di sistema sembra essere cambiato a ${ timezone }. Vuoi aggiornare la tua preferenza di fuso orario?"
+      ],
+      "Other accounts": [
+        "Altri account"
       ]
     },
     "info": {
@@ -6090,6 +6114,9 @@
       ],
       "Your password (admin)": [
         "La tua password (admin)"
+      ],
+      "Integrated 2FA authenticator": [
+        "Autenticatore 2FA integrato"
       ]
     },
     "Label for contact group color": {
@@ -6321,6 +6348,12 @@
       ],
       "for ${ price }": [
         "per ${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "Assistente alla scrittura ${ BRAND_NAME } Scribe"
+      ],
+      "Add-on with free trial": [
+        "Componente aggiuntivo con prova gratuita"
       ]
     },
     "mailtrial2024: Action": {
@@ -7111,6 +7144,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Monitoriamo il dark web per verificare se i tuoi indirizzi o alias ${ BRAND_NAME } vengono diffusi e ti avvisiamo immediatamente se troviamo qualcosa."
+      ],
+      "${ size } storage per user": [
+        "${ size } di spazio di archiviazione per utente"
+      ],
+      "Manage user permissions and access": [
+        "Gestione di autorizzazioni e accesso degli utenti"
+      ],
+      "Password manager to secure credentials": [
+        "Gestore password per la protezione delle credenziali"
       ]
     },
     "new_plans: feature highlight": {
@@ -7229,6 +7271,9 @@
       ],
       "You’re enjoying a promotional price on your current plan. If you downgrade your account, you will lose your promotional price and it won’t be available if you try to subscribe again.": [
         "Stai godendo di un prezzo promozionale sul tuo piano attuale. Se esegui il downgrade del tuo account, perderai la possibilità di usufruire di questa promozione e non sarà più disponibile se provi ad abbonarti di nuovo."
+      ],
+      "Pay once, secure your passwords and identity forever.": [
+        "Paga solo una volta, e metti in sicuro le tue password e identità per sempre."
       ]
     },
     "new_plans: Subtext": {
@@ -7955,6 +8000,12 @@
       "Secure vault sharing (${ n } vault) and link sharing": [
         "Condivisione sicura della cassaforte (${ n } cassaforte) e condivisione dei collegamenti",
         "Condivisione sicura delle casseforti (${ n } casseforti) e condivisione dei collegamenti"
+      ],
+      "Secure vault, item and link sharing": [
+        "Cassaforte sicura, oggetti e condivisione dei link"
+      ],
+      "Unlimited logins, notes, credit cards and more": [
+        "Login, note, carte di credito illimitati e molto altro ancora"
       ]
     },
     "pass_signup_2024: Info": {
@@ -7970,6 +8021,9 @@
       ],
       "Team policies": [
         "Politiche del Team"
+      ],
+      "Advanced account protection": [
+        "Protezione avanzata dell'account"
       ]
     },
     "PassFamilyPlan2024": {
@@ -9057,6 +9111,10 @@
       "${ n } VPN connection per user": [
         "${ n } connessioni VPN per utente",
         "${ n } connessioni VPN per utente"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "Connessione VPN per ${ n } dispositivi per ogni utente",
+        "Connessione VPN per ${ n } dispositivi per ogni utente"
       ]
     },
     "Subscription change warning": {
@@ -10276,6 +10334,9 @@
       ],
       "Your shorter address is now ready": [
         "Il tuo indirizzo breve ora è pronto"
+      ],
+      "Help and feedback": [
+        "Aiuto e feedback"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10550,6 +10611,18 @@
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "${ numberOfServers } in ${ numberOfCountries } paese",
         "${ numberOfServers } in ${ numberOfCountries } paesi"
+      ],
+      "${ n } device": [
+        "${ n } dispositivo",
+        "${ n } dispositivi"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } paese",
+        "${ numberOfCountries } paesi"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "Seleziona automaticamente da ${ numberOfCountries } paese",
+        "Seleziona automaticamente da ${ numberOfCountries } paesi"
       ]
     },
     "vpn_2024: renew": {
@@ -10992,6 +11065,36 @@
       ],
       "Passcode:": [
         "Codice di accesso:"
+      ]
+    },
+    "customer_support.feature.all": {
+      "For all ${ BRAND_NAME } services": [
+        "Per tutti i servizi ${ BRAND_NAME }"
+      ]
+    },
+    "customer_support.feature.drive": {
+      "For ${ DRIVE_APP_NAME }": [
+        "Per ${ DRIVE_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.mail": {
+      "For ${ MAIL_APP_NAME }": [
+        "Per ${ MAIL_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.pass": {
+      "For ${ PASS_APP_NAME }": [
+        "Per ${ PASS_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.vpn": {
+      "For ${ VPN_APP_NAME }": [
+        "Per ${ VPN_APP_NAME }"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "Alias Hide-my-email illimitati"
       ]
     }
   }

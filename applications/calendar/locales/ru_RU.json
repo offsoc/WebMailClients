@@ -6257,6 +6257,9 @@
       ],
       "Your password (admin)": [
         "Ваш пароль (admin)"
+      ],
+      "Integrated 2FA authenticator": [
+        "Интегрированная двухфакторная аутентификация"
       ]
     },
     "Label for contact group color": {
@@ -6498,6 +6501,9 @@
       ],
       "for ${ price }": [
         "за ${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "Помощник по написанию ${ BRAND_NAME } Scribe"
       ]
     },
     "mailtrial2024: Action": {
@@ -8256,6 +8262,9 @@
       ],
       "Team policies": [
         "Политики команды"
+      ],
+      "Advanced account protection": [
+        "Расширенная защита аккаунта"
       ]
     },
     "PassFamilyPlan2024": {
@@ -11458,6 +11467,11 @@
       ],
       "Passcode:": [
         "Код доступа:"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "Неограниченное количество псевдонимов hide-my-email"
       ]
     }
   }

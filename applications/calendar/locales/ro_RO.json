@@ -813,6 +813,15 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Perioada de încercare a versiunii pentru desktop se încheie ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Add another account": [
+        "Adăugare alt cont"
+      ],
+      "Help and feedback": [
+        "Ajutor și feedback"
+      ],
+      "Help and resources": [
+        "Ajutor și resurse"
       ]
     },
     "action": {
@@ -1098,6 +1107,12 @@
       ],
       "Version history": [
         "Istoric versiuni"
+      ],
+      "Unlimited logins, credit cards, hide-my-email aliases and more": [
+        "Date de autentificare, carduri de plată, aliasuri hide-my-email nelimitate și altele"
+      ],
+      "VPN Accelerator": [
+        "VPN Accelerator"
       ]
     },
     "BF2024: Offers": {
@@ -1159,6 +1174,12 @@
       ],
       "Two-year": [
         "Bianual"
+      ],
+      "Lifetime": [
+        "Pe viață"
+      ],
+      "New!": [
+        "Nou!"
       ]
     },
     "Browser": {
@@ -1713,7 +1734,7 @@
         "Principal"
       ],
       "Mobile": [
-        "Mobil"
+        "Dispozitive mobile"
       ],
       "Other": [
         "Altele"
@@ -5565,6 +5586,9 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Fusul orar al sistemului pare să se fi schimbat la ${ timezone }. Actualizați fusul orar preferat?"
+      ],
+      "Other accounts": [
+        "Alte conturi"
       ]
     },
     "info": {
@@ -6172,6 +6196,9 @@
       ],
       "Your password (admin)": [
         "Parola dvs. (administrator)"
+      ],
+      "Integrated 2FA authenticator": [
+        "Autentificator A2F integrat"
       ]
     },
     "Label for contact group color": {
@@ -6408,6 +6435,12 @@
       ],
       "for ${ price }": [
         "cu ${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "Asistent de scriere ${ BRAND_NAME } Scribe"
+      ],
+      "Add-on with free trial": [
+        "Modul cu încercare gratuită"
       ]
     },
     "mailtrial2024: Action": {
@@ -7223,6 +7256,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Scanăm internetul ascuns pentru a verifica dacă adresele sau aliasurile ${ BRAND_NAME } v-au fost divulgate și vă avertizăm imediat dacă găsim ceva."
+      ],
+      "${ size } storage per user": [
+        "${ size } spațiu per utilizator"
+      ],
+      "Manage user permissions and access": [
+        "Gestionare acces și permisiuni utilizatori"
+      ],
+      "Password manager to secure credentials": [
+        "Manager de parole pentru securizarea datelor de autentificare"
       ]
     },
     "new_plans: feature highlight": {
@@ -7343,6 +7385,9 @@
       ],
       "You’re enjoying a promotional price on your current plan. If you downgrade your account, you will lose your promotional price and it won’t be available if you try to subscribe again.": [
         "Vă bucurați de un preț promoțional la planul dvs. actual. Dacă vă retrogradați contul, veți pierde prețul promoțional și nu va fi disponibil dacă încercați să vă abonați din nou."
+      ],
+      "Pay once, secure your passwords and identity forever.": [
+        "Plătiți o dată, vă securizați parolele și identitatea permanent."
       ]
     },
     "new_plans: Subtext": {
@@ -8093,6 +8138,12 @@
         "Partajare securizată seif (${ n } seif) și legături web",
         "Partajare securizată seifuri (${ n } seifuri) și legături web",
         "Partajare securizată seifuri (${ n } de seifuri) și legături web"
+      ],
+      "Secure vault, item and link sharing": [
+        "Partajare sigură seif, articole și legături web"
+      ],
+      "Unlimited logins, notes, credit cards and more": [
+        "Date de autentificare, notițe și carduri de plată nelimitate și altele"
       ]
     },
     "pass_signup_2024: Info": {
@@ -8109,6 +8160,9 @@
       ],
       "Team policies": [
         "Politicile echipei"
+      ],
+      "Advanced account protection": [
+        "Protecție avansată a contului"
       ]
     },
     "PassFamilyPlan2024": {
@@ -8447,7 +8501,7 @@
         "Principal"
       ],
       "Mobile": [
-        "Mobil"
+        "Dispozitive mobile"
       ],
       "Other": [
         "Altele"
@@ -9223,6 +9277,11 @@
         "O conexiune VPN per utilizator",
         "${ n } conexiuni VPN per utilizator",
         "${ n } de conexiuni VPN per utilizator"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "Conexiune VPN pentru ${ n } dispozitiv per utilizator",
+        "Conexiuni VPN pentru ${ n } dispozitive per utilizator",
+        "Conexiuni VPN pentru ${ n } de dispozitive per utilizator"
       ]
     },
     "Subscription change warning": {
@@ -10462,6 +10521,9 @@
       ],
       "Your shorter address is now ready": [
         "Adresa scurtă este pregătită acum"
+      ],
+      "Help and feedback": [
+        "Ajutor și feedback"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10619,6 +10681,21 @@
         "${ numberOfServers } într-o țară",
         "${ numberOfServers } în ${ numberOfCountries } țări",
         "${ numberOfServers } în ${ numberOfCountries } de țări"
+      ],
+      "${ n } device": [
+        "${ n } dispozitiv",
+        "${ n } dispozitive",
+        "${ n } de dispozitive"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } țară",
+        "${ numberOfCountries } țări",
+        "${ numberOfCountries } de țări"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "Autoselectare din ${ numberOfCountries } țară",
+        "Autoselectare din ${ numberOfCountries } țări",
+        "Autoselectare din ${ numberOfCountries } de țări"
       ]
     },
     "vpn_2024: renew": {
@@ -11097,6 +11174,36 @@
       ],
       "Passcode:": [
         "Cod de acces:"
+      ]
+    },
+    "customer_support.feature.all": {
+      "For all ${ BRAND_NAME } services": [
+        "Pentru toate serviciile ${ BRAND_NAME }"
+      ]
+    },
+    "customer_support.feature.drive": {
+      "For ${ DRIVE_APP_NAME }": [
+        "Pentru ${ DRIVE_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.mail": {
+      "For ${ MAIL_APP_NAME }": [
+        "Pentru ${ MAIL_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.pass": {
+      "For ${ PASS_APP_NAME }": [
+        "Pentru ${ PASS_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.vpn": {
+      "For ${ VPN_APP_NAME }": [
+        "Pentru ${ VPN_APP_NAME }"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "Aliasuri hide-my-email nelimitate"
       ]
     }
   }

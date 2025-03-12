@@ -1090,6 +1090,12 @@
       ],
       "Version history": [
         "Histórico de versões"
+      ],
+      "Unlimited logins, credit cards, hide-my-email aliases and more": [
+        "Inícios de sessão ilimitados, cartões de crédito, alias do ide-my-email e mais"
+      ],
+      "VPN Accelerator": [
+        "VPN Accelerator"
       ]
     },
     "BF2024: Offers": {
@@ -1149,6 +1155,12 @@
       ],
       "Two-year": [
         "Dois anos"
+      ],
+      "Lifetime": [
+        "Acesso vitalício"
+      ],
+      "New!": [
+        "Novo!"
       ]
     },
     "Browser": {
@@ -4002,7 +4014,7 @@
         "Nome"
       ],
       "Repeat event": [
-        "Repetir o evento"
+        "Repetir evento"
       ],
       "Search": [
         "Pesquisar"
@@ -5483,6 +5495,9 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "O fuso horário de seu sistema parece ter mudado para ${ timezone }. Você deseja atualizar suas preferências de fuso horário?"
+      ],
+      "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
+        "Se os atalhos de teclado estão ativados, você pode usar as seguintes teclas para ações rápidas ou para pular para visualizações diferentes. ${ metaKey } + K está sempre ativado."
       ]
     },
     "info": {
@@ -6079,6 +6094,9 @@
       ],
       "Your password (admin)": [
         "Sua senha (admin)"
+      ],
+      "Integrated 2FA authenticator": [
+        "Autenticador A2F integrado"
       ]
     },
     "Label for contact group color": {
@@ -6310,6 +6328,12 @@
       ],
       "for ${ price }": [
         "por ${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "Assistente de escrita ${ BRAND_NAME } Scribe"
+      ],
+      "Add-on with free trial": [
+        "Extensão com avaliação gratuita"
       ]
     },
     "mailtrial2024: Action": {
@@ -7100,6 +7124,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Rastreamos a dark web para verificar se seus endereços ou aliases ${ BRAND_NAME } sofreram vazamento e alertarmos você imediatamente se encontrarmos alguma coisa."
+      ],
+      "${ size } storage per user": [
+        "${ size } de armazenamento por usuário"
+      ],
+      "Manage user permissions and access": [
+        "Gerencie permissões e acesso dos usuários"
+      ],
+      "Password manager to secure credentials": [
+        "Gerenciador de senhas para proteger credenciais"
       ]
     },
     "new_plans: feature highlight": {
@@ -7218,6 +7251,9 @@
       ],
       "You’re enjoying a promotional price on your current plan. If you downgrade your account, you will lose your promotional price and it won’t be available if you try to subscribe again.": [
         "Seu plano atual está com um preço promocional. Se fizer o downgrade da sua conta, você perderá seu preço promocional, o qual não estará mais disponível se você tentar assinar novamente."
+      ],
+      "Pay once, secure your passwords and identity forever.": [
+        "Pague uma vez, proteja suas senhas e identidade para sempre."
       ]
     },
     "new_plans: Subtext": {
@@ -7540,7 +7576,7 @@
         "Link copiado para área de transferência"
       ],
       "Meeting host copied to clipboard": [
-        "O host da reunião foi copiado para área de transferência"
+        "O organizador da reunião foi copiado para área de transferência."
       ],
       "Meeting ID copied to clipboard": [
         "O ID da reunião foi copiado para área de transferência"
@@ -7768,6 +7804,12 @@
       ],
       "Special offer": [
         "Oferta especial"
+      ],
+      "Pay annually, secure our best offer": [
+        "Pague anualmente e assegure nossa melhor oferta"
+      ],
+      "Your subscription renews soon": [
+        "Sua assinatura renovará em breve"
       ]
     },
     "Offer feature": {
@@ -7896,6 +7938,9 @@
       ],
       "Every week ${ everyWeekDescription }": [
         "Cada semana ${ everyWeekDescription }"
+      ],
+      "Every weekday ${ everyWeekdayDescription }": [
+        "A cada dia de semana ${ everyWeekdayDescription }"
       ]
     },
     "Option group label": {
@@ -7935,6 +7980,12 @@
       "Secure vault sharing (${ n } vault) and link sharing": [
         "Compartilhamento seguro de cofre (${ n } cofre) e compartilhamento de link.",
         "Compartilhamento seguro de cofre (${ n } cofres) e compartilhamento de link."
+      ],
+      "Secure vault, item and link sharing": [
+        "Compartilhamento seguro de item, cofre e link"
+      ],
+      "Unlimited logins, notes, credit cards and more": [
+        "Inícios de sessão ilimitados, notas, cartões de crédito e muito mais"
       ]
     },
     "pass_signup_2024: Info": {
@@ -7950,6 +8001,9 @@
       ],
       "Team policies": [
         "Políticas de equipe"
+      ],
+      "Advanced account protection": [
+        "Proteção avançada de conta"
       ]
     },
     "PassFamilyPlan2024": {
@@ -8168,7 +8222,7 @@
         "Filtrar grupos"
       ],
       "Filter quick actions": [
-        "Filtrar as ações rápidas"
+        "Filtrar ações rápidas"
       ],
       "First name": [
         "Primeiro nome"
@@ -9018,6 +9072,9 @@
       ],
       "Billed yearly": [
         "Cobrado anualmente"
+      ],
+      "Billed every 6 months": [
+        "Cobrado a cada 6 meses"
       ]
     },
     "Subscription attribute": {
@@ -9040,6 +9097,10 @@
       "${ n } VPN connection per user": [
         "${ n } conexões VPN por usuário",
         "${ n } conexões VPN por usuário"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "Um\nConexão VPN para ${ n } dispositivos por usuário\n",
+        "Outro\nConexão VPN para ${ n } dispositivos por usuário"
       ]
     },
     "Subscription change warning": {
@@ -10253,6 +10314,15 @@
       ],
       "Every month ${ option.text }": [
         "Cada mês ${ option.text }"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "Cada semana na ${ weekdaysLong[currentDay] }"
+      ],
+      "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
+        "A cada dia de semana ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+      ],
+      "Help and feedback": [
+        "Ajuda e comentários"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10527,6 +10597,18 @@
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "${ numberOfServers } em ${ numberOfCountries } país",
         "${ numberOfServers } em ${ numberOfCountries } países"
+      ],
+      "${ n } device": [
+        "${ n } dispositivo",
+        "${ n } dispositivos"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } país",
+        "${ numberOfCountries } países"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "Seleciona automaticamente ${ numberOfCountries } país",
+        "Seleciona automaticamente ${ numberOfCountries } países"
       ]
     },
     "vpn_2024: renew": {
@@ -10969,6 +11051,44 @@
       ],
       "Passcode:": [
         "Código de acesso:"
+      ]
+    },
+    "customer_support.feature.all": {
+      "For all ${ BRAND_NAME } services": [
+        "Para todos os serviços da ${ BRAND_NAME }"
+      ]
+    },
+    "customer_support.feature.drive": {
+      "For ${ DRIVE_APP_NAME }": [
+        "Para ${ DRIVE_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.mail": {
+      "For ${ MAIL_APP_NAME }": [
+        "Para ${ MAIL_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.pass": {
+      "For ${ PASS_APP_NAME }": [
+        "Para ${ PASS_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.vpn": {
+      "For ${ VPN_APP_NAME }": [
+        "Para ${ VPN_APP_NAME }"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "Aliases do Hide-my-email ilimitados"
+      ]
+    },
+    "Info for cash payment method": {
+      "How to send a cash payment?": [
+        "Como enviar um pagamento em dinheiro?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Encontre as instruções no artigo: ${ howToSendCashArticleUrl }"
       ]
     }
   }

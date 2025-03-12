@@ -1090,6 +1090,9 @@
       ],
       "Version history": [
         "Versjonshistorikk"
+      ],
+      "VPN Accelerator": [
+        "VPN Accelerator"
       ]
     },
     "BF2024: Offers": {
@@ -6087,6 +6090,9 @@
       ],
       "Your password (admin)": [
         "Ditt passord (admin)"
+      ],
+      "Integrated 2FA authenticator": [
+        "Integrert 2FA-autentisering"
       ]
     },
     "Label for contact group color": {
@@ -6318,6 +6324,12 @@
       ],
       "for ${ price }": [
         "for ${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "${ BRAND_NAME } Scribe skriveassistent"
+      ],
+      "Add-on with free trial": [
+        "Tillegg med gratis prøveperiode"
       ]
     },
     "mailtrial2024: Action": {
@@ -7108,6 +7120,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Vi skanner det mørke nettet for å sjekke om ${ BRAND_NAME }-adressene eller aliasene dine har blitt lekket, og varsler deg umiddelbart hvis vi finner noe."
+      ],
+      "${ size } storage per user": [
+        "${ size } lagringsplass per bruker"
+      ],
+      "Manage user permissions and access": [
+        "Administrere brukertillatelser og -tilgang"
+      ],
+      "Password manager to secure credentials": [
+        "Passordbehandling for å sikre legitimasjon"
       ]
     },
     "new_plans: feature highlight": {
@@ -7962,6 +7983,9 @@
       ],
       "Team policies": [
         "Retningslinjer for teamet"
+      ],
+      "Advanced account protection": [
+        "Avansert kontobeskyttelse"
       ]
     },
     "PassFamilyPlan2024": {
@@ -9049,6 +9073,10 @@
       "${ n } VPN connection per user": [
         "${ n } VPN-tilkobling per bruker",
         "${ n } VPN-tilkoblinger per bruker"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "VPN-tilkobling for ${ n } enheter per bruker",
+        "VPN-tilkobling for ${ n } enheter per bruker"
       ]
     },
     "Subscription change warning": {
@@ -10419,6 +10447,18 @@
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "${ numberOfServers } i ${ numberOfCountries } land",
         "${ numberOfServers } i ${ numberOfCountries } land"
+      ],
+      "${ n } device": [
+        "${ n } enhet",
+        "${ n } enheter"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } land",
+        "${ numberOfCountries } land"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "Velger automatisk fra ${ numberOfCountries } land",
+        "Velger automatisk fra ${ numberOfCountries } land"
       ]
     },
     "vpn_2024: renew": {
@@ -10861,6 +10901,11 @@
       ],
       "Passcode:": [
         "Adgangskode:"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "Ubegrenset antall hide-my-email-aliaser"
       ]
     }
   }

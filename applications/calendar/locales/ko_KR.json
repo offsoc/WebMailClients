@@ -1082,6 +1082,9 @@
       ],
       "Version history": [
         "버전 기록"
+      ],
+      "VPN Accelerator": [
+        "VPN Accelerator"
       ]
     },
     "BF2024: Offers": {
@@ -4701,7 +4704,7 @@
         "중요도 높음"
       ],
       "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
-        "키보드 단축키가 활성화되면, , 다음 키를 사용하여 빠른 작업을 수행하거나 다른 보기로 이동할 수 있습니다. ${ metaKey } + K는 항상 활성화되어 있습니다."
+        "키보드 단축키가 활성화되면, 다음 키를 사용하여 빠른 작업을 수행하거나 다른 보기로 이동할 수 있습니다. ${ metaKey } + K는 항상 활성화되어 있습니다."
       ],
       "If you are having trouble creating your account, please request an invitation and we will respond within one business day.": [
         "계정을 만드는 데 문제가 있는 경우 초대를 요청하면 영업일 기준 1일 이내에 응답해 드려요."
@@ -6002,6 +6005,9 @@
       ],
       "On": [
         "켬"
+      ],
+      "Integrated 2FA authenticator": [
+        "2단계 인증기 내장"
       ]
     },
     "Label for contact group color": {
@@ -6228,6 +6234,9 @@
       ],
       "for ${ price }": [
         "${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "${ BRAND_NAME } Scribe 글쓰기 도우미"
       ]
     },
     "mailtrial2024: Action": {
@@ -7815,6 +7824,9 @@
       ],
       "Team policies": [
         "팀 정책"
+      ],
+      "Advanced account protection": [
+        "고급 계정 보호"
       ]
     },
     "PassFamilyPlan2024": {
@@ -8855,6 +8867,9 @@
       ],
       "Billed yearly": [
         "매년 청구"
+      ],
+      "Billed every 6 months": [
+        "6개월마다 청구"
       ]
     },
     "Subscription attribute": {
@@ -10216,6 +10231,15 @@
       ],
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "${ numberOfCountries }개 국가 중 ${ numberOfServers }개 서버"
+      ],
+      "${ n } device": [
+        "${ n }개 기기"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries }개 국가"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "${ numberOfCountries }개 국가에서 자동 선택됨"
       ]
     },
     "vpn_2024: renew": {
@@ -10622,6 +10646,11 @@
       ],
       "Passcode:": [
         "비밀번호:"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "무제한 hide-my-email 별칭"
       ]
     }
   }

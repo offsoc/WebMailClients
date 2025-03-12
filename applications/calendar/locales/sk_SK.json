@@ -324,7 +324,7 @@
         "Preposlať ako prílohu"
       ],
       "Get ${ planName } for ${ priceCoupon }": [
-        "Získajte ${ planName } za ${ priceCoupon }"
+        "Získať ${ planName } za ${ priceCoupon }"
       ],
       "Get ${ planOrAppName }": [
         "Získajte ${ planOrAppName }"
@@ -702,7 +702,7 @@
         "Prepnúť alebo pridať účet"
       ],
       "Take a tour": [
-        "Absolvujte prehliadku"
+        "Absolvovať prehliadku"
       ],
       "Today": [
         "Dnes"
@@ -817,6 +817,15 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Bezplatná skúšobná verzia desktopovej aplikácie končí dňa ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Add another account": [
+        "Pridať ďalší účet"
+      ],
+      "Help and feedback": [
+        "Pomoc a spätná väzba"
+      ],
+      "Help and resources": [
+        "Nápoveda a podporné materiály"
       ]
     },
     "action": {
@@ -1057,7 +1066,7 @@
         "Blokovač reklám a ochrana pred malvérom"
       ],
       "Admin panel to manage your family": [
-        "Admin panel na správu vašej rodiny"
+        "Panel správcu pre správu vašej rodiny"
       ],
       "Advanced account protection": [
         "Pokročilá ochrana účtu"
@@ -1106,6 +1115,12 @@
       ],
       "Version history": [
         "História verzií"
+      ],
+      "Unlimited logins, credit cards, hide-my-email aliases and more": [
+        "Neobmedzené prihlásenia, hide-my-email aliasy a oveľa viac"
+      ],
+      "VPN Accelerator": [
+        "VPN Accelerator"
       ]
     },
     "BF2024: Offers": {
@@ -1124,13 +1139,13 @@
         "Získajte prístup k obsahu na streamovacích službách vrátane Netflix, Disney+, Prime Video a ďalších odkiaľkoľvek."
       ],
       "Secure logins on all your devices. Includes unlimited hide-my-email aliases, sharing, integrated 2FA, ${ DARK_WEB_MONITORING_NAME } and more.": [
-        "Zabezpečené prihlasovanie na všetkých zariadeniach. Zahŕňa neobmedzený počet hide-my-email aliasov, zdieľanie, integrované 2FA, ${ DARK_WEB_MONITORING_NAME } a ďalšie."
+        "Zabezpečené prihlasovanie na všetkých zariadeniach. Zahŕňa neobmedzený počet hide-my-email aliasov, zdieľanie, integrované 2FA, ${ DARK_WEB_MONITORING_NAME } a ďalšie funkcie."
       ],
       "Secure your emails and schedule with end-to-end encryption. Includes ${ addresses } email address, support for custom email domains, ${ BRAND_NAME } Scribe writing assistant, unlimited hide-my-email aliases and more.": [
         "Zabezpečte svoje emaily a harmonogram pomocou end-to-end šifrovania. Súčasťou je ${ addresses } emailová adresa, podpora vlastných emailových domén, asistent písania ${ BRAND_NAME } Scribe, neobmedzený počet hide-my-email aliasov a ďalšie.",
-        "Zabezpečte svoje emaily a harmonogram pomocou end-to-end šifrovania. Súčasťou je ${ addresses } emailové adresy, podpora vlastných emailových domén, asistent písania ${ BRAND_NAME } Scribe, neobmedzený počet hide-my-email aliasov a ďalšie.",
-        "Zabezpečte svoje emaily a harmonogram pomocou end-to-end šifrovania. Súčasťou je ${ addresses } emailové adresy, podpora vlastných emailových domén, asistent písania ${ BRAND_NAME } Scribe, neobmedzený počet hide-my-email aliasov a ďalšie.",
-        "Zabezpečte svoje emaily a harmonogram pomocou end-to-end šifrovania. Súčasťou je ${ addresses } emailové adresy, podpora vlastných emailových domén, asistent písania ${ BRAND_NAME } Scribe, neobmedzený počet hide-my-email aliasov a ďalšie."
+        "Zabezpečte svoje emaily a harmonogram pomocou end-to-end šifrovania. Súčasťou sú ${ addresses } emailové adresy, podpora vlastných emailových domén, asistent písania ${ BRAND_NAME } Scribe, neobmedzený počet hide-my-email aliasov a ďalšie.",
+        "Zabezpečte svoje emaily a harmonogram pomocou end-to-end šifrovania. Súčasťou je ${ addresses } emailových adries, podpora vlastných emailových domén, asistent písania ${ BRAND_NAME } Scribe, neobmedzený počet hide-my-email aliasov a ďalšie.",
+        "Zabezpečte svoje emaily a harmonogram pomocou end-to-end šifrovania. Súčasťou je ${ addresses } emailových adries, podpora vlastných emailových domén, asistent písania ${ BRAND_NAME } Scribe, neobmedzený počet hide-my-email aliasov a ďalšie."
       ],
       "Secure your emails and schedule with end-to-end encryption. Includes ${ addresses } email address, support for custom email domains, unlimited hide-my-email aliases and more.": [
         "Zabezpečte svoje emaily a harmonogram pomocou end-to-end šifrovania. Súčasťou je ${ addresses } emailová adresa, podpora vlastných emailových domén, neobmedzený počet hide-my-email aliasov a ďalšie.",
@@ -1169,6 +1184,12 @@
       ],
       "Two-year": [
         "Dva roky"
+      ],
+      "Lifetime": [
+        "Doživotne"
+      ],
+      "New!": [
+        "Nové!"
       ]
     },
     "Browser": {
@@ -1270,16 +1291,16 @@
         "Vytvoriť štítok"
       ],
       "Discover and set up features": [
-        "Spoznajte a nastavte funkcie"
+        "Objaviť a nastaviť funkcie"
       ],
       "Remind me later": [
-        "Pripomeňte mi to neskôr"
+        "Pripomenúť neskôr"
       ],
       "Set up other features": [
-        "Nastavte ďalšie funkcie"
+        "Nastaviť ďalšie funkcie"
       ],
       "Take a tour": [
-        "Absolvujte prehliadku"
+        "Absolvovať prehliadku"
       ]
     },
     "Calendar access select label": {
@@ -4133,7 +4154,7 @@
         "Chybný čas začiatku"
       ],
       "Only the Gregorian calendar scale is allowed": [
-        "Povolená je len gregoriánska kalendárna sústava"
+        "Povolený je iba gregoriánsky typ kalendára"
       ],
       "Recurring event has no occurrences": [
         "Opakujúca sa udalosť nemá žiadne výskyty"
@@ -4849,7 +4870,7 @@
         "Emaily presunuté do koša a spamu pred viac ako 30 dňami budú automaticky vymazané."
       ],
       "Enabling auto-deletion…": [
-        "Zapínam automatické mazanie…"
+        "Zapínanie automatického mazania…"
       ],
       "Enter the code from your authenticator app": [
         "Zadajte kód z vašej overovacej aplikácie"
@@ -5620,13 +5641,16 @@
         "Vaše telefónne číslo bude použité iba pre toto jednorazové overenie."
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every ${ cycle } months.": [
-        "Váš naplánovaný plán sa začína od ${ renewalTime } a bude sa automaticky obnovovať každých ${ cycle } mesiacov."
+        "Vaše naplánované predplatné sa začína ${ renewalTime } a bude automaticky obnovené každých ${ cycle } mesiacov."
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
-        "Váš naplánovaný plán sa začína od ${ renewalTime } a bude sa automaticky obnovovať každý mesiac."
+        "Vaše naplánované predplatné sa začína ${ renewalTime } a bude automaticky obnovené každý mesiac."
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Zdá sa, že vaše systémové časové pásmo sa zmenilo na ${ timezone }. Chcete aktualizovať nastavenia časového pásma?"
+      ],
+      "Other accounts": [
+        "Ďalšie účty"
       ]
     },
     "info": {
@@ -6165,7 +6189,7 @@
         "Dátum začiatku"
       ],
       "State": [
-        "Krajina"
+        "Štát"
       ],
       "Street address": [
         "Ulica a č."
@@ -6232,6 +6256,9 @@
       ],
       "On": [
         "Zap."
+      ],
+      "Integrated 2FA authenticator": [
+        "Integrovaný 2FA autentifikátor"
       ]
     },
     "Label for contact group color": {
@@ -6473,6 +6500,12 @@
       ],
       "for ${ price }": [
         "za ${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "Asistent písania ${ BRAND_NAME } Scribe"
+      ],
+      "Add-on with free trial": [
+        "Doplnok s bezplatnou skúšobnou verziou"
       ]
     },
     "mailtrial2024: Action": {
@@ -6774,7 +6807,7 @@
         "Aktualizovať teraz"
       ],
       "Upgrade to ${ planName }": [
-        "Upgradujte na ${ planName }"
+        "Navýšiť na ${ planName }"
       ]
     },
     "new_plans: action": {
@@ -7291,10 +7324,10 @@
         "Až ${ totalStorageSize } úložného priestoru"
       ],
       "Use on up to ${ n } device at once": [
-        "Používajte na ${ n } zariadení súčasne",
-        "Používajte až na ${ n } zariadeniach súčasne",
-        "Používajte až na ${ n } zariadeniach súčasne",
-        "Používajte až na ${ n } zariadeniach súčasne"
+        "Používajte na ${ n } zariadení",
+        "Používajte súčasne až na ${ n } zariadeniach",
+        "Používajte súčasne až na ${ n } zariadeniach",
+        "Používajte súčasne až na ${ n } zariadeniach"
       ],
       "User credential management": [
         "Správa používateľských údajov"
@@ -7313,6 +7346,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Skenujeme temný web a kontrolujeme, či nedošlo k úniku vašich adries alebo aliasov ${ BRAND_NAME }, a ak niečo nájdeme, okamžite vás upozorníme."
+      ],
+      "${ size } storage per user": [
+        "${ size } úložisko na používateľa"
+      ],
+      "Manage user permissions and access": [
+        "Správa používateľských oprávnení a prístupov"
+      ],
+      "Password manager to secure credentials": [
+        "Správca hesiel na zabezpečenie prihlasovacích údajov"
       ]
     },
     "new_plans: feature highlight": {
@@ -7435,6 +7477,9 @@
       ],
       "You’re enjoying a promotional price on your current plan. If you downgrade your account, you will lose your promotional price and it won’t be available if you try to subscribe again.": [
         "Využívate propagačnú cenu vášho aktuálneho plánu. Ak prejdete na nižšiu verziu účtu, prídete o propagačnú cenu a ak sa znova pokúsite o predplatné, nebude už k dispozícii."
+      ],
+      "Pay once, secure your passwords and identity forever.": [
+        "Zaplaťte raz a zabezpečte svoje heslá a identity navždy."
       ]
     },
     "new_plans: Subtext": {
@@ -7974,7 +8019,7 @@
         "${ pricingTitle } ponuka končí dnes!"
       ],
       "Don’t show this offer again": [
-        "Nabudúce to už nezobrazovať"
+        "Túto ponuku už nezobrazovať"
       ],
       "Get Drive Plus for only ${ pricingTitle }": [
         "Získajte Drive Plus len za ${ pricingTitle }"
@@ -7983,13 +8028,13 @@
         "Získajte Mail Plus len za ${ pricingTitle }"
       ],
       "Get the deal": [
-        "Využite ponuku"
+        "Využiť ponuku"
       ],
       "Last chance to get 80% off your first month of ${ plan } Plus.": [
         "Posledná šanca ušetriť 80% za prvý mesiac s ${ plan } Plus."
       ],
       "Last day to save": [
-        "Posledný deň na ušetrenie"
+        "Posledný deň, kedy môžete ušetriť"
       ],
       "Limited-time offer": [
         "Časovo obmedzená ponuka"
@@ -8025,13 +8070,13 @@
         "Ponuka skončí ${ formattedDate }."
       ],
       "Pay annually, secure our best offer": [
-        "Plaťte ročne, poistite si našu najlepšiu ponuku"
+        "Plaťte ročne, zaistíte si našu najlepšiu ponuku"
       ],
       "Special offer": [
         "Špeciálna ponuka"
       ],
       "Your subscription renews soon": [
-        "Vaše predplatné čoskoro obnoví"
+        "Vaše predplatné sa čoskoro obnoví"
       ]
     },
     "Offer feature": {
@@ -8214,6 +8259,12 @@
         "Bezpečné zdieľanie trezorov (${ n } trezory) a zdieľanie odkazu",
         "Bezpečné zdieľanie trezorov (${ n } trezorov) a zdieľanie odkazu",
         "Bezpečné zdieľanie trezorov (${ n } trezorov) a zdieľanie odkazu"
+      ],
+      "Secure vault, item and link sharing": [
+        "Zabezpečený trezor, položky a zdieľanie odkazov"
+      ],
+      "Unlimited logins, notes, credit cards and more": [
+        "Neobmedzené prihlásenia, poznámky, platobné karty a oveľa viac"
       ]
     },
     "pass_signup_2024: Info": {
@@ -8231,6 +8282,9 @@
       ],
       "Team policies": [
         "Tímové zásady"
+      ],
+      "Advanced account protection": [
+        "Pokročilá ochrana účtu"
       ]
     },
     "PassFamilyPlan2024": {
@@ -8336,7 +8390,7 @@
         "Špeciálna zľavnená cena ${ priceWithDiscount } platí počas prvých ${ subscriptionLength } mesiacov. Kupón je platný na ${ couponRedemptions } obnovení. Potom sa každý mesiac automaticky obnoví za ${ renewPrice } na ${ subscriptionLengthCopy } mesiacov. Službu môžete kedykoľvek zrušiť."
       ],
       "The specially discounted price of ${ priceWithDiscount } is valid for the first ${ subscriptionLength } months. Then it will automatically be renewed at ${ renewPrice } for ${ subscriptionLengthCopy } months. You can cancel at any time.": [
-        "Špeciálne zľavnená cena ${ priceWithDiscount } platí prvých ${ subscriptionLength } mesiacov. Potom sa každý mesiac automaticky obnoví za ${ renewPrice } na ${ subscriptionLengthCopy } mesiacov. Službu môžete kedykoľvek zrušiť."
+        "Špeciálne zľavnená cena ${ priceWithDiscount } platí počas prvých ${ subscriptionLength } mesiacov. Potom sa každý mesiac automaticky obnoví za ${ renewPrice } na ${ subscriptionLengthCopy } mesiacov. Službu môžete kedykoľvek zrušiť."
       ],
       "The specially discounted price of ${ priceWithDiscount } is valid for the first month. The coupon is valid for ${ couponRedemptions } renewals. Then it will automatically be renewed at ${ renewPrice } for ${ subscriptionLength } month. You can cancel at any time.": [
         "Špeciálna zľavnená cena ${ priceWithDiscount } platí počas prvého mesiaca. Kupón je platný na ${ couponRedemptions } obnovení. Potom sa každý mesiac automaticky obnoví za ${ renewPrice } na ${ subscriptionLength } mesiac. Službu môžete kedykoľvek zrušiť."
@@ -8602,7 +8656,7 @@
     },
     "Safety review": {
       "Review account safety": [
-        "Skontrolujte bezpečnosť účtu"
+        "Skontrolovať bezpečnosť účtu"
       ]
     },
     "saml: Error": {
@@ -9337,6 +9391,9 @@
       ],
       "Billed yearly": [
         "Účtované ročne"
+      ],
+      "Billed every 6 months": [
+        "Účtované každých 6 mesiacov"
       ]
     },
     "Subscription attribute": {
@@ -9369,6 +9426,12 @@
         "${ n } VPN pripojenia na používateľa",
         "${ n } VPN pripojení na používateľa",
         "${ n } VPN pripojení na používateľa"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "VPN pripojenie pre ${ n } zariadenie na používateľa",
+        "VPN pripojenia pre ${ n } zariadenia na používateľa",
+        "VPN pripojení pre ${ n } zariadení na používateľa",
+        "VPN pripojení pre ${ n } zariadení na používateľa"
       ]
     },
     "Subscription change warning": {
@@ -10628,6 +10691,9 @@
       ],
       "Every year": [
         "Každý rok"
+      ],
+      "Help and feedback": [
+        "Pomoc a spätná väzba"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10791,6 +10857,24 @@
         "${ numberOfServers } v ${ numberOfCountries } krajinách",
         "${ numberOfServers } v ${ numberOfCountries } krajinách",
         "${ numberOfServers } v ${ numberOfCountries } krajinách"
+      ],
+      "${ n } device": [
+        "${ n } zariadenie",
+        "${ n } zariadenia",
+        "${ n } zariadení",
+        "${ n } zariadení"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } krajina",
+        "${ numberOfCountries } krajiny",
+        "${ numberOfCountries } krajín",
+        "${ numberOfCountries } krajín"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "Automatický výber z ${ numberOfCountries } krajiny",
+        "Automatický výber z ${ numberOfCountries } krajín",
+        "Automatický výber z ${ numberOfCountries } krajín",
+        "Automatický výber z ${ numberOfCountries } krajín"
       ]
     },
     "vpn_2024: renew": {
@@ -10852,7 +10936,7 @@
         "Bitcoin cez email"
       ],
       "Encrypted and secure ${ MAIL_APP_NAME } email address. You can easily send Bitcoin to anyone with just their ${ BRAND_NAME } name.": [
-        "Zašifrovaná a bezpečná emailová adresa ${ MAIL_APP_NAME }. Môžete jednoducho odoslať Bitcoin komukoľvek len s ich ${ BRAND_NAME } menom."
+        "Zašifrovaná a bezpečná emailová adresa ${ MAIL_APP_NAME }. Môžete jednoducho odoslať Bitcoin komukoľvek pomocou ich ${ BRAND_NAME } mena."
       ],
       "Securely exchange Bitcoin via email instead of complex, 26-character Bitcoin addresses that are prone to error": [
         "Bezpečne vymieňajte Bitcoin prostredníctvom emailu namiesto zložitých, 26-znakových bitcoinových adries, ktoré sú náchylné na chybu"
@@ -11330,6 +11414,36 @@
       ],
       "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
         "Pokyny nájdete v článku: ${ howToSendCashArticleUrl }"
+      ]
+    },
+    "customer_support.feature.all": {
+      "For all ${ BRAND_NAME } services": [
+        "Za všetky ${ BRAND_NAME } služby"
+      ]
+    },
+    "customer_support.feature.drive": {
+      "For ${ DRIVE_APP_NAME }": [
+        "Za ${ DRIVE_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.mail": {
+      "For ${ MAIL_APP_NAME }": [
+        "Za ${ MAIL_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.pass": {
+      "For ${ PASS_APP_NAME }": [
+        "Za ${ PASS_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.vpn": {
+      "For ${ VPN_APP_NAME }": [
+        "Za ${ VPN_APP_NAME }"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "Neobmedzený počet hide-my-email aliasov"
       ]
     }
   }
