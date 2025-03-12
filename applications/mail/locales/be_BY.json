@@ -397,7 +397,7 @@
         "Адхіліць"
       ],
       "Dismiss": [
-        "Закрыць"
+        "Адхіліць"
       ],
       "Display navigation bar": [
         "Адлюстраваць панэль навігацыі"
@@ -622,10 +622,10 @@
         "Не атрымалася загрузіць відарыс з уключанай абаронай ад праграм сачэння."
       ],
       "Image will be loaded without a proxy": [
-        "Відарыс будзе загружаны без проксі-сервера"
+        "Відарыс будзе загружаны без проксі"
       ],
       "Images will be loaded without a proxy": [
-        "Відарысы будуць загружаны без проксі-сервера"
+        "Відарысы будуць загружаны без проксі"
       ],
       "Import": [
         "Імпартаваць"
@@ -1484,6 +1484,18 @@
       ],
       "Zoom out": [
         "Паменшыць"
+      ],
+      "Add another account": [
+        "Дадайце іншы ўліковы запіс"
+      ],
+      "Help and feedback": [
+        "Даведка і зваротная сувязь"
+      ],
+      "Help and resources": [
+        "Даведка і рэсурсы"
+      ],
+      "hide-my-email aliases": [
+        "псеўданімаў Hide-my-email"
       ]
     },
     "action": {
@@ -1809,6 +1821,12 @@
       ],
       "Version history": [
         "Гісторыя версій"
+      ],
+      "Unlimited logins, credit cards, hide-my-email aliases and more": [
+        "Неабмежаваная колькасць запісаў уваходу, крэдытных картак, псеўданімаў hide-my-email і іншых функцый"
+      ],
+      "VPN Accelerator": [
+        "VPN Accelerator"
       ]
     },
     "BF2024: Offers": {
@@ -1872,6 +1890,12 @@
       ],
       "Two-year": [
         "Кожныя два гады"
+      ],
+      "Lifetime": [
+        "Пажыццёва"
+      ],
+      "New!": [
+        "Новае!"
       ]
     },
     "Browser": {
@@ -3557,7 +3581,7 @@
         "/месяц"
       ],
       "/user per month": [
-        "/карыстальнікаў у месяц"
+        "/карыстальніка ў месяц"
       ]
     },
     "Daily recurring event, frequency": {
@@ -6188,7 +6212,7 @@
         "(Фільтраваць, калі выканана ЛЮБАЯ з наступных умоў)"
       ],
       "(No Recipient)": [
-        "(Няма атрымальніка)"
+        "(Без атрымальніка)"
       ],
       "**${ elementsFoundCount }** result found in ${ labelName }": [
         "**${ elementsFoundCount }** вынік знойдзены ў ${ labelName }",
@@ -6410,7 +6434,7 @@
         "Не знайшлі тое, што шукалі? ${ displayAllMailButton }"
       ],
       "Cannot remember your password? We can help you clear the encrypted data of all contacts encrypted with this key and in the process dismiss the alert.": [
-        "Не можаце ўспомніць свой пароль? Мы можам дапамагчы ачысціць даныя ўсіх кантактаў, якія былі зашыфраваны гэтым ключом і такім чынам ігнараваць гэту абвестку."
+        "Не можаце ўспомніць свой пароль? Мы можам дапамагчы ачысціць даныя ўсіх кантактаў, якія былі зашыфраваны гэтым ключом і такім чынам адхіліць гэту абвестку."
       ],
       "Center": [
         "Па цэнтры"
@@ -8160,6 +8184,18 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Ваш запланаваны тарыфны план пачынаецца ${ renewalTime } і будзе аўтаматычна падаўжацца кожны месяц."
+      ],
+      "Other accounts": [
+        "Іншыя ўліковыя запісы"
+      ],
+      "Our system flagged this as suspicious. If it is not a phishing or scam email, mark as legitimate.": [
+        "Наша сістэма пазначыла гэта як падазроны. Калі гэта не фішынгавы або падманны ліст, то пазначце яго як дапушчальны."
+      ],
+      "Our system flagged this message as a phishing attempt. Please check to ensure that it is legitimate.": [
+        "Наша сістэма пазначыла гэта паведамленне як спробу фішынгу. Пераканайце ў яго надзейнасці."
+      ],
+      "Protect your email from being leaked to mailing lists or spammers with ${ hideMyEmailAliasesLink }.": [
+        "Абараняйце сваю электронную пошту ад уцечкі ў спіс рассылкі або спамераў з дапамогай ${ hideMyEmailAliasesLink }."
       ]
     },
     "info": {
@@ -8457,7 +8493,7 @@
         "${ n } месяцаў"
       ],
       "(Temporarily unavailable. Please check back later.)": [
-        "(Часова недаступны. Паспрабуйце яшчэ раз пазней.)"
+        "(Часова недаступна. Паспрабуйце яшчэ раз пазней.)"
       ],
       "/month": [
         "/месяц"
@@ -9010,6 +9046,9 @@
       ],
       "Your password (admin)": [
         "Ваш пароль (admin)"
+      ],
+      "Integrated 2FA authenticator": [
+        "Інтэграваны аўтэнтыфікатар 2ФА"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9381,6 +9420,12 @@
       ],
       "for ${ price }": [
         "за ${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "Памочнік у напісанні ${ BRAND_NAME } Scribe"
+      ],
+      "Add-on with free trial": [
+        "Дадатак з бясплатным пробным перыядам"
       ]
     },
     "Mailbox": {
@@ -10216,6 +10261,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Мы сканіруем цёмную сетку для праверкі на прадмет уцечкі адрасоў і псеўданімаў ${ BRAND_NAME }. Вы неадкладна будзеце апавешчаны ў выпадку, калі нешта будзе выяўлена."
+      ],
+      "${ size } storage per user": [
+        "${ size } сховішча на карыстальніка"
+      ],
+      "Manage user permissions and access": [
+        "Кіраваць дазволамі карыстальніка і доступам"
+      ],
+      "Password manager to secure credentials": [
+        "Менеджар пароляў для бяспекі ўліковых даных"
       ]
     },
     "new_plans: feature highlight": {
@@ -10338,6 +10392,9 @@
       ],
       "You’re enjoying a promotional price on your current plan. If you downgrade your account, you will lose your promotional price and it won’t be available if you try to subscribe again.": [
         "Вы карыстаецеся бягучым тарыфным планам па акцыённым кошце. Калі вы панізіце свой уліковы запіс, то згубіце гэту перавагу і больш не зможаце скарыстацца ёй, калі вырашыце падпісацца яшчэ раз."
+      ],
+      "Pay once, secure your passwords and identity forever.": [
+        "Заплаціце адзін раз, засцеражыце свае паролі і ідэнтычнасць назаўжды."
       ]
     },
     "new_plans: Subtext": {
@@ -10529,7 +10586,7 @@
         "Бяспечнае абагульванне індывідуальных элементаў з любой асобай (у тым ліку з тымі, хто не карыстаецца ${ PASS_APP_NAME })"
       ],
       "Securely store your contacts’ details, such as phone number, address, birthday, and personal notes. Zero-access encryption ensures even ${ BRAND_NAME } can't access them.": [
-        "Бяспечна захоўвайце кантактныя звесткі, такія як нумары тэлефонаў, адрасы, дні нараджэнні і іншыя асабістыя нататкі. Шыфраванне з нулявым доступам гарантуе, што даныя не будуць даступны нікому, нават супрацоўнікам ${ BRAND_NAME }."
+        "Бяспечна захоўвайце кантактныя звесткі, такія як нумары тэлефонаў, адрасы, дні нараджэнняў і іншыя асабістыя нататкі. Шыфраванне з нулявым доступам гарантуе, што даныя не будуць даступны нікому, нават супрацоўнікам ${ BRAND_NAME }."
       ],
       "See the availability of meeting participants and save time scheduling meetings": [
         "Прагляд даступнасці ўдзельнікаў сустрэчы і эканомія часу пры планаванні сустрэч"
@@ -10882,7 +10939,7 @@
         "Будзьце ў курсе ў выпадку, калі ваш пароль будзе скампраметаваны."
       ],
       "Industry-leading spam protection": [
-        "Адна з лепшых абарон ад спаму"
+        "Адна з лепшых абарон ад спаму ў прамысловай галіне"
       ],
       "Let's get started": [
         "Давайце пачнём"
@@ -11055,6 +11112,12 @@
         "Бяспечнае абагульванне сховішча (${ n } сховішчы) і абагульванне спасылкі",
         "Бяспечнае абагульванне сховішча (${ n } сховішчаў) і абагульванне спасылкі",
         "Бяспечнае абагульванне сховішча (${ n } сховішчаў) і абагульванне спасылкі"
+      ],
+      "Secure vault, item and link sharing": [
+        "Бяспечнае сховішча, элементы і абагульванне спасылак"
+      ],
+      "Unlimited logins, notes, credit cards and more": [
+        "Неабмежаваная колькасць запісаў уваходу, нататак, крэдытных картак і іншых функцый"
       ]
     },
     "pass_signup_2024: Info": {
@@ -11072,6 +11135,9 @@
       ],
       "Team policies": [
         "Палітыка каманды"
+      ],
+      "Advanced account protection": [
+        "Пашыраная абарона ўліковага запісу"
       ]
     },
     "PassFamilyPlan2024": {
@@ -12481,6 +12547,12 @@
         "${ n } падключэнні па VPN на карыстальніка",
         "${ n } падключэнняў па VPN на карыстальніка",
         "${ n } падключэнняў па VPN на карыстальніка"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "Падключэнне па VPN для ${ n } прылады на карыстальніка",
+        "Падключэнне па VPN для ${ n } прылад на карыстальніка",
+        "Падключэнне па VPN для ${ n } прылад на карыстальніка",
+        "Падключэнне па VPN для ${ n } прылад на карыстальніка"
       ]
     },
     "Subscription change warning": {
@@ -13228,7 +13300,7 @@
         "/месяц"
       ],
       "/user per month": [
-        "/карыстальнікаў у месяц"
+        "/карыстальніка ў месяц"
       ]
     },
     "Suffix for price": {
@@ -13422,7 +13494,7 @@
         "${ unreads } непрачытаныя паведамленні"
       ],
       "(active)": [
-        "(актыўная)"
+        "(актыўна)"
       ],
       "A filter name is required": [
         "Патрабуецца назва фільтра"
@@ -14245,6 +14317,9 @@
       ],
       "Your shorter address is now ready": [
         "Ваш больш кароткі адрас гатовы да выкарыстання"
+      ],
+      "Help and feedback": [
+        "Даведка і зваротная сувязь"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14311,7 +14386,7 @@
         "Не атрымалася загрузіць відарыс"
       ],
       "The image could not be loaded using proxy": [
-        "Не атрымалася загрузіць відарыс з выкарыстаннем проксі-сервера"
+        "Не атрымалася загрузіць відарыс з выкарыстаннем проксі"
       ],
       "The import will start with the most recent messages.": [
         "Імпартаванне пачнецца з самых апошніх паведамленняў."
@@ -14405,6 +14480,24 @@
         "${ numberOfServers } у ${ numberOfCountries } краінах",
         "${ numberOfServers } у ${ numberOfCountries } краінах",
         "${ numberOfServers } у ${ numberOfCountries } краінах"
+      ],
+      "${ n } device": [
+        "${ n } прылада",
+        "${ n } прылады",
+        "${ n } прылад",
+        "${ n } прылад"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } краіна",
+        "${ numberOfCountries } краіны",
+        "${ numberOfCountries } краін",
+        "${ numberOfCountries } краін"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "Аўтаматычны выбар з ${ numberOfCountries } краіны",
+        "Аўтаматычны выбар з ${ numberOfCountries } краін",
+        "Аўтаматычны выбар з ${ numberOfCountries } краін",
+        "Аўтаматычны выбар з ${ numberOfCountries } краін"
       ]
     },
     "vpn_2024: renew": {
@@ -14541,7 +14634,7 @@
         "Дата завяршэння тэрміну не адпавядае фармату ММ/ГГ"
       ],
       "If you don’t remember your password, it is impossible to re-activate your key. We can help you dismiss the alert banner but in the process you will permanently lose access to all the data encrypted with that key.": [
-        "Калі вы не памятаеце свой пароль, то немагчыма паўторна актываваць ваш ключ. Мы можам дапамагчы вам ігнараваць банер папярэджання, але ў працэсе вы незваротна страціце доступ да ўсіх даных, якія зашыфраваны гэтым ключом."
+        "Калі вы не памятаеце свой пароль, то немагчыма паўторна актываваць ваш ключ. Мы можам дапамагчы вам адхіліць банер папярэджання, але ў працэсе вы незваротна страціце доступ да ўсіх даных, якія зашыфраваны гэтым ключом."
       ],
       "Invalid alias prefix": [
         "Памылковы прэфікс псеўданіма"
@@ -14938,6 +15031,36 @@
       ],
       "Passcode:": [
         "Код доступу:"
+      ]
+    },
+    "customer_support.feature.all": {
+      "For all ${ BRAND_NAME } services": [
+        "За ўсе сэрвісы ${ BRAND_NAME }"
+      ]
+    },
+    "customer_support.feature.drive": {
+      "For ${ DRIVE_APP_NAME }": [
+        "За ${ DRIVE_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.mail": {
+      "For ${ MAIL_APP_NAME }": [
+        "За ${ MAIL_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.pass": {
+      "For ${ PASS_APP_NAME }": [
+        "За ${ PASS_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.vpn": {
+      "For ${ VPN_APP_NAME }": [
+        "За ${ VPN_APP_NAME }"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "Неабмежаваная колькасць псеўданімаў hide-my-email"
       ]
     }
   }

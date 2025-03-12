@@ -1477,6 +1477,18 @@
       ],
       "Trust key": [
         "Clave de confianza"
+      ],
+      "Add another account": [
+        "Añada otra cuenta"
+      ],
+      "Help and feedback": [
+        "Ayuda y comentarios"
+      ],
+      "Help and resources": [
+        "Ayuda y recursos"
+      ],
+      "hide-my-email aliases": [
+        "los alias de hide-my-email"
       ]
     },
     "action": {
@@ -1794,6 +1806,12 @@
       ],
       "Version history": [
         "Historial de versiones"
+      ],
+      "Unlimited logins, credit cards, hide-my-email aliases and more": [
+        "Inicios de sesión ilimitados, tarjetas de crédito, alias hide-my-email y más"
+      ],
+      "VPN Accelerator": [
+        "VPN Accelerator"
       ]
     },
     "BF2024: Offers": {
@@ -1853,6 +1871,12 @@
       ],
       "Two-year": [
         "Dos años"
+      ],
+      "Lifetime": [
+        "De por vida"
+      ],
+      "New!": [
+        "¡Nuevo!"
       ]
     },
     "Browser": {
@@ -7901,6 +7925,18 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Su plan programado comienza el ${ renewalTime } y se renovará automáticamente cada mes."
+      ],
+      "Other accounts": [
+        "Otras cuentas"
+      ],
+      "Our system flagged this as suspicious. If it is not a phishing or scam email, mark as legitimate.": [
+        "Nuestro sistema marcó este mensaje como sospechoso. Si no es un mail falso o de suplantación, marquelo como legítimo"
+      ],
+      "Our system flagged this message as a phishing attempt. Please check to ensure that it is legitimate.": [
+        "Nuestro sistema marcó este mensaje como un intento de suplantación. Por favor verifique para asegurar que es legitimo"
+      ],
+      "Protect your email from being leaked to mailing lists or spammers with ${ hideMyEmailAliasesLink }.": [
+        "Proteja el correo de ser filtrado en listas de correo o spammers con ${ hideMyEmailAliasesLink }."
       ]
     },
     "info": {
@@ -8742,6 +8778,9 @@
       ],
       "Your password (admin)": [
         "La contraseña (admin)"
+      ],
+      "Integrated 2FA authenticator": [
+        "Autenticador de 2FA integrado"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9103,6 +9142,12 @@
       ],
       "for ${ price }": [
         "por ${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "Asistente de escritura ${ BRAND_NAME } Scribe"
+      ],
+      "Add-on with free trial": [
+        "Complemento con prueba gratuita"
       ]
     },
     "Mailbox": {
@@ -9888,6 +9933,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Escaneamos la dark web para verificar si sus direcciones o alias de ${ BRAND_NAME } han sido filtrados y alertarle de inmediato si encontramos algo."
+      ],
+      "${ size } storage per user": [
+        "${ size } de almacenamiento por usuario"
+      ],
+      "Manage user permissions and access": [
+        "Gestionar permisos y accesos de usuario"
+      ],
+      "Password manager to secure credentials": [
+        "Gestor de contraseñas para proteger credenciales"
       ]
     },
     "new_plans: feature highlight": {
@@ -10006,6 +10060,9 @@
       ],
       "You’re enjoying a promotional price on your current plan. If you downgrade your account, you will lose your promotional price and it won’t be available if you try to subscribe again.": [
         "Está disfrutando de un precio promocional en el plan actual. Si pasa a un plan inferior, perderá el precio promocional y no estará disponible si crea una cuenta nueva."
+      ],
+      "Pay once, secure your passwords and identity forever.": [
+        "Pague una vez, asegure sus contraseñas e identidad para siempre."
       ]
     },
     "new_plans: Subtext": {
@@ -10721,6 +10778,12 @@
       "Secure vault sharing (${ n } vault) and link sharing": [
         "Intercambio seguro de bóveda (${ n } bóveda) e intercambio de enlaces",
         "Intercambio seguro de bóveda (${ n } bóvedas) e intercambio de enlaces"
+      ],
+      "Secure vault, item and link sharing": [
+        "Bóveda segura, elemento y enlace coompartido"
+      ],
+      "Unlimited logins, notes, credit cards and more": [
+        "Inicios de sesión ilimitados, notas, tarjetas de crédito y más"
       ]
     },
     "pass_signup_2024: Info": {
@@ -10736,6 +10799,9 @@
       ],
       "Team policies": [
         "Políticas de equipo"
+      ],
+      "Advanced account protection": [
+        "Protección de cuentas avanzada"
       ]
     },
     "PassFamilyPlan2024": {
@@ -12079,6 +12145,10 @@
       "${ n } VPN connection per user": [
         "${ n } conexión VPN por usuario",
         "${ n } conexiones VPN por usuario"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "Conexión VPN para ${ n } dispositivo por usuario",
+        "Conexión VPN para ${ n } dispositivos por usuario"
       ]
     },
     "Subscription change warning": {
@@ -13745,6 +13815,9 @@
       ],
       "Your shorter address is now ready": [
         "Su dirección en formato más corto ya está lista."
+      ],
+      "Help and feedback": [
+        "Ayuda y comentarios"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13893,6 +13966,18 @@
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "${ numberOfServers } en ${ numberOfCountries } país",
         "${ numberOfServers } en ${ numberOfCountries } países"
+      ],
+      "${ n } device": [
+        "${ n } dispositivo",
+        "${ n } dispositivos"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } país",
+        "${ numberOfCountries } países"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "Selección automática de ${ numberOfCountries } país",
+        "Selección automática de ${ numberOfCountries } países"
       ]
     },
     "vpn_2024: renew": {
@@ -14352,6 +14437,36 @@
       ],
       "Passcode:": [
         "Código de acceso:"
+      ]
+    },
+    "customer_support.feature.all": {
+      "For all ${ BRAND_NAME } services": [
+        "Para todos los servicios de ${ BRAND_NAME }"
+      ]
+    },
+    "customer_support.feature.drive": {
+      "For ${ DRIVE_APP_NAME }": [
+        "Para ${ DRIVE_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.mail": {
+      "For ${ MAIL_APP_NAME }": [
+        "Para ${ MAIL_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.pass": {
+      "For ${ PASS_APP_NAME }": [
+        "Para ${ PASS_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.vpn": {
+      "For ${ VPN_APP_NAME }": [
+        "Para ${ VPN_APP_NAME }"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "Alias hide-my-email ilimitados"
       ]
     }
   }

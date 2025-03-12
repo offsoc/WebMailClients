@@ -8787,6 +8787,9 @@
       ],
       "Your password (admin)": [
         "Новий пароль (адмін)"
+      ],
+      "Integrated 2FA authenticator": [
+        "Інтегрований автентифікатор 2FA"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9155,6 +9158,9 @@
       ],
       "for ${ price }": [
         "за ${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "Помічник з написання ${ BRAND_NAME } Scribe"
       ]
     },
     "Mailbox": {
@@ -10687,6 +10693,9 @@
       ],
       "Team policies": [
         "Правила команди"
+      ],
+      "Advanced account protection": [
+        "Розширений захист облікового запису"
       ]
     },
     "PassFamilyPlan2024": {
@@ -14441,6 +14450,11 @@
       ],
       "Passcode:": [
         "Код доступу"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "Необмежена кількість псевдонімів Hide-my-email"
       ]
     }
   }

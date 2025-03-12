@@ -1474,6 +1474,9 @@
       ],
       "Zoom out": [
         "Zoom arrière"
+      ],
+      "hide-my-email aliases": [
+        "les alias « hide-my-email »"
       ]
     },
     "action": {
@@ -1791,6 +1794,9 @@
       ],
       "Version history": [
         "Historique des versions"
+      ],
+      "VPN Accelerator": [
+        "VPN Accelerator"
       ]
     },
     "BF2024: Offers": {
@@ -1809,7 +1815,7 @@
         "Accédez aux contenus des services de streaming, dont Netflix, Disney+, Prime Video et plus encore, où que vous soyez."
       ],
       "Secure logins on all your devices. Includes unlimited hide-my-email aliases, sharing, integrated 2FA, ${ DARK_WEB_MONITORING_NAME } and more.": [
-        "Connexions sécurisées sur tous vos appareils. Comprends un nombre d'alias « hide-my-email » illimité, la fonction de partage, l’intégration de l'authentification A2F, ${ DARK_WEB_MONITORING_NAME } et plus encore."
+        "Connexions sécurisées sur tous vos appareils. Comprend un nombre d'alias « hide-my-email » illimité, la fonction de partage, l’intégration de l'authentification A2F, ${ DARK_WEB_MONITORING_NAME } et plus encore."
       ],
       "Secure your emails and schedule with end-to-end encryption. Includes ${ addresses } email address, support for custom email domains, ${ BRAND_NAME } Scribe writing assistant, unlimited hide-my-email aliases and more.": [
         "Protégez vos messages et votre calendrier grâce au chiffrement de bout en bout. Comprend ${ addresses } adresse e-mail, la prise en charge de domaines de messagerie personnalisés, l’assistant d’écriture ${ BRAND_NAME } Scribe, des alias « hide-my-email » illimités et bien plus encore.",
@@ -7898,6 +7904,9 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Votre abonnement programmé commence le ${ renewalTime } et se renouvellera automatiquement chaque mois."
+      ],
+      "Protect your email from being leaked to mailing lists or spammers with ${ hideMyEmailAliasesLink }.": [
+        "Protégez votre adresse e-mail des fuites vers les listes de diffusion ou les spammeurs avec ${ hideMyEmailAliasesLink }."
       ]
     },
     "info": {
@@ -8739,6 +8748,9 @@
       ],
       "Your password (admin)": [
         "Votre mot de passe (admin)"
+      ],
+      "Integrated 2FA authenticator": [
+        "Authentification à deux facteurs (A2F) intégrée"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9100,6 +9112,9 @@
       ],
       "for ${ price }": [
         "pour ${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "Assistant d'écriture ${ BRAND_NAME } Scribe"
       ]
     },
     "Mailbox": {
@@ -10733,6 +10748,9 @@
       ],
       "Team policies": [
         "Règles d'équipe"
+      ],
+      "Advanced account protection": [
+        "Protection avancée des comptes"
       ]
     },
     "PassFamilyPlan2024": {
@@ -13890,6 +13908,18 @@
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "${ numberOfServers } dans ${ numberOfCountries } pays",
         "${ numberOfServers } dans ${ numberOfCountries } pays"
+      ],
+      "${ n } device": [
+        "${ n } appareil",
+        "${ n } appareils"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } pays",
+        "${ numberOfCountries } pays"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "Sélection automatique depuis ${ numberOfCountries } pays",
+        "Sélection automatique depuis ${ numberOfCountries } pays"
       ]
     },
     "vpn_2024: renew": {
@@ -14349,6 +14379,11 @@
       ],
       "Passcode:": [
         "Code d’accès :"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "Nombre illimité d'alias « hide-my-email »"
       ]
     }
   }

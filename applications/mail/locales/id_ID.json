@@ -1469,6 +1469,9 @@
       ],
       "Use ${ PASS_APP_NAME }": [
         "Gunakan ${ PASS_APP_NAME }"
+      ],
+      "hide-my-email aliases": [
+        "alias hide-my-email"
       ]
     },
     "action": {
@@ -1782,6 +1785,12 @@
       ],
       "Version history": [
         "Riwayat versi"
+      ],
+      "Unlimited logins, credit cards, hide-my-email aliases and more": [
+        "Tanpa batasan jumlah entri masuk, kartu kredit, alias hide-my-email, dan masih banyak lagi"
+      ],
+      "VPN Accelerator": [
+        "VPN Accelerator"
       ]
     },
     "BF2024: Offers": {
@@ -1839,6 +1848,12 @@
       ],
       "Two-year": [
         "Dua tahun"
+      ],
+      "Lifetime": [
+        "Seumur hidup"
+      ],
+      "New!": [
+        "Baru!"
       ]
     },
     "Browser": {
@@ -5924,7 +5939,7 @@
         "+${ bonusSpace } ruang penyimpanan tambahan"
       ],
       "+${ organization.BonusVPN } connection for ${ VPN_APP_NAME } (allows you to connect more devices to VPN)": [
-        "+${ organization.BonusVPN } koneksi untuk ${ VPN_APP_NAME } (yang memungkinkan Anda untuk menyambungkan lebih banyak perangkat ke VPN dalam satu waktu)"
+        "+${ organization.BonusVPN } koneksi untuk ${ VPN_APP_NAME } (memungkinkan Anda untuk menyambungkan lebih banyak perangkat ke VPN)"
       ],
       "30-day money-back guarantee.": [
         "Jaminan 30 hari uang kembali."
@@ -6269,7 +6284,7 @@
         "Turunkan"
       ],
       "Downgrading will terminate any connections to paid ${ VPN_APP_NAME } servers.": [
-        "Proses penurunan akun akan memutus seluruh sambungan ke server ${ VPN_APP_NAME } berbayar."
+        "Menurunkan akun akan memutus seluruh koneksi ke server ${ VPN_APP_NAME } berbayar."
       ],
       "Download on the App Store": [
         "Unduh di App Store"
@@ -6476,13 +6491,13 @@
         "Apabila Anda tidak menemukan email yang bersangkutan di dalam kotak masuk, mohon periksa folder spam Anda."
       ],
       "If you proceed with the downgrade, you will lose access to ${ MAIL_APP_NAME } and ${ VPN_APP_NAME } paid features.": [
-        "Apabila Anda menurunkan jenis akun Anda, Anda tidak akan lagi dapat menggunakan berbagai fitur berbayar milik ${ MAIL_APP_NAME } dan ${ VPN_APP_NAME }."
+        "Apabila Anda lanjut menurunkan akun, Anda akan kehilangan akses ke berbagai fitur berbayar ${ MAIL_APP_NAME } dan ${ VPN_APP_NAME }."
       ],
       "If you proceed with the downgrade, you will lose access to ${ MAIL_APP_NAME } paid features, including additional storage and filters.": [
         "Apabila Anda menurunkan jenis akun Anda, Anda tidak akan lagi dapat menggunakan berbagai fitur berbayar milik ${ MAIL_APP_NAME }, termasuk kuota penyimpanan dan filter pencarian tambahan."
       ],
       "If you proceed with the downgrade, you will lose access to ${ VPN_APP_NAME } paid features.": [
-        "Apabila Anda menurunkan jenis akun Anda, Anda tidak akan lagi dapat menggunakan berbagai fitur berbayar milik ${ VPN_APP_NAME }."
+        "Apabila Anda lanjut menurunkan akun, Anda akan kehilangan akses ke berbagai fitur berbayar ${ VPN_APP_NAME }."
       ],
       "If your alias is sold, leaked, or abused, simply disable it to stop receiving spam.": [
         "Apabila alias Anda dijual, dibocorkan, atau disalahgunakan, Anda hanya perlu menonaktifkannya untuk dapat berhenti menerima spam."
@@ -7767,6 +7782,15 @@
       ],
       "Detection takes place on your device, so no data from your emails is sent to our servers.": [
         "Pendeteksian berlangsung pada perangkat Anda, sehingga tidak ada data dari email Anda yang dikirim ke server kami."
+      ],
+      "Our system flagged this as suspicious. If it is not a phishing or scam email, mark as legitimate.": [
+        "Sistem kami menandai pesan ini sebagai pesan yang mencurigakan. Apabila pesan ini bukan merupakan bentuk upaya phishing atau penipuan, tandai pesan ini sebagai pesan yang sah."
+      ],
+      "Our system flagged this message as a phishing attempt. Please check to ensure that it is legitimate.": [
+        "Sistem kami menandai pesan ini sebagai bentuk upaya phishing. Mohon periksa keabsahan pesan ini."
+      ],
+      "Protect your email from being leaked to mailing lists or spammers with ${ hideMyEmailAliasesLink }.": [
+        "Lindungi email Anda agar tidak sampai bocor ke tangan milis atau spammer dengan ${ hideMyEmailAliasesLink }."
       ]
     },
     "info": {
@@ -8591,6 +8615,9 @@
       ],
       "Don't show this suggestion": [
         "Jangan tampilkan saran ini"
+      ],
+      "Integrated 2FA authenticator": [
+        "Autentikator 2FA terintegrasi"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -8947,6 +8974,12 @@
       ],
       "for ${ price }": [
         "untuk ${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "Asisten penulisan ${ BRAND_NAME } Scribe"
+      ],
+      "Add-on with free trial": [
+        "Tambahan dengan uji coba gratis"
       ]
     },
     "Mailbox": {
@@ -9277,7 +9310,7 @@
         "${ n } domain email khusus"
       ],
       "${ n } email address": [
-        "${ n } alamat email/alias"
+        "${ n } alamat/alias email"
       ],
       "${ n } email address per user": [
         "${ n } alamat email per pengguna"
@@ -9460,7 +9493,7 @@
         "Aplikasi desktop"
       ],
       "DNS leak prevention": [
-        "Perlindungan terhadap kebocoran DNS"
+        "Perlindungan kebocoran DNS"
       ],
       "Double hop": [
         "Double hop"
@@ -9707,6 +9740,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Kami memindai dark web untuk memeriksa apakah alamat atau alias ${ BRAND_NAME } Anda telah dibocorkan serta memberitahukan Anda dengan segera apabila kami menemukan sesuatu."
+      ],
+      "${ size } storage per user": [
+        "Ruang penyimpanan ${ size } per pengguna"
+      ],
+      "Manage user permissions and access": [
+        "Kelola izin dan akses pengguna"
+      ],
+      "Password manager to secure credentials": [
+        "Pengelola kata sandi untuk menyimpan informasi kredensial"
       ]
     },
     "new_plans: feature highlight": {
@@ -9823,6 +9865,9 @@
       ],
       "You’re enjoying a promotional price on your current plan. If you downgrade your account, you will lose your promotional price and it won’t be available if you try to subscribe again.": [
         "Anda sedang berlangganan ke paket Anda saat ini dengan harga diskon. Dengan menurunkan jenis akun Anda, Anda tidak akan lagi dapat membeli langganan dengan harga diskon ke depannya."
+      ],
+      "Pay once, secure your passwords and identity forever.": [
+        "Bayar satu kali, amankan kata sandi dan identitas Anda selamanya"
       ]
     },
     "new_plans: Subtext": {
@@ -10528,6 +10573,12 @@
       ],
       "Secure vault sharing (${ n } vault) and link sharing": [
         "Pembagian brankas aman (${ n } brankas) dan tautan aman"
+      ],
+      "Secure vault, item and link sharing": [
+        "Pembagian brankas, item, dan tautan yang aman"
+      ],
+      "Unlimited logins, notes, credit cards and more": [
+        "Tanpa batasan jumlah entri masuk, catatan, kartu kredit, dan masih banyak lagi"
       ]
     },
     "pass_signup_2024: Info": {
@@ -10542,6 +10593,9 @@
       ],
       "Team policies": [
         "Kebijakan tim"
+      ],
+      "Advanced account protection": [
+        "Perlindungan akun bertingkat lanjut"
       ]
     },
     "PassFamilyPlan2024": {
@@ -11852,6 +11906,9 @@
       ],
       "${ n } VPN connection per user": [
         "${ n } koneksi VPN per pengguna"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "Koneksi VPN untuk ${ n } perangkat per pengguna"
       ]
     },
     "Subscription change warning": {
@@ -13611,6 +13668,15 @@
       ],
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "${ numberOfServers } di ${ numberOfCountries } negara"
+      ],
+      "${ n } device": [
+        "${ n } perangkat"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } negara"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "Terpilih secara otomatis dari ${ numberOfCountries } negara"
       ]
     },
     "vpn_2024: renew": {
@@ -14041,6 +14107,36 @@
       ],
       "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
         "Silakan ikuti instruksi yang tertera pada artikel berikut: ${ howToSendCashArticleUrl }"
+      ]
+    },
+    "customer_support.feature.all": {
+      "For all ${ BRAND_NAME } services": [
+        "Untuk seluruh layanan ${ BRAND_NAME }"
+      ]
+    },
+    "customer_support.feature.drive": {
+      "For ${ DRIVE_APP_NAME }": [
+        "Untuk ${ DRIVE_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.mail": {
+      "For ${ MAIL_APP_NAME }": [
+        "Untuk ${ MAIL_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.pass": {
+      "For ${ PASS_APP_NAME }": [
+        "Untuk ${ PASS_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.vpn": {
+      "For ${ VPN_APP_NAME }": [
+        "Untuk ${ VPN_APP_NAME }"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "Tanpa batasan jumlah alias hide-my-email"
       ]
     }
   }

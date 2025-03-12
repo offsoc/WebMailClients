@@ -1477,6 +1477,18 @@
       ],
       "Zoom out": [
         "Zoom uit"
+      ],
+      "Add another account": [
+        "Voeg een account toe"
+      ],
+      "Help and feedback": [
+        "Hulp en feedback"
+      ],
+      "Help and resources": [
+        "Hulp en bronnen"
+      ],
+      "hide-my-email aliases": [
+        "hide-my-email aliassen"
       ]
     },
     "action": {
@@ -1794,6 +1806,12 @@
       ],
       "Version history": [
         "Versiegeschiedenis"
+      ],
+      "Unlimited logins, credit cards, hide-my-email aliases and more": [
+        "Onbeperkt logins, creditcards, hide-my-email aliassen en meer"
+      ],
+      "VPN Accelerator": [
+        "VPN Accelerator"
       ]
     },
     "BF2024: Offers": {
@@ -1853,6 +1871,12 @@
       ],
       "Two-year": [
         "Tweejaarlijks"
+      ],
+      "Lifetime": [
+        "Levenslang"
+      ],
+      "New!": [
+        "Nieuw!"
       ]
     },
     "Browser": {
@@ -7901,6 +7925,18 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Uw geplande abonnement begint op ${ renewalTime } en wordt elke maand automatisch vernieuwd."
+      ],
+      "Other accounts": [
+        "Andere accounts"
+      ],
+      "Our system flagged this as suspicious. If it is not a phishing or scam email, mark as legitimate.": [
+        "Ons systeem heeft dit als verdacht bestempeld. Als het geen phishing of oplichtingsmail is, markeer deze dan als legitiem"
+      ],
+      "Our system flagged this message as a phishing attempt. Please check to ensure that it is legitimate.": [
+        "Ons systeem heeft dit bericht gemarkeerd als een phishing poging. Controleer of het legitiem is."
+      ],
+      "Protect your email from being leaked to mailing lists or spammers with ${ hideMyEmailAliasesLink }.": [
+        "Voorkom dat uw e-mailadres gelekt wordt naar nieuwsbrieven of spammers met ${ hideMyEmailAliasesLink }."
       ]
     },
     "info": {
@@ -8739,6 +8775,9 @@
       ],
       "Your password (admin)": [
         "Uw wachtwoord (admin)"
+      ],
+      "Integrated 2FA authenticator": [
+        "Geïntegreerde tweestapsverificatie"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9100,6 +9139,12 @@
       ],
       "for ${ price }": [
         "voor ${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "${ BRAND_NAME } Schrijfassistent"
+      ],
+      "Add-on with free trial": [
+        "Add-on met gratis proefversie"
       ]
     },
     "Mailbox": {
@@ -9885,6 +9930,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "We scannen het dark web om te controleren of uw ${ BRAND_NAME } adressen of aliassen zijn gelekt en waarschuwen u onmiddellijk wanneer we iets vinden."
+      ],
+      "${ size } storage per user": [
+        "${ size } opslagruimte per gebruiker"
+      ],
+      "Manage user permissions and access": [
+        "Beheer gebruikersrechten en toegang"
+      ],
+      "Password manager to secure credentials": [
+        "Wachtwoordbeheer om de inloggegevens te beveiligen"
       ]
     },
     "new_plans: feature highlight": {
@@ -10003,6 +10057,9 @@
       ],
       "You’re enjoying a promotional price on your current plan. If you downgrade your account, you will lose your promotional price and it won’t be available if you try to subscribe again.": [
         "U profiteert van een kortingsprijs op uw huidige abonnement. Als u uw account downgradet, raakt u de korting kwijt en is dit abonnement niet meer beschikbaar wanneer u een nieuw abonnement wilt afsluiten."
+      ],
+      "Pay once, secure your passwords and identity forever.": [
+        "Eenmaal betalen, beveilig uw wachtwoorden en identiteit voor altijd."
       ]
     },
     "new_plans: Subtext": {
@@ -10712,6 +10769,12 @@
       "Secure vault sharing (${ n } vault) and link sharing": [
         "Veilig delen van kluis (${ n } kluis) en het delen van links",
         "Veilig delen van kluis (${ n } kluizen) en het delen van links"
+      ],
+      "Secure vault, item and link sharing": [
+        "Veilig delen van kluizen, items en links"
+      ],
+      "Unlimited logins, notes, credit cards and more": [
+        "Onbeperkt aantal logins, notities, creditcards, en meer"
       ]
     },
     "pass_signup_2024: Info": {
@@ -10727,6 +10790,9 @@
       ],
       "Team policies": [
         "Team beleid"
+      ],
+      "Advanced account protection": [
+        "Geavanceerde accountbeveiliging"
       ]
     },
     "PassFamilyPlan2024": {
@@ -12070,6 +12136,10 @@
       "${ n } VPN connection per user": [
         "${ n } VPN-verbinding per gebruiker",
         "${ n } VPN-verbindingen per gebruiker"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "VPN-verbinding voor ${ n } apparaat per gebruiker",
+        "VPN-verbinding voor ${ n } apparaten per gebruiker"
       ]
     },
     "Subscription change warning": {
@@ -13736,6 +13806,9 @@
       ],
       "Your shorter address is now ready": [
         "Uw kortere adres is nu klaar"
+      ],
+      "Help and feedback": [
+        "Hulp en feedback"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13884,6 +13957,18 @@
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "${ numberOfServers } in ${ numberOfCountries } land",
         "${ numberOfServers } in ${ numberOfCountries } landen"
+      ],
+      "${ n } device": [
+        "${ n } apparaat",
+        "${ n } apparaten"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } land",
+        "${ numberOfCountries } landen"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "Automatisch geselecteerd uit ${ numberOfCountries } land",
+        "Automatisch geselecteerd uit ${ numberOfCountries } landen"
       ]
     },
     "vpn_2024: renew": {
@@ -14343,6 +14428,36 @@
       ],
       "Passcode:": [
         "Toegangscode:"
+      ]
+    },
+    "customer_support.feature.all": {
+      "For all ${ BRAND_NAME } services": [
+        "Voor alle ${ BRAND_NAME }-diensten"
+      ]
+    },
+    "customer_support.feature.drive": {
+      "For ${ DRIVE_APP_NAME }": [
+        "Voor ${ DRIVE_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.mail": {
+      "For ${ MAIL_APP_NAME }": [
+        "Voor ${ MAIL_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.pass": {
+      "For ${ PASS_APP_NAME }": [
+        "Voor ${ PASS_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.vpn": {
+      "For ${ VPN_APP_NAME }": [
+        "Voor ${ VPN_APP_NAME }"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "Onbeperkt aantal hide-my-email-aliassen"
       ]
     }
   }

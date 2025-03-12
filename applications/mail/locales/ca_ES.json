@@ -1791,6 +1791,9 @@
       ],
       "Version history": [
         "Historial de versions"
+      ],
+      "VPN Accelerator": [
+        "VPN Accelerator"
       ]
     },
     "BF2024: Offers": {
@@ -8739,6 +8742,9 @@
       ],
       "Your password (admin)": [
         "La seva contrasenya (admin)"
+      ],
+      "Integrated 2FA authenticator": [
+        "Autenticador de doble factor (2FA) integrat"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9100,6 +9106,9 @@
       ],
       "for ${ price }": [
         "per ${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "Assistent d'escriptura ${ BRAND_NAME } Scribe"
       ]
     },
     "Mailbox": {
@@ -10733,6 +10742,9 @@
       ],
       "Team policies": [
         "Regles d'equip"
+      ],
+      "Advanced account protection": [
+        "Protecció avançada del compte"
       ]
     },
     "PassFamilyPlan2024": {
@@ -13890,6 +13902,14 @@
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "${ numberOfServers } a ${ numberOfCountries } país",
         "${ numberOfServers } a ${ numberOfCountries } països"
+      ],
+      "${ n } device": [
+        "${ n } dispositiu",
+        "${ n } dispositius"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } país",
+        "${ numberOfCountries } països"
       ]
     },
     "vpn_2024: renew": {
@@ -14349,6 +14369,11 @@
       ],
       "Passcode:": [
         "Codi d'accés:"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "Nombre il·limitat d'àlies hide-my-email"
       ]
     }
   }

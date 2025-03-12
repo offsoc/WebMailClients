@@ -1484,6 +1484,18 @@
       ],
       "Zoom out": [
         "Oddálit"
+      ],
+      "Add another account": [
+        "Přidat další účet"
+      ],
+      "Help and feedback": [
+        "Nápověda a zpětná vazba"
+      ],
+      "Help and resources": [
+        "Nápověda a zdroje"
+      ],
+      "hide-my-email aliases": [
+        "aliasy hide-my-email"
       ]
     },
     "action": {
@@ -1809,6 +1821,12 @@
       ],
       "Version history": [
         "Historie verzí"
+      ],
+      "Unlimited logins, credit cards, hide-my-email aliases and more": [
+        "Neomezený počet přihlášení, platebních karet, aliasů hide-my-email a další"
+      ],
+      "VPN Accelerator": [
+        "VPN Accelerator"
       ]
     },
     "BF2024: Offers": {
@@ -1872,6 +1890,12 @@
       ],
       "Two-year": [
         "Dva roky"
+      ],
+      "Lifetime": [
+        "Doživotní"
+      ],
+      "New!": [
+        "Nové!"
       ]
     },
     "Browser": {
@@ -6860,7 +6884,7 @@
         "Uveďte vámi použitý požadavek a odpověď, abyste nám pomohli vylepšit přesnost."
       ],
       "Including ${ formattedTaxRate }% ${ taxName }: ${ price }": [
-        "Včetně ${ formattedTaxRate }% ${ taxName }: ${ price }"
+        "Včetně ${ formattedTaxRate } % ${ taxName }: ${ price }"
       ],
       "Inherited from parent folder": [
         "Převzato z nadřazené složky"
@@ -8006,7 +8030,7 @@
         "Nedali jste e-mailu žádný předmět. Chcete ho i přesto odeslat?"
       ],
       "You have reached 100% of your storage capacity. Consider freeing up some space or upgrading your account with additional storage space to compose new messages.": [
-        "Dosáhli jste 100% kapacity úložného místa. Zvažte uvolnění úložného prostoru nebo navyšte předplatné účtu s dalším úložným místem pro vytváření nových zpráv."
+        "Dosáhli jste 100 % kapacity úložného místa. Zvažte uvolnění úložného prostoru nebo navyšte předplatné účtu s dalším úložným místem pro vytváření nových zpráv."
       ],
       "You have reached the maximum number of 5 replies.": [
         "Dosáhli jste maximálního počtu 5 odpovědí."
@@ -8160,6 +8184,18 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Váš naplánovaný tarif začíná ${ renewalTime } a bude každý měsíc automaticky obnoven."
+      ],
+      "Other accounts": [
+        "Další účty"
+      ],
+      "Our system flagged this as suspicious. If it is not a phishing or scam email, mark as legitimate.": [
+        "Náš systém ho označil jako podezřelý. Pokud se nejedná o phishingový nebo podvodný e-mail, označte jej jako legitimní."
+      ],
+      "Our system flagged this message as a phishing attempt. Please check to ensure that it is legitimate.": [
+        "Náš systém označil tuto zprávu jako pokus o phishing. Zkontrolujte prosím, že se jedná o legitimní zprávu."
+      ],
+      "Protect your email from being leaked to mailing lists or spammers with ${ hideMyEmailAliasesLink }.": [
+        "Chraňte svůj e-mail před únikem do seznamů e-mailových schránek nebo ke spammerům pomocí ${ hideMyEmailAliasesLink }."
       ]
     },
     "info": {
@@ -9010,6 +9046,9 @@
       ],
       "Your password (admin)": [
         "Vaše heslo (admin)"
+      ],
+      "Integrated 2FA authenticator": [
+        "Integrované ověřování 2FA"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9381,6 +9420,12 @@
       ],
       "for ${ price }": [
         "za ${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "Asistent psaní ${ BRAND_NAME } Scribe"
+      ],
+      "Add-on with free trial": [
+        "Doplněk s bezplatnou zkušební verzí"
       ]
     },
     "Mailbox": {
@@ -9861,7 +9906,7 @@
         "24/7 podpora správy účtu"
       ],
       "99.95% SLA": [
-        "99.95% SLA Dostupnost"
+        "99,95 % SLA"
       ],
       "Ad-blocker and malware protection": [
         "Blokování reklam a ochrana před malware"
@@ -10216,6 +10261,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Prohledáváme dark web a kontrolujeme, zda nedošlo k úniku vašich adres nebo aliasů ${ BRAND_NAME }, pokud něco najdeme, okamžitě vás upozorníme."
+      ],
+      "${ size } storage per user": [
+        "${ size } úložiště na uživatele"
+      ],
+      "Manage user permissions and access": [
+        "Správa uživatelských oprávnění a přístupů"
+      ],
+      "Password manager to secure credentials": [
+        "Správce hesel pro zabezpečení přihlašovacích údajů"
       ]
     },
     "new_plans: feature highlight": {
@@ -10338,6 +10392,9 @@
       ],
       "You’re enjoying a promotional price on your current plan. If you downgrade your account, you will lose your promotional price and it won’t be available if you try to subscribe again.": [
         "Ve svém aktuálním tarifu využíváte akční cenu. Pokud přejdete na nižší verzi účtu, ztratíte možnost nadále využívat tuto cenu a při opětovném přihlášení k předplatnému již nebude dostupná."
+      ],
+      "Pay once, secure your passwords and identity forever.": [
+        "Zaplaťte jednou a navždy zabezpečte svá hesla a identitu."
       ]
     },
     "new_plans: Subtext": {
@@ -10726,7 +10783,7 @@
         "Získejte nabídku"
       ],
       "Last chance to get 80% off your first month of ${ plan } Plus.": [
-        "Poslední šance získat 80% slevu na první měsíc ${ plan } Plus."
+        "Poslední šance získat 80 % slevu na první měsíc ${ plan } Plus."
       ],
       "Last day to save": [
         "Poslední den, kdy můžete ušetřit"
@@ -10753,7 +10810,7 @@
         "Ušetřete ${ prices.savedPercentage }%"
       ],
       "Save 80% on your first month.": [
-        "Ušetřete 80% za první měsíc."
+        "Ušetřete 80 % za první měsíc."
       ],
       "Save big when you pay annually": [
         "Při roční platbě můžete výrazně ušetřit"
@@ -11055,6 +11112,12 @@
         "Bezpečné sdílení trezoru (${ n } trezory) a sdílení odkazu",
         "Bezpečné sdílení trezoru (${ n } trezorů) a sdílení odkazu",
         "Bezpečné sdílení trezoru (${ n } trezorů) a sdílení odkazu"
+      ],
+      "Secure vault, item and link sharing": [
+        "Zabezpečený trezor, položka a sdílení odkazů"
+      ],
+      "Unlimited logins, notes, credit cards and more": [
+        "Neomezený počet přihlášení, poznámek, platebních karet a další"
       ]
     },
     "pass_signup_2024: Info": {
@@ -11072,6 +11135,9 @@
       ],
       "Team policies": [
         "Týmové zásady"
+      ],
+      "Advanced account protection": [
+        "Pokročilá ochrana účtu"
       ]
     },
     "PassFamilyPlan2024": {
@@ -12185,10 +12251,10 @@
         "Využít nabídku"
       ],
       "Renews after 1 year at a discounted price of ${ discountedAmount } instead of ${ regularAmount } (${ discount }% discount)": [
-        "Obnovení po 1 roce za zvýhodněnou cenu ${ discountedAmount } místo ${ regularAmount } (${ discount }% sleva)"
+        "Obnovení po 1 roce za zvýhodněnou cenu ${ discountedAmount } místo ${ regularAmount } (${ discount } % sleva)"
       ],
       "Renews after 2 years at a discounted price of ${ discountedAmount } instead of ${ regularAmount } (${ discount }% discount)": [
-        "Obnovení po 2 letech za zvýhodněnou cenu ${ discountedAmount } místo ${ regularAmount } (${ discount }% sleva)"
+        "Obnovení po 2 letech za zvýhodněnou cenu ${ discountedAmount } místo ${ regularAmount } (${ discount } % sleva)"
       ],
       "Save ${ discount }%": [
         "Ušetřete ${ discount } %"
@@ -12356,7 +12422,7 @@
         "úložiště ${ app }"
       ],
       "${ storage } ${ percentage }% full": [
-        "${ storage } je zaplněno z ${ percentage }%"
+        "${ storage } je zaplněno z ${ percentage } %"
       ],
       "By downgrading you will lose the following benefits. Are you sure you want to proceed?": [
         "Snížením úrovně přijdete o následující výhody. Jste si jisti, že chcete pokračovat?"
@@ -12398,13 +12464,13 @@
         "Vaše ${ appStorage } je plné"
       ],
       "Your ${ storage } is ${ percentage }% full. ${ cta }.": [
-        "Vaše ${ storage } je z ${ percentage }% plné. ${ cta }."
+        "Vaše ${ storage } je z ${ percentage } % plné. ${ cta }."
       ],
       "Your ${ storage } is full. ${ cta }.": [
         "Vaše ${ storage } je plné. ${ cta }."
       ],
       "Your storage is ${ percentage }% full. ${ cta }.": [
-        "Vaše úložiště je z ${ percentage }% plné. ${ cta }."
+        "Vaše úložiště je z ${ percentage } % plné. ${ cta }."
       ],
       "Your storage is full": [
         "Vaše úložiště je plné"
@@ -12481,6 +12547,12 @@
         "${ n } VPN připojení na uživatele",
         "${ n } VPN připojení na uživatele",
         "${ n } VPN připojení na uživatele"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "VPN připojení pro ${ n } zařízení na uživatele",
+        "VPN připojení pro ${ n } zařízení na uživatele",
+        "VPN připojení pro ${ n } zařízení na uživatele",
+        "VPN připojení pro ${ n } zařízení na uživatele"
       ]
     },
     "Subscription change warning": {
@@ -14245,6 +14317,9 @@
       ],
       "Your shorter address is now ready": [
         "Vaše kratší adresa je nyní připravena"
+      ],
+      "Help and feedback": [
+        "Nápověda a zpětná vazba"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14405,6 +14480,24 @@
         "${ numberOfServers } v ${ numberOfCountries } zemích",
         "${ numberOfServers } v ${ numberOfCountries } zemích",
         "${ numberOfServers } v ${ numberOfCountries } zemích"
+      ],
+      "${ n } device": [
+        "${ n } zařízení",
+        "${ n } zařízení",
+        "${ n } zařízení",
+        "${ n } zařízení"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } země",
+        "${ numberOfCountries } země",
+        "${ numberOfCountries } zemí",
+        "${ numberOfCountries } zemí"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "Automaticky vybírá z ${ numberOfCountries } země",
+        "Automaticky vybírá ze ${ numberOfCountries } zemí",
+        "Automaticky vybírá z ${ numberOfCountries } zemí",
+        "Automaticky vybírá z ${ numberOfCountries } zemí"
       ]
     },
     "vpn_2024: renew": {
@@ -14938,6 +15031,36 @@
       ],
       "Passcode:": [
         "Přístupový kód:"
+      ]
+    },
+    "customer_support.feature.all": {
+      "For all ${ BRAND_NAME } services": [
+        "Pro všechny služby ${ BRAND_NAME }"
+      ]
+    },
+    "customer_support.feature.drive": {
+      "For ${ DRIVE_APP_NAME }": [
+        "Pro ${ DRIVE_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.mail": {
+      "For ${ MAIL_APP_NAME }": [
+        "Pro ${ MAIL_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.pass": {
+      "For ${ PASS_APP_NAME }": [
+        "Pro ${ PASS_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.vpn": {
+      "For ${ VPN_APP_NAME }": [
+        "Pro ${ VPN_APP_NAME }"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "Neomezený počet aliasů Hide-my-email"
       ]
     }
   }

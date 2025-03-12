@@ -9010,6 +9010,9 @@
       ],
       "Your password (admin)": [
         "Ваш пароль (admin)"
+      ],
+      "Integrated 2FA authenticator": [
+        "Интегрированная двухфакторная аутентификация"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9381,6 +9384,9 @@
       ],
       "for ${ price }": [
         "за ${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "Помощник по написанию ${ BRAND_NAME } Scribe"
       ]
     },
     "Mailbox": {
@@ -11072,6 +11078,9 @@
       ],
       "Team policies": [
         "Политики команды"
+      ],
+      "Advanced account protection": [
+        "Расширенная защита аккаунта"
       ]
     },
     "PassFamilyPlan2024": {
@@ -14938,6 +14947,11 @@
       ],
       "Passcode:": [
         "Код доступа:"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "Неограниченное количество псевдонимов hide-my-email"
       ]
     }
   }

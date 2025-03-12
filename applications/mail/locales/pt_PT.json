@@ -1791,6 +1791,9 @@
       ],
       "Version history": [
         "Histórico de versões"
+      ],
+      "VPN Accelerator": [
+        "VPN Accelerator"
       ]
     },
     "BF2024: Offers": {
@@ -8736,6 +8739,9 @@
       ],
       "Your password (admin)": [
         "A sua palavra-passe (admin)"
+      ],
+      "Integrated 2FA authenticator": [
+        "Autenticador A2F integrado"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9097,6 +9103,9 @@
       ],
       "for ${ price }": [
         "por ${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "Assistente de escrita ${ BRAND_NAME } Scribe"
       ]
     },
     "Mailbox": {
@@ -10724,6 +10733,9 @@
       ],
       "Team policies": [
         "Regras da equipa"
+      ],
+      "Advanced account protection": [
+        "Proteção avançada de conta"
       ]
     },
     "PassFamilyPlan2024": {
@@ -14335,6 +14347,11 @@
       ],
       "Passcode:": [
         "Código de acesso:"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "Aliases ilimitados do Hide-my-email"
       ]
     }
   }

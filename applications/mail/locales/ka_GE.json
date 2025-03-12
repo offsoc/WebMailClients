@@ -1474,6 +1474,18 @@
       ],
       "Zoom out": [
         "დაპატარავება"
+      ],
+      "Add another account": [
+        "სხვა ანგარიშის დამატება"
+      ],
+      "Help and feedback": [
+        "დახმარება და გამოხმაურება"
+      ],
+      "Help and resources": [
+        "დახმარება და რესურსები"
+      ],
+      "hide-my-email aliases": [
+        "hide-my-email-ის ფსევდონიმები"
       ]
     },
     "action": {
@@ -1788,6 +1800,12 @@
       ],
       "Version history": [
         "ვერსიის ისტორია"
+      ],
+      "Unlimited logins, credit cards, hide-my-email aliases and more": [
+        "უსაზღვრო შესვლის დეტალები, საკრედიტო ბარათები, hide-my-email-ის ფსევდონიმები და სხვა"
+      ],
+      "VPN Accelerator": [
+        "VPN Accelerator"
       ]
     },
     "BF2024: Offers": {
@@ -1843,6 +1861,12 @@
       ],
       "Two-year": [
         "ორი წლით"
+      ],
+      "Lifetime": [
+        "სამუდამოდ"
+      ],
+      "New!": [
+        "ახალი!"
       ]
     },
     "Browser": {
@@ -7864,6 +7888,15 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "თქვენი გეგმის დაწყების დროა ${ renewalTime } და ის ავტომატურად განახლდება თვეში ერთხელ."
+      ],
+      "Other accounts": [
+        "სხვა ანგარიშები"
+      ],
+      "Our system flagged this message as a phishing attempt. Please check to ensure that it is legitimate.": [
+        "სისტემამ ეს ელ-ფოსტა ფიშინგის მცდელობად მონიშნა. გადაამოწმეთ, სიმართლეა თუ არა."
+      ],
+      "Protect your email from being leaked to mailing lists or spammers with ${ hideMyEmailAliasesLink }.": [
+        "დაიცავით თქვენი ელფოსტა გაჟონვისგან და სპამერებისგან ${ hideMyEmailAliasesLink }-ით."
       ]
     },
     "info": {
@@ -8702,6 +8735,9 @@
       ],
       "Your password (admin)": [
         "თქვენი პაროლი (admin)"
+      ],
+      "Integrated 2FA authenticator": [
+        "ჩაშენებული 2FA ავთენტიკატორი"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9063,6 +9099,12 @@
       ],
       "for ${ price }": [
         "${ price }-თვის"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "${ BRAND_NAME } Scribe წერის დამხმარე"
+      ],
+      "Add-on with free trial": [
+        "დამატება უფასო გამოსაცდელი ვადით"
       ]
     },
     "Mailbox": {
@@ -9848,6 +9890,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "ჩვენ ვასკანერებთ ბნელ ვებს, რომ აღმოვაჩინოთ, არის თუ არა თქვენი ${ BRAND_NAME }-ის მისამართები ან ფსევდონიმები გაჟონილი და გაგაფრთხილოთ, თუ რამეს აღმოვაჩენთ."
+      ],
+      "${ size } storage per user": [
+        "${ size }/მომხმარებელი"
+      ],
+      "Manage user permissions and access": [
+        "მომხმარებლის წვდომებისა და უფლებების მართვა"
+      ],
+      "Password manager to secure credentials": [
+        "პაროლების მმართველი ავტორიზაციის დეტალების დასაცავად"
       ]
     },
     "new_plans: feature highlight": {
@@ -9966,6 +10017,9 @@
       ],
       "You’re enjoying a promotional price on your current plan. If you downgrade your account, you will lose your promotional price and it won’t be available if you try to subscribe again.": [
         "თქვენს მიმდინარე გეგმაში სარეკლამო ფასით სარგებლობთ. ანგარიშის ტარიფის ჩამოწევის შემთხვევაში თქვენ დაკარგავთ სარეკლამო ფასს და თუ გამოწერას კვლავ შეეცდებით, ის ხელმისაწვდომი აღარ იქნება."
+      ],
+      "Pay once, secure your passwords and identity forever.": [
+        "გადაიხადეთ ერთხელ და დაიცავით თქვენი მონაცემები და პაროლები სამუდამოდ."
       ]
     },
     "new_plans: Subtext": {
@@ -10672,6 +10726,12 @@
       "Secure vault sharing (${ n } vault) and link sharing": [
         "დაცული საცავის გაზიარება (${ n } საცავი) და ბმულების გაზიარება",
         "დაცული საცავის გაზიარება (${ n } საცავი) და ბმულების გაზიარება"
+      ],
+      "Secure vault, item and link sharing": [
+        "დაცული საცავის, ელემენტების და ბმულის გაზიარება"
+      ],
+      "Unlimited logins, notes, credit cards and more": [
+        "შეუზღუდავი შესვლის დეტალები, შენიშვნები, საკრედიტო ბარათები და სხვა"
       ]
     },
     "pass_signup_2024: Info": {
@@ -10687,6 +10747,9 @@
       ],
       "Team policies": [
         "გუნდის პოლიტიკა"
+      ],
+      "Advanced account protection": [
+        "დამატებითი ანგარიშის დაცვა"
       ]
     },
     "PassFamilyPlan2024": {
@@ -12024,6 +12087,10 @@
       "${ n } VPN connection per user": [
         "${ n } VPN კავშირი თითოეული მომხმარებლისთვის",
         "${ n } VPN კავშირი თითოეული მომხმარებლისთვის"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "VPN კავშირები ${ n } მოწყობილობაზე თითოქული მომხმარებლისთვის",
+        "VPN კავშირები ${ n } მოწყობილობაზე თითოქული მომხმარებლისთვის"
       ]
     },
     "Subscription change warning": {
@@ -13687,6 +13754,9 @@
       ],
       "Your shorter address is now ready": [
         "თქვენი მოკლე მისამართი ახლა მზადაა"
+      ],
+      "Help and feedback": [
+        "დახმარება და გამოხმაურება"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13835,6 +13905,18 @@
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "${ numberOfServers } სერვერი ${ numberOfCountries } ქვეყანაში",
         "${ numberOfServers } სერვერი ${ numberOfCountries } ქვეყანაში"
+      ],
+      "${ n } device": [
+        "${ n } მოწყობილობა",
+        "${ n } მოწყობილობა"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } ქვეყანა",
+        "${ numberOfCountries } ქვეყანა"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "ავტოარჩეულია ${ numberOfCountries } ქვეყნიდან",
+        "ავტოარჩეულია ${ numberOfCountries } ქვეყნიდან"
       ]
     },
     "vpn_2024: renew": {
@@ -14294,6 +14376,36 @@
       ],
       "Passcode:": [
         "საკვანძო კოდი:"
+      ]
+    },
+    "customer_support.feature.all": {
+      "For all ${ BRAND_NAME } services": [
+        "ყველა ${ BRAND_NAME }-ის სერვისისთვის"
+      ]
+    },
+    "customer_support.feature.drive": {
+      "For ${ DRIVE_APP_NAME }": [
+        "${ DRIVE_APP_NAME }-სთვის"
+      ]
+    },
+    "customer_support.feature.mail": {
+      "For ${ MAIL_APP_NAME }": [
+        "${ MAIL_APP_NAME }-თვის"
+      ]
+    },
+    "customer_support.feature.pass": {
+      "For ${ PASS_APP_NAME }": [
+        "${ PASS_APP_NAME }-სთვის"
+      ]
+    },
+    "customer_support.feature.vpn": {
+      "For ${ VPN_APP_NAME }": [
+        "${ VPN_APP_NAME }-Სთვის"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "განუსაზღვრელი რაოდენობის მეტსახელი Hide-my-email-სთვის"
       ]
     }
   }

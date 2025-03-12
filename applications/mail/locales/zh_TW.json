@@ -1779,6 +1779,9 @@
       ],
       "Version history": [
         "版本歷史紀錄"
+      ],
+      "VPN Accelerator": [
+        "VPN 加速器"
       ]
     },
     "BF2024: Offers": {
@@ -1816,6 +1819,9 @@
       ],
       "Storage space is shared across all ${ BRAND_NAME } services.": [
         "儲存空間於 ${ BRAND_NAME } 所有服務中共享。"
+      ],
+      "Secure your emails and schedule with end-to-end encryption. Includes 15 email addresses, support for custom email domains, ${ BRAND_NAME } Scribe writing assistant, unlimited hide-my-email aliases and more.": [
+        "透過端對端加密保護電子郵件及行事曆。包含15個電子郵件地址,支援自訂電子郵件網域,${ BRAND_NAME }Scribe 撰寫工具，無限hide-my-email別名及更多"
       ]
     },
     "Billing cycle option": {
@@ -2292,7 +2298,7 @@
         "總共"
       ],
       "Total for ${ n } month": [
-        "總額可用 ${ n } 個月"
+        " ${ n } 個月總計"
       ]
     },
     "Collapsible tooltip": {
@@ -6236,7 +6242,7 @@
         "探索${ planTitle }解鎖的新功能並立即使用!"
       ],
       "Discover ProtectBuy logo": [
-        "Discover ProtectBuy 標誌"
+        "Discover ProtectBuy 商標"
       ],
       "Do you want to download this attachment anyway?": [
         "無論如何，您仍要下載附件嗎？"
@@ -7469,7 +7475,7 @@
         "我們已移除來自以下連結的追蹤資訊，讓您從此不被廣告商和其它試圖追蹤您在線上的一舉一動。"
       ],
       "We use 3-D Secure to protect your payments": [
-        "我們使用3-D安全來保護你的付款資訊"
+        "我們使用 3D 驗證來保護您的交易安全"
       ],
       "We will redirect you to PayPal in a new browser tab to complete this transaction. If you use any pop-up blockers, please disable them to continue.": [
         "我們將在瀏覽器的新索引標籤中重新導向到 PayPal 以完成此交易。若您有使用任何彈出式視窗攔截程式，請先停用，然後才繼續。"
@@ -8134,7 +8140,7 @@
         "副本"
       ],
       "Card details": [
-        "卡片資訊"
+        "信用卡資訊"
       ],
       "Card holder": [
         "持卡人"
@@ -8585,6 +8591,9 @@
       ],
       "Don't show this suggestion": [
         "不再顯示此建議"
+      ],
+      "Integrated 2FA authenticator": [
+        "整合雙重驗證"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -8941,6 +8950,9 @@
       ],
       "for ${ price }": [
         "${ price } 版"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "${ BRAND_NAME }Scribe撰寫幫手"
       ]
     },
     "Mailbox": {
@@ -9034,7 +9046,7 @@
     },
     "Modal title": {
       "How to import calendars from another service": [
-        "如何從其它服務匯入行事曆"
+        "如何從其它郵件服務業者平台匯入行事曆"
       ],
       "How to import calendars from Yahoo": [
         "如何從 Yahoo 匯入行事曆"
@@ -9046,7 +9058,7 @@
         "如何從 Yahoo 匯入聯絡人"
       ],
       "How to import emails from another service": [
-        "如何從其它服務匯入電郵"
+        "如何從其它郵件服務業者平台匯入電郵"
       ],
       "How to import emails from Yahoo": [
         "如何從 Yahoo 匯入電郵"
@@ -9364,7 +9376,7 @@
         "99.95% 服務層級協議"
       ],
       "Ad-blocker and malware protection": [
-        "廣告攔截與惡意程式保護"
+        "廣告攔截器及惡意軟體防護"
       ],
       "Admin console": [
         "管理員主控台"
@@ -9403,7 +9415,7 @@
         "自動郵件轉寄"
       ],
       "Available on all platforms": [
-        "適用於所有平台"
+        "所有平台皆可使用"
       ],
       "Breach alerts": [
         "外洩警告"
@@ -9547,7 +9559,7 @@
         "優先支援"
       ],
       "Priority support & live chat": [
-        "優先支援與即時真人對話"
+        "優先處理您的客服單與線上聊天客服"
       ],
       "Private photo backup": [
         "私人照片備份"
@@ -9697,7 +9709,7 @@
         "使用者儲存管理"
       ],
       "Vault sharing (up to ${ n } person)": [
-        "保管共享(每人至多${ n })"
+        "保管庫共享 (至多 ${ n } 人)"
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "我們會掃描暗網去檢查你的${ BRAND_NAME }地址或别名是否被外洩，並且在發現任何問題時立即通知你。"
@@ -10518,6 +10530,9 @@
       ],
       "Team policies": [
         "團隊政策"
+      ],
+      "Advanced account protection": [
+        "進階的帳號保護"
       ]
     },
     "PassFamilyPlan2024": {
@@ -11173,7 +11188,7 @@
     },
     "session_recovery:available:error": {
       "Account recovery not available for legacy address keys": [
-        "帳號備援不適用於舊的地址金鑰"
+        "帳號復原不適用於舊版位址密鑰組"
       ],
       "Please generate keys before you try to change your password": [
         "請在您試著改變您的密碼前生成金鑰"
@@ -11797,6 +11812,9 @@
       ],
       "Billed yearly": [
         "年繳"
+      ],
+      "Billed every 6 months": [
+        "每 6 個月付款"
       ]
     },
     "Subscription attribute": {
@@ -13552,6 +13570,15 @@
       ],
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "分布於 ${ numberOfCountries } 國家的 ${ numberOfServers } 台伺服器"
+      ],
+      "${ n } device": [
+        "${ n } 臺裝置"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } 個國家"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "從 ${ numberOfCountries } 國家自動選擇"
       ]
     },
     "vpn_2024: renew": {
@@ -13976,6 +14003,11 @@
       ],
       "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
         "請參見此文章的指示:${ howToSendCashArticleUrl }"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "無限制的 hide-my-email 別名"
       ]
     }
   }

@@ -1481,6 +1481,9 @@
       ],
       "Zoom out": [
         "Pomniejsz"
+      ],
+      "Use ${ PASS_APP_NAME }": [
+        "Użyj ${ PASS_APP_NAME }"
       ]
     },
     "action": {
@@ -8142,6 +8145,15 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Zaplanowany plan rozpocznie się ${ renewalTime } i odnowi się automatycznie co miesiąc."
+      ],
+      "${ BRAND_NAME }'s password manager lets you create, store, and autofill passwords, so you never have to reset them.": [
+        "Menedżer haseł ${ BRAND_NAME } umożliwia tworzenie, przechowywanie i automatyczne uzupełnianie haseł, dzięki czemu nigdy nie trzeba ich resetować."
+      ],
+      "Detection takes place on your device, so no data from your emails is sent to our servers.": [
+        "Funkcja wykrywania odbywa się na urządzeniu użytkownika, więc żadne dane z wiadomości e-mail nie są przesyłane na nasze serwery."
+      ],
+      "This was shown to you because your email subject line contains password reset keywords.": [
+        "Wiadomość została wyświetlona, ponieważ jej temat zawiera słowa kluczowe związane z resetowaniem hasła."
       ]
     },
     "info": {
@@ -8978,6 +8990,15 @@
       ],
       "Your password (admin)": [
         "Twoje hasło (administratora)"
+      ],
+      "Don't show this suggestion": [
+        "Nie pokazuj tej sugestii"
+      ],
+      "Integrated 2FA authenticator": [
+        "Zintegrowana aplikacja uwierzytelniająca 2FA"
+      ],
+      "State": [
+        "Województwo"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9349,6 +9370,9 @@
       ],
       "for ${ price }": [
         "za ${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "Asystent pisania ${ BRAND_NAME } Scribe"
       ]
     },
     "Mailbox": {
@@ -9598,6 +9622,9 @@
       ],
       "on the third Wednesday": [
         "w trzecią środę"
+      ],
+      "on the ${ shortenedDay }": [
+        "w ${ shortenedDay }"
       ]
     },
     "New Label form": {
@@ -10695,6 +10722,48 @@
       ],
       "Save 80% on your first month.": [
         "Zaoszczędź 80% przez pierwszy miesiąc."
+      ],
+      "Don’t show this offer again": [
+        "Nie pokazuj tej oferty ponownie"
+      ],
+      "Last chance to get 80% off your first month of ${ plan } Plus.": [
+        "Ostatnia szansa, aby uzyskać 80% zniżki na pierwszy miesiąc ${ plan } Plus."
+      ],
+      "Last day to save": [
+        "Ostatni dzień, aby zaoszczędzić"
+      ],
+      "Mail Plus for 12 months": [
+        "Mail Plus na 12 miesięcy"
+      ],
+      "Offer expires ${ formattedDate }.": [
+        "Oferta wygasa ${ formattedDate }."
+      ],
+      "Pay annually, secure our best offer": [
+        "Płać co roku, uzyskaj najlepszą ofertę"
+      ],
+      "Save": [
+        "Zaoszczędź"
+      ],
+      "Save ${ prices.savedPercentage }%": [
+        "Zaoszczędź ${ prices.savedPercentage }%"
+      ],
+      "Save big when you pay annually": [
+        "Dzięki płatnościom rocznym możesz sporo zaoszczędzić"
+      ],
+      "Special offer": [
+        "Specjalna oferta"
+      ],
+      "This offer won't be shown again.": [
+        "Ta oferta nie pojawi się ponownie."
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Po przejściu z subskrypcji miesięcznej na roczną."
+      ],
+      "You currently pay": [
+        "Aktualnie płacisz"
+      ],
+      "Your subscription renews soon": [
+        "Subskrypcja wkrótce się odnowi"
       ]
     },
     "Offer feature": {
@@ -10718,6 +10787,9 @@
       ],
       "Storage": [
         "Przestrzeń dyskowa"
+      ],
+      "Free": [
+        "Free"
       ]
     },
     "Onboarding List Placeholder": {
@@ -10974,6 +11046,9 @@
       ],
       "Team policies": [
         "Zasady zespołu"
+      ],
+      "Advanced account protection": [
+        "Zaawansowana ochrona konta"
       ]
     },
     "PassFamilyPlan2024": {
@@ -11278,6 +11353,9 @@
       ],
       "Type text or keyword": [
         "Wpisz tekst lub słowo kluczowe"
+      ],
+      "Filter quick actions": [
+        "Filtrowanie szybkich akcji"
       ]
     },
     "Placeholder for contact group name": {
@@ -14106,6 +14184,12 @@
       ],
       "Your shorter address is now ready": [
         "Krótszy adres jest już gotowy"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName } skróty klawiaturowe"
+      ],
+      "On-device suggestions": [
+        "Sugestie dotyczące urządzeń"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14799,6 +14883,24 @@
       ],
       "Passcode:": [
         "Kod dostępu:"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "Nieograniczona liczba aliasów hide-my-email"
+      ]
+    },
+    "Info for cash payment method": {
+      "How to send a cash payment?": [
+        "Jak wysłać płatność gotówką?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Znajdź instrukcję w artykule: ${ howToSendCashArticleUrl }"
+      ]
+    },
+    "Payments.plan_name": {
+      "Free": [
+        "Free"
       ]
     }
   }

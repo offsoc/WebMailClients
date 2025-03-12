@@ -1441,6 +1441,24 @@
       ],
       "Invite members": [
         "Invitér medlemmer"
+      ],
+      "Auto-delete spam and trash": [
+        "Tøm spam og papirkurv automatisk"
+      ],
+      "Enable ${ darkWebMonitoring }": [
+        "Aktiver ${ darkWebMonitoring }"
+      ],
+      "Export selection as .vcf": [
+        "Eksporter valgte som .vcf"
+      ],
+      "Hide my email": [
+        "Skjul min e-mail"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application": [
+        "Gør ${ MAIL_APP_NAME } til din standard e-mailapplikation"
+      ],
+      "Use ${ PASS_APP_NAME }": [
+        "Brug ${ PASS_APP_NAME }"
       ]
     },
     "action": {
@@ -1919,6 +1937,9 @@
       ],
       "Set up other features": [
         "Konfigurer andre funktioner"
+      ],
+      "Maybe later": [
+        "Måske senere"
       ]
     },
     "Calendar attachment tooltip": {
@@ -4884,6 +4905,9 @@
       ],
       "Set up your family account": [
         "Konfigurer din familie-konto"
+      ],
+      "Invite members and get everything up and running.": [
+        "Inviter medlemmer og få alt op at køre."
       ]
     },
     "familyOffer_2023:Title": {
@@ -5267,6 +5291,9 @@
       ],
       "You've unlocked 1 GB": [
         "Du har låst op for 1 GB"
+      ],
+      "Finish setup": [
+        "Afslut opsætning"
       ]
     },
     "Gmail forwarding": {
@@ -7847,6 +7874,9 @@
       ],
       "Trusted": [
         "Betroet"
+      ],
+      "WKD": [
+        "WKD"
       ]
     },
     "Key pinning": {
@@ -8616,6 +8646,12 @@
       ],
       "Your password (admin)": [
         "Din adgangskode (admin)"
+      ],
+      "Don't show this suggestion": [
+        "Vis ikke dette forslag"
+      ],
+      "Integrated 2FA authenticator": [
+        "Integreret 2FA-godkendelsesværktøj"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -8880,6 +8916,9 @@
       ],
       "You need to reactivate your keys to see the updated invitation": [
         "Du skal genaktivere dine nøgler for at se den opdateret invitation"
+      ],
+      "settings": [
+        "indstillinger"
       ]
     },
     "Link to calendar event": {
@@ -8974,6 +9013,9 @@
       ],
       "for ${ price }": [
         "til ${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "${ BRAND_NAME } Scribe-skriveassistent"
       ]
     },
     "Mailbox": {
@@ -9726,6 +9768,27 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Vi scanner det mørke web for at tjekke, om dine ${ BRAND_NAME }-adresser eller aliasser er blevet lækket, og giver dig straks besked, hvis vi finder noget."
+      ],
+      "200 GB of storage": [
+        "200 GB lagerplads"
+      ],
+      "Advanced alias features (powered by SimpleLogin)": [
+        "Avancerede aliasfunktioner (drevet af SimpleLogin)"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Dedikerede servere optimeret til streaming"
+      ],
+      "Private photo backup": [
+        "Privat sikkerhedskopiering af fotos"
+      ],
+      "Secure file storage and sharing": [
+        "Sikker fillagring og deling"
+      ],
+      "SSO integration": [
+        "SSO-integration"
+      ],
+      "Tor over VPN": [
+        "Tor over VPN"
       ]
     },
     "new_plans: feature highlight": {
@@ -10160,6 +10223,12 @@
       ],
       "Trial started": [
         "Prøveperiode startet"
+      ],
+      "Meeting host copied to clipboard": [
+        "Mødevært kopieret til udklipsholder"
+      ],
+      "Meeting ID copied to clipboard": [
+        "Møde-ID kopieret til udklipsholder"
       ]
     },
     "Notification for duplicate filenames in the current upload": {
@@ -10188,6 +10257,18 @@
       ],
       "Plus": [
         "Plus"
+      ],
+      "Custom email domain": [
+        "Tilpasset e-maildomæne"
+      ],
+      "Email addresses": [
+        "E-mailadresser"
+      ],
+      "Recover previous file versions": [
+        "Gendan tidligere filversioner"
+      ],
+      "Storage": [
+        "Lagerplads"
       ]
     },
     "Onboarding List Placeholder": {
@@ -10258,6 +10339,18 @@
       ],
       "Where privacy is default.": [
         "Hvor privatlivsbeskyttelse er standard."
+      ],
+      "${ MAIL_APP_NAME } on App Store": [
+        "${ MAIL_APP_NAME } i App Store"
+      ],
+      "${ MAIL_APP_NAME } on Play Store": [
+        "${ MAIL_APP_NAME } i Play Store"
+      ],
+      "Continue": [
+        "Forsæt"
+      ],
+      "Set a display name": [
+        "Angiv visningsnavn"
       ]
     },
     "Onboarding Proton": {
@@ -10390,6 +10483,9 @@
       ],
       "Activity log": [
         "Aktivitetslog"
+      ],
+      "Advanced account protection": [
+        "Avanceret kontobeskyttelse"
       ]
     },
     "PassFamilyPlan2024": {
@@ -11639,6 +11735,9 @@
       ],
       "Billed yearly": [
         "Faktureres årligt"
+      ],
+      "Billed every 6 months": [
+        "Faktureret hver 6. måned"
       ]
     },
     "Subscription attribute": {
@@ -11988,6 +12087,9 @@
       ],
       "Your own short @pm.me email alias": [
         "Dit eget korte @pm.me e-mail-alias"
+      ],
+      "Limitations of the free plan:": [
+        "Begrænsninger ved et gratis abonnement:"
       ]
     },
     "Subscription renewal state": {
@@ -13261,6 +13363,12 @@
       ],
       "Your shorter address is now ready": [
         "Din kortere adresse er nu klar"
+      ],
+      "Other features included in your plan": [
+        "Andre funktioner inkluderet i dit abonnement"
+      ],
+      "Set up your family account": [
+        "Konfigurér din familiekonto"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13356,6 +13464,9 @@
     "Tor out of date": {
       "stable release": [
         "stabil udgave"
+      ],
+      "This version of Tor Browser is not supported. Please update to the latest ${ stableRelease }": [
+        "Denne version af Tor Browser er ikke understøttet. Opdater venligst til den seneste ${ stableRelease }"
       ]
     },
     "Update font modal": {
@@ -13403,6 +13514,14 @@
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "${ numberOfServers } i ${ numberOfCountries } land",
         "${ numberOfServers } i ${ numberOfCountries } lande"
+      ],
+      "${ n } device": [
+        "${ n } enhed",
+        "${ n } enheder"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } land",
+        "${ numberOfCountries } lande"
       ]
     },
     "vpn_2024: renew": {
@@ -13580,6 +13699,9 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Din gratis prøveperiode udløber den ${ textDate }. ${ action }"
+      ],
+      "Cannot contain a dot at the end": [
+        "Kan ikke indeholde et punktum til sidst"
       ]
     },
     "WeekDay": {
@@ -13847,6 +13969,37 @@
       ],
       "Passcode:": [
         "Adgangskode:"
+      ]
+    },
+    "Error notification": {
+      "Display name cannot be empty": [
+        "Visningsnavnet kan ikke være tomt"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "Ubegrænsede hide-my-email-aliasser"
+      ]
+    },
+    "Offer": {
+      "Don’t show this offer again": [
+        "Vis ikke dette tilbud igen"
+      ],
+      "Maybe later": [
+        "Måske senere"
+      ],
+      "Special offer": [
+        "Specialtilbud"
+      ]
+    },
+    "Payments.plan_name": {
+      "Free": [
+        "Free"
+      ]
+    },
+    "Safety review": {
+      "Review account safety": [
+        "Gennemgå kontoens sikkerhed"
       ]
     }
   }

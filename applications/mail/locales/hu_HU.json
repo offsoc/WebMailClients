@@ -1333,6 +1333,57 @@
       ],
       "Zoom out": [
         "Távolítás"
+      ],
+      "Auto-delete spam and trash": [
+        "Levélszemét és Lomtár automatikus törlése"
+      ],
+      "Collapse navigation bar": [
+        "Navigációs sáv összecsukása"
+      ],
+      "Display navigation bar": [
+        "Navigációs sáv megnyitása"
+      ],
+      "Download the desktop app": [
+        "Asztali alkalmazás letöltése"
+      ],
+      "Export selection as .vcf": [
+        "Kiválasztás exportálása .vcf fájlba"
+      ],
+      "Generate text": [
+        "Szöveg létrehozása"
+      ],
+      "Hide my email": [
+        "Rejtse el az e-mail címemet"
+      ],
+      "Hide toolbar": [
+        "Eszköztár elrejtése"
+      ],
+      "I like this response": [
+        "Tetszik ez a válasz"
+      ],
+      "Invite members": [
+        "Tagok meghívása"
+      ],
+      "Keep my subscription": [
+        "Előfizetés megtartása"
+      ],
+      "Modify selection": [
+        "Kiválasztás módosítása"
+      ],
+      "More refine actions": [
+        "Pontosabb műveletek"
+      ],
+      "Resume downloading": [
+        "letöltés "
+      ],
+      "Show navigation bar": [
+        "Navigációs sáv mutatása"
+      ],
+      "Show toolbar": [
+        "Eszköztár mutatása"
+      ],
+      "Your email writing assistant": [
+        "Az Ön e-mail író segédje"
       ]
     },
     "action": {
@@ -1758,6 +1809,15 @@
       ],
       "Continue your subscription": [
         "Folytassa az előfizetését"
+      ],
+      "Close": [
+        "Bezár"
+      ],
+      "Create label": [
+        "Címke létrehozása"
+      ],
+      "Remind me later": [
+        "Emlékeztessen később"
       ]
     },
     "Calendar attachment tooltip": {
@@ -2048,6 +2108,9 @@
       ],
       "Try ${ planName }": [
         "${ planName } kipróbálása"
+      ],
+      "Advanced account protection": [
+        "Fejlett fiókvédelem"
       ]
     },
     "Checkout row": {
@@ -3411,6 +3474,9 @@
       ],
       "You can mark for deletion the contacts that you do not want neither to merge nor to keep. Deletion will only take place after the merge button is clicked": [
         "Amelyekből egyiket sem szeretné megtartani, azokat törlésre jelölheti. A törlés az egyesítés gomb megnyomása után fog megtörténni"
+      ],
+      "Also included": [
+        "Benne van a csomagban"
       ]
     },
     "description": {
@@ -3429,6 +3495,10 @@
     "Desktop notification body": {
       "From: ${ sender } - ${ Subject }": [
         "Feladó: ${ sender } - ${ Subject }"
+      ],
+      "${ notificationsToShow.length } new message": [
+        "${ notificationsToShow.length } új üzenet",
+        "${ notificationsToShow.length } új üzenet"
       ]
     },
     "Desktop notification title": {
@@ -4163,6 +4233,9 @@
       ],
       "Please select a country": [
         "Kérjük, válasszon egy országot"
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } az Ön felhasználói neve. E-mail cím ${ emailAddress } létrehozásához kövesse az alábbi lépéseket: beállítások, személyazonosság és cím, rövid domain név (pm.me)"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -4769,6 +4842,9 @@
       ],
       "Upgrade now": [
         "Váltás nagyobb csomagra"
+      ],
+      "Try the new desktop app": [
+        "Próbálja ki az új asztali alkalmazást"
       ]
     },
     "Get started checklist instructions": {
@@ -4881,6 +4957,9 @@
       ],
       "You've unlocked 1 GB": [
         "Ön feloldott 1 GB-ot"
+      ],
+      "Finish setup": [
+        "Beállítás befejezése"
       ]
     },
     "Gmail forwarding": {
@@ -4906,6 +4985,9 @@
       ],
       "More details": [
         "További részletek"
+      ],
+      "Join Google Meet": [
+        "Google Meet csatlakozás"
       ]
     },
     "Group": {
@@ -4946,6 +5028,15 @@
       ],
       "Security Center": [
         "Biztonsági központ"
+      ],
+      "Hardware not compatible": [
+        "A hardver nem kompatibilis"
+      ],
+      "Resume downloading": [
+        "Letöltés folytatása"
+      ],
+      "Tell us more": [
+        "Mondjon többet"
       ]
     },
     "Hint": {
@@ -4966,6 +5057,12 @@
       ],
       "No verification method available": [
         "Nincs elérhető ellenőrzési módszer"
+      ],
+      "CAPTCHA": [
+        "CAPTCHA"
+      ],
+      "SMS": [
+        "SMS"
       ]
     },
     "ICS widget label for event details": {
@@ -5205,6 +5302,9 @@
       ],
       "ICS file": [
         "ICS fájl"
+      ],
+      "Yahoo": [
+        "Yahoo"
       ]
     },
     "Import instructions step": {
@@ -7124,6 +7224,49 @@
       ],
       "This is now your ${ defaultEmailAddress } for sending new messages.": [
         "Ez mostantól az ${ defaultEmailAddress } az új üzenetek küldéséhez."
+      ],
+      "${ PROTON_SENTINEL_NAME } protects your account with dedicated monitoring of suspicious activity.": [
+        "A ${ PROTON_SENTINEL_NAME } megvédi a felhasználói fiókját a gyanús tevékenységek figyelésével."
+      ],
+      "Discover new features unlocked and start using them right away!": [
+        "Fedezze fel az új funkciókat, és használja őket azonnal."
+      ],
+      "Downloading paused: ${ progressDisplay } GB": [
+        "Letöltés felfüggesztve: ${ progressDisplay } GB"
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "Tegye a ${ MAIL_APP_NAME }-t az alapértelmezett levelező programjává."
+      ],
+      "Messages to all your email addresses will go to your inbox.": [
+        "Az üzenetek bármelyik e-mail címre érkezhetnek, ugyanabban a postafiókban leszek olvashatók."
+      ],
+      "More infos": [
+        "További információ"
+      ],
+      "Please note that upon clicking the Confirm button, your account will have ${ creditsRemaining } credit remaining.": [
+        "A megerősítés gombra kattintva a fiókban ${ creditsRemaining } kredit marad.",
+        "A megerősítés gombra kattintva a fiókban ${ creditsRemaining } kredit marad."
+      ],
+      "Please share what the issue is": [
+        "Kérjük ossza meg velünk a problémát."
+      ],
+      "Registering your subscription…": [
+        "Előfizetés regisztrálása"
+      ],
+      "Setting up ${ feature }…": [
+        "${ feature } beállítása…"
+      ],
+      "The writing assistant needs to finish downloading before it can be used.": [
+        "Az írásban segítő szoftvernek az első használat előtt le kell töltődnie."
+      ],
+      "Use different email addresses for different purposes so you can easily separate your emails by work, personal, or other areas.": [
+        "Használjon különböző e-mail címeket különböző célokra, így könnyen szétválaszthatja e-mailjeit munka, szórakozás vagy egyéb szempontok szerint."
+      ],
+      "You can change this anytime in ${ settingsLink }.": [
+        "Ezt bármikor módosíthatja itt: ${ settingsLink }"
+      ],
+      "You get notified if your password or other data was leaked from a third-party service.": [
+        "Értesítést fog kapni, ha jelszava vagy más adata kiszivárgott harmadik fél szolgáltatása miatt."
       ]
     },
     "info": {
@@ -7915,6 +8058,15 @@
       ],
       "Your password (admin)": [
         "Jelszó (adminisztrátor)"
+      ],
+      "Company name": [
+        "Cégnév"
+      ],
+      "Integrated 2FA authenticator": [
+        "Beépített kétlépcsős hitelesítés"
+      ],
+      "Remove metadata": [
+        "Metadata eltávolítása"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -8179,6 +8331,9 @@
       ],
       "You need to reactivate your keys to see the updated invitation": [
         "A frissített meghívó megtekintéséhez előbb újra kell aktiválnia a kulcsait"
+      ],
+      "settings": [
+        "beállítások"
       ]
     },
     "Link to calendar event": {
@@ -8255,6 +8410,9 @@
       ],
       "for ${ price }": [
         "${ price } áron"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "${ BRAND_NAME } Scribe írási segéd"
       ]
     },
     "Mailbox": {
@@ -8319,6 +8477,9 @@
     "Message image": {
       "Image has not been loaded in order to protect your privacy.": [
         "Az adatai védelme érdekében a kép nem került betöltésre."
+      ],
+      "Image could not be loaded.": [
+        "A kép nem tölthető be."
       ]
     },
     "Message notification": {
@@ -8922,6 +9083,13 @@
       "Vault sharing (up to ${ n } person)": [
         "Tároló megosztás (${ n } személyig)",
         "Tároló megosztás (${ n } személyig)"
+      ],
+      "200 GB of storage": [
+        "200 GB tároló"
+      ],
+      "Use on up to ${ n } device at once": [
+        "Használja egyszerre legfeljebb ${ n } eszközön",
+        "Használja egyszerre legfeljebb ${ n } eszközön"
       ]
     },
     "new_plans: feature highlight": {
@@ -9324,6 +9492,30 @@
       ],
       "You are all set!": [
         "Minden beállítva!"
+      ],
+      "Activate premium features": [
+        "Prémium jellemzők aktiválása"
+      ],
+      "Activate selected": [
+        "Kiválasztottak aktiválása"
+      ],
+      "Advanced encryption": [
+        "Fejlett titkosítás"
+      ],
+      "Auto-delete spam and trash": [
+        "Levélszemét és lomtár automatikus törlése"
+      ],
+      "browser": [
+        "böngésző"
+      ],
+      "Clear out deleted and spam emails after 30 days.": [
+        "Törölt levelek és levélszemét eltávolítása 30 nap után."
+      ],
+      "Let's get started": [
+        "Kezdjük"
+      ],
+      "Where privacy is default.": [
+        "Ahol az adatvédelem az alap."
       ]
     },
     "Onboarding Proton": {
@@ -9341,6 +9533,9 @@
       ],
       "You will be able to change your theme any time in your settings.": [
         "A beállítások között bármikor módosíthatja a témát."
+      ],
+      "Make it your own": [
+        "Hozzon létre sajátot"
       ]
     },
     "Online accounts": {
@@ -9666,6 +9861,9 @@
       ],
       "Type text or keyword": [
         "Írjon be szöveget"
+      ],
+      "Search parent folder": [
+        "Keresés a szülőkönyvtárban"
       ]
     },
     "Placeholder for contact group name": {
@@ -10410,6 +10608,9 @@
       ],
       "You can now schedule your messages to be sent later": [
         "Most már ütemezheti is a leveleit későbbi elküldésre"
+      ],
+      "Your pm.me email is active": [
+        "Az Ön pm.me e-mail címe aktív"
       ]
     },
     "sso": {
@@ -10742,6 +10943,12 @@
       ],
       "Your ${ planName } plan doesn’t just keep your business data and communications safe. It supports your compliance objectives, makes your business stand out, and keeps your team connected.": [
         "${ planName } csomagunk nem csak az üzleti adatait és kommunikációját tartja biztonságban. Támogatja megfelelőségi céljait, kiemeli vállalkozását, és kapcsolatot tart a csapattal."
+      ],
+      "Folders, labels and filters": [
+        "Mappák, címkék és szűrők"
+      ],
+      "Limitations of the free plan:": [
+        "Az ingyenes csomag korlátai:"
       ]
     },
     "Subscription renewal state": {
@@ -11044,11 +11251,17 @@
       ],
       "You have successfully unsubscribed": [
         "Sikeresen leiratkozott"
+      ],
+      "Content copied to clipboard": [
+        "A tartalom a Vágólapra másolva"
       ]
     },
     "Success notification": {
       "${ label.Name } removed": [
         "${ label.Name } törölve"
+      ],
+      " is now active": [
+        " jelenleg aktív"
       ]
     },
     "Suffix": {
@@ -11198,6 +11411,9 @@
       ],
       "Show me how": [
         "Segítség megjelenítése"
+      ],
+      "Download Desktop app": [
+        "Asztali alkalmazás letöltése"
       ]
     },
     "Title": {
@@ -11922,6 +12138,18 @@
       ],
       "Your free trial has ended": [
         "Az ön ingyenes próbaidőszaka végett ért"
+      ],
+      "Auto-deletion is active": [
+        "Az automatikus törlés aktív"
+      ],
+      "Distraction-free emailing": [
+        "Figyelemelterelés nélküli e-mail"
+      ],
+      "Help center": [
+        "Súgóközpont"
+      ],
+      "No need to empty the trash": [
+        "Nincs szükség a lomtár ürítésére"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -12062,17 +12290,29 @@
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "${ numberOfServers } ${ numberOfCountries } országban",
         "${ numberOfServers } ${ numberOfCountries } országban"
+      ],
+      "${ n } device": [
+        "${ n } eszköz",
+        "${ n } eszköz"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } ország",
+        "${ numberOfCountries } ország"
       ]
     },
     "vpn_2024: renew": {
       "Your subscription will automatically renew in ${ cycle } month.": [
         "Az előfizetése ${ cycle } havonta automatikusan megújul.",
         "Az előfizetése ${ cycle } havonta automatikusan megújul."
+      ],
+      "Your new subscription will automatically renew in ${ cycle } month.": [
+        "Az előfizetése ${ cycle } havonta automatikusan megújul.",
+        "Az előfizetése ${ cycle } havonta automatikusan megújul."
       ]
     },
     "vpn_2step: feature": {
       "Advanced VPN customizations": [
-        "Haladó VPN beállítások"
+        "Speciális VPN beállítások"
       ],
       "No ads": [
         "Nincsenek hirdetések"
@@ -12098,6 +12338,10 @@
       ],
       "Securely exchange Bitcoin via email instead of complex, 26-character Bitcoin addresses that are prone to error": [
         "Biztonságosan cserélj Bitcoint e-mailen keresztül, ahelyett, hogy összetett, 26 karakteres és hibára hajlamos Bitcoin címeket használnál"
+      ],
+      "${ n } ${ BRAND_NAME } email address": [
+        "${ n } ${ BRAND_NAME } e-mail cím",
+        "${ n } ${ BRAND_NAME } e-mail cím"
       ]
     },
     "wallet_signup_2024:Action": {
@@ -12215,6 +12459,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Az ingyenes próbaideje hamarosan le fog járni ekkor: ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "2 egymás utáni pont nem megengedett"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Nem lehet pont az elején"
+      ],
+      "Cannot contain a dot at the end": [
+        "Nem lehet pont a végén"
+      ],
+      "Expiration Date is not in the format MM/YY": [
+        "A lejárati dátum nem HH/ÉÉ formátumban van"
       ]
     },
     "WeekDay": {
@@ -12476,6 +12732,89 @@
       ],
       "Passcode:": [
         "Belépési kód:"
+      ]
+    },
+    "Event invistation error": {
+      "Unexpected error": [
+        "Váratlan hiba"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "Korlátlan számú hide-my-email álnév"
+      ]
+    },
+    "ICS event error": {
+      "End time out of bounds": [
+        "A záró idő kívül esik a határon"
+      ],
+      "Event validation failed": [
+        "Esemény ellenőrzés sikertelen"
+      ],
+      "Malformed end time": [
+        "A záró idő nincs jól formázva"
+      ],
+      "Malformed recurring event": [
+        "Hibásan formázott ismétlődő esemény"
+      ],
+      "Malformed start time": [
+        "A kezdő idő nincs jól formázva"
+      ],
+      "Only the Gregorian calendar scale is allowed": [
+        "Csak a Gergely naptár alkalmazható"
+      ],
+      "Start time out of bounds": [
+        "A kezdő idő kívül esik a határon"
+      ],
+      "Time zone not supported": [
+        "Az időzóna nincs támogatva"
+      ]
+    },
+    "Offer": {
+      "Maybe later": [
+        "Talán később"
+      ],
+      "Special offer": [
+        "Különleges ajánlat"
+      ]
+    },
+    "Offer feature": {
+      "Email addresses": [
+        "E-mail címek"
+      ],
+      "Free": [
+        "Ingyenes"
+      ],
+      "Plus": [
+        "Plusz"
+      ],
+      "Storage": [
+        "Tároló"
+      ]
+    },
+    "Payment.Sepa.Action": {
+      "Use personal name": [
+        "Személynév használata"
+      ]
+    },
+    "Payments.plan_name": {
+      "Free": [
+        "Ingyenes"
+      ]
+    },
+    "Payments.Sepa": {
+      "Street address, postal code, and city": [
+        "Utcanév, házszám, irányítószám, városnév"
+      ]
+    },
+    "Safety review": {
+      "Review account safety": [
+        "Fiókbiztonság átnézése"
+      ]
+    },
+    "Subscription length": {
+      "Lifetime": [
+        "Életre szóló"
       ]
     }
   }

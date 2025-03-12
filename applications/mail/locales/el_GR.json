@@ -1474,6 +1474,18 @@
       ],
       "Zoom out": [
         "Σμίκρυνση"
+      ],
+      "Add another account": [
+        "Προσθήκη επιπλέον λογαριασμού"
+      ],
+      "Help and feedback": [
+        "Βοήθεια και σχόλια"
+      ],
+      "Help and resources": [
+        "Βοήθεια και πληροφορίες"
+      ],
+      "hide-my-email aliases": [
+        "hide-my-email ψευδώνυμα"
       ]
     },
     "action": {
@@ -1791,6 +1803,12 @@
       ],
       "Version history": [
         "Ιστορικό εκδόσεων"
+      ],
+      "Unlimited logins, credit cards, hide-my-email aliases and more": [
+        "Απεριόριστες συνδέσεις, πιστωτικές κάρτες, hide-my-email ψευδώνυμα και πολλά άλλα"
+      ],
+      "VPN Accelerator": [
+        "VPN Accelerator"
       ]
     },
     "BF2024: Offers": {
@@ -1850,6 +1868,12 @@
       ],
       "Two-year": [
         "Δύο έτη"
+      ],
+      "Lifetime": [
+        "Εφ' όρου ζωής"
+      ],
+      "New!": [
+        "Νέο!"
       ]
     },
     "Browser": {
@@ -7898,6 +7922,18 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Το προγραμματισμένο πλάνο σας ξεκινά από ${ renewalTime } και θα ανανεώνεται αυτόματα κάθε μήνα."
+      ],
+      "Other accounts": [
+        "Άλλοι λογαριασμοί"
+      ],
+      "Our system flagged this as suspicious. If it is not a phishing or scam email, mark as legitimate.": [
+        "Το σύστημά μας το επισήμανε ως ύποπτο. Εάν δεν πρόκειται για μήνυμα ηλεκτρονικού ψαρέματος (phishing) ή απάτης, επισημάνετέ το ως νόμιμο."
+      ],
+      "Our system flagged this message as a phishing attempt. Please check to ensure that it is legitimate.": [
+        "Το σύστημά μας επισήμανε αυτό το μήνυμα ως απόπειρα ηλεκτρονικού ψαρέματος. Παρακαλούμε ελέγξτε το για να βεβαιωθείτε ότι είναι νόμιμο."
+      ],
+      "Protect your email from being leaked to mailing lists or spammers with ${ hideMyEmailAliasesLink }.": [
+        "Προστατέψτε τη διεύθυνσή σας από το να διαρρεύσει σε λίστες αλληλογραφίας ή ενοχλητικούς αποστολείς, με ${ hideMyEmailAliasesLink }."
       ]
     },
     "info": {
@@ -8736,6 +8772,9 @@
       ],
       "Your password (admin)": [
         "Ο κωδικός σας (διαχειριστής)"
+      ],
+      "Integrated 2FA authenticator": [
+        "Ενσωματωμένος ελεγκτής 2FA"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9097,6 +9136,12 @@
       ],
       "for ${ price }": [
         "για ${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "${ BRAND_NAME } Scribe βοηθός γραφής"
+      ],
+      "Add-on with free trial": [
+        "Πρόσθετο με δωρεάν δοκιμή"
       ]
     },
     "Mailbox": {
@@ -9882,6 +9927,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Σαρώνουμε τον σκοτεινό ιστό για να ελέγξουμε εάν οι διευθύνσεις ή τα ψευδώνυμά σας ${ BRAND_NAME } έχουν διαρρεύσει και σας ειδοποιούμε αμέσως αν βρούμε κάτι."
+      ],
+      "${ size } storage per user": [
+        "${ size } αποθηκευτικός χώρος ανά χρήστη"
+      ],
+      "Manage user permissions and access": [
+        "Διαχείριση αδειών χρηστών και πρόσβασης"
+      ],
+      "Password manager to secure credentials": [
+        "Διαχειριστής κωδικών πρόσβασης με δωρεάν δοκιμή"
       ]
     },
     "new_plans: feature highlight": {
@@ -10000,6 +10054,9 @@
       ],
       "You’re enjoying a promotional price on your current plan. If you downgrade your account, you will lose your promotional price and it won’t be available if you try to subscribe again.": [
         "Απολαμβάνετε μια τιμή προσφοράς στο τρέχον πλάνο σας. Εάν υποβαθμίσετε τον λογαριασμό σας, θα χάσετε την τιμή προσφοράς και δε θα είναι διαθέσιμη εάν προσπαθήσετε να εγγραφείτε ξανά."
+      ],
+      "Pay once, secure your passwords and identity forever.": [
+        "Πληρώστε μία φορά, ασφαλίστε τους κωδικούς πρόσβασης και την ταυτότητά σας για πάντα."
       ]
     },
     "new_plans: Subtext": {
@@ -10709,6 +10766,12 @@
       "Secure vault sharing (${ n } vault) and link sharing": [
         "Ασφαλής κοινή χρήση κρύπτης (${ n } κρύπτη) και κοινή χρήση συνδέσμων",
         "Ασφαλής κοινή χρήση κρυπτών (${ n } κρύπτες) και κοινή χρήση συνδέσμων"
+      ],
+      "Secure vault, item and link sharing": [
+        "Ασβαλής κρύπτη, στοιχεία και κοινοποίηση συνδέσμων"
+      ],
+      "Unlimited logins, notes, credit cards and more": [
+        "Απεριόριστες συνδέσεις, σημειώσεις, πιστωτικές κάρτες και πολλά άλλα"
       ]
     },
     "pass_signup_2024: Info": {
@@ -10724,6 +10787,9 @@
       ],
       "Team policies": [
         "Πολιτικές ομάδας"
+      ],
+      "Advanced account protection": [
+        "Προηγμένη προστασία λογαριασμού"
       ]
     },
     "PassFamilyPlan2024": {
@@ -12067,6 +12133,10 @@
       "${ n } VPN connection per user": [
         "${ n } σύνδεση VPN ανά χρήστη",
         "${ n } συνδέσεις VPN ανά χρήστη"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "Σύνδεση VPN για ${ n } συσκευή ανά χρήστη",
+        "Σύνδεση VPN για ${ n } συσκευές ανά χρήστη"
       ]
     },
     "Subscription change warning": {
@@ -13733,6 +13803,9 @@
       ],
       "Your shorter address is now ready": [
         "Η συντομότερη διεύθυνσή σας είναι τώρα έτοιμη"
+      ],
+      "Help and feedback": [
+        "Βοήθεια και σχόλια"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13881,6 +13954,18 @@
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "${ numberOfServers } σε ${ numberOfCountries } χώρα",
         "${ numberOfServers } σε ${ numberOfCountries } χώρες"
+      ],
+      "${ n } device": [
+        "${ n } συσκευή",
+        "${ n } συσκευές"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } χώρα",
+        "${ numberOfCountries } χώρες"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "Αυτόματη επιλογή από ${ numberOfCountries } χώρα",
+        "Αυτόματη επιλογή από ${ numberOfCountries } χώρες"
       ]
     },
     "vpn_2024: renew": {
@@ -14340,6 +14425,36 @@
       ],
       "Passcode:": [
         "Κωδικός πρόσβασης:"
+      ]
+    },
+    "customer_support.feature.all": {
+      "For all ${ BRAND_NAME } services": [
+        "Για όλες τις υπηρεσίες ${ BRAND_NAME }"
+      ]
+    },
+    "customer_support.feature.drive": {
+      "For ${ DRIVE_APP_NAME }": [
+        "Για ${ DRIVE_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.mail": {
+      "For ${ MAIL_APP_NAME }": [
+        "Για ${ MAIL_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.pass": {
+      "For ${ PASS_APP_NAME }": [
+        "Για ${ PASS_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.vpn": {
+      "For ${ VPN_APP_NAME }": [
+        "Για ${ VPN_APP_NAME }"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "Απεριόριστα hide-my-email ψευδώνυμα"
       ]
     }
   }

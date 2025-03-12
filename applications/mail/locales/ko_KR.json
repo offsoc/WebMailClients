@@ -1782,6 +1782,9 @@
       ],
       "Version history": [
         "버전 기록"
+      ],
+      "VPN Accelerator": [
+        "VPN Accelerator"
       ]
     },
     "BF2024: Offers": {
@@ -8599,6 +8602,9 @@
       ],
       "Your password (admin)": [
         "사용자의 비밀번호 (관리자)"
+      ],
+      "Integrated 2FA authenticator": [
+        "2단계 인증기 내장"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -8955,6 +8961,9 @@
       ],
       "for ${ price }": [
         "${ price }"
+      ],
+      "${ BRAND_NAME } Scribe writing assistant": [
+        "${ BRAND_NAME } Scribe 글쓰기 도우미"
       ]
     },
     "Mailbox": {
@@ -10550,6 +10559,9 @@
       ],
       "Team policies": [
         "팀 정책"
+      ],
+      "Advanced account protection": [
+        "고급 계정 보호"
       ]
     },
     "PassFamilyPlan2024": {
@@ -11840,6 +11852,9 @@
       ],
       "Billed yearly": [
         "매년 청구"
+      ],
+      "Billed every 6 months": [
+        "6개월마다 청구"
       ]
     },
     "Subscription attribute": {
@@ -13616,6 +13631,15 @@
       ],
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "${ numberOfCountries }개 국가 중 ${ numberOfServers }개 서버"
+      ],
+      "${ n } device": [
+        "${ n }개 기기"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries }개 국가"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "${ numberOfCountries }개 국가에서 자동 선택됨"
       ]
     },
     "vpn_2024: renew": {
@@ -14038,6 +14062,11 @@
       ],
       "Passcode:": [
         "비밀번호:"
+      ]
+    },
+    "Feature": {
+      "Unlimited hide-my-email aliases": [
+        "무제한 hide-my-email 별칭"
       ]
     }
   }
