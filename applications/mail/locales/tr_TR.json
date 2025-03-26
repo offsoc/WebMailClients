@@ -1548,6 +1548,9 @@
       "${ users } user": [
         "${ users } kullanıcı",
         "${ users } kullanıcı"
+      ],
+      "${ price } per seat": [
+        "${ price } /koltuk"
       ]
     },
     "Alert": {
@@ -6688,8 +6691,7 @@
         "Hazırlanıyor…"
       ],
       "Insert image": [
-        "Görsel ekle",
-        "Görseller ekle"
+        "Görsel ekle"
       ],
       "Insert link": [
         "Bağlantı ekle"
@@ -7938,6 +7940,21 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Zamanlanmış tarifeniz ${ renewalTime } tarihinde başlayacak ve her ay otomatik olarak yenilenecek."
+      ],
+      "Subscription auto-renews every ${ cycle } month.": [
+        "Abonelik her ${ cycle } ayda bir otomatik olarak yenilenir.",
+        "Abonelik her ${ cycle } ayda bir otomatik olarak yenilenir."
+      ],
+      "You'll then be billed every ${ renewCycle } month at ${ renewAmountStr }.": [
+        "Ardından her ${ renewCycle } ayda bir ${ renewAmountStr } tutar ödeyeceksiniz.",
+        "Ardından her ${ renewCycle } ayda bir ${ renewAmountStr } tutar ödeyeceksiniz."
+      ],
+      "Your scheduled plan starts on ${ renewalTime } and will auto-renew every ${ cycle } month.": [
+        "Zamanlanmış tarifeniz ${ renewalTime } tarihinde başlayacak ve her ${ cycle } ayda bir otomatik olarak yenilenecek.",
+        "Zamanlanmış tarifeniz ${ renewalTime } tarihinde başlayacak ve her ${ cycle } ayda bir otomatik olarak yenilenecek."
+      ],
+      "Your subscription will automatically renew on ${ renewalTime }.": [
+        "Aboneliğiniz ${ renewalTime } tarihinde otomatik olarak yenilenecek."
       ]
     },
     "info": {
@@ -8783,12 +8800,12 @@
     },
     "Label (begin date/advanced search)": {
       "From": [
-        "Kimden"
+        "Başlangıç"
       ]
     },
     "Label (end date/advanced search)": {
       "To": [
-        "Kime"
+        "Son"
       ]
     },
     "Label attach to date input to select a date": {
@@ -10886,6 +10903,40 @@
       ],
       "We are processing your payment for the billed invoice. Please wait until the payment is completed before making changes to your plan or updating your payment details. Thank you for your patience.": [
         "Faturanızın ödemesini işliyoruz. Tarifenizde değişiklik yapmadan veya ödeme bilgilerinizi güncellemeden önce lütfen ödeme işleminin tamamlanmasını bekleyin. Sabrınız için teşekkür ederiz."
+      ],
+      "During this time, you will not be able to modify or cancel your subscription. Please wait until your payment is completed before attempting any changes. Thank you for your patience.": [
+        "Bu süre boyunca aboneliğinizi değiştiremez veya iptal edemezsiniz. Değişiklik yapmadan önce lütfen ödeme işleminizin tamamlanmasını bekleyin. Anlayışınız için teşekkür ederiz."
+      ],
+      "Renewal pricing subject to change according to ${ termsAndConditionsLink }.": [
+        "Yenileme fiyatları ${ termsAndConditionsLink } metnine göre değişebilir."
+      ],
+      "Renews at ${ renewPriceStr }, cancel anytime.": [
+        "${ renewPriceStr } tutar ile yenilenir. İstediğiniz zaman iptal edebilirsiniz."
+      ],
+      "terms & conditions": [
+        "hükümler ve koşullar"
+      ],
+      "The coupon is valid for ${ couponRedemptions } renewal.": [
+        "Kupon ${ couponRedemptions } yenileme için geçerlidir.",
+        "Kupon ${ couponRedemptions } yenileme için geçerlidir."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first ${ subscriptionLength } month.": [
+        "Özel indirimli ${ priceWithDiscount } fiyatı ilk ${ subscriptionLength } ay için geçerlidir.",
+        "Özel indirimli ${ priceWithDiscount } fiyatı ilk ${ subscriptionLength } ay için geçerlidir."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. The coupon is valid for ${ couponRedemptions } renewal. Then it will automatically be renewed at ${ renewPriceStr } for 1 month. You can cancel at any time.": [
+        "${ priceWithDiscount } özel indirimli fiyatı ilk ay için geçerlidir. Kupon, ${ couponRedemptions } yenileme için geçerlidir. Ardından, her ay ${ renewPriceStr } fiyatıyla otomatik olarak yenilenecektir. İstediğiniz zaman iptal edebilirsiniz.",
+        "${ priceWithDiscount } özel indirimli fiyatı ilk ay için geçerlidir. Kupon, ${ couponRedemptions } yenileme için geçerlidir. Ardından, her ay ${ renewPriceStr } fiyatıyla otomatik olarak yenilenecektir. İstediğiniz zaman iptal edebilirsiniz."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. Then it will automatically be renewed at ${ renewPriceStr } every month. You can cancel at any time.": [
+        "Özel indirimli ${ priceWithDiscount } fiyatı ilk ay için geçerlidir. Daha sonra her ay otomatik olarak ${ renewPriceStr } üzerinden yenilenecektir. İstediğiniz zaman iptal edebilirsiniz."
+      ],
+      "Then it will automatically be renewed at ${ renewPriceStr } for ${ renewalLength } month. You can cancel at any time.": [
+        "Ardından otomatik olarak ${ renewPriceStr } üzerinden ${ renewalLength } ay boyunca yenilenecektir. İstediğiniz zaman iptal edebilirsiniz.",
+        "Ardından otomatik olarak ${ renewPriceStr } üzerinden ${ renewalLength } ay boyunca yenilenir. İstediğiniz zaman iptal edebilirsiniz."
+      ],
+      "Your payment is still being processed": [
+        "Ödeme işleminiz sürüyor"
       ]
     },
     "Payments.Error": {
@@ -13964,6 +14015,9 @@
       "Your subscription will automatically renew in ${ cycle } month.": [
         "Aboneliğiniz ${ cycle } ay sonra otomatik olarak yenilenecek.",
         "Aboneliğiniz ${ cycle } ay sonra otomatik olarak yenilenecek."
+      ],
+      "You'll then be billed every 12 months at ${ renewPriceStr }.": [
+        "Ardından her 12 ayda bir ${ renewPriceStr } ödeyeceksiniz."
       ]
     },
     "vpn_2step: feature": {

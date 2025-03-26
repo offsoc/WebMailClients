@@ -8132,6 +8132,9 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Ваш запланированный тариф начинается на ${ renewalTime } и будет автоматически обновляться каждый месяц."
+      ],
+      "Insert image": [
+        "Вставить изображение"
       ]
     },
     "info": {
@@ -14356,6 +14359,12 @@
         "${ numberOfServers } в ${ numberOfCountries } странах",
         "${ numberOfServers } в ${ numberOfCountries } странах",
         "${ numberOfServers } в ${ numberOfCountries } странах"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } страны",
+        "${ numberOfCountries } стран",
+        "${ numberOfCountries } стран",
+        "${ numberOfCountries } стран"
       ]
     },
     "vpn_2024: renew": {

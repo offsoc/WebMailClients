@@ -1563,6 +1563,9 @@
         "${ users } uživatelé",
         "${ users } uživatelů",
         "${ users } uživatelů"
+      ],
+      "${ price } per seat": [
+        "${ price } za licenci"
       ]
     },
     "Alert": {
@@ -6905,10 +6908,7 @@
         "Inicializuji..."
       ],
       "Insert image": [
-        "Vložit obrázek",
-        "Vložit obrázky",
-        "Vložit obrázky",
-        "Vložit obrázky"
+        "Vložit obrázek"
       ],
       "Insert link": [
         "Vložit odkaz"
@@ -7286,7 +7286,7 @@
         "Korektury textu"
       ],
       "Protect your email from being leaked to mailing lists or spammers with ${ hideMyEmailAliasesLink }.": [
-        "Chraňte svůj e-mail před únikem do seznamů e-mailových schránek nebo ke spammerům pomocí ${ hideMyEmailAliasesLink }."
+        "Chraňte svůj e-mail před únikem do e-mailových seznamů nebo ke spammerům pomocí ${ hideMyEmailAliasesLink }."
       ],
       "Public sharing of documents is not yet supported.": [
         "Veřejné sdílení dokumentů ještě není podporováno."
@@ -8199,6 +8199,27 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Váš naplánovaný tarif začíná ${ renewalTime } a bude každý měsíc automaticky obnoven."
+      ],
+      "Subscription auto-renews every ${ cycle } month.": [
+        "Předplatné se automaticky obnoví každý ${ cycle } měsíc.",
+        "Předplatné se automaticky obnoví každé ${ cycle } měsíce.",
+        "Předplatné se automaticky obnoví každých ${ cycle } měsíců.",
+        "Předplatné se automaticky obnoví každých ${ cycle } měsíců."
+      ],
+      "You'll then be billed every ${ renewCycle } month at ${ renewAmountStr }.": [
+        "Poté vám bude každý ${ renewCycle } měsíc účtováno ${ renewAmountStr }.",
+        "Poté vám bude každé ${ renewCycle } měsíce účtováno ${ renewAmountStr }.",
+        "Poté vám bude každých ${ renewCycle } měsíců účtováno ${ renewAmountStr }.",
+        "Poté vám bude každých ${ renewCycle } měsíců účtováno ${ renewAmountStr }."
+      ],
+      "Your scheduled plan starts on ${ renewalTime } and will auto-renew every ${ cycle } month.": [
+        "Váš naplánovaný tarif začíná ${ renewalTime } a bude se automaticky obnovovat každý ${ cycle } měsíc.",
+        "Váš naplánovaný tarif začíná ${ renewalTime } a bude se automaticky obnovovat každé ${ cycle } měsíce.",
+        "Váš naplánovaný tarif začíná ${ renewalTime } a bude se automaticky obnovovat každých ${ cycle } měsíců.",
+        "Váš naplánovaný tarif začíná ${ renewalTime } a bude se automaticky obnovovat každých ${ cycle } měsíců."
+      ],
+      "Your subscription will automatically renew on ${ renewalTime }.": [
+        "Vaše předplatné se automaticky obnoví ${ renewalTime }."
       ]
     },
     "info": {
@@ -11229,6 +11250,48 @@
       ],
       "We are processing your payment for the billed invoice. Please wait until the payment is completed before making changes to your plan or updating your payment details. Thank you for your patience.": [
         "Zpracováváme vaši platbu za vyúčtovanou fakturu. Před provedením změn v tarifu nebo aktualizací platebních údajů vyčkejte, dokud nebude platba dokončena. Děkujeme vám za trpělivost."
+      ],
+      "During this time, you will not be able to modify or cancel your subscription. Please wait until your payment is completed before attempting any changes. Thank you for your patience.": [
+        "Během této doby nebudete moci předplatné upravit ani zrušit. Než se pokusíte provést jakékoli změny, počkejte, dokud nebude platba dokončena. Děkujeme vám za trpělivost."
+      ],
+      "Renewal pricing subject to change according to ${ termsAndConditionsLink }.": [
+        "Ceny za obnovení se mohou změnit podle ${ termsAndConditionsLink }."
+      ],
+      "Renews at ${ renewPriceStr }, cancel anytime.": [
+        "Obnovuje se za ${ renewPriceStr }, zrušit lze kdykoli."
+      ],
+      "terms & conditions": [
+        "smluvních podmínek užívání"
+      ],
+      "The coupon is valid for ${ couponRedemptions } renewal.": [
+        "Kupón je platný pro ${ couponRedemptions } obnovení.",
+        "Kupón je platný pro ${ couponRedemptions } obnovení.",
+        "Kupón je platný pro ${ couponRedemptions } obnovení.",
+        "Kupón je platný pro ${ couponRedemptions } obnovení."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first ${ subscriptionLength } month.": [
+        "Speciální zvýhodněná cena ${ priceWithDiscount } platí pro první ${ subscriptionLength } měsíc.",
+        "Speciální zvýhodněná cena ${ priceWithDiscount } platí pro první ${ subscriptionLength } měsíce.",
+        "Speciální zvýhodněná cena ${ priceWithDiscount } platí pro prvních ${ subscriptionLength } měsíců.",
+        "Speciální zvýhodněná cena ${ priceWithDiscount } platí pro prvních ${ subscriptionLength } měsíců."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. The coupon is valid for ${ couponRedemptions } renewal. Then it will automatically be renewed at ${ renewPriceStr } for 1 month. You can cancel at any time.": [
+        "Speciální zvýhodněná cena ${ priceWithDiscount } platí první měsíc. Kupón je platný pro ${ couponRedemptions } obnovení. Poté se automaticky obnoví za ${ renewPriceStr } na 1 měsíc. Předplatné můžete kdykoli zrušit.",
+        "Speciální zvýhodněná cena ${ priceWithDiscount } platí první měsíc. Kupón je platný pro ${ couponRedemptions } obnovení. Poté se automaticky obnoví za ${ renewPriceStr } na 1 měsíc. Předplatné můžete kdykoli zrušit.",
+        "Speciální zvýhodněná cena ${ priceWithDiscount } platí první měsíc. Kupón je platný pro ${ couponRedemptions } obnovení. Poté se automaticky obnoví za ${ renewPriceStr } na 1 měsíc. Předplatné můžete kdykoli zrušit.",
+        "Speciální zvýhodněná cena ${ priceWithDiscount } platí první měsíc. Kupón je platný pro ${ couponRedemptions } obnovení. Poté se automaticky obnoví za ${ renewPriceStr } na 1 měsíc. Předplatné můžete kdykoli zrušit."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. Then it will automatically be renewed at ${ renewPriceStr } every month. You can cancel at any time.": [
+        "Speciální zvýhodněná cena ${ priceWithDiscount } platí první měsíc. Poté dojde každý měsíc k automatickému obnovení za ${ renewPriceStr }. Předplatné můžete kdykoli zrušit."
+      ],
+      "Then it will automatically be renewed at ${ renewPriceStr } for ${ renewalLength } month. You can cancel at any time.": [
+        "Poté se automaticky obnoví za ${ renewPriceStr } na ${ renewalLength } měsíc. Předplatné můžete kdykoli zrušit.",
+        "Poté se automaticky obnoví za ${ renewPriceStr } na ${ renewalLength } měsíce. Předplatné můžete kdykoli zrušit.",
+        "Poté se automaticky obnoví za ${ renewPriceStr } na ${ renewalLength } měsíců. Předplatné můžete kdykoli zrušit.",
+        "Poté se automaticky obnoví za ${ renewPriceStr } na ${ renewalLength } měsíců. Předplatné můžete kdykoli zrušit."
+      ],
+      "Your payment is still being processed": [
+        "Vaše platba se stále zpracovává"
       ]
     },
     "Payments.Error": {
@@ -14497,6 +14560,9 @@
         "Vaše předplatné se automaticky obnoví za ${ cycle } měsíce.",
         "Vaše předplatné se automaticky obnoví za ${ cycle } měsíců.",
         "Vaše předplatné se automaticky obnoví za ${ cycle } měsíců."
+      ],
+      "You'll then be billed every 12 months at ${ renewPriceStr }.": [
+        "Potom vám bude účtováno ${ renewPriceStr } každých 12 měsíců."
       ]
     },
     "vpn_2step: feature": {

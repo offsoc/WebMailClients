@@ -1466,6 +1466,15 @@
       ],
       "Zoom out": [
         "Perkecil"
+      ],
+      "Add another account": [
+        "Tambah akun lainnya"
+      ],
+      "Help and feedback": [
+        "Bantuan dan saran"
+      ],
+      "Help and resources": [
+        "Bantuan dan sumber daya"
       ]
     },
     "action": {
@@ -1527,6 +1536,9 @@
       ],
       "${ users } user": [
         "${ users } pengguna"
+      ],
+      "${ price } per seat": [
+        "${ price } per kuota"
       ]
     },
     "Alert": {
@@ -6518,7 +6530,7 @@
         "Apabila alias Anda dijual, dibocorkan, atau disalahgunakan, Anda hanya perlu menonaktifkannya untuk dapat berhenti menerima spam."
       ],
       "If your password ends up on the dark web, ${ BRAND_NAME } can tell you which service your data was leaked from and how to halt the damage.": [
-        "Apabila kata sandi Anda muncul pada dark web, ${ BRAND_NAME } dapat memberi tahu Anda dari layanan mana kata sandi ini dibocorkan serta bagaimana cara untuk menghentikan dampak kebocoran ini."
+        "Apabila kata sandi Anda muncul di dark web, ${ BRAND_NAME } dapat memberi tahu Anda dari layanan mana kata sandi ini dibocorkan serta bagaimana cara untuk menghentikan dampak kebocoran ini."
       ],
       "Image description": [
         "Keterangan gambar"
@@ -7791,6 +7803,21 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Paket terjadwal Anda dimulai pada ${ renewalTime } dan akan diperbarui secara otomatis setiap bulannya."
+      ],
+      "Other accounts": [
+        "Akun lainnya"
+      ],
+      "Subscription auto-renews every ${ cycle } month.": [
+        "Langganan diperbarui secara otomatis setiap ${ cycle } bulan."
+      ],
+      "You'll then be billed every ${ renewCycle } month at ${ renewAmountStr }.": [
+        "Anda kemudian akan ditagih setiap ${ renewCycle } bulan pada harga ${ renewAmountStr }."
+      ],
+      "Your scheduled plan starts on ${ renewalTime } and will auto-renew every ${ cycle } month.": [
+        "Paket terjadwal Anda dimulai pada ${ renewalTime } dan akan diperbarui secara otomatis setiap ${ cycle } bulan."
+      ],
+      "Your subscription will automatically renew on ${ renewalTime }.": [
+        "Langganan Anda akan diperbarui secara otomatis pada ${ renewalTime }."
       ]
     },
     "info": {
@@ -10698,6 +10725,36 @@
       ],
       "We are processing your payment for the billed invoice. Please wait until the payment is completed before making changes to your plan or updating your payment details. Thank you for your patience.": [
         "Kami sedang memproses pembayaran Anda untuk faktur yang tertagih. Silakan tunggu hingga pembayaran selesai sebelum membuat perubahan pada paket Anda atau memperbarui rincian pembayaran Anda. Terima kasih atas kesabaran Anda."
+      ],
+      "During this time, you will not be able to modify or cancel your subscription. Please wait until your payment is completed before attempting any changes. Thank you for your patience.": [
+        "Selama periode ini, Anda tidak akan dapat mengubah atau membatalkan langganan Anda. Silakan tunggu hingga pembayaran Anda rampung sebelum mencoba untuk merubah suatu hal. Terima kasih atas kesabaran Anda."
+      ],
+      "Renewal pricing subject to change according to ${ termsAndConditionsLink }.": [
+        "Harga pembaruan dapat berubah sewaktu-waktu sesuai dengan ${ termsAndConditionsLink } yang berlaku."
+      ],
+      "Renews at ${ renewPriceStr }, cancel anytime.": [
+        "Diperbarui seharga ${ renewPriceStr }, batalkan kapan saja."
+      ],
+      "terms & conditions": [
+        "syarat & ketentuan"
+      ],
+      "The coupon is valid for ${ couponRedemptions } renewal.": [
+        "Kupon ini valid untuk ${ couponRedemptions } kali pembaruan."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first ${ subscriptionLength } month.": [
+        "Harga diskon khusus ${ priceWithDiscount } ini valid untuk ${ subscriptionLength } bulan pertama."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. The coupon is valid for ${ couponRedemptions } renewal. Then it will automatically be renewed at ${ renewPriceStr } for 1 month. You can cancel at any time.": [
+        "Harga diskon khusus ${ priceWithDiscount } ini valid untuk bulan pertama. Kupon ini valid untuk ${ couponRedemptions } kali pembaruan. Setelahnya, langganan ini akan diperbarui secara otomatis pada harga ${ renewPriceStr } untuk 1 bulan. Anda dapat membatalkan langganan Anda kapan saja."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. Then it will automatically be renewed at ${ renewPriceStr } every month. You can cancel at any time.": [
+        "Harga diskon khusus ${ priceWithDiscount } ini valid untuk bulan pertama. Selanjutnya, langganan ini akan diperbarui secara otomatis pada harga ${ renewPriceStr } per bulannya. Anda dapat membatalkan langganan Anda kapan saja."
+      ],
+      "Then it will automatically be renewed at ${ renewPriceStr } for ${ renewalLength } month. You can cancel at any time.": [
+        "Setelahnya, langganan ini akan diperbarui secara otomatis pada harga ${ renewPriceStr } setiap ${ renewalLength } bulan. Anda dapat membatalkan langganan Anda kapan saja."
+      ],
+      "Your payment is still being processed": [
+        "Pembayaran Anda masih diproses"
       ]
     },
     "Payments.Error": {
@@ -13510,6 +13567,9 @@
       ],
       "Your shorter address is now ready": [
         "Alamat lebih pendek Anda sudah siap"
+      ],
+      "Help and feedback": [
+        "Bantuan dan saran"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13661,6 +13721,9 @@
       ],
       "Auto-selects from ${ numberOfCountries } country": [
         "Terpilih secara otomatis dari ${ numberOfCountries } negara"
+      ],
+      "Servers in ${ numberOfCountries }+ country": [
+        "Server di ${ numberOfCountries }+ negara"
       ]
     },
     "vpn_2024: renew": {
@@ -13675,6 +13738,9 @@
       ],
       "Your subscription will automatically renew in ${ cycle } month.": [
         "Langganan Anda akan diperbarui secara otomatis dalam ${ cycle } bulan."
+      ],
+      "You'll then be billed every 12 months at ${ renewPriceStr }.": [
+        "Setelahnya, Anda akan ditagih setiap 12 bulan pada harga ${ renewPriceStr }."
       ]
     },
     "vpn_2step: feature": {

@@ -1045,6 +1045,15 @@
       ],
       "Zoom out": [
         "Smanji"
+      ],
+      "Mark as resolved": [
+        "Označi kao riješeno"
+      ],
+      "Request a call": [
+        "Zatraži poziv"
+      ],
+      "Search countries": [
+        "Pretraži države"
       ]
     },
     "action": {
@@ -4565,6 +4574,12 @@
       ],
       "Your phone number will only be used for this one-time verification.": [
         "Vaš broj telefona koristit će se samo za ovu jednokratnu provjeru."
+      ],
+      "Insert image": [
+        "Umetni sliku"
+      ],
+      "Learn how to ${ staySaferOnlineLink }": [
+        "Saznajte kako ${ staySaferOnlineLink }"
       ]
     },
     "info": {
@@ -6239,6 +6254,27 @@
       ],
       "Open ${ PASS_APP_NAME }": [
         "Otvori ${ PASS_APP_NAME }"
+      ],
+      "All aliases": [
+        "Svi pseudonimi"
+      ],
+      "Create an alias": [
+        "Stvori pseudonim"
+      ],
+      "Hide-my-email aliases": [
+        "Hide-my-email pseudonimi"
+      ],
+      "Hide-my-email aliases let you sign up for things online without sharing your email address. ${ learnMoreLink }": [
+        "Hide-my-email pseudonimi omogućuju Vam registraciju na mrežnim servisima bez dijeljenja Vaše adrese e-pošte. ${ learnMoreLink }"
+      ],
+      "New alias": [
+        "Novi pseudonim"
+      ],
+      "Protect your online identity": [
+        "Zaštitite svoj mrežni identitet"
+      ],
+      "Try ${ PASS_APP_NAME }": [
+        "Isprobajte ${ PASS_APP_NAME }"
       ]
     },
     "Select files": {
@@ -6842,6 +6878,9 @@
       ],
       "You have successfully unsubscribed": [
         "Uspješno ste poništili pretplatu"
+      ],
+      "Alias copied to clipboard": [
+        "Pseudonim kopiran u međuspremnik"
       ]
     },
     "Success notification": {
@@ -7899,6 +7938,39 @@
       ],
       "Yearly, ${ untilString }": [
         "Godišnje, ${ untilString }"
+      ]
+    },
+    "Button": {
+      "Continue using ${ planTitle }": [
+        "Nastavi koristiti ${ planTitle }"
+      ],
+      "Continue your subscription": [
+        "Nastavi svoju pretplatu"
+      ]
+    },
+    "Info; access rights for shared calendar": {
+      "View only": [
+        "Samo za prikaz"
+      ]
+    },
+    "pass_signup_2023: Info": {
+      "Secure vault sharing": [
+        "Sigurno dijeljenje trezora"
+      ]
+    },
+    "Security Center (link to Pass App)": {
+      "(will open ${ PASS_APP_NAME })": [
+        "(otvorit će ${ PASS_APP_NAME })"
+      ]
+    },
+    "session_recovery:cancellation:notification": {
+      "Password reset canceled": [
+        "Ponovno postavljanje lozinke otkazano"
+      ]
+    },
+    "Shared calendar; Info about calendar owner": {
+      "Shared by ${ ownerName }": [
+        "Dijeli ${ ownerName }"
       ]
     }
   }

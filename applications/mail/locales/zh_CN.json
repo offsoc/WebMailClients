@@ -343,7 +343,7 @@
         "删除"
       ],
       "Delete ${ selectedCount } contact": [
-        "删除 ${ selectedCount } 个联系人"
+        "删除 ${ selectedCount } 位联系人"
       ],
       "Delete ${ selectedCount } contact group": [
         "删除 ${ selectedCount } 个联系人组"
@@ -1536,6 +1536,9 @@
       ],
       "${ users } user": [
         "${ users } 位用户"
+      ],
+      "${ price } per seat": [
+        "${ price } 每位用户"
       ]
     },
     "Alert": {
@@ -3568,7 +3571,7 @@
     },
     "Daily recurring event, frequency (times)": {
       "Daily, ${ timesString }": [
-        "每天, ${ timesString }"
+        "每天，${ timesString }"
       ],
       "Every ${ interval } day, ${ timesString }": [
         "每 ${ interval } 天，${ timesString }"
@@ -3576,7 +3579,7 @@
     },
     "Daily recurring event, frequency (until)": {
       "Daily, ${ untilString }": [
-        "每天, 直到${ untilString }"
+        "每天，直到 ${ untilString }"
       ],
       "Every ${ interval } day, ${ untilString }": [
         "每 ${ interval } 天，${ untilString }"
@@ -3626,7 +3629,7 @@
         "${ PROTON_SENTINEL_NAME } 对可疑活动进行全天候专门监控，包括上报安全专家，从而保护您的账户。"
       ],
       "2FA adds an extra security layer, preventing unauthorized access.": [
-        "双重验证能为您再增添一道安全防线，将试图盗取账户者拒之门外。"
+        "2FA 能为您再增添一道安全防线，将试图盗取账户者拒之门外。"
       ],
       "Also included": [
         "还包含"
@@ -3764,7 +3767,7 @@
         "您可以选择稍后删除既不想合并也不想保留的联系人，点击合并按钮后他们就会被删除"
       ],
       "Your account and data recovery methods are set and 2FA is enabled.": [
-        "您已设置账户和数据恢复方式并开启双重验证。"
+        "您的账户和数据恢复方法均已设置，并且已启用 2FA。"
       ],
       "Your account and data recovery methods are set.": [
         "您的账户恢复方式已设置。"
@@ -3828,7 +3831,7 @@
         "缺失功能"
       ],
       "Other reason (please comment)": [
-        "其他原因 (请评论)"
+        "其他原因（请评论）"
       ],
       "Subscription is too expensive": [
         "费用过高"
@@ -4371,7 +4374,7 @@
         "您的附件超出了账户等级限制，需要予以删减或升级账户才能发送。"
       ],
       "Sending attachments is restricted while you exceed your plan limits or until you upgrade your plan.": [
-        "在超出计划限制或升级计划之前，发送附件受到限制。"
+        "在超出套餐限制或升级套餐之前，发送附件受到限制。"
       ],
       "Signature not verified": [
         "签名未验证"
@@ -4856,7 +4859,7 @@
         "${ BRAND_NAME } 团体账户"
       ],
       "Accounts with custom domains cannot join a family plan.": [
-        "带有自定义域的账户无法加入家庭计划。"
+        "带有自定义域的账户无法加入家庭套餐。"
       ],
       "customer support": [
         "客户支持"
@@ -4871,13 +4874,13 @@
         "邀请人：${ inviteEmail }"
       ],
       "Lifetime accounts cannot join a family plan.": [
-        "终身账户无法加入家庭计划。"
+        "终身账户无法加入家庭套餐。"
       ],
       "Manage addresses": [
         "地址管理"
       ],
       "Owners of a plan with members cannot join another family plan.": [
-        "有成员的计划所有者无法加入另一个家庭计划。"
+        "有成员的套餐所有者无法加入另一个家庭套餐。"
       ],
       "Sorry, you can't switch plans at this time.": [
         "抱歉，您目前无法变更账户等级。"
@@ -6032,7 +6035,7 @@
         "American Express SafeKey 图标"
       ],
       "Amount above maximum (${ amount }).": [
-        "金额高于最高金额 (${ amount })."
+        "金额高于最高金额 (${ amount })。"
       ],
       "Amount below minimum (${ amount }).": [
         "金额 (${ amount }) 过小。"
@@ -6575,7 +6578,7 @@
         "初始化中..."
       ],
       "Insert image": [
-        "插入图像"
+        "插入图片"
       ],
       "Insert link": [
         "插入链接"
@@ -6593,7 +6596,7 @@
         "邀请家庭成员并开始运行一切。"
       ],
       "Invite your partner, a friend, or whoever you're sharing your ${ protonDuoPlanName } plan with.": [
-        "邀请你的伴侣、朋友或任何与你分享 ${ protonDuoPlanName } 计划的人。"
+        "邀请您的伴侣、朋友或任何与您分享 ${ protonDuoPlanName } 套餐的人。"
       ],
       "JCB logo": [
         "JCB 徽标"
@@ -7352,7 +7355,7 @@
         "恢复数据需要重新激活数据创建时使用的通讯录密钥，这意味着您必须持有生成该密钥时的账户密码。"
       ],
       "To remove restrictions, you can upgrade to a paid plan.": [
-        "要移除这些限制，您可以升级到付费方案。"
+        "要移除这些限制，您可以升级到付费套餐。"
       ],
       "To unsubscribe from this mailing list, an email will be sent from ${ boldFrom } with following details as defined by the sender of the newsletter:": [
         "退订此邮件列表需要从 ${ boldFrom } 向列表发送者发送其指定的下列信息："
@@ -7388,7 +7391,7 @@
         "抢先体验尚未开放的 ${ BRAND_NAME } 新功能、新特性和新产品。此操作将导致页面重新载入。"
       ],
       "Turn off to search only by date, name, email address, or subject line. To disable search message content (and delete messages downloaded to enable this feature), go to Settings.": [
-        "关闭仅按日期、姓名、邮箱地址或主题行搜索。要禁用搜索信息内容 (并删除为启用此功能而下载的信息)，请转到设置。"
+        "关闭仅按日期、名称、邮箱地址或主题行搜索。要禁用搜索信息内容（并删除为启用此功能而下载的信息），请转到设置。"
       ],
       "Turn on to search the content of your messages": [
         "开启以搜索您的邮件全文"
@@ -7517,7 +7520,7 @@
         "我们未能处理您的支付。"
       ],
       "We have plans designed specifically for users like you who need more than one email address.": [
-        "我们有专门为您这样需要多个邮箱地址的用户所设计的计划。"
+        "我们有专门为您这样需要多个邮箱地址的用户所设计的套餐。"
       ],
       "We need to authenticate your payment method with your bank.": [
         "我们需要向您的发卡银行核实支付方式是否有效。"
@@ -7562,7 +7565,7 @@
         "当您为 ${ senderName } 启用可信密钥时，公钥被添加到联系人详细信息中。"
       ],
       "When you set up two-factor authentication, we provide recovery codes which you can use to sign in if you lose access to your authenticator app.": [
-        "当您设置双重验证后，我们会为您提供恢复码。当您无法使用授权应用时，可以使用恢复码登录。"
+        "当您设置双因素身份验证后，我们会为您提供恢复码。当您无法使用授权应用时，可以使用恢复码登录。"
       ],
       "When you sign up for a newsletter, use an alias instead of your email address. Your identity stays hidden, and you can disable the alias at any time.": [
         "订阅新闻通讯时，使用别名而不是您的真实邮箱地址。这样可以保护你的身份，而且你可以随时禁用该别名。"
@@ -7787,7 +7790,7 @@
         "您的下一个结算日期是${ renewalTime }。"
       ],
       "Your next billing date is ${ renewalTime }. Please contact support if you require an immediate plan change.": [
-        "您的下一个账单日期是 ${ renewalTime }。如果您需要立即更改计划，请联系支持部门。"
+        "您的下一个账单日期是 ${ renewalTime }。如果您需要立即更改套餐，请联系支持部门。"
       ],
       "Your password was leaked:": [
         "您的密码已泄露："
@@ -7802,7 +7805,19 @@
         "您的预定计划从 ${ renewalTime } 开始，每 ${ cycle } 个月自动续订一次。"
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
-        "您的预定计划从 ${ renewalTime } 开始，每月自动续订。"
+        "您的预定套餐从 ${ renewalTime } 开始，每月自动续订。"
+      ],
+      "Subscription auto-renews every ${ cycle } month.": [
+        "订阅服务每 ${ cycle } 个月自动续费。"
+      ],
+      "You'll then be billed every ${ renewCycle } month at ${ renewAmountStr }.": [
+        "之后我们将每隔 ${ renewCycle }个月向您收取${ renewAmountStr }的订阅费用。"
+      ],
+      "Your scheduled plan starts on ${ renewalTime } and will auto-renew every ${ cycle } month.": [
+        "您订阅的套餐将于 ${ renewalTime } 开始生效，并且每隔 ${ cycle } 个月自动续订。"
+      ],
+      "Your subscription will automatically renew on ${ renewalTime }.": [
+        "您的订阅将于${ renewalTime }自动续订。"
       ]
     },
     "info": {
@@ -8433,7 +8448,7 @@
         "移至收件箱"
       ],
       "Name": [
-        "姓名"
+        "名称"
       ],
       "Navigation": [
         "导航栏"
@@ -8637,7 +8652,7 @@
         "您的别名"
       ],
       "Your password (admin)": [
-        "您的密码(管理员)"
+        "您的密码（管理员）"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9272,7 +9287,7 @@
         "降级至 ${ downgradedPlanName }"
       ],
       "Get ${ planTitle }": [
-        "开通${ planTitle }"
+        "开通 ${ planTitle }"
       ],
       "Get started for ${ priceCoupon }": [
         "以 ${ priceCoupon } 价格开始"
@@ -9432,7 +9447,7 @@
         "高级账户保护"
       ],
       "Advanced alias features (powered by SimpleLogin)": [
-        "高级别名功能 ( 由 SimpleLogin 提供 )"
+        "高级别名功能（由 SimpleLogin 提供）"
       ],
       "All ${ BRAND_NAME } products and features": [
         "所有 ${ BRAND_NAME } 产品和功能"
@@ -9624,7 +9639,7 @@
         "定期检查账户安全。如果您有需要更新的弱密码或重复使用的密码，我们会提醒您的。"
       ],
       "Require 2FA for organization": [
-        "可要求机构全员开启双重验证"
+        "可要求机构全员开启 2FA"
       ],
       "Router support": [
         "支持路由器部署"
@@ -9684,7 +9699,7 @@
         "经 Tor 连接 VPN"
       ],
       "Two-factor authentication": [
-        "双重验证"
+        "双因素身份验证"
       ],
       "Unlimited devices": [
         "无设备数量限制"
@@ -9732,7 +9747,7 @@
         "最多 ${ n } 位用户"
       ],
       "Up to ${ n } user (${ adminsText }, ${ usersText })": [
-        "最多 ${ n } 位用户 (${ adminsText }，${ usersText } )"
+        "最多 ${ n } 位用户（${ adminsText }，${ usersText }）"
       ],
       "Up to ${ totalStorageSize } storage": [
         "最高 ${ totalStorageSize } 存储空间"
@@ -10034,7 +10049,7 @@
         "保护您的家人免受有害网站的侵扰，并访问我们的高速 VPN 服务器以串流您喜爱的内容"
       ],
       "Protect your real email address from being disclosed or leaked with aliases (a randomly-generated email address that forwards emails to your main inbox).": [
-        "使用别名 ( 随机生成的电子邮件地址，可将电子邮件转发到您的主收件箱 ) 保护您的真实电子邮件地址不被泄露。"
+        "使用别名（随机生成的邮箱地址，可将电子邮件转发到您的主收件箱）保护您的真实邮箱地址不被泄露。"
       ],
       "Provides the highest level of account security protection and specialist support": [
         "提供最高级别的账户安全保护和专家支持"
@@ -10049,7 +10064,7 @@
         "需要手机验证码方可登录，即使密码泄露也能确保账户安全。"
       ],
       "Reset user passwords and reset two-factor authentication on users": [
-        "重置用户的密码与双重验证"
+        "重置用户的密码与双因素身份验证"
       ],
       "Route your internet traffic through the Tor network with a single click": [
         "只需点击一下，即可通过 Tor 网络传输互联网流量"
@@ -10058,7 +10073,7 @@
         "使用加密的云存储保护您的文件。 包括自动同步、加密文件共享等。"
       ],
       "Securely share individual items with anyone (even if they don't use ${ PASS_APP_NAME })": [
-        "与任何人安全共享单个项目 ( 即使他们不使用 ${ PASS_APP_NAME } )"
+        "与任何人安全共享单个项目（即使他们不使用 ${ PASS_APP_NAME }）"
       ],
       "Securely store your contacts’ details, such as phone number, address, birthday, and personal notes. Zero-access encryption ensures even ${ BRAND_NAME } can't access them.": [
         "在通讯录中安全地存储联系人的电话号码、住址、生日、备注等详细信息，全封闭加密技术保证了 ${ BRAND_NAME } 自身也无法解密其内容。"
@@ -10165,7 +10180,7 @@
         "专用网关"
       ],
       "Require 2FA": [
-        "要求使用 2FA"
+        "要求启用 2FA"
       ],
       "Support for ${ n } custom email domains": [
         "支持 ${ n } 个自定义域"
@@ -10599,7 +10614,7 @@
         "一次轻松地订阅，即可获得全部高级功能，支持 6 位用户。"
       ],
       "Billed yearly at ${ yearlyPrice }. Save ${ yearlySavedPrice } with ${ passFamilyPlanName } (vs 6 individual ${ passPlusPlanName } subscriptions).": [
-        "每年按 ${ yearlyPrice } 计费。使用 ${ passFamilyPlanName } 可节省 ${ yearlySavedPrice } ( 相对于 6 次单独 ${ passPlusPlanName } 订阅 )"
+        "每年按 ${ yearlyPrice } 计费。使用 ${ passFamilyPlanName } 可节省 ${ yearlySavedPrice }（相对于 6 次单独 ${ passPlusPlanName } 订阅）"
       ],
       "Exclusive offer available only to ${ PASS_APP_NAME } early supporters.": [
         "仅向 ${ PASS_APP_NAME } 早期支持者提供独家优惠。"
@@ -10644,7 +10659,7 @@
         "使用公司名称"
       ],
       "Use personal name": [
-        "使用个人姓名"
+        "使用个人名称"
       ]
     },
     "Payments": {
@@ -10710,6 +10725,36 @@
       ],
       "We are processing your payment for the billed invoice. Please wait until the payment is completed before making changes to your plan or updating your payment details. Thank you for your patience.": [
         "我们正在处理您的付款信息。请等待付款完成后再更改您的计划或更新您的付款详细信息。感谢您的耐心等待。"
+      ],
+      "During this time, you will not be able to modify or cancel your subscription. Please wait until your payment is completed before attempting any changes. Thank you for your patience.": [
+        "在此期间，您将无法修改或取消订阅。请待付款完成后再尝试进行任何操作。感谢您的耐心等待。"
+      ],
+      "Renewal pricing subject to change according to ${ termsAndConditionsLink }.": [
+        "续费价格会根据${ termsAndConditionsLink }进行调整。"
+      ],
+      "Renews at ${ renewPriceStr }, cancel anytime.": [
+        "续费价格是${ renewPriceStr }，可随时取消。"
+      ],
+      "terms & conditions": [
+        "服务条款"
+      ],
+      "The coupon is valid for ${ couponRedemptions } renewal.": [
+        "该优惠券适用于${ couponRedemptions }次续费升级。"
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first ${ subscriptionLength } month.": [
+        "Proton 用户的专属优惠：${ priceWithDiscount }特惠价格仅限订阅前${ subscriptionLength }个月有效。"
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. The coupon is valid for ${ couponRedemptions } renewal. Then it will automatically be renewed at ${ renewPriceStr } for 1 month. You can cancel at any time.": [
+        "专享折扣价${ priceWithDiscount }仅限首月有效。本优惠券适用于${ couponRedemptions }次续费周期。之后将自动以1个月${ renewPriceStr }的价格续费，您可随时取消。"
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. Then it will automatically be renewed at ${ renewPriceStr } every month. You can cancel at any time.": [
+        "首月特别优惠价为${ priceWithDiscount }，之后将自动按每月${ renewPriceStr }续订。您可以随时取消。"
+      ],
+      "Then it will automatically be renewed at ${ renewPriceStr } for ${ renewalLength } month. You can cancel at any time.": [
+        "您的订阅将在到期后自动以${ renewPriceStr }的价格续订\n${ renewalLength }个月。您可随时取消订阅。"
+      ],
+      "Your payment is still being processed": [
+        "您的付款正在处理中"
       ]
     },
     "Payments.Error": {
@@ -10849,7 +10894,7 @@
         "请分享您的预期内容"
       ],
       "Search date, name, email address, or subject line": [
-        "搜索日期、姓名、邮箱地址或邮件主题"
+        "搜索日期、名称、邮箱地址或邮件主题"
       ],
       "Search for group name": [
         "搜索群组名称"
@@ -12010,7 +12055,7 @@
         "每位用户 ${ planNumberOfEmails } 个邮箱地址"
       ],
       "${ planNumberOfUsers } user": [
-        "${ planNumberOfUsers }位用户"
+        "${ planNumberOfUsers } 位用户"
       ],
       "${ PROTON_SENTINEL_NAME } advanced account protection": [
         "${ PROTON_SENTINEL_NAME } 高级账户保护"
@@ -12196,7 +12241,7 @@
         "您的 ${ planName } 计划不仅能确保您的业务数据和通信安全。它支持您的合规目标，让您的企业脱颖而出，并让您的团队保持联系。"
       ],
       "Your own short @pm.me email alias": [
-        "您自己的短 @pm.me 电子邮件别名"
+        "您自己的短 @pm.me 邮箱别名"
       ]
     },
     "subscription reminder": {
@@ -13008,7 +13053,7 @@
         "邮件设置"
       ],
       "Enable 2FA": [
-        "开启双重验证"
+        "启用 2FA"
       ],
       "Enable message content search": [
         "启用邮件全文搜索"
@@ -13251,7 +13296,7 @@
         "展开操作菜单"
       ],
       "Other features included in your plan": [
-        "您的计划中包含的其他功能"
+        "您的套餐中包含的其他功能"
       ],
       "Other information": [
         "其他信息"
@@ -13617,7 +13662,7 @@
     },
     "tooltip": {
       "${ PASS_APP_NAME }: Secure logins on all your devices. Includes unlimited aliases, sharing, integrated 2FA, and more.": [
-        "${ PASS_APP_NAME }: 安全登录您的所有设备。包括无限邮箱别名、共享、集成2FA等等。"
+        "${ PASS_APP_NAME }: 安全登录您的所有设备。包括无限邮箱别名、共享、集成 2FA 等等。"
       ]
     },
     "Tor out of date": {
@@ -13676,6 +13721,9 @@
       ],
       "Auto-selects from ${ numberOfCountries } country": [
         "从 ${ numberOfCountries } 个地域中自动选择"
+      ],
+      "Servers in ${ numberOfCountries }+ country": [
+        "${ numberOfCountries } 个国家/地区的服务器"
       ]
     },
     "vpn_2024: renew": {
@@ -13690,6 +13738,9 @@
       ],
       "Your subscription will automatically renew in ${ cycle } month.": [
         "您的订阅将在 ${ cycle } 个月后自动续期。"
+      ],
+      "You'll then be billed every 12 months at ${ renewPriceStr }.": [
+        "此后，系统将按每12个月${ renewPriceStr }的价格自动续费扣款。"
       ]
     },
     "vpn_2step: feature": {

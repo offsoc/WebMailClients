@@ -1545,6 +1545,9 @@
       "${ users } user": [
         "${ users } Benutzer",
         "${ users } Benutzer"
+      ],
+      "${ price } per seat": [
+        "${ price } pro Benutzer"
       ]
     },
     "Alert": {
@@ -4344,7 +4347,7 @@
         "Bitte wähle ein Land"
       ],
       "Please select a state": [
-        "Bitte wähle ein Bundesland."
+        "Bitte wähle ein Bundesland"
       ],
       "Please try again or refresh the page.": [
         "Bitte versuche es erneut oder aktualisiere die Seite."
@@ -5973,7 +5976,7 @@
         "Beim lebenslangen ${ PASS_SHORT_APP_NAME }-Angebot gibt es keinen Verlängerungspreis. Es ist eine einmalige Zahlung für lebenslangen Zugang zu ${ PASS_SHORT_APP_NAME }"
       ],
       "${ PASS_SHORT_APP_NAME } lifetime deal has no renewal price, it's a one-time payment for lifetime access to ${ PASS_SHORT_APP_NAME }. Your ${ planTitle } subscription renewal price and date remain unchanged.": [
-        "${ PASS_SHORT_APP_NAME } lebenslanges Angebot hat keinen Verlängerungspreis, es ist eine einmalige Zahlung für lebenslangen Zugang zu ${ PASS_SHORT_APP_NAME }. Der Preis und das Datum für die Verlängerung Ihres Abonnements ${ planTitle } bleiben unverändert."
+        "${ PASS_SHORT_APP_NAME } Lifetime Deal hat keinen Verlängerungspreis, es ist eine einmalige Zahlung für lebenslangen Zugang zu ${ PASS_SHORT_APP_NAME }. Der Preis und das Datum für die Verlängerung deines Abonnements ${ planTitle } bleiben unverändert."
       ],
       "${ plan.Title } requires at least 1 dedicated server ${ serverPricePerMonth }": [
         "${ plan.Title } erfordert mindestens einen dedizierten Server ${ serverPricePerMonth }"
@@ -6685,8 +6688,7 @@
         "Wird initialisiert…"
       ],
       "Insert image": [
-        "Bild einfügen",
-        "Bilder einfügen"
+        "Bild einfügen"
       ],
       "Insert link": [
         "Link einfügen"
@@ -6984,7 +6986,7 @@
       ],
       "Please note that upon clicking the Confirm button, your account will have ${ creditsRemaining } credit remaining.": [
         "Bitte beachten Sie, dass nach dem Klicken auf die Schaltfläche „Bestätigen” auf Ihrem Konto noch ${ creditsRemaining } Guthaben verbleiben.",
-        "Bitte beachte, dass nach dem Klicken auf die Schaltfläche „Bestätigen“ auf deinem Konto noch ${ creditsRemaining } Guthaben verbleibt."
+        "Bitte beachte, dass nach dem Klicken auf die Schaltfläche „Bestätigen“ noch ${ creditsRemaining } Guthaben auf deinem Konto verbleiben."
       ],
       "Please open the document to view it.": [
         "Bitte öffne das Dokument, um es anzusehen."
@@ -7078,7 +7080,7 @@
         "Durch das Aktualisieren der Seite oder ${ link } werden die meisten Probleme automatisch gelöst."
       ],
       "Registering your subscription…": [
-        "Dein Abonnement wird registriert…"
+        "Registrierung deines Abonnements…"
       ],
       "Remember to update this in your password manager or wherever you keep your account and login information.": [
         "Denk daran, dies in deinem Passwort-Manager oder wo auch immer du deine Konto- und Anmeldeinformationen aufbewahrst, zu aktualisieren."
@@ -7196,7 +7198,7 @@
         "Die Einrichtung von PGP ermöglicht es dir, Nachrichten mit Ende-zu-Ende-Verschlüsselung an einen Nicht-${ BRAND_NAME }-Benutzer zu senden, wenn dieser einen PGP-kompatiblen Dienst verwendet."
       ],
       "Setting up your new address…": [
-        "Deine neue E-Mail-Adresse wird eingerichtet…"
+        "Einrichtung deiner neuen E-Mail-Adresse…"
       ],
       "Shorten selection": [
         "Auswahl kürzen"
@@ -7232,7 +7234,7 @@
         "Gib es an deine Kontakte weiter und nutze es für Online-Dienste."
       ],
       "Start using the shorter, catchier version of your email address.": [
-        "Verwende die kürzere, eingängigere Version deiner E-Mail Adresse."
+        "Verwende die kürzere, eingängigere Version deiner E-Mail-Adresse."
       ],
       "Storage capabilities are not supported in this browser, we need this support to enable message content search.": [
         "Speichermöglichkeiten werden von deinem Browser nicht unterstützt. Wir brauchen diese Unterstützung um die Suche nach Nachrichteninhalten zu aktivieren."
@@ -7867,7 +7869,7 @@
         "Dein ${ BRAND_NAME }-Konto ist derzeit gesperrt. E-Mails werden nicht mehr an deinen Posteingang zugestellt. Deine Drive-Freigabelinks sind nicht mehr aktiv und du kannst keine neuen Dateien hochladen. Um dein Konto weiterhin zu nutzen, bezahle bitte alle überfälligen Rechnungen."
       ],
       "Your ${ PASS_SHORT_APP_NAME } Plus subscription will be replaced with ${ PASS_SHORT_APP_NAME } Lifetime. The remaining balance of your subscription will be added to your account. ${ PASS_SHORT_APP_NAME } lifetime deal has no renewal price, it's a one-time payment for lifetime access to ${ PASS_SHORT_APP_NAME }.": [
-        "Dein ${ PASS_SHORT_APP_NAME } Plus Abonnement wird durch ${ PASS_SHORT_APP_NAME } Lifetime ersetzt. Das übrige Guthaben deines Abonnements wird deinem Konto gutgeschrieben. Der ${ PASS_SHORT_APP_NAME } Lifetime Deal hat keine Verlängerungskosten, es handelt sich um eine einmal Zahlung für Lebenslangen Zugang zu ${ PASS_SHORT_APP_NAME }."
+        "Dein ${ PASS_SHORT_APP_NAME } Plus Abonnement wird durch ${ PASS_SHORT_APP_NAME } Lifetime ersetzt. Das übrige Guthaben deines Abonnements wird deinem Konto gutgeschrieben. Der ${ PASS_SHORT_APP_NAME } Lifetime Deal hat keine Verlängerungskosten, es handelt sich um eine einmal Zahlung für lebenslangen Zugang zu ${ PASS_SHORT_APP_NAME }."
       ],
       "Your account has at least one overdue invoice. Your access will soon get restricted. ${ payInvoiceLink }": [
         "Dein Konto weist mindestens eine überfällige Rechnung auf. Dein Zugang wird in Kürze eingeschränkt. ${ payInvoiceLink }"
@@ -7935,6 +7937,21 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Dein geplantes Abonnement beginnt am ${ renewalTime } und wird jeden Monat automatisch erneuert."
+      ],
+      "Subscription auto-renews every ${ cycle } month.": [
+        "Abonnement wird automatisch nach ${ cycle } Monat verlängert.",
+        "Abonnement wird automatisch alle ${ cycle } Monate verlängert."
+      ],
+      "You'll then be billed every ${ renewCycle } month at ${ renewAmountStr }.": [
+        "Du wirst dann nach ${ renewCycle } Monat zu ${ renewAmountStr } abgerechnet.",
+        "Sie werden dann alle ${ renewCycle } Monate zu ${ renewAmountStr } abgerechnet."
+      ],
+      "Your scheduled plan starts on ${ renewalTime } and will auto-renew every ${ cycle } month.": [
+        "Dein geplantes Abonnement beginnt am ${ renewalTime } und wird nach ${ cycle } Monat automatisch erneuert.",
+        "Dein geplantes Abonnement beginnt am ${ renewalTime } und wird alle ${ cycle } Monate automatisch erneuert."
+      ],
+      "Your subscription will automatically renew on ${ renewalTime }.": [
+        "Dein Abonnement wird am ${ renewalTime } automatisch verlängert."
       ]
     },
     "info": {
@@ -10883,6 +10900,40 @@
       ],
       "We are processing your payment for the billed invoice. Please wait until the payment is completed before making changes to your plan or updating your payment details. Thank you for your patience.": [
         "Wir bearbeiten gerade deine Zahlung für die Rechnung. Bitte warte, bis die Zahlung abgeschlossen ist, bevor du Änderungen an deinem Abonnement vornimmst oder deine Zahlungsdaten aktualisierst. Vielen Dank für deine Geduld."
+      ],
+      "During this time, you will not be able to modify or cancel your subscription. Please wait until your payment is completed before attempting any changes. Thank you for your patience.": [
+        "Während dieser Zeit kannst du dein Abonnement nicht ändern oder kündigen. Bitte warte, bis deine Zahlung abgeschlossen ist, bevor du versuchst, Änderungen vorzunehmen. Wir danken dir für deine Geduld."
+      ],
+      "Renewal pricing subject to change according to ${ termsAndConditionsLink }.": [
+        "Die Preise für Verlängerungen können sich gemäß ${ termsAndConditionsLink } ändern."
+      ],
+      "Renews at ${ renewPriceStr }, cancel anytime.": [
+        "Verlängert sich zu ${ renewPriceStr }, jederzeit kündbar."
+      ],
+      "terms & conditions": [
+        "Bedingungen & Konditionen"
+      ],
+      "The coupon is valid for ${ couponRedemptions } renewal.": [
+        "Der Gutschein ist für ${ couponRedemptions } Verlängerung gültig.",
+        "Der Gutschein ist für ${ couponRedemptions } Verlängerungen gültig."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first ${ subscriptionLength } month.": [
+        "Der speziell ermäßigte Preis von ${ priceWithDiscount } ist für ${ subscriptionLength } Monat gültig.",
+        "Der speziell ermäßigte Preis von ${ priceWithDiscount } ist für ${ subscriptionLength } Monate gültig."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. The coupon is valid for ${ couponRedemptions } renewal. Then it will automatically be renewed at ${ renewPriceStr } for 1 month. You can cancel at any time.": [
+        "Der speziell ermäßigte Preis von ${ priceWithDiscount } gilt für den ersten Monat. Der Gutschein kann für ${ couponRedemptions } Verlängerung eingelöst werden. Danach wird das Abonnement automatisch zum Preis von ${ renewPriceStr } für 1 Monat verlängert. Du kannst jederzeit kündigen.",
+        "Der speziell ermäßigte Preis von ${ priceWithDiscount } gilt für den ersten Monat. Der Gutschein kann für ${ couponRedemptions } Verlängerungen eingelöst werden. Danach wird das Abonnement automatisch zum Preis von ${ renewPriceStr } für 1 Monat verlängert. Du kannst jederzeit kündigen."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. Then it will automatically be renewed at ${ renewPriceStr } every month. You can cancel at any time.": [
+        "Der speziell ermäßigte Preis von ${ priceWithDiscount } ist für den ersten Monat gültig. Danach wird das Abonnement automatisch jeden Monat zum Preis von ${ renewPriceStr } verlängert. Du kannst jederzeit kündigen."
+      ],
+      "Then it will automatically be renewed at ${ renewPriceStr } for ${ renewalLength } month. You can cancel at any time.": [
+        "Dann wird es automatisch zu ${ renewPriceStr } für ${ renewalLength } Monat verlängert. Du kannst jederzeit kündigen.",
+        "Dann wird es automatisch zu ${ renewPriceStr } für ${ renewalLength } Monate verlängert. Du kannst jederzeit kündigen."
+      ],
+      "Your payment is still being processed": [
+        "Deine Zahlung ist noch in Bearbeitung."
       ]
     },
     "Payments.Error": {
@@ -13961,6 +14012,9 @@
       "Your subscription will automatically renew in ${ cycle } month.": [
         "Dein Abonnement wird in ${ cycle } Monat automatisch verlängert.",
         "Dein Abonnement wird in ${ cycle } Monaten automatisch verlängert."
+      ],
+      "You'll then be billed every 12 months at ${ renewPriceStr }.": [
+        "Du erhältst dann alle 12 Monate eine Rechnung über ${ renewPriceStr }."
       ]
     },
     "vpn_2step: feature": {

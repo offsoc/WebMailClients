@@ -1545,6 +1545,9 @@
       "${ users } user": [
         "${ users } utente",
         "${ users } utenti"
+      ],
+      "${ price } per seat": [
+        "${ price } per posto"
       ]
     },
     "Alert": {
@@ -5852,8 +5855,8 @@
         "${ contactCount } contatti contengono più indirizzi email."
       ],
       "${ contactEmailsLength } Member": [
-        "${ contactEmailsLength } Membro",
-        "${ contactEmailsLength } Membri"
+        "${ contactEmailsLength } membro",
+        "${ contactEmailsLength } membri"
       ],
       "${ contactGroupName } (${ numberOfSelectedContacts }/${ numberOfContactsInGroup } member)": [
         "${ contactGroupName } (membro ${ numberOfSelectedContacts }/${ numberOfContactsInGroup })",
@@ -6685,8 +6688,7 @@
         "Inizializzazione…"
       ],
       "Insert image": [
-        "Inserisci immagine",
-        "Inserisci immagini"
+        "Inserisci immagine"
       ],
       "Insert link": [
         "Inserisci link"
@@ -7935,6 +7937,21 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Il tuo piano programmato inizia il ${ renewalTime } e si rinnoverà automaticamente ogni mese."
+      ],
+      "Subscription auto-renews every ${ cycle } month.": [
+        "L'abbonamento si rinnova automaticamente ogni ${ cycle } mese.",
+        "L'abbonamento si rinnova automaticamente ogni ${ cycle } mesi."
+      ],
+      "You'll then be billed every ${ renewCycle } month at ${ renewAmountStr }.": [
+        "Ti verrà addebitato ${ renewAmountStr } ogni ${ renewCycle } mese.",
+        "Ti verrà addebitato ${ renewAmountStr } ogni ${ renewCycle } mesi."
+      ],
+      "Your scheduled plan starts on ${ renewalTime } and will auto-renew every ${ cycle } month.": [
+        "Il tuo piano programmato inizia il ${ renewalTime } e si rinnoverà automaticamente ogni ${ cycle } mese.",
+        "Il tuo piano programmato inizia il ${ renewalTime } e si rinnoverà automaticamente ogni ${ cycle } mese."
+      ],
+      "Your subscription will automatically renew on ${ renewalTime }.": [
+        "Il tuo abbonamento si rinnoverà automaticamente il ${ renewalTime }."
       ]
     },
     "info": {
@@ -10891,6 +10908,40 @@
       ],
       "We are processing your payment for the billed invoice. Please wait until the payment is completed before making changes to your plan or updating your payment details. Thank you for your patience.": [
         "Stiamo elaborando il pagamento della fattura. Attendi il completamento del pagamento prima di apportare modifiche al tuo piano o aggiornare i dettagli di pagamento. Grazie per la pazienza."
+      ],
+      "During this time, you will not be able to modify or cancel your subscription. Please wait until your payment is completed before attempting any changes. Thank you for your patience.": [
+        "Durante questo periodo non sarà possibile modificare o annullare l'abbonamento. Si prega di attendere il completamento del pagamento prima di tentare qualsiasi modifica. Grazie per la pazienza."
+      ],
+      "Renewal pricing subject to change according to ${ termsAndConditionsLink }.": [
+        "I prezzi di rinnovo sono soggetti a modifiche in base a ${ termsAndConditionsLink }."
+      ],
+      "Renews at ${ renewPriceStr }, cancel anytime.": [
+        "Rinnova a ${ renewPriceStr }, annulla in qualsiasi momento."
+      ],
+      "terms & conditions": [
+        "termini e condizioni"
+      ],
+      "The coupon is valid for ${ couponRedemptions } renewal.": [
+        "Il coupon è valido per ${ couponRedemptions } rinnovo.",
+        "Il coupon è valido per ${ couponRedemptions } rinnovi."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first ${ subscriptionLength } month.": [
+        "Il prezzo scontato di ${ priceWithDiscount } è valido per il primo ${ subscriptionLength } mese.",
+        "Il prezzo scontato di ${ priceWithDiscount } è valido per i primi ${ subscriptionLength } mesi."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. The coupon is valid for ${ couponRedemptions } renewal. Then it will automatically be renewed at ${ renewPriceStr } for 1 month. You can cancel at any time.": [
+        "Il prezzo scontato di ${ priceWithDiscount } è valido per il primo mese. Il coupon è valido per ${ couponRedemptions } rinnovo. Successivamente verrà rinnovato automaticamente a ${ renewPriceStr } per 1 mese. Puoi annullare in qualsiasi momento.",
+        "Il prezzo scontato di ${ priceWithDiscount } è valido per il primo mese. Il coupon è valido per ${ couponRedemptions } rinnovi. Successivamente verrà rinnovato automaticamente a ${ renewPriceStr } per 1 mese. Puoi annullare in qualsiasi momento."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. Then it will automatically be renewed at ${ renewPriceStr } every month. You can cancel at any time.": [
+        "La tariffa scontata, con prezzo speciale di ${ priceWithDiscount } è valida per il primo mese. Il piano si rinnoverà poi automaticamente al prezzo di ${ renewPriceStr } per mese. Puoi disdire quando vuoi."
+      ],
+      "Then it will automatically be renewed at ${ renewPriceStr } for ${ renewalLength } month. You can cancel at any time.": [
+        "Poi verrà rinnovato automaticamente a ${ renewPriceStr } per ${ renewalLength } mese. Puoi annullare in qualsiasi momento.",
+        "Poi verrà rinnovato automaticamente a ${ renewPriceStr } per ${ renewalLength } mesi. Puoi annullare in qualsiasi momento."
+      ],
+      "Your payment is still being processed": [
+        "Il tuo pagamento è ancora in fase di elaborazione."
       ]
     },
     "Payments.Error": {
@@ -12118,7 +12169,7 @@
         "${ n } connessioni VPN per utente"
       ],
       "VPN connection for ${ n } devices per user": [
-        "Connessione VPN per ${ n } dispositivi per ogni utente",
+        "Connessione VPN per ${ n } dispositivo per ogni utente",
         "Connessione VPN per ${ n } dispositivi per ogni utente"
       ]
     },
@@ -13969,6 +14020,9 @@
       "Your subscription will automatically renew in ${ cycle } month.": [
         "Il tuo abbonamento si rinnoverà automaticamente tra ${ cycle } mese.",
         "Il tuo abbonamento si rinnoverà automaticamente tra ${ cycle } mesi."
+      ],
+      "You'll then be billed every 12 months at ${ renewPriceStr }.": [
+        "Ti verrà addebitato un importo pari a ${ renewPriceStr } ogni 12 mesi."
       ]
     },
     "vpn_2step: feature": {
