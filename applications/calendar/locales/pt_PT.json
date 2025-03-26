@@ -883,6 +883,9 @@
       "${ users } user": [
         "${ users } utilizador",
         "${ users } utilizadores"
+      ],
+      "${ price } per seat": [
+        "${ price } por licença"
       ]
     },
     "Alarm notification": {
@@ -1090,6 +1093,9 @@
       ],
       "VPN Accelerator": [
         "VPN Accelerator"
+      ],
+      "Unlimited logins, credit cards, hide-my-email aliases and more": [
+        "Inícios de sessão, cartões de crédito, alias do ide-my-email ilimitados e mais"
       ]
     },
     "BF2024: Offers": {
@@ -1111,8 +1117,8 @@
         "Inícios de sessão seguros em todos os seus dispositivos. Inclui aliases do hide-my-email ilimitados, partilha, A2F integrada, o ${ DARK_WEB_MONITORING_NAME } e muito mais."
       ],
       "Secure your emails and schedule with end-to-end encryption. Includes ${ addresses } email address, support for custom email domains, ${ BRAND_NAME } Scribe writing assistant, unlimited hide-my-email aliases and more.": [
-        "Proteja seus e-mails e agende com encriptação ponta a ponta. Inclui ${ addresses } endereço de e-mail, suporte para domínios de e-mail personalizados, assistente de escrita ${ BRAND_NAME } Scribe, aliases ilimitados do hide-my-email e muito mais.",
-        "Proteja seus e-mails e agende com encriptação ponta a ponta. Inclui ${ addresses } endereços de e-mail, suporte para domínios de e-mail personalizados, assistente de escrita ${ BRAND_NAME } Scribe, aliases ilimitados do hide-my-email e muito mais."
+        "Proteja os seus e-mails e agende com encriptação ponta a ponta. Inclui ${ addresses } endereço de e-mail, suporte para domínios de e-mail personalizados, assistente de escrita ${ BRAND_NAME } Scribe, aliases ilimitados do hide-my-email e muito mais.",
+        "Proteja os seus e-mails e agende com encriptação ponta a ponta. Inclui ${ addresses } endereços de e-mail, suporte para domínios de e-mail personalizados, assistente de escrita ${ BRAND_NAME } Scribe, aliases ilimitados do hide-my-email e muito mais."
       ],
       "Secure your emails and schedule with end-to-end encryption. Includes ${ addresses } email address, support for custom email domains, unlimited hide-my-email aliases and more.": [
         "Proteja os seus e-mails e agendamentos com encriptação ponta a ponta. Inclui ${ addresses } endereço de e-mail, suporte a domínios de e-mail personalizados, aliases de hide-my-email ilimitados e mais.",
@@ -5522,6 +5528,21 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Parece que o fuso horário do seu sistema mudou para ${ timezone }. Deseja atualizar a sua preferência de fuso horário?"
+      ],
+      "Subscription auto-renews every ${ cycle } month.": [
+        "A subscrição é renovada automaticamente a cada ${ cycle } mês.",
+        "A subscrição é renovada automaticamente a cada ${ cycle } meses."
+      ],
+      "You'll then be billed every ${ renewCycle } month at ${ renewAmountStr }.": [
+        "Será então cobrado a cada ${ renewCycle } mês no valor de ${ renewAmountStr }.",
+        "Será então cobrado a cada ${ renewCycle } meses no valor de ${ renewAmountStr }."
+      ],
+      "Your scheduled plan starts on ${ renewalTime } and will auto-renew every ${ cycle } month.": [
+        "O seu plano agendado começa a ${ renewalTime } e será renovado automaticamente a cada ${ cycle } mês.",
+        "O seu plano agendado começa a ${ renewalTime } e será renovado automaticamente a cada ${ cycle } meses."
+      ],
+      "Your subscription will automatically renew on ${ renewalTime }.": [
+        "A sua subscrição será renovada automaticamente em ${ renewalTime }."
       ]
     },
     "info": {
@@ -7144,6 +7165,9 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Nós analisamos a dark web para verificar se os seus endereços ou aliases ${ BRAND_NAME } foram vazados e alertamo-lo imediatamente se encontrarmos algo."
+      ],
+      "Password manager to secure credentials": [
+        "Gestor de palavras-passe para proteger credenciais"
       ]
     },
     "new_plans: feature highlight": {
@@ -7262,6 +7286,9 @@
       ],
       "You’re enjoying a promotional price on your current plan. If you downgrade your account, you will lose your promotional price and it won’t be available if you try to subscribe again.": [
         "Está a beneficiar de um preço promocional no seu plano atual. Ao alterar a sua subscrição da sua conta, perderá o preço promocional e este não estará disponível se tentar subscrever novamente."
+      ],
+      "Pay once, secure your passwords and identity forever.": [
+        "Pague uma vez, proteja as suas palavras-passe e identidades para sempre."
       ]
     },
     "new_plans: Subtext": {
@@ -7972,6 +7999,12 @@
     "pass_signup_2023: Info": {
       "Secure vault sharing": [
         "Partilha segura de cofre"
+      ],
+      "Secure vault, item and link sharing": [
+        "Cofres, partilha de ligações e itens seguros"
+      ],
+      "Unlimited logins, notes, credit cards and more": [
+        "Número ilimitado de inícios de sessão, notas, cartões de crédito e muito mais"
       ]
     },
     "pass_signup_2024: Info": {
@@ -8108,6 +8141,40 @@
       ],
       "We are processing your payment for the billed invoice. Please wait until the payment is completed before making changes to your plan or updating your payment details. Thank you for your patience.": [
         "Estamos a processar o seu pagamento para a fatura emitida. Aguarde até que o pagamento seja concluído antes de fazer alterações ao seu plano ou atualizar os seus dados de pagamento. Agradecemos a sua paciência."
+      ],
+      "During this time, you will not be able to modify or cancel your subscription. Please wait until your payment is completed before attempting any changes. Thank you for your patience.": [
+        "Durante este período, não poderá modificar ou cancelar a sua subscrição. Aguarde até que o seu pagamento esteja concluído antes de tentar qualquer alteração. Obrigado pela sua paciência."
+      ],
+      "Renewal pricing subject to change according to ${ termsAndConditionsLink }.": [
+        "O preço da renovação está sujeito a alterações de acordo com ${ termsAndConditionsLink }."
+      ],
+      "Renews at ${ renewPriceStr }, cancel anytime.": [
+        "Renovação por ${ renewPriceStr } com possibilidade de cancelar a qualquer momento."
+      ],
+      "terms & conditions": [
+        "os termos e condições"
+      ],
+      "The coupon is valid for ${ couponRedemptions } renewal.": [
+        "O cupão é válido para ${ couponRedemptions } renovação.",
+        "O cupão é válido para ${ couponRedemptions } renovações."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first ${ subscriptionLength } month.": [
+        "O preço especialmente descontado de ${ priceWithDiscount } é válido para o primeiro ${ subscriptionLength } mês.",
+        "O preço especialmente descontado de ${ priceWithDiscount } é válido para os primeiros ${ subscriptionLength } meses."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. The coupon is valid for ${ couponRedemptions } renewal. Then it will automatically be renewed at ${ renewPriceStr } for 1 month. You can cancel at any time.": [
+        "O preço com desconto especial de ${ priceWithDiscount } é válido para o primeiro mês. O cupão é válido para ${ couponRedemptions } renovação. Após esse período, será renovado automaticamente por ${ renewPriceStr } por 1 mês. Pode cancelar a qualquer momento.",
+        "O preço com desconto especial de ${ priceWithDiscount } é válido para o primeiro mês. O cupão é válido para ${ couponRedemptions } renovações. Após esse período, será renovado automaticamente por ${ renewPriceStr } por 1 mês. Pode cancelar a qualquer momento."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. Then it will automatically be renewed at ${ renewPriceStr } every month. You can cancel at any time.": [
+        "O preço com desconto especial de ${ priceWithDiscount } é válido no primeiro mês. Após este período, será automaticamente renovado a cada mês por ${ renewPriceStr } . Pode cancelar a qualquer momento."
+      ],
+      "Then it will automatically be renewed at ${ renewPriceStr } for ${ renewalLength } month. You can cancel at any time.": [
+        "Depois, será renovado automaticamente por ${ renewPriceStr } durante ${ renewalLength } mês. Pode cancelar a qualquer momento.",
+        "Depois, será renovado automaticamente por ${ renewPriceStr } durante ${ renewalLength } meses. Pode cancelar a qualquer momento."
+      ],
+      "Your payment is still being processed": [
+        "O seu pagamento ainda está a ser processado."
       ]
     },
     "Payments.Error": {
@@ -9077,6 +9144,10 @@
       "${ n } VPN connection per user": [
         "${ n } ligação VPN por utilizador",
         "${ n } ligações VPN por utilizador"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "Conexão VPN para ${ n } dispositivos por utilizador",
+        "Conexão VPN para ${ n } dispositivos por utilizador"
       ]
     },
     "Subscription change warning": {
@@ -10458,6 +10529,14 @@
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "${ numberOfServers } em ${ numberOfCountries } país",
         "${ numberOfServers } em ${ numberOfCountries } países"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "Seleção automática de ${ numberOfCountries } país",
+        "Seleção automática de ${ numberOfCountries } países"
+      ],
+      "Servers in ${ numberOfCountries }+ country": [
+        "Servidores em ${ numberOfCountries } país",
+        "Servidores em mais de ${ numberOfCountries } países"
       ]
     },
     "vpn_2024: renew": {
@@ -10474,6 +10553,9 @@
       "Your subscription will automatically renew in ${ cycle } month.": [
         "A sua subscrição será renovada automaticamente dentro de ${ cycle } mês.",
         "A sua subscrição será renovada automaticamente em ${ cycle } meses."
+      ],
+      "You'll then be billed every 12 months at ${ renewPriceStr }.": [
+        "Será faturado a cada 12 meses no valor de ${ renewPriceStr }."
       ]
     },
     "vpn_2step: feature": {

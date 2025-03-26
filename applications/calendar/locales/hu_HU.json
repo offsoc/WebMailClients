@@ -899,7 +899,7 @@
     },
     "Assistant toggle": {
       "Take email productivity to new levels. Let ${ BRAND_NAME } Scribe help you write, reply to, and proofread your emails.": [
-        "Emeld új szintre az e-mailes produktivitást. Hagyd, hogy a ${ BRAND_NAME } Scribe segítsen megírni, válaszolni és lektorálni az e-mailjeidet."
+        "Emelje új szintre az e-mailes produktivitást. Hagyja, hogy a ${ BRAND_NAME } Scribe segítsen megírni, válaszolni és lektorálni az e-mailjeit."
       ]
     },
     "Attached ics file error": {
@@ -1053,7 +1053,7 @@
         "Tartsa biztonságban e-mailjeit és időbeosztását végpontok közti titkosítással. Tartalmaz 15 e-mail címet, egyéni e-mail domain név támogatását, ${ BRAND_NAME } Scribe íróasszisztenst, korlátlan számú hide-my-email álnév és további lehetőségeket."
       ],
       "Secure your emails and schedule with end-to-end encryption. Includes 15 email addresses, support for custom email domains, unlimited hide-my-email aliases and more.": [
-        "Tartsa biztonságban e-mailjeit és időbeosztását végpontok közti titkosítással. 15 e-mail címet, egyéni e-mail domain név támogatását, korlátlan számú hide-my-email e-mail álnév és további lehetőségeket tartalmaz."
+        "Tartsa biztonságban e-mailjeit és időbeosztását végpontok közti titkosítással. 15 e-mail címet, egyéni e-mail domain név támogatását, korlátlan számú hide-my-email e-mail álnevet és további lehetőségeket tartalmaz."
       ],
       "Secure your files with encrypted cloud storage. Includes online document editor, photo backup, version history, encrypted file sharing, and more.": [
         "Tartsa biztonságban fájljait titkosított felhőtárhelyen. Online dokumentum szerkesztő, fotók biztonsági mentése, verziótörténet, titkosított fájlmegosztás és további lehetőségek."
@@ -1063,6 +1063,10 @@
       ],
       "Storage space is shared across all ${ BRAND_NAME } services.": [
         "A tárhelye meg van osztva minden ${ BRAND_NAME } alkalmazás között."
+      ],
+      "Secure your emails and schedule with end-to-end encryption. Includes ${ addresses } email address, support for custom email domains, unlimited hide-my-email aliases and more.": [
+        "Védje e-mailjeit és ütemezze végponttól-végpontig tartó titkosítással. Tartalmaz ${ addresses } e-mail címet, egyéni e-mail tartományok támogatását, korlátlan számú hide-my-email e-mail álnevet és még sok mást.",
+        "Védje e-mailjeit és ütemezze végponttól-végpontig tartó titkosítással. Tartalmaz ${ addresses } e-mail címet, egyéni e-mail tartományok támogatását, korlátlan számú hide-my-email e-mail álnevet és még sok mást."
       ]
     },
     "Billing cycle option": {
@@ -1526,7 +1530,7 @@
         "E-mail"
       ],
       "Enter a display name or nickname": [
-        "Írja be a megejelnítendő nevét vagy becenevét"
+        "Írjon be egy megjelenítendő nevet vagy becenevet"
       ],
       "First name": [
         "Keresztnév"
@@ -3237,6 +3241,9 @@
       ],
       "Your import will not be processed.": [
         "Az importálás nem lesz feldolgozva."
+      ],
+      "Please select a state": [
+        "Kérjük, válasszon ki egy megyét"
       ]
     },
     "Error accepting calendar invitation": {
@@ -3826,6 +3833,9 @@
       ],
       "Time zone not supported": [
         "Az időzóna nincs támogatva"
+      ],
+      "Edited event not supported": [
+        "Szerkesztett esemény nincs támogatva"
       ]
     },
     "Import calendar": {
@@ -5191,6 +5201,24 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Úgy tűnik, hogy a rendszer időzónája ${ timezone } -re változott. Szeretne erre az időzónára frissíteni?"
+      ],
+      "${ PASS_SHORT_APP_NAME } lifetime deal has no renewal price, it's a one-time payment for lifetime access to ${ PASS_SHORT_APP_NAME }.": [
+        "A ${ PASS_SHORT_APP_NAME } élethosszig tartó szerződésnek nincs megújítási ára, ez egy egyszeri fizetés a ${ PASS_SHORT_APP_NAME } élethosszig tartó hozzáférésért."
+      ],
+      "Enabling auto-deletion…": [
+        "Automatikus törlés engedélyezése..."
+      ],
+      "or discover other features:": [
+        "vagy fedezzen fel más funkciókat:"
+      ],
+      "Other accounts": [
+        "Egyéb fiókok"
+      ],
+      "SEPA payments are not available at the moment. Please try again later.": [
+        "A SEPA-fizetések jelenleg nem elérhetők. Kérjük, próbálja meg később újra."
+      ],
+      "Your next billing date is ${ renewalTime }. Please contact support if you require an immediate plan change.": [
+        "A következő számlázási dátum ${ renewalTime }. Kérjük, vegye fel a kapcsolatot az ügyfélszolgálattal, ha azonnali csomagváltásra van szüksége."
       ]
     },
     "info": {
@@ -8245,6 +8273,10 @@
       "${ n } VPN connection per user": [
         "${ n } VPN kapcsolat felhasználónként",
         "${ n } VPN kapcsolat felhasználónként"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "VPN kapcsolat felhasználónként ${ n } eszközre",
+        "VPN kapcsolat felhasználónként ${ n } eszközre"
       ]
     },
     "Subscription change warning": {
@@ -8286,6 +8318,9 @@
       ],
       "We don't sell your data": [
         "Nem adjuk el az adatait."
+      ],
+      "Automatic email forwarding ${ strongText }": [
+        "Automatikus e-mail továbbítás ${ strongText }"
       ]
     },
     "Subscription reminder": {
@@ -8368,7 +8403,7 @@
         "Korai hozzáférés az új alkalmazásokhoz és funkciókhoz"
       ],
       "Email productivity features": [
-        "Email hatékonysági funciók"
+        "E-mail hatékonysági funciók"
       ],
       "Extra storage and users": [
         "Extra tárhely és további felhasználók"
@@ -9427,6 +9462,14 @@
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "${ numberOfServers } ${ numberOfCountries } országban",
         "${ numberOfServers } ${ numberOfCountries } országban"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "Automatikus kiválasztás ${ numberOfCountries } országból",
+        "Automatikus kiválasztás ${ numberOfCountries } országból"
+      ],
+      "Servers in ${ numberOfCountries }+ country": [
+        "Szerverek ${ numberOfCountries }+ országban",
+        "Szerverek ${ numberOfCountries }+ országban"
       ]
     },
     "vpn_2024: renew": {
@@ -9467,10 +9510,10 @@
         "Bitcoin küldés e-mailben"
       ],
       "Encrypted and secure ${ MAIL_APP_NAME } email address. You can easily send Bitcoin to anyone with just their ${ BRAND_NAME } name.": [
-        "Titkosított és biztonságos ${ MAIL_APP_NAME } e-mail cím. Egyszerűen küldhetsz Bitcoint bárkinek csupán a ${ BRAND_NAME } nevét."
+        "Titkosított és biztonságos ${ MAIL_APP_NAME } e-mail cím. Egyszerűen küldhet Bitcoint bárkinek csupán a ${ BRAND_NAME } nevét ismerve."
       ],
       "Securely exchange Bitcoin via email instead of complex, 26-character Bitcoin addresses that are prone to error": [
-        "Biztonságosan cserélj Bitcoint e-mailen keresztül, ahelyett, hogy összetett, 26 karakteres és hibára hajlamos Bitcoin címeket használnál"
+        "Biztonságosan cserélhet Bitcoint e-mailen keresztül, ahelyett, hogy összetett, 26 karakteres és hibára hajlamos Bitcoin címeket használna"
       ]
     },
     "wallet_signup_2024:app-switcher": {

@@ -809,6 +809,15 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "La prova gratuïta de l'aplicació d'escriptori finalitza el ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Add another account": [
+        "Afegeix un altre compte"
+      ],
+      "Help and feedback": [
+        "Ajuda i comentaris"
+      ],
+      "Help and resources": [
+        "Ajuda i recurs"
       ]
     },
     "action": {
@@ -874,6 +883,9 @@
       "${ users } user": [
         "${ users } usuari",
         "${ users } usuaris"
+      ],
+      "${ price } per seat": [
+        "${ price } per llicència"
       ]
     },
     "Alarm notification": {
@@ -1081,6 +1093,9 @@
       ],
       "VPN Accelerator": [
         "VPN Accelerator"
+      ],
+      "Unlimited logins, credit cards, hide-my-email aliases and more": [
+        "Nombre il·limitat d'inicis de sessió, targetes de crèdit, àlies de hide-my-email i més."
       ]
     },
     "BF2024: Offers": {
@@ -5485,6 +5500,24 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Sembla que el fus horari del sistema ha canviat a ${ timezone }. Voleu actualitzar la vostra preferència de fus horari?"
+      ],
+      "Other accounts": [
+        "Altres comptes"
+      ],
+      "Subscription auto-renews every ${ cycle } month.": [
+        "La subscripció es renova automàticament cada ${ cycle } mes.",
+        "La subscripció es renova automàticament cada ${ cycle } mesos."
+      ],
+      "You'll then be billed every ${ renewCycle } month at ${ renewAmountStr }.": [
+        "A continuació, se us facturarà cada ${ renewCycle } mes a ${ renewAmountStr }.",
+        "A continuació, se us facturarà cada ${ renewCycle } mesos a ${ renewAmountStr }."
+      ],
+      "Your scheduled plan starts on ${ renewalTime } and will auto-renew every ${ cycle } month.": [
+        "El vostre pla programat comença el ${ renewalTime } i es renovarà automàticament cada ${ cycle } mes.",
+        "El vostre pla programat comença el ${ renewalTime } i es renovarà automàticament cada ${ cycle } mesos."
+      ],
+      "Your subscription will automatically renew on ${ renewalTime }.": [
+        "La vostra subscripció es renovarà automàticament el ${ renewalTime }."
       ]
     },
     "info": {
@@ -6326,6 +6359,9 @@
       ],
       "for ${ price }": [
         "per ${ price }"
+      ],
+      "Add-on with free trial": [
+        "Complement amb prova gratuïta"
       ]
     },
     "mailtrial2024: Action": {
@@ -7101,6 +7137,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Escanegem el web fosc per a comprovar si les vostres adreces o àlies de ${ BRAND_NAME } s'han filtrat i us avisem immediatament si trobem alguna cosa."
+      ],
+      "${ size } storage per user": [
+        "${ size } d'emmagatzematge per usuari"
+      ],
+      "Manage user permissions and access": [
+        "Gestiona els permisos i l'accés dels usuaris"
+      ],
+      "Password manager to secure credentials": [
+        "Gestor de contrasenyes per a assegurar les credencials"
       ]
     },
     "new_plans: feature highlight": {
@@ -7219,6 +7264,9 @@
       ],
       "You’re enjoying a promotional price on your current plan. If you downgrade your account, you will lose your promotional price and it won’t be available if you try to subscribe again.": [
         "Esteu gaudint d'un preu promocional al vostre pla actual. Si feu una baixada de categoria al vostre compte, perdreu el preu promocional i no estarà disponible si intenteu subscriure-us novament."
+      ],
+      "Pay once, secure your passwords and identity forever.": [
+        "Pagueu una vegada i protegiu les vostres contrasenyes i identitat per sempre."
       ]
     },
     "new_plans: Subtext": {
@@ -7929,6 +7977,12 @@
     "pass_signup_2023: Info": {
       "Secure vault sharing": [
         "Compartició segura de caixes fortes"
+      ],
+      "Secure vault, item and link sharing": [
+        "Compartició segura de caixes fortes, elements i enllaços"
+      ],
+      "Unlimited logins, notes, credit cards and more": [
+        "Nombre il·limitat d'inicis de sessió, notes i targetes de crèdit i més"
       ]
     },
     "pass_signup_2024: Info": {
@@ -8065,6 +8119,40 @@
       ],
       "We are processing your payment for the billed invoice. Please wait until the payment is completed before making changes to your plan or updating your payment details. Thank you for your patience.": [
         "Estem tramitant el pagament de la factura. Espereu que el pagament s'hagi completat abans de fer canvis al pla o actualitzar les dades del pagament. Gràcies per la vostra paciència."
+      ],
+      "During this time, you will not be able to modify or cancel your subscription. Please wait until your payment is completed before attempting any changes. Thank you for your patience.": [
+        "Durant aquest temps, no podreu modificar ni cancel·lar la vostra subscripció. Espereu fins que s'hagi completat el pagament abans d'intentar qualsevol canvi. Gràcies per la vostra paciència."
+      ],
+      "Renewal pricing subject to change according to ${ termsAndConditionsLink }.": [
+        "El preu de la renovació està subjecte a canvis segons ${ termsAndConditionsLink }."
+      ],
+      "Renews at ${ renewPriceStr }, cancel anytime.": [
+        "Es renova per ${ renewPriceStr } i ho podeu cancel·lar en qualsevol moment."
+      ],
+      "terms & conditions": [
+        "els termes i condicions"
+      ],
+      "The coupon is valid for ${ couponRedemptions } renewal.": [
+        "El cupó és vàlid per ${ couponRedemptions } renovació.",
+        "El cupó és vàlid per ${ couponRedemptions } renovacions."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first ${ subscriptionLength } month.": [
+        "El preu amb descompte especial de ${ priceWithDiscount } és vàlid durant el primer ${ subscriptionLength } mes.",
+        "El preu amb descompte especial de ${ priceWithDiscount } és vàlid durant els primers ${ subscriptionLength } mesos."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. The coupon is valid for ${ couponRedemptions } renewal. Then it will automatically be renewed at ${ renewPriceStr } for 1 month. You can cancel at any time.": [
+        "El preu amb descompte especial de ${ priceWithDiscount } és vàlid durant el primer mes. El cupó és vàlid per ${ couponRedemptions } renovació. Aleshores, es renovarà automàticament a ${ renewPriceStr } durant 1 mes. Podeu cancel·lar-ho en qualsevol moment.",
+        "El preu amb descompte especial de ${ priceWithDiscount } és vàlid durant el primer mes. El cupó és vàlid per ${ couponRedemptions } renovacions. Aleshores, es renovarà automàticament a ${ renewPriceStr } durant 1 mes. Podeu cancel·lar-ho en qualsevol moment."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. Then it will automatically be renewed at ${ renewPriceStr } every month. You can cancel at any time.": [
+        "El preu amb descompte especial de ${ priceWithDiscount } és vàlid durant el primer mes. Aleshores, es renovarà automàticament a ${ renewPriceStr } cada mes. Podeu cancel·lar-ho en qualsevol moment."
+      ],
+      "Then it will automatically be renewed at ${ renewPriceStr } for ${ renewalLength } month. You can cancel at any time.": [
+        "Aleshores, es renovarà automàticament a ${ renewPriceStr } durant ${ renewalLength } mes. Podeu cancel·lar-ho en qualsevol moment.",
+        "Aleshores, es renovarà automàticament a ${ renewPriceStr } durant ${ renewalLength } mesos. Podeu cancel·lar-ho en qualsevol moment."
+      ],
+      "Your payment is still being processed": [
+        "El vostre pagament encara s'està processant."
       ]
     },
     "Payments.Error": {
@@ -9034,6 +9122,10 @@
       "${ n } VPN connection per user": [
         "${ n } connexió VPN per usuari",
         "${ n } connexions VPN per usuari"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "Connexió VPN per a ${ n } dispositiu per usuari",
+        "Connexió VPN per a ${ n } dispositius per usuari"
       ]
     },
     "Subscription change warning": {
@@ -10253,6 +10345,9 @@
       ],
       "Your shorter address is now ready": [
         "La vostra adreça més curta ja està a punt."
+      ],
+      "Help and feedback": [
+        "Ajuda i comentaris"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10412,6 +10507,14 @@
       "${ numberOfServers } in ${ numberOfCountries } country": [
         "${ numberOfServers } a ${ numberOfCountries } país",
         "${ numberOfServers } a ${ numberOfCountries } països"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "Seleccionat automàticament des d'${ numberOfCountries } país",
+        "Seleccionat automàticament des de ${ numberOfCountries } països"
+      ],
+      "Servers in ${ numberOfCountries }+ country": [
+        "Servidors en més d'${ numberOfCountries } país",
+        "Servidors en més de ${ numberOfCountries } països"
       ]
     },
     "vpn_2024: renew": {
@@ -10428,6 +10531,9 @@
       "Your subscription will automatically renew in ${ cycle } month.": [
         "La vostra subscripció es renovarà automàticament en ${ cycle } mes.",
         "La vostra subscripció es renovarà automàticament en ${ cycle } mesos."
+      ],
+      "You'll then be billed every 12 months at ${ renewPriceStr }.": [
+        "Després se us facturarà cada 12 mesos a ${ renewPriceStr }."
       ]
     },
     "vpn_2step: feature": {
@@ -10854,6 +10960,31 @@
       ],
       "Passcode:": [
         "Codi d'accés:"
+      ]
+    },
+    "customer_support.feature.all": {
+      "For all ${ BRAND_NAME } services": [
+        "Per a tots els serveis de ${ BRAND_NAME }"
+      ]
+    },
+    "customer_support.feature.drive": {
+      "For ${ DRIVE_APP_NAME }": [
+        "Per a ${ DRIVE_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.mail": {
+      "For ${ MAIL_APP_NAME }": [
+        "Per a ${ MAIL_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.pass": {
+      "For ${ PASS_APP_NAME }": [
+        "Per a ${ PASS_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.vpn": {
+      "For ${ VPN_APP_NAME }": [
+        "Per a ${ VPN_APP_NAME }"
       ]
     }
   }

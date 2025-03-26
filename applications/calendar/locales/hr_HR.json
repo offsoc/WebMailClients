@@ -587,6 +587,30 @@
       ],
       "Yes, I'll attend": [
         "Da, prisustvovati ću"
+      ],
+      "Add public holidays": [
+        "Dodaj javne praznike"
+      ],
+      "Decline invite": [
+        "Odbij pozivnicu"
+      ],
+      "Import events": [
+        "Uvezi događaje"
+      ],
+      "Mark as resolved": [
+        "Označi kao riješeno"
+      ],
+      "Pause indexing": [
+        "Pauziraj indeksiranje"
+      ],
+      "Request a call": [
+        "Zatraži poziv"
+      ],
+      "Resume indexing": [
+        "Nastavi indeksiranje"
+      ],
+      "Search countries": [
+        "Pretraži države"
       ]
     },
     "action": {
@@ -940,6 +964,9 @@
     "Calendar sidebar dropdown item": {
       "More options": [
         "Više opcija"
+      ],
+      "Add calendar from URL": [
+        "Dodaj kalendar iz URL-a"
       ]
     },
     "Calendar status": {
@@ -2031,6 +2058,12 @@
       ],
       "You can mark for deletion the contacts that you do not want neither to merge nor to keep. Deletion will only take place after the merge button is clicked": [
         "Označite za brisanje kontakte koje ne želite ni spajati ni zadržavati. Brisanje će se izvršiti tek kad se pritisne gumb za spajanje"
+      ],
+      "Availability unknown": [
+        "Dostupnost nije poznata"
+      ],
+      "Loading availability": [
+        "Učitavanje dostupnosti"
       ]
     },
     "Description of the purpose of the import CSV modal": {
@@ -2365,6 +2398,36 @@
       ],
       "Your import will not be processed.": [
         "Vaš uvoz nije moguće obraditi."
+      ],
+      "${ list } doesn't have an email address": [
+        "${ list } nema adresu e-pošte",
+        "Neki kontakti nemaju adresu e-pošte: ${ list }",
+        "Neki kontakti nemaju adresu e-pošte: ${ list }"
+      ],
+      "${ list } has no contacts": [
+        "${ list } nema kontakata",
+        "Neke grupe nemaju kontakata: ${ list }",
+        "Neke grupe nemaju kontakata: ${ list }"
+      ],
+      "Account does not exist": [
+        "Račun ne postoji"
+      ],
+      "Already a member of this calendar": [
+        "Već je član ovog kalendara"
+      ],
+      "Failed to create meeting": [
+        "Stvaranje sastanka nije uspjelo"
+      ],
+      "Not a ${ BRAND_NAME } account": [
+        "Nije ${ BRAND_NAME } račun"
+      ],
+      "Removed duplicate recipient: ${ joinedRecipients }": [
+        "Uklonjen duplicirani primatelj: ${ joinedRecipients }",
+        "Uklonjeni duplicirani primatelji: ${ joinedRecipients }",
+        "Uklonjeni duplicirani primatelji: ${ joinedRecipients }"
+      ],
+      "You already added this holidays calendar": [
+        "Već ste dodali ovaj kalendar praznika"
       ]
     },
     "Error importing calendar": {
@@ -2484,6 +2547,9 @@
     "esCalendar": {
       "Results": [
         "Rezultati"
+      ],
+      "No result": [
+        "Nema rezultata"
       ]
     },
     "Event canceled status badge": {
@@ -2691,6 +2757,9 @@
       ],
       "Search": [
         "Pretraga"
+      ],
+      "Repeat event": [
+        "Ponavljaj događaj"
       ]
     },
     "Hint": {
@@ -3415,6 +3484,40 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Vremenska zona vašeg sustava promijenjena je u ${ timezone }. Želite li ažurirati svoje postavke vremenske zone?"
+      ],
+      "Based on your time zone": [
+        "Temeljeno na Vašoj vremenskoj zoni"
+      ],
+      "Deleting event...": [
+        "Brisanje događaja...",
+        "Brisanje događaja...",
+        "Brisanje događaja..."
+      ],
+      "Learn how to ${ staySaferOnlineLink }": [
+        "Saznajte kako ${ staySaferOnlineLink }"
+      ],
+      "Link copied to clipboard": [
+        "Poveznica kopirana u međuspremnik"
+      ],
+      "Link created": [
+        "Poveznica je stvorena"
+      ],
+      "Saving event...": [
+        "Spremanje događaja...",
+        "Spremanje događaja...",
+        "Spremanje događaja..."
+      ],
+      "Week and month views only apply to desktop.": [
+        "Tjedni i mjesečni prikazi primjenjuju se samo na radnu površinu."
+      ],
+      "You already joined this calendar": [
+        "Već ste se pridružili ovom kalendaru"
+      ],
+      "You previously rejected this invitation. Ask the owner for a re-invite": [
+        "Prethodno ste odbili ovu pozivnicu. Pitajte vlasnika da Vas ponovno pozove"
+      ],
+      "Your events will be encrypted and then saved.": [
+        "Vaši događaji će biti šifrirani i spremljeni."
       ]
     },
     "Info message": {
@@ -3467,11 +3570,41 @@
     "Keyboard shortcut name": {
       "Open this modal": [
         "Otvori ovaj modal"
+      ],
+      "Create new event": [
+        "Stvori novi događaj"
+      ],
+      "Day view": [
+        "Dnevni prikaz"
+      ],
+      "Month view": [
+        "Mjesečni prikaz"
+      ],
+      "Next period": [
+        "Sljedeće razdoblje"
+      ],
+      "Open quick actions menu": [
+        "Otvori izbornik brzih radnji"
+      ],
+      "Previous period": [
+        "Prethodno razdoblje"
+      ],
+      "Search events": [
+        "Traži događaje"
+      ],
+      "Today": [
+        "Danas"
+      ],
+      "Week view": [
+        "Tjedni prikaz"
       ]
     },
     "Keyboard shortcut section name": {
       "Basic actions": [
         "Osnovne radnje"
+      ],
+      "View options": [
+        "Opcije prikaza"
       ]
     },
     "Label": {
@@ -3965,11 +4098,17 @@
       ],
       "Upgrade": [
         "Nadogradi"
+      ],
+      "Manage calendars": [
+        "Upravljanje kalendarima"
       ]
     },
     "Modal for received invitation to share calendar; Title": {
       "Join calendar": [
         "Pridružite se kalendaru"
+      ],
+      "Unable to join more calendars": [
+        "Nije moguće pridružiti se dodatnim kalendarima"
       ]
     },
     "Modal title": {
@@ -3981,6 +4120,15 @@
       ],
       "Time zone changed": [
         "Vremenska zona je promijenjena"
+      ],
+      "Add public holidays": [
+        "Dodaj javne praznike"
+      ],
+      "Cannot add more calendars": [
+        "Nije moguće dodati više kalendara"
+      ],
+      "Get a country's official public holidays calendar.": [
+        "Dodajte službene državne kalendare javnih praznika."
       ]
     },
     "Modal title and action": {
@@ -4342,6 +4490,12 @@
     "Notification in holidays calendar modal": {
       "Calendar updated": [
         "Kalendar je ažuriran"
+      ],
+      "Adding holidays calendar failed": [
+        "Dodavanje kalendara praznika nije uspjelo"
+      ],
+      "Calendar added": [
+        "Kalendar je dodan"
       ]
     },
     "Notification suffix": {
@@ -4374,7 +4528,7 @@
       "hour before": [
         "sat prije",
         "sata prije",
-        "sata prije"
+        "sati prije"
       ],
       "minute before": [
         "minuta prije",
@@ -4567,6 +4721,9 @@
         "Godina",
         "Godine",
         "Godina"
+      ],
+      "Custom...": [
+        "Prilagođeno..."
       ]
     },
     "Option group label": {
@@ -4696,6 +4853,9 @@
       ],
       "Start typing an email address": [
         "Započnite pisati adresu e-pošte"
+      ],
+      "Indexing...": [
+        "Indeksiranje..."
       ]
     },
     "Placeholder for contact group name": {
@@ -4777,6 +4937,27 @@
       ],
       "Open ${ PASS_APP_NAME }": [
         "Otvori ${ PASS_APP_NAME }"
+      ],
+      "All aliases": [
+        "Svi pseudonimi"
+      ],
+      "Create an alias": [
+        "Stvori pseudonim"
+      ],
+      "Hide-my-email aliases": [
+        "Hide-my-email pseudonimi"
+      ],
+      "Hide-my-email aliases let you sign up for things online without sharing your email address. ${ learnMoreLink }": [
+        "Hide-my-email pseudonimi omogućuju Vam registraciju na mrežnim servisima bez dijeljenja Vaše adrese e-pošte. ${ learnMoreLink }"
+      ],
+      "New alias": [
+        "Novi pseudonim"
+      ],
+      "Protect your online identity": [
+        "Zaštitite svoj mrežni identitet"
+      ],
+      "Try ${ PASS_APP_NAME }": [
+        "Isprobajte ${ PASS_APP_NAME }"
       ]
     },
     "Select files": {
@@ -4990,6 +5171,9 @@
     "Subscribe to calendar modal": {
       "Calendar URL": [
         "URL kalendara"
+      ],
+      "To subscribe to an external or public calendar and its updates, enter the URL. A read-only version of the calendar will be added to your Other calendars.\n${ kbLink }": [
+        "Da biste se pretplatili na vanjski ili javni kalendar i njihova ažuriranja, morate unijeti njihov URL. Ti će se kalendari dodati među Vaše ostale kalendare i moći ćete ih samo pregledavati, ali ne i uređivati.\n${ kbLink }"
       ]
     },
     "Subscription": {
@@ -5211,6 +5395,12 @@
       ],
       "You have successfully unsubscribed": [
         "Uspješno ste poništili pretplatu"
+      ],
+      "Alias copied to clipboard": [
+        "Pseudonim kopiran u međuspremnik"
+      ],
+      "Event content search enabled": [
+        "Pretraživanje sadržaja događaja je omogućeno"
       ]
     },
     "Suffix": {
@@ -5672,6 +5862,24 @@
       ],
       "You have invited participants with equivalent emails": [
         "Pozvali ste sudionike s istom adresom e-pošte"
+      ],
+      "Create public link": [
+        "Stvori javnu poveznicu"
+      ],
+      "Does not repeat": [
+        "Ne ponavlja se"
+      ],
+      "Drop to upload": [
+        "Ispustite za prijenos"
+      ],
+      "Every day": [
+        "Svaki dan"
+      ],
+      "Every year": [
+        "Svake godine"
+      ],
+      "Your calendar link": [
+        "Poveznica vašeg kalendara"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -6110,6 +6318,181 @@
       ],
       "Yearly, ${ untilString }": [
         "Godišnje, ${ untilString }"
+      ]
+    },
+    "Action subline": {
+      "Anyone with the link can view your calendar": [
+        "Bilo tko s poveznicom može vidjeti Vaš kalendar"
+      ],
+      "They can view or edit your calendar": [
+        "Mogu vidjeti ili uređivati Vaš kalendar"
+      ]
+    },
+    "Action title": {
+      "Share with ${ BRAND_NAME } users": [
+        "Dijeli s ${ BRAND_NAME } korisnicima"
+      ],
+      "Share with anyone": [
+        "Dijeljeno s bilo kime"
+      ]
+    },
+    "Button": {
+      "Continue using ${ planTitle }": [
+        "Nastavi koristiti ${ planTitle }"
+      ],
+      "Continue your subscription": [
+        "Nastavi svoju pretplatu"
+      ]
+    },
+    "Calendar self sharing error": {
+      "You already have access to this calendar": [
+        "Već imate pristup ovom kalendaru"
+      ]
+    },
+    "Calendar share limit modal": {
+      "Manage links": [
+        "Upravljanje poveznicama"
+      ],
+      "Manage members": [
+        "Upravljanje članovima"
+      ],
+      "Unable to create more calendar links": [
+        "Nije moguće stvoriti više poveznica kalendara"
+      ]
+    },
+    "Calendar subscription not synced error": {
+      "Calendar is too big": [
+        "Kalendar je prevelik"
+      ],
+      "Failed to sync calendar": [
+        "Sinkronizacija kalendara nije uspjela"
+      ],
+      "More than 12 hours passed since last update": [
+        "Od zadnjeg ažuriranja proteklo je više od 12 sati"
+      ],
+      "Unsupported calendar format": [
+        "Nepodržani format kalendara"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Dnevni prikaz"
+      ],
+      "Month view": [
+        "Mjesečni prikaz"
+      ],
+      "New event": [
+        "Novi događaj"
+      ],
+      "Next period": [
+        "Sljedeće razdoblje"
+      ],
+      "Previous period": [
+        "Prethodno razdoblje"
+      ],
+      "Search events": [
+        "Traži događaje"
+      ],
+      "Today": [
+        "Danas"
+      ],
+      "Week view": [
+        "Tjedni prikaz"
+      ]
+    },
+    "Country select label": {
+      "Based on your time zone": [
+        "Temeljeno na Vašoj vremenskoj zoni"
+      ]
+    },
+    "Custom frequency option": {
+      "event": [
+        "događaj",
+        "događaja",
+        "događaja"
+      ]
+    },
+    "Error accepting calendar invitation": {
+      "Invited address does not exist": [
+        "Pozvana adresa ne postoji"
+      ]
+    },
+    "Error changing answer of a calendar invitation": {
+      "Error changing answer": [
+        "Greška kod promjene odgovora"
+      ]
+    },
+    "Info calendar search": {
+      "You can either update your search query or close search to go back to calendar views": [
+        "Možete promijeniti pojam pretraživanja ili zatvoriti tražilicu i vratiti se na prikaz kalendara"
+      ]
+    },
+    "Info; access rights for shared calendar": {
+      "View only": [
+        "Samo za prikaz"
+      ]
+    },
+    "Knowledge base link label": {
+      "Here's how": [
+        "Evo kako"
+      ]
+    },
+    "Notification in share calendar modal": {
+      "Member added": [
+        "Član dodan",
+        "Članovi dodani",
+        "Članovi dodani"
+      ]
+    },
+    "pass_signup_2023: Info": {
+      "Secure vault sharing": [
+        "Sigurno dijeljenje trezora"
+      ]
+    },
+    "Security Center (link to Pass App)": {
+      "(will open ${ PASS_APP_NAME })": [
+        "(otvorit će ${ PASS_APP_NAME })"
+      ]
+    },
+    "session_recovery:cancellation:notification": {
+      "Password reset canceled": [
+        "Ponovno postavljanje lozinke otkazano"
+      ]
+    },
+    "Settings update growler warning": {
+      "Failed to update settings": [
+        "Ažuriranje postavki nije uspjelo"
+      ]
+    },
+    "Shared calendar; Info about calendar owner": {
+      "Shared by ${ ownerName }": [
+        "Dijeli ${ ownerName }"
+      ]
+    },
+    "Sidebar calendar edit tooltip": {
+      "Manage calendar": [
+        "Upravljanje kalendarima"
+      ]
+    },
+    "Subscribe to calendar modal description": {
+      "Learn how to get a private calendar link.": [
+        "Saznajte kako dohvatiti poveznicu privatnog kalendara."
+      ]
+    },
+    "Tooltip; share calendar modal ": {
+      "Shared end-to-end encrypted": [
+        "Dijeljeno u end-to-end šifriranom obliku"
+      ],
+      "Shared end-to-end encrypted with verified contact": [
+        "Dijeljeno je u end-to-end šifriranom obliku s potvrđenim kontaktom"
+      ]
+    },
+    "Zoom integration": {
+      "Adding conferencing details": [
+        "Dodavanje detalja konferencije"
+      ],
+      "Loading Zoom configuration": [
+        "Učitavanje konfiguracije Zooma"
       ]
     }
   }

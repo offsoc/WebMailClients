@@ -817,6 +817,15 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Darmowa wersja próbna aplikacji desktopowej zakończy się ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Add another account": [
+        "Dodaj inne konto"
+      ],
+      "Help and feedback": [
+        "Pomoc i opinia"
+      ],
+      "Help and resources": [
+        "Pomoc i zasoby"
       ]
     },
     "action": {
@@ -837,7 +846,7 @@
         "Udostępnij użytkownikom ${ BRAND_NAME }"
       ],
       "Share with anyone": [
-        "Udostępnij komukolwiek"
+        "Udostępnij"
       ]
     },
     "Actions message": {
@@ -890,6 +899,9 @@
         "${ users } użytkowników",
         "${ users } użytkowników",
         "${ users } użytkowników"
+      ],
+      "${ price } per seat": [
+        "${ price } za licencję"
       ]
     },
     "Alarm notification": {
@@ -1091,6 +1103,12 @@
       ],
       "Version history": [
         "Historia wersji"
+      ],
+      "Unlimited logins, credit cards, hide-my-email aliases and more": [
+        "Nieograniczona liczba danych logowania, karty płatniczych, aliasów hide-my-email i nie tylko"
+      ],
+      "VPN Accelerator": [
+        "VPN Accelerator"
       ]
     },
     "BF2024: Offers": {
@@ -1124,7 +1142,7 @@
         "Zabezpiecz swoje e-maile i harmonogram dzięki szyfrowaniu end-to-end. Obejmuje 15 adresów e-mail, wsparcie dla niestandardowych domen e-mail, asystenta pisania ${ BRAND_NAME } Scribe, nieograniczoną liczbę aliasów hide-my-email i wiele więcej."
       ],
       "Secure your emails and schedule with end-to-end encryption. Includes 15 email addresses, support for custom email domains, unlimited hide-my-email aliases and more.": [
-        "Zabezpiecz swoje e-maile i kalendarz dzięki szyfrowaniu end-to-end. Obejmuje 15 adresów e-mail, wsparcie dla niestandardowych domen e-mail, nieograniczone aliasy hide-my-email i nie tylko."
+        "Zabezpiecz swoje wiadomości i kalendarz za pomocą szyfrowania end-to-end. Zawiera 15 adresów e-mail, wsparcie dla niestandardowych domen, nieograniczona liczba aliasów hide-my-email i nie tylko."
       ],
       "Secure your files with encrypted cloud storage. Includes online document editor, photo backup, version history, encrypted file sharing, and more.": [
         "Zabezpiecz pliki dzięki zaszyfrowanej przestrzeni dyskowej w chmurze. Obejmuje edytor dokumentów online, kopię zapasową zdjęć, historię wersji, zaszyfrowane udostępnianie plików i wiele więcej."
@@ -1151,6 +1169,12 @@
       ],
       "Two-year": [
         "Co dwa lata"
+      ],
+      "Lifetime": [
+        "Dożywotnio"
+      ],
+      "New!": [
+        "Nowość!"
       ]
     },
     "Browser": {
@@ -2541,13 +2565,13 @@
     },
     "Custom frequency option": {
       "Don't end": [
-        "Nie kończyć"
+        "Nie kończy się nigdy"
       ],
       "End after": [
-        "Zakończ po"
+        "Koniec po"
       ],
       "End on": [
-        "Zakończ na"
+        "Koniec w dniu"
       ],
       "event": [
         "wydarzenie",
@@ -2997,7 +3021,7 @@
         "Niektóre grupy nie posiadają kontaktów: ${ list }"
       ],
       "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
-        "${ user.Name } to nazwa użytkownika. Aby utworzyć ${ emailAddress }, przejdź do Ustawienia > Tożsamość i adresy > Krótka domena (pm.me)."
+        "Twoja nazwa użytkownika to ${ user.Name }. Aby utworzyć adres ${ emailAddress }, przejdź do: Ustawienia > Tożsamość i adresy > Krótka domena (pm.me)"
       ],
       "A group with this name already exists": [
         "Grupa o tej nazwie już istnieje"
@@ -3606,7 +3630,7 @@
         "Strefa czasowa"
       ],
       "Time zone component ignored": [
-        "Element strefy czasowej ignorowany"
+        "Komponent strefy czasowej jest ignorowany"
       ],
       "To-do entry": [
         "Wpis w formacie listy zadań"
@@ -4850,7 +4874,7 @@
         "Wiadomości są automatyczne podpisywane"
       ],
       "Emails moved to Trash and Spam more than 30 days ago will be cleared automatically.": [
-        "Wiadomości e-mail przeniesione do Kosza i Spamu ponad 30 dni temu zostaną automatycznie wyczyszczone."
+        "Wiadomości, które znajdują się w Koszu lub Spamie dłużej niż 30 dni, zostaną automatycznie usunięte."
       ],
       "Enabling auto-deletion…": [
         "Włączanie automatycznego usuwania…"
@@ -4907,7 +4931,7 @@
         "Wysoki priorytet"
       ],
       "If keyboard shortcuts are enabled, you can use the following keys for quick actions or to jump to different views. ${ metaKey } + K is always enabled.": [
-        "Jeśli włączone są skróty klawiaturowe, można używać następujących klawiszy do wykonywania szybkich akcji lub przechodzenia do różnych widoków. ${ metaKey } + K jest zawsze włączony."
+        "Jeśli skróty klawiszowe są włączone, możesz używać następujących klawiszy do wykonywania szybkich akcji lub przechodzenia między widokami. Skrót ${ metaKey } + K jest zawsze włączony."
       ],
       "If you are having trouble creating your account, please request an invitation and we will respond within one business day.": [
         "Jeśli masz problem z utworzeniem konta, poproś o zaproszenie, a my odpowiemy w ciągu jednego dnia roboczego."
@@ -5504,7 +5528,7 @@
         "Tej akcji nie można cofnąć."
       ],
       "You get notified if your password or other data was leaked from a third-party service.": [
-        "Otrzymasz powiadomienie, jeśli Twoje hasło lub inne dane wyciekły z usługi zewnętrznej."
+        "Otrzymaj powiadomienie o wycieku swojego hasła i innych danych przez usługi stron trzecich."
       ],
       "You have a trial ${ planTitle } subscription. If you would like to continue your subscription after the trial period, please add a payment method.": [
         "Masz wersję próbną subskrypcji ${ planTitle }. Jeśli chcesz kontynuować subskrypcję po zakończeniu wersji próbnej, dodaj metodę płatności."
@@ -5628,6 +5652,12 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Twoja strefa czasowa w systemie zmieniła się na ${ timezone }. Czy chcesz zaktualizować ustawienia strefy czasowej?"
+      ],
+      "Other accounts": [
+        "Inne konta"
+      ],
+      "Your subscription will automatically renew on ${ renewalTime }.": [
+        "Twoja subskrypcja odnowi się automatycznie ${ renewalTime }."
       ]
     },
     "info": {
@@ -5792,7 +5822,7 @@
         "Podstawowe akcje"
       ],
       "View options": [
-        "Wyświetl opcje"
+        "Pokaż opcje"
       ]
     },
     "Knowledge base link label": {
@@ -5985,7 +6015,7 @@
         "Tytuł wydarzenia"
       ],
       "Every": [
-        "Każdy"
+        "Co"
       ],
       "Expiration (${ patternExpiration })": [
         "Data wygaśnięcia (${ patternExpiration })"
@@ -6183,7 +6213,7 @@
         "Data rozpoczęcia"
       ],
       "State": [
-        "Województwo"
+        "Stan"
       ],
       "Street address": [
         "Ulica"
@@ -6488,6 +6518,9 @@
       ],
       "for ${ price }": [
         "za ${ price }"
+      ],
+      "Add-on with free trial": [
+        "Dodatek z darmową wersją próbną"
       ]
     },
     "mailtrial2024: Action": {
@@ -7291,10 +7324,10 @@
         "Do ${ totalStorageSize } przestrzeni dyskowej"
       ],
       "Use on up to ${ n } device at once": [
-        "Używanie na maksymalnie ${ n } urządzeniu",
-        "Używanie na maksymalnie ${ n } urządzeniach jednocześnie",
-        "Używanie na maksymalnie ${ n } urządzeniach jednocześnie",
-        "Używanie na maksymalnie ${ n } urządzeniach jednocześnie"
+        "Na ${ n } urządzenie jednocześnie",
+        "Na ${ n } urządzenia jednocześnie",
+        "Na ${ n } urządzeń jednocześnie",
+        "Na ${ n } urządzeń jednocześnie"
       ],
       "User credential management": [
         "Zarządzanie danymi logowania użytkownika"
@@ -7313,6 +7346,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Skanujemy dark web, aby sprawdzić, czy adresy lub aliasy ${ BRAND_NAME } zostały ujawnione. W przypadku wycieku danych zostaniesz powiadomiony."
+      ],
+      "${ size } storage per user": [
+        "${ size } przestrzeni dyskowej na użytkownika"
+      ],
+      "Manage user permissions and access": [
+        "Zarządzaj uprawnieniami i dostępem użytkowników"
+      ],
+      "Password manager to secure credentials": [
+        "Menedżer haseł do zabezpieczenia danych logowania"
       ]
     },
     "new_plans: feature highlight": {
@@ -7435,6 +7477,9 @@
       ],
       "You’re enjoying a promotional price on your current plan. If you downgrade your account, you will lose your promotional price and it won’t be available if you try to subscribe again.": [
         "Korzystasz z promocyjnej ceny na swój obecny plan. Jeśli obniżysz plan, stracisz promocyjną cenę i nie będzie ona dostępna przy ponownej subskrypcji."
+      ],
+      "Pay once, secure your passwords and identity forever.": [
+        "Zapłać raz, zabezpiecz swoje hasła i tożsamość na zawsze."
       ]
     },
     "new_plans: Subtext": {
@@ -7986,7 +8031,7 @@
         "Skorzystaj z oferty"
       ],
       "Last chance to get 80% off your first month of ${ plan } Plus.": [
-        "Ostatnia szansa, aby uzyskać 80% zniżki na pierwszy miesiąc ${ plan } Plus."
+        "Ostatnia szansa, aby uzyskać 80% zniżki na pierwszy miesiąc planu ${ plan } Plus."
       ],
       "Last day to save": [
         "Ostatni dzień, aby zaoszczędzić"
@@ -8004,7 +8049,7 @@
         "Oferta wygasa ${ formattedDate }."
       ],
       "Pay annually, secure our best offer": [
-        "Płać co roku, uzyskaj najlepszą ofertę"
+        "Płać rocznie i uzyskaj najlepszą ofertę"
       ],
       "Save": [
         "Zaoszczędź"
@@ -8016,22 +8061,22 @@
         "Zaoszczędź 80% przez pierwszy miesiąc."
       ],
       "Save big when you pay annually": [
-        "Dzięki płatnościom rocznym możesz sporo zaoszczędzić"
+        "Zaoszczędź więcej przy płatności rocznej"
       ],
       "Special offer": [
-        "Specjalna oferta"
+        "Oferta specjalna"
       ],
       "This offer won't be shown again.": [
-        "Ta oferta nie pojawi się ponownie."
+        "Oferta nie pojawi się ponownie."
       ],
       "When you switch from a monthly to annual subscription.": [
         "Po przejściu z subskrypcji miesięcznej na roczną."
       ],
       "You currently pay": [
-        "Aktualnie płacisz"
+        "Obecnie płacisz"
       ],
       "Your subscription renews soon": [
-        "Subskrypcja wkrótce się odnowi"
+        "Subskrypcja odnowi się wkrótce"
       ]
     },
     "Offer feature": {
@@ -8134,10 +8179,10 @@
         "Co miesiąc ${ description }"
       ],
       "Every week ${ everyWeekDescription }": [
-        "Co tydzień w ${ everyWeekDescription }"
+        "Co tydzień ${ everyWeekDescription }"
       ],
       "Every weekday ${ everyWeekdayDescription }": [
-        "W każdy dzień tygodnia ${ everyWeekdayDescription }"
+        "W tygodniu ${ everyWeekdayDescription }"
       ],
       "Every year": [
         "Co rok"
@@ -8199,6 +8244,12 @@
     "pass_signup_2023: Info": {
       "Secure vault sharing": [
         "Bezpieczne udostępnianie sejfu"
+      ],
+      "Secure vault, item and link sharing": [
+        "Bezpieczny sejf, udostępnianie elementów i linków"
+      ],
+      "Unlimited logins, notes, credit cards and more": [
+        "Nieograniczona liczba danych logowania, notatek, kart płatniczych i nie tylko"
       ]
     },
     "pass_signup_2024: Info": {
@@ -8328,6 +8379,24 @@
       ],
       "We are processing your payment for the billed invoice. Please wait until the payment is completed before making changes to your plan or updating your payment details. Thank you for your patience.": [
         "Przetwarzamy płatność za fakturę. Przed zmianą planu lub zaktualizowaniem szczegółów płatności poczekaj na zakończenie płatności. Dziękujemy za cierpliwość."
+      ],
+      "Renewal pricing subject to change according to ${ termsAndConditionsLink }.": [
+        "Cena odnowienia może ulec zmianie zgodnie z ${ termsAndConditionsLink }."
+      ],
+      "Renews at ${ renewPriceStr }, cancel anytime.": [
+        "Odnowienie za ${ renewPriceStr }. Anuluj w dowolnym momencie."
+      ],
+      "terms & conditions": [
+        "regulaminem"
+      ],
+      "The coupon is valid for ${ couponRedemptions } renewal.": [
+        "Kupon jest ważny na ${ couponRedemptions } odnowienie.",
+        "Kupon jest ważny na ${ couponRedemptions } odnowienia.",
+        "Kupon jest ważny na ${ couponRedemptions } odnowień.",
+        "Kupon jest ważny na ${ couponRedemptions } odnowień."
+      ],
+      "Your payment is still being processed": [
+        "Twoja płatność jest wciąż przetwarzana"
       ]
     },
     "Payments.Error": {
@@ -8357,7 +8426,7 @@
     },
     "Payments.Sepa": {
       "By confirming this payment, you authorize ${ BRAND_NAME } and Stripe, our payment service provider, to instruct your bank to debit your account accordingly. You can get a refund within 8 weeks from the debit date, under the conditions of your agreement with your bank.": [
-        "Potwierdzając tę płatność, użytkownik upoważnia ${ BRAND_NAME } i Stripe, naszego dostawcę usług płatniczych, do zlecenia bankowi odpowiedniego obciążenia jego konta. Użytkownik może otrzymać zwrot pieniędzy w ciągu 8 tygodni od daty obciążenia konta, zgodnie z warunkami umowy z bankiem."
+        "Potwierdzając płatność, upoważniasz ${ BRAND_NAME } i firmę Stripe (naszego dostawcy usług płatniczych) do obciążenia konta. Otrzymasz zwrot pieniędzy w ciągu 8 tygodni od daty obciążenia konta, zgodnie z regulaminem banku."
       ],
       "Street address, postal code, and city": [
         "Ulica, kod pocztowy i miejscowość"
@@ -8422,7 +8491,7 @@
         "Filtruj grupy"
       ],
       "Filter quick actions": [
-        "Filtrowanie szybkich akcji"
+        "Filtr szybkich akcji"
       ],
       "First name": [
         "Imię"
@@ -9313,6 +9382,9 @@
       ],
       "Billed yearly": [
         "Płatne rocznie"
+      ],
+      "Billed every 6 months": [
+        "Płatne co 6 miesięcy"
       ]
     },
     "Subscription attribute": {
@@ -10063,7 +10135,7 @@
     },
     "Title": {
       "${ appName } keyboard shortcuts": [
-        "${ appName } skróty klawiaturowe"
+        "Skróty klawiszowe ${ appName }"
       ],
       "${ emailsCount } email address": [
         "${ emailsCount } adres e-mail",
@@ -10312,10 +10384,10 @@
         "Co miesiąc ${ option.text }"
       ],
       "Every week on ${ weekdaysLong[currentDay] }": [
-        "Co tydzień w ${ weekdaysLong[currentDay] }"
+        "Co tydzień w: ${ weekdaysLong[currentDay] }"
       ],
       "Every weekday ${ startOfTheWeekDay } - ${ endOfTheWeekDay }": [
-        "Co weekend ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
+        "W tygodniu ${ startOfTheWeekDay } - ${ endOfTheWeekDay }"
       ],
       "Every year": [
         "Co rok"
@@ -10604,6 +10676,9 @@
       ],
       "Your shorter address is now ready": [
         "Krótszy adres jest już gotowy"
+      ],
+      "Help and feedback": [
+        "Pomoc i opinia"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10892,6 +10967,24 @@
         "${ numberOfServers } w ${ numberOfCountries } krajach",
         "${ numberOfServers } w ${ numberOfCountries } krajach",
         "${ numberOfServers } w ${ numberOfCountries } krajach"
+      ],
+      "${ n } device": [
+        "${ n } urządzenie",
+        "${ n } urządzenia",
+        "${ n } urządzeń",
+        "${ n } urządzenia"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "Automatyczny wybór z ${ numberOfCountries } kraju",
+        "Automatyczny wybór z ${ numberOfCountries } krajów",
+        "Automatyczny wybór z ${ numberOfCountries } krajów",
+        "Automatyczny wybór z ${ numberOfCountries } krajów"
+      ],
+      "Servers in ${ numberOfCountries }+ country": [
+        "Serwery w ponad ${ numberOfCountries } kraju",
+        "Serwery w ponad ${ numberOfCountries } krajach",
+        "Serwery w ponad ${ numberOfCountries } krajach",
+        "Serwery w ponad ${ numberOfCountries } krajach"
       ]
     },
     "vpn_2024: renew": {
@@ -10977,7 +11070,7 @@
         "${ BRAND_NAME } prześle możliwie jak najwięcej danych, zaczynając od najnowszych wiadomości."
       ],
       "2 consecutive dots are not allowed": [
-        "2 następujące po sobie kropki są niedozwolone"
+        "2 następujące po sobie kropki nie są dozwolone"
       ],
       "Are you sure you want to permanently delete ${ count } contact?": [
         "Czy na pewno chcesz trwale usunąć kontakt?",
@@ -11406,6 +11499,31 @@
       ],
       "Passcode:": [
         "Kod dostępu:"
+      ]
+    },
+    "customer_support.feature.all": {
+      "For all ${ BRAND_NAME } services": [
+        "Do wykorzystania we wszystkich usługach ${ BRAND_NAME }"
+      ]
+    },
+    "customer_support.feature.drive": {
+      "For ${ DRIVE_APP_NAME }": [
+        "Dla ${ DRIVE_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.mail": {
+      "For ${ MAIL_APP_NAME }": [
+        "Dla ${ MAIL_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.pass": {
+      "For ${ PASS_APP_NAME }": [
+        "Dla ${ PASS_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.vpn": {
+      "For ${ VPN_APP_NAME }": [
+        "Dla ${ VPN_APP_NAME }"
       ]
     }
   }

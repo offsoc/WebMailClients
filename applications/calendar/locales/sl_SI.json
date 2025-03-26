@@ -802,6 +802,12 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Brezplačno preskušanje namizne aplikacije poteče dne ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Add another account": [
+        "Dodaj drug račun"
+      ],
+      "Help and resources": [
+        "Pomoč in viri"
       ]
     },
     "action": {
@@ -1124,6 +1130,9 @@
       ],
       "Two-year": [
         "Dve leti"
+      ],
+      "New!": [
+        "Novo!"
       ]
     },
     "Browser": {
@@ -6165,6 +6174,9 @@
       ],
       "for ${ price }": [
         "za ${ price }"
+      ],
+      "Add-on with free trial": [
+        "Dodatek z brezplačno preizkusno dobo"
       ]
     },
     "mailtrial2024: Action": {
@@ -6845,7 +6857,7 @@
         "Varno kopirajte vse svoje datoteke in jih sinhronizirajte v vseh napravah."
       ],
       "Tor over VPN": [
-        "Tor preko VPN"
+        "Tor prek VPN"
       ],
       "Two-factor authentication": [
         "Dvojno preverjanja pristnosti"
@@ -7560,6 +7572,12 @@
       ],
       "Special offer": [
         "Posebna ponudba"
+      ],
+      "This offer won't be shown again.": [
+        "Ta ponudba se ne bo več prikazovala."
+      ],
+      "Your subscription renews soon": [
+        "Vaša naročnina se bo kmalu obnovila"
       ]
     },
     "Offer feature": {
@@ -9855,6 +9873,12 @@
       ],
       "Your exposed information": [
         "Vaša razkrita informacija"
+      ],
+      "Help and feedback": [
+        "Pomoč in povratne informacije"
+      ],
+      "Help center": [
+        "Središče za pomoč"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10018,6 +10042,18 @@
         "${ numberOfServers } v ${ numberOfCountries } državah",
         "${ numberOfServers } v ${ numberOfCountries } državah",
         "${ numberOfServers } v ${ numberOfCountries } državah"
+      ],
+      "${ n } device": [
+        "${ n } naprava",
+        "${ n } napravi",
+        "${ n } naprave",
+        "${ n } naprav"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } država",
+        "${ numberOfCountries } državi",
+        "${ numberOfCountries } države",
+        "${ numberOfCountries } držav"
       ]
     },
     "vpn_2024: renew": {
@@ -10494,6 +10530,36 @@
       ],
       "Meeting ID:": [
         "ID sestanka:"
+      ]
+    },
+    "customer_support.feature.all": {
+      "For all ${ BRAND_NAME } services": [
+        "Za vse storitve ${ BRAND_NAME }"
+      ]
+    },
+    "customer_support.feature.drive": {
+      "For ${ DRIVE_APP_NAME }": [
+        "Za ${ DRIVE_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.mail": {
+      "For ${ MAIL_APP_NAME }": [
+        "Za ${ MAIL_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.pass": {
+      "For ${ PASS_APP_NAME }": [
+        "Za ${ PASS_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.vpn": {
+      "For ${ VPN_APP_NAME }": [
+        "Za ${ VPN_APP_NAME }"
+      ]
+    },
+    "Safety review": {
+      "Review account safety": [
+        "Preglejte varnost računa"
       ]
     }
   }

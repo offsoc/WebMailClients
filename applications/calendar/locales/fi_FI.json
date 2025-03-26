@@ -639,7 +639,7 @@
         "Lähetä"
       ],
       "Set recovery phrase": [
-        "Aseta palautuslause"
+        "Aseta palautuslauseke"
       ],
       "Settings": [
         "Asetukset"
@@ -815,6 +815,9 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Ilmainen työpöytäsovelluksen kokeilujaksosi päättyy ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Help and resources": [
+        "Tuki ja resurssit"
       ]
     },
     "action": {
@@ -880,6 +883,9 @@
       "${ users } user": [
         "${ users } käyttäjä",
         "${ users } käyttäjää"
+      ],
+      "${ price } per seat": [
+        "${ price }/lisenssi"
       ]
     },
     "Alarm notification": {
@@ -1129,6 +1135,9 @@
       ],
       "Storage space is shared across all ${ BRAND_NAME } services.": [
         "Tallennustila jaetaan kaikkien ${ BRAND_NAME }-palveluiden kesken."
+      ],
+      "Secure logins on all your devices. Includes unlimited hide-my-email aliases, sharing, integrated 2FA, ${ DARK_WEB_MONITORING_NAME } and more.": [
+        "Suojaa kirjautumisesi kaikilla laitteillasi. Sisältää rajattomasti Hide-my-email-aliaksia, jakamisen, sisäänrakennetun 2FA:n, ${ DARK_WEB_MONITORING_NAME } ja muuta."
       ]
     },
     "Billing cycle option": {
@@ -2688,7 +2697,7 @@
         "Tämä voi kestää muutamia minuutteja. Voit jatkaa ${ CALENDAR_APP_NAME }in käyttöä odottaessasi normaalisti."
       ],
       "To ensure highest possible security of your account, set a recovery phrase.": [
-        "Varmista tilillesi korkein mahdollinen suojaus asettamalla palautuslause."
+        "Varmista tilillesi korkein mahdollinen suojaus asettamalla palautuslauseke."
       ],
       "To import via a CSV and VCF file, ensure the file does not exceed ${ MAX_IMPORT_FILE_SIZE_STRING } or ${ MAX_IMPORT_CONTACTS_STRING } contacts. If your file is bigger, please split it into smaller files. ${ learnMoreLink }.": [
         "Tuodaksesi CSV- ja VCF-tiedostoista, varmista ettei tiedoston koko ylitä ${ MAX_IMPORT_FILE_SIZE_STRING } tai yhteystietojen määrä ${ MAX_IMPORT_CONTACTS_STRING } yhteystietoa. Jos tiedostosi on suurempi, jaa se pienempiin osiin. ${ learnMoreLink }"
@@ -3423,6 +3432,9 @@
       ],
       "Your import will not be processed.": [
         "Tuontiasi ei käsitellä."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } on käyttäjätunnuksesi. Luodaksesi osoitteen ${ emailAddress }, avaa Asetukset > Identiteetti ja osoitteet > Lyhytosoite (pm.me)"
       ]
     },
     "Error accepting calendar invitation": {
@@ -5473,6 +5485,24 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Järjestelmäsi aikavyöhykkeeksi näyttää vaihtuneen ${ timezone }. Haluatko päivittää aikavyöhykeasetuksesi?"
+      ],
+      "${ PROTON_SENTINEL_NAME } protects your account with dedicated monitoring of suspicious activity.": [
+        "${ PROTON_SENTINEL_NAME } suojelee tiliäsi valvomalla epäilyttävää toimintaa."
+      ],
+      "or discover other features:": [
+        "tai tutustu muihin ominaisuuksiin:"
+      ],
+      "Subscription auto-renews every ${ cycle } month.": [
+        "Tilaus uusitaan automaattisesti ${ cycle } kuukauden välein.",
+        "Tilaus uusitaan automaattisesti ${ cycle } kuukauden välein."
+      ],
+      "You'll then be billed every ${ renewCycle } month at ${ renewAmountStr }.": [
+        "Silloin sinua laskutetaan joka ${ renewCycle } kuukausi ${ renewAmountStr }.",
+        "Silloin sinua laskutetaan joka ${ renewCycle } kuukausi ${ renewAmountStr }."
+      ],
+      "Your scheduled plan starts on ${ renewalTime } and will auto-renew every ${ cycle } month.": [
+        "Ajoitettu tilauksesi alkaa ${ renewalTime } ja uudistetaan automaattisesti ${ cycle } kuukauden välein.",
+        "Ajoitettu tilauksesi alkaa ${ renewalTime } ja uudistetaan automaattisesti ${ cycle } kuukauden välein."
       ]
     },
     "info": {
@@ -5611,11 +5641,17 @@
       ],
       "Week view": [
         "Viikkonäkymä"
+      ],
+      "Open quick actions menu": [
+        "Avaa pikatoimintovalikko"
       ]
     },
     "Keyboard shortcut section name": {
       "Basic actions": [
         "Perustoiminnot"
+      ],
+      "View options": [
+        "Näytä vaihtoehdot"
       ]
     },
     "Knowledge base link label": {
@@ -6057,6 +6093,9 @@
       ],
       "Your password (admin)": [
         "Salasanasi (ylläpitäjä)"
+      ],
+      "On": [
+        "Käytössä"
       ]
     },
     "Label for contact group color": {
@@ -6291,6 +6330,9 @@
       ],
       "for ${ price }": [
         "hintaan ${ price }"
+      ],
+      "Add-on with free trial": [
+        "Lisäosa ilmaisella kokeilujaksolla"
       ]
     },
     "mailtrial2024: Action": {
@@ -7066,6 +7108,12 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Skannaamme pimeää verkkoa tarkistaaksemme, onko ${ BRAND_NAME } -osoitteesi tai -aliaksesi vuotaneet ja hälytämme välittömästi, jos löydämme jotain."
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Suoratoistoon optimoidut palvelimet"
+      ],
+      "Manage user permissions and access": [
+        "Hallinnoi käyttöoikeuksia"
       ]
     },
     "new_plans: feature highlight": {
@@ -7235,7 +7283,7 @@
         "Poista automaattisesti yli 30 päivää vanhat viestit roskakorista ja roskapostista"
       ],
       "Automatically forward emails sent to your ${ MAIL_APP_NAME } account to any other email address.": [
-        "Välitä ${ MAIL_APP_NAME }-tilillesi lähetetyt sähköpostit automaattisesti mihin tahansa muuhun sähköpostiosoitteeseen."
+        "Ohjaa ${ MAIL_APP_NAME }-tilillesi lähetetyt sähköpostit automaattisesti mihin tahansa muuhun sähköpostiosoitteeseen."
       ],
       "Bulk promotional or programmatic email sending is currently not supported. We recommend using a dedicated email service provider for this use case.": [
         "Massamainontaa tai ohjelmoitavaa viestien lähetystä ei tällä hetkellä tueta. Suosittelemme käyttämään erityisesti tähän tarkoitukseen tarkoitettua sähköpostipalvelua."
@@ -7712,6 +7760,18 @@
       ],
       "Your subscription renews soon": [
         "Tilauksesi uusiutuu pian"
+      ],
+      "Last day to save": [
+        "Viimeisin tallennettava päivä"
+      ],
+      "Pay annually, secure our best offer": [
+        "Maksa vuosittain, hyödynnä paras tarjouksemme"
+      ],
+      "Save big when you pay annually": [
+        "Säästä enemmän, kun maksat vuosittain"
+      ],
+      "When you switch from a monthly to annual subscription.": [
+        "Kun vaihdat kuukausittaisesta tilauksesta vuosittaiseen."
       ]
     },
     "Offer feature": {
@@ -8684,6 +8744,9 @@
     "specialoffer: Footer": {
       "This subscription will automatically renew every 2 years at the same rate until it is canceled.": [
         "Tilaus uudistuu automaattisesti kahden vuoden välein samalla hinnalla, kunnes se perutaan."
+      ],
+      "Your subscription will renew at the same rate every year.": [
+        "Tilauksesi uusiutuu samaan hintaan joka vuosi."
       ]
     },
     "specialoffer: Link": {
@@ -10111,7 +10174,7 @@
         "Lähetä kutsu"
       ],
       "Set recovery phrase": [
-        "Aseta palautuslause"
+        "Aseta palautuslauseke"
       ],
       "Settings": [
         "Asetukset"
@@ -10193,6 +10256,12 @@
       ],
       "Your shorter address is now ready": [
         "Lyhyempi osoittesi on nyt valmis"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "${ appName }-pikanäppäimet"
+      ],
+      "Every week on ${ weekdaysLong[currentDay] }": [
+        "Joka viikko ${ weekdaysLong[currentDay] }"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10356,6 +10425,10 @@
       "Auto-selects from ${ numberOfCountries } country": [
         "Valitsee automaattisesti ${ numberOfCountries } maasta",
         "Valitsee automaattisesti ${ numberOfCountries } maasta"
+      ],
+      "Servers in ${ numberOfCountries }+ country": [
+        "Palvelimet ${ numberOfCountries }+ maassa",
+        "Palvelimet ${ numberOfCountries }+ maassa"
       ]
     },
     "vpn_2024: renew": {
@@ -10369,6 +10442,9 @@
       "Your subscription will automatically renew in ${ cycle } month.": [
         "Tilauksesi uudistuu automaattisesti ${ cycle } kuukauden kuluttua.",
         "Tilauksesi uudistuu automaattisesti ${ cycle } kuukauden kuluttua."
+      ],
+      "Your scheduled plan starts on ${ renewalTime }.": [
+        "Ajoitettu tilauksesi alkaa ${ renewalTime }."
       ]
     },
     "vpn_2step: feature": {
@@ -10511,6 +10587,15 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Ilmainen kokeilusi päättyy ${ textDate }. ${ action }"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Ei voi alkaa pisteellä"
+      ],
+      "Cannot contain a dot at the end": [
+        "Ei voi päättyä pisteeseen"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Vain aakkosnumeeriset pienet kirjaimet, pisteet, yhdysmerkit ja alaviivat ovat sallittuja"
       ]
     },
     "Warning in modal to accept calendar invitation; Description": {
@@ -10786,6 +10871,39 @@
       ],
       "Passcode:": [
         "Tunnuskoodi:"
+      ]
+    },
+    "customer_support.feature.all": {
+      "For all ${ BRAND_NAME } services": [
+        "Kaikille ${ BRAND_NAME }-palveluille"
+      ]
+    },
+    "customer_support.feature.drive": {
+      "For ${ DRIVE_APP_NAME }": [
+        "${ DRIVE_APP_NAME }lle"
+      ]
+    },
+    "customer_support.feature.mail": {
+      "For ${ MAIL_APP_NAME }": [
+        "${ MAIL_APP_NAME }ille"
+      ]
+    },
+    "customer_support.feature.pass": {
+      "For ${ PASS_APP_NAME }": [
+        "${ PASS_APP_NAME }ille"
+      ]
+    },
+    "customer_support.feature.vpn": {
+      "For ${ VPN_APP_NAME }": [
+        "${ VPN_APP_NAME }:lle"
+      ]
+    },
+    "Info for cash payment method": {
+      "How to send a cash payment?": [
+        "Miten käteismaksu lähetetään?"
+      ],
+      "Please find the instructions in the article: ${ howToSendCashArticleUrl }": [
+        "Löydät ohjeet artikkelista: ${ howToSendCashArticleUrl }"
       ]
     }
   }

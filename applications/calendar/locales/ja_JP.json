@@ -805,6 +805,15 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "デスクトップアプリの無料トライアルは ${ formattedEndDate } で終了します。${ upgradeButton }"
+      ],
+      "Add another account": [
+        "別のアカウントを追加する"
+      ],
+      "Help and feedback": [
+        "ヘルプとフィードバック"
+      ],
+      "Help and resources": [
+        "ヘルプとリソース"
       ]
     },
     "action": {
@@ -1130,6 +1139,12 @@
       ],
       "Two-year": [
         "2年払い"
+      ],
+      "Lifetime": [
+        "一生涯"
+      ],
+      "New!": [
+        "New!"
       ]
     },
     "Browser": {
@@ -5400,6 +5415,9 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "システムのタイムゾーンが${ timezone }に変更されたようです。タイムゾーンの設定を更新しますか？"
+      ],
+      "Other accounts": [
+        "その他のアカウント"
       ]
     },
     "info": {
@@ -6227,6 +6245,9 @@
       ],
       "for ${ price }": [
         "${ price } の場合"
+      ],
+      "Add-on with free trial": [
+        "無料トライアル付きアドオン"
       ]
     },
     "mailtrial2024: Action": {
@@ -6977,6 +6998,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "ダークウェブをスキャンして、あなたの ${ BRAND_NAME } アドレスやエイリアスが漏洩していないかを確認し、何か見つかった場合はすぐに警告します。"
+      ],
+      "${ size } storage per user": [
+        "ユーザーあたり ${ size }のストレージ"
+      ],
+      "Manage user permissions and access": [
+        "ユーザー権限とアクセス権限の管理"
+      ],
+      "Password manager to secure credentials": [
+        "認証情報を保護するためのパスワードマネージャー"
       ]
     },
     "new_plans: feature highlight": {
@@ -7093,6 +7123,9 @@
       ],
       "You’re enjoying a promotional price on your current plan. If you downgrade your account, you will lose your promotional price and it won’t be available if you try to subscribe again.": [
         "現在ご契約中のプランでは、キャンペーン価格をご利用いただけます。アカウントをダウングレードすると、キャンペーン価格が適用されなくなります。"
+      ],
+      "Pay once, secure your passwords and identity forever.": [
+        "一度だけの支払いで、パスワードとアイデンティティを永遠に保護します。"
       ]
     },
     "new_plans: Subtext": {
@@ -7776,6 +7809,12 @@
     "pass_signup_2023: Info": {
       "Secure vault sharing": [
         "安全な保管庫共有"
+      ],
+      "Secure vault, item and link sharing": [
+        "安全な保管庫、アイテム、リンク共有"
+      ],
+      "Unlimited logins, notes, credit cards and more": [
+        "無制限のログイン、メモ、クレジットカードなど"
       ]
     },
     "pass_signup_2024: Info": {
@@ -8853,6 +8892,9 @@
       ],
       "${ n } VPN connection per user": [
         "1 ユーザーあたり ${ n } 件の VPN 接続"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "ユーザーごとに ${ n } 台のデバイスへのVPN接続"
       ]
     },
     "Subscription change warning": {
@@ -10052,6 +10094,9 @@
       ],
       "Your shorter address is now ready": [
         "短いアドレスの準備ができました"
+      ],
+      "Help and feedback": [
+        "ヘルプとフィードバック"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10206,6 +10251,9 @@
       ],
       "Auto-selects from ${ numberOfCountries } country": [
         "${ numberOfCountries }ヶ国から自動選択"
+      ],
+      "Servers in ${ numberOfCountries }+ country": [
+        "${ numberOfCountries }ヶ国以上にあるサーバー"
       ]
     },
     "vpn_2024: renew": {
@@ -10612,6 +10660,31 @@
       ],
       "Passcode:": [
         "パスコード："
+      ]
+    },
+    "customer_support.feature.all": {
+      "For all ${ BRAND_NAME } services": [
+        "すべての ${ BRAND_NAME } サービス向け"
+      ]
+    },
+    "customer_support.feature.drive": {
+      "For ${ DRIVE_APP_NAME }": [
+        "${ DRIVE_APP_NAME } 向け"
+      ]
+    },
+    "customer_support.feature.mail": {
+      "For ${ MAIL_APP_NAME }": [
+        "${ MAIL_APP_NAME } 向け"
+      ]
+    },
+    "customer_support.feature.pass": {
+      "For ${ PASS_APP_NAME }": [
+        "${ PASS_APP_NAME } 向け"
+      ]
+    },
+    "customer_support.feature.vpn": {
+      "For ${ VPN_APP_NAME }": [
+        "${ VPN_APP_NAME } 向け"
       ]
     }
   }

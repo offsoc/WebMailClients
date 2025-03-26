@@ -10913,6 +10913,12 @@
         "${ numberOfServers } в ${ numberOfCountries } странах",
         "${ numberOfServers } в ${ numberOfCountries } странах",
         "${ numberOfServers } в ${ numberOfCountries } странах"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } страны",
+        "${ numberOfCountries } стран",
+        "${ numberOfCountries } стран",
+        "${ numberOfCountries } стран"
       ]
     },
     "vpn_2024: renew": {
