@@ -1489,6 +1489,12 @@
       ],
       "hide-my-email aliases": [
         "hide-my-email aliassen"
+      ],
+      "Explore ${ VPN_APP_NAME }": [
+        "Ontdek ${ VPN_APP_NAME }"
+      ],
+      "Toggle VPN dashboard": [
+        "VPN-dashboard in-/uitschakelen"
       ]
     },
     "action": {
@@ -1554,6 +1560,9 @@
       "${ users } user": [
         "${ users } gebruiker",
         "${ users } gebruikers"
+      ],
+      "${ price } per seat": [
+        "${ price } per zitplaats"
       ]
     },
     "Alert": {
@@ -4582,6 +4591,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Uw zoekopdracht leverde te veel resultaten op. Verfijn uw zoekopdracht en probeer het opnieuw."
+      ],
+      "Unable to load VPN dashboard. Please check your connection and try again.": [
+        "Kan VPN dashboard niet laden. Controleer uw verbinding en probeer het opnieuw."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7937,6 +7949,129 @@
       ],
       "Protect your email from being leaked to mailing lists or spammers with ${ hideMyEmailAliasesLink }.": [
         "Voorkom dat uw e-mailadres gelekt wordt naar nieuwsbrieven of spammers met ${ hideMyEmailAliasesLink }."
+      ],
+      "${ VPN_APP_NAME } is masking your IP address, so websites can’t identify you.": [
+        "${ VPN_APP_NAME } maskeert uw IP-adres, zodat websites u niet kunnen identificeren."
+      ],
+      "**Auto-connect**: Opens and connects to VPN as soon as you turn on your device.": [
+        "**Automatisch Verbinden**: Opent en verbindt met VPN zodra u uw apparaat aan zet."
+      ],
+      "**Kill switch**: Stops data leaks by blocking your internet if the VPN drops unexpectedly.": [
+        "**Kill switch**: Stop datalekken door uw internet te blokkeren als uw VPN-verbinding onverwachts stopt."
+      ],
+      "A secure connection is essential when working remotely. A VPN protects company data from cyber threats and keeps your work private.": [
+        "Een veilige verbinding is essentieel bij het werken op afstand. Een VPN beschermt bedrijfsgegevens tegen cyberbedreigingen en houdt uw werk privé."
+      ],
+      "A VPN encrypts your connection and hides your IP address, making it much harder for anyone to track or monitor your browsing.": [
+        "Een VPN versleutelt uw verbinding en verbergt uw IP-adres, waardoor het voor iedereen veel moeilijker is om uw surfen te volgen of te monitoren."
+      ],
+      "A VPN hides your IP address and encrypts your browsing activity, making it harder for websites, advertisers, and ISPs to track you over time.": [
+        "Een VPN verbergt uw IP-adres en versleutelt uw browseractiviteit, waardoor het moeilijker wordt voor websites, adverteerders en internetproviders om u over een bepaalde periode te volgen."
+      ],
+      "A VPN is a secure tunnel between your device and the internet. It hides your location and activity from your internet service provider (ISP) and the websites you visit.": [
+        "Een VPN is een veilige tunnel tussen uw apparaat en het internet. Het verbergt je locatie en activiteit van je internetprovider (ISP) en de websites die je bezoekt."
+      ],
+      "Ad targeting": [
+        "Advertentie targeting"
+      ],
+      "Advertisers track your browsing to show targeted ads. ${ VPN_APP_NAME } blocks trackers and ads, making your connection faster and improving your online experience.": [
+        "Adverteerders volgen uw internetgedrag om gerichte advertenties te tonen. ${ VPN_APP_NAME } blokkeert trackers en advertenties, maakt uw verbinding sneller en verbetert uw online ervaring."
+      ],
+      "Browse privately and access blocked content.": [
+        "Blader privé en krijg toegang tot geblokkeerde content."
+      ],
+      "Connect to ${ VPN_APP_NAME } to browse privately": [
+        "Verbind met ${ VPN_APP_NAME } om privé te browsen"
+      ],
+      "Geoblocking": [
+        "Geoblocking"
+      ],
+      "Governments and ISPs can monitor your online activity. By hiding your real IP and encrypting your activity your browsing becomes private.": [
+        "Regeringen en ISP's kunnen uw online activiteiten controleren. Door uw echte IP te verbergen en uw activiteit te versleutelen, wordt uw browsen privé."
+      ],
+      "In restrictive countries": [
+        "In restrictieve landen"
+      ],
+      "Included for free with your plan": [
+        "Gratis inbegrepen bij uw abonnement"
+      ],
+      "It’s best to use a VPN at all times. But here’s when cybersecurity threats can be the highest:": [
+        "Het is het beste om op elk moment een VPN te gebruiken. Maar hier is wanneer cyberbeveiligingsbedreigingen de grootste kunnen zijn:"
+      ],
+      "Most public WiFi networks are safe, but some lack security, exposing you to cyber threats. A VPN encrypts your traffic, keeping you protected.": [
+        "De meeste openbare wifi-netwerken zijn veilig, maar sommige zijn onveilig, waardoor u wordt blootgesteld aan cyberbedreigingen. Een VPN versleutelt uw verkeer en houdt u beschermd."
+      ],
+      "Not connected": [
+        "Niet verbonden"
+      ],
+      "On public WiFi networks": [
+        "Op openbare wifinetwerken"
+      ],
+      "Private browsing (or “incognito” mode) is only useful for keeping your activity hidden on your device. It stops your browser from saving history and cookies, but it doesn’t make you invisible. Your ISP, network administrator, and the websites you visit can still see what you do online.": [
+        "Privé browsen (of \"incognito\" modus) is alleen handig om uw activiteit verborgen te houden op uw apparaat. Het stopt je browser om geschiedenis en cookies op te slaan, maar het maakt je niet onzichtbaar. Uw ISP, netwerkbeheerder en de websites die u bezoekt kunnen nog steeds zien wat u online doet."
+      ],
+      "Scan the QR code with your mobile device": [
+        "Scan de QR-code met uw mobiele apparaat"
+      ],
+      "Some governments block or restrict access to certain websites. A VPN helps bypass censorship while keeping your activity and identity private.": [
+        "Sommige regeringen blokkeren of beperken de toegang tot bepaalde websites. Een VPN helpt censuur te omzeilen en uw activiteit en identiteit privé te houden."
+      ],
+      "Some websites and streaming services block content by region. A VPN lets you bypass these restrictions and access the internet freely.": [
+        "Sommige websites en streaming services blokkeren de inhoud per regio. Een VPN stelt u in staat om deze beperkingen te omzeilen en vrij toegang te hebben tot het internet."
+      ],
+      "Stay connected effortlessly by enabling the following VPN settings:": [
+        "Blijf moeiteloos verbonden door de volgende VPN-instellingen in te schakelen:"
+      ],
+      "Subscription auto-renews every ${ cycle } month.": [
+        "Abonnement vernieuwt automatisch elke ${ cycle } maand.",
+        "Abonnement vernieuwt automatisch elke ${ cycle } maanden."
+      ],
+      "Surveillance": [
+        "Surveillance"
+      ],
+      "This means that your ISP and the websites you visit can’t connect your personal information with your online activity.": [
+        "Dit betekent dat uw internetprovider en de websites die u bezoekt, uw persoonlijke gegevens niet kunnen koppelen aan uw online activiteiten."
+      ],
+      "This unique code can be used by websites and ISPs (internet service providers) to link your location and browsing history to your device": [
+        "Deze unieke code kan worden gebruikt door websites en ISP's (internetproviders) om uw locatie en browsegeschiedenis te koppelen aan uw apparaat"
+      ],
+      "Tracking": [
+        "Tracking"
+      ],
+      "VPN IP": [
+        "VPN IP-adres"
+      ],
+      "When working remotely": [
+        "Bij werken op afstand"
+      ],
+      "When you connect to VPN, it uses encryption technology to hide your IP address (a unique code assigned to your device).": [
+        "Wanneer u verbinding maakt met VPN, gebruikt het versleutelingstechnologie om uw IP-adres te verbergen (een unieke code toegewezen aan uw apparaat)."
+      ],
+      "You'll then be billed every ${ renewCycle } month at ${ renewAmountStr }.": [
+        "U wordt dan elke ${ renewCycle } maand voor ${ renewAmountStr } gefactureerd.",
+        "U wordt dan elke ${ renewCycle } maanden voor ${ renewAmountStr } gefactureerd."
+      ],
+      "Your internet service provider can monitor and sometimes sell your data, or even restrict what websites you can access.": [
+        "Uw provider kan uw gegevens monitoren en soms verkopen, of zelfs beperken welke websites u kunt bezoeken."
+      ],
+      "Your IP": [
+        "Uw IP-adres"
+      ],
+      "Your IP address is visible and can be used to track your online activity.": [
+        "Uw IP-adres is zichtbaar en kan worden gebruikt om uw online activiteit te volgen."
+      ],
+      "Your online activity is protected": [
+        "Uw online activiteiten zijn beschermd"
+      ],
+      "Your physical location is visible and can be used to restrict your access to the internet.": [
+        "Uw fysieke locatie is zichtbaar en kan worden gebruikt om uw toegang tot het internet te beperken."
+      ],
+      "Your scheduled plan starts on ${ renewalTime } and will auto-renew every ${ cycle } month.": [
+        "Uw gepland abonnement begint op ${ renewalTime } en wordt elke ${ cycle } maand automatisch vernieuwd.",
+        "Uw gepland abonnement begint op ${ renewalTime } en wordt elke ${ cycle } maanden automatisch vernieuwd."
+      ],
+      "Your subscription will automatically renew on ${ renewalTime }.": [
+        "Uw abonnement wordt automatisch verlengd op ${ renewalTime }."
       ]
     },
     "info": {
@@ -8778,6 +8913,15 @@
       ],
       "Integrated 2FA authenticator": [
         "Geïntegreerde tweestapsverificatie"
+      ],
+      "Your IP": [
+        "Uw IP"
+      ],
+      "Your ISP": [
+        "Uw internetprovider"
+      ],
+      "Your location": [
+        "Uw locatie"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -10911,6 +11055,40 @@
       ],
       "We are processing your payment for the billed invoice. Please wait until the payment is completed before making changes to your plan or updating your payment details. Thank you for your patience.": [
         "We verwerken uw betaling voor de factuur. Wacht tot de betaling is voltooid voordat u uw abonnement wijzigt of betalingsgegevens bijwerkt. Dank u voor uw geduld."
+      ],
+      "During this time, you will not be able to modify or cancel your subscription. Please wait until your payment is completed before attempting any changes. Thank you for your patience.": [
+        "Gedurende deze periode kunt u uw abonnement niet wijzigen of annuleren. Wacht tot uw betaling is voltooid voordat u wijzigingen aanbrengt. Bedankt voor uw geduld."
+      ],
+      "Renewal pricing subject to change according to ${ termsAndConditionsLink }.": [
+        "Bij vernieuwing zijn prijswijziging volgen volgende ${ termsAndConditionsLink }."
+      ],
+      "Renews at ${ renewPriceStr }, cancel anytime.": [
+        "Wordt verlengd voor ${ renewPriceStr }, altijd opzegbaar."
+      ],
+      "terms & conditions": [
+        "algemene voorwaarden"
+      ],
+      "The coupon is valid for ${ couponRedemptions } renewal.": [
+        "De korting is geldig voor ${ couponRedemptions } verlenging.",
+        "De korting is geldig voor ${ couponRedemptions } verlengingen."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first ${ subscriptionLength } month.": [
+        "De speciale kortingsprijs van ${ priceWithDiscount } is geldig voor de eerste ${ subscriptionLength } maand.",
+        "De speciale kortingsprijs van ${ priceWithDiscount } is geldig voor de eerste ${ subscriptionLength } maanden."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. The coupon is valid for ${ couponRedemptions } renewal. Then it will automatically be renewed at ${ renewPriceStr } for 1 month. You can cancel at any time.": [
+        "De speciale kortingsprijs van ${ priceWithDiscount } is geldig voor de eerste maand. De kortingscode is geldig voor ${ couponRedemptions } vernieuwing. Daarna wordt uw abonnement automatisch vernieuwd voor ${ renewPriceStr } voor 1 maand. U kunt op elk moment annuleren.",
+        "De speciale kortingsprijs van ${ priceWithDiscount } is geldig voor de eerste maand. De kortingscode is geldig voor ${ couponRedemptions } vernieuwingen. Daarna wordt uw abonnement automatisch vernieuwd voor ${ renewPriceStr } voor 1 maand. U kunt op elk moment annuleren."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. Then it will automatically be renewed at ${ renewPriceStr } every month. You can cancel at any time.": [
+        "De speciale kortingsprijs van ${ priceWithDiscount } is geldig voor de eerste maand. Daarna wordt uw abonnement automatisch vernieuwd voor ${ renewPriceStr } per maand. U kunt op elke moment annuleren"
+      ],
+      "Then it will automatically be renewed at ${ renewPriceStr } for ${ renewalLength } month. You can cancel at any time.": [
+        "Dan wordt het automatisch verlengd op ${ renewPriceStr } voor ${ renewalLength } maand. U kunt op elk moment annuleren.",
+        "Dan wordt het automatisch vernieuwd op ${ renewPriceStr } voor ${ renewalLength } maanden. U kunt op elk moment annuleren."
+      ],
+      "Your payment is still being processed": [
+        "Uw betaling wordt nog verwerkt"
       ]
     },
     "Payments.Error": {
@@ -13809,6 +13987,42 @@
       ],
       "Help and feedback": [
         "Hulp en feedback"
+      ],
+      "Desktop": [
+        "Desktop"
+      ],
+      "Download the app": [
+        "Download de app"
+      ],
+      "Get more from your VPN": [
+        "Haal meer uit uw VPN"
+      ],
+      "How does it all work?": [
+        "Hoe werkt het?"
+      ],
+      "Increase security with ${ VPN_APP_NAME }": [
+        "Verhoog beveiliging met ${ VPN_APP_NAME }"
+      ],
+      "Make a secure connection your default": [
+        "Maak een beveiligde verbinding uw standaard"
+      ],
+      "Mobile": [
+        "Mobiel"
+      ],
+      "Private browsing vs VPN": [
+        "Privébrowsen vs VPN"
+      ],
+      "VPN explained": [
+        "VPN uitgelegd"
+      ],
+      "What can a VPN protect you from?": [
+        "Waartegen kan een VPN u beschermen?"
+      ],
+      "What is a VPN?": [
+        "Wat is een VPN?"
+      ],
+      "When is it most important to use a VPN?": [
+        "Wanneer is het erg belangrijk om een VPN te gebruiken?"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13969,6 +14183,10 @@
       "Auto-selects from ${ numberOfCountries } country": [
         "Automatisch geselecteerd uit ${ numberOfCountries } land",
         "Automatisch geselecteerd uit ${ numberOfCountries } landen"
+      ],
+      "Servers in ${ numberOfCountries }+ country": [
+        "Servers in ${ numberOfCountries }+ land",
+        "Servers in ${ numberOfCountries }+ landen"
       ]
     },
     "vpn_2024: renew": {
@@ -13985,6 +14203,9 @@
       "Your subscription will automatically renew in ${ cycle } month.": [
         "Uw abonnement wordt automatisch verlengd over ${ cycle } maand.",
         "Uw abonnement wordt automatisch verlengd over ${ cycle } maanden."
+      ],
+      "You'll then be billed every 12 months at ${ renewPriceStr }.": [
+        "U wordt vervolgens elke 12 maanden ${ renewPriceStr } gefactureerd."
       ]
     },
     "vpn_2step: feature": {
@@ -14458,6 +14679,17 @@
     "Feature": {
       "Unlimited hide-my-email aliases": [
         "Onbeperkt aantal hide-my-email-aliassen"
+      ]
+    },
+    "Drawer tab, Action": {
+      "Download for Linux": [
+        "Downloaden voor Linux"
+      ],
+      "Download for macOS": [
+        "Downloaden voor macOS"
+      ],
+      "Download for Windows": [
+        "Download voor Windows"
       ]
     }
   }

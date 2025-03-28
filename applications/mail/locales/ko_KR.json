@@ -1469,6 +1469,18 @@
       ],
       "Zoom out": [
         "축소"
+      ],
+      "Add another account": [
+        "다른 계정 추가"
+      ],
+      "Help and feedback": [
+        "도움말 및 의견"
+      ],
+      "Help and resources": [
+        "지원 및 도움말"
+      ],
+      "hide-my-email aliases": [
+        "Hide-my-email 별칭"
       ]
     },
     "action": {
@@ -1785,6 +1797,9 @@
       ],
       "VPN Accelerator": [
         "VPN Accelerator"
+      ],
+      "Unlimited logins, credit cards, hide-my-email aliases and more": [
+        "무제한 로그인, 신용 카드, hide-my-email 별칭 등"
       ]
     },
     "BF2024: Offers": {
@@ -1842,6 +1857,12 @@
       ],
       "Two-year": [
         "2년"
+      ],
+      "Lifetime": [
+        "평생"
+      ],
+      "New!": [
+        "신규!"
       ]
     },
     "Browser": {
@@ -7770,6 +7791,30 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "예약된 플랜이 ${ renewalTime }에 시작하여 매달 자동 갱신됩니다."
+      ],
+      "Other accounts": [
+        "다른 계정"
+      ],
+      "Our system flagged this as suspicious. If it is not a phishing or scam email, mark as legitimate.": [
+        "시스템이 이 메시지를 의심스러운 항목으로 확인했습니다. 해당 메일이 피싱, 스캠이 아니라면 합법으로 표시하세요."
+      ],
+      "Our system flagged this message as a phishing attempt. Please check to ensure that it is legitimate.": [
+        "시스템이 이 메시지를 피싱 시도로 확인했습니다. 해당 메일이 합법적인 내용인지 확인해 주세요."
+      ],
+      "Protect your email from being leaked to mailing lists or spammers with ${ hideMyEmailAliasesLink }.": [
+        "${ hideMyEmailAliasesLink }로 메일링 리스트나 스패머로 이메일이 유출되지 않도록 보호하세요."
+      ],
+      "Subscription auto-renews every ${ cycle } month.": [
+        "구독이 매 ${ cycle }개월마다 자동 갱신됩니다."
+      ],
+      "You'll then be billed every ${ renewCycle } month at ${ renewAmountStr }.": [
+        "${ renewCycle }개월마다 ${ renewAmountStr }의 가격으로 갱신됩니다."
+      ],
+      "Your scheduled plan starts on ${ renewalTime } and will auto-renew every ${ cycle } month.": [
+        "예약된 플랜이 ${ renewalTime }에 시작하여 ${ cycle }개월마다 자동 갱신됩니다."
+      ],
+      "Your subscription will automatically renew on ${ renewalTime }.": [
+        "사용자의 구독이 ${ renewalTime }에 자동으로 갱신됩니다."
       ]
     },
     "info": {
@@ -9724,6 +9769,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "${ BRAND_NAME } 주소나 별칭이 유출되었는지 확인하기 위해 다크 웹을 탐색하며 발견한 것이 있다면 즉시 알려드립니다."
+      ],
+      "${ size } storage per user": [
+        "사용자 당 ${ size } 저장 공간"
+      ],
+      "Manage user permissions and access": [
+        "사용자 권한 및 접근 관리"
+      ],
+      "Password manager to secure credentials": [
+        "자격 증명 보호를 위한 비밀번호 관리자"
       ]
     },
     "new_plans: feature highlight": {
@@ -9840,6 +9894,9 @@
       ],
       "You’re enjoying a promotional price on your current plan. If you downgrade your account, you will lose your promotional price and it won’t be available if you try to subscribe again.": [
         "현재 플랜을 프로모션이 적용된 가격으로 즐기고 계십니다. 만약 계정을 다운그레이드 하신다면, 프로모션이 적용된 가격을 잃게되어 만일 다시 구독을 시도하더라도 다시 누리실 수 없습니다."
+      ],
+      "Pay once, secure your passwords and identity forever.": [
+        "한 번만 결제하여 평생 비밀번호와 신원 정보를 보호하세요."
       ]
     },
     "new_plans: Subtext": {
@@ -10545,6 +10602,12 @@
       ],
       "Secure vault sharing (${ n } vault) and link sharing": [
         "안전한 링크 공유 (${ n }개 금고) 및 링크 공유"
+      ],
+      "Secure vault, item and link sharing": [
+        "안전한 금고, 항목 및 링크 공유"
+      ],
+      "Unlimited logins, notes, credit cards and more": [
+        "무제한 로그인, 메모 및 신용 카드 등등"
       ]
     },
     "pass_signup_2024: Info": {
@@ -10680,6 +10743,36 @@
       ],
       "We are processing your payment for the billed invoice. Please wait until the payment is completed before making changes to your plan or updating your payment details. Thank you for your patience.": [
         "현재 청구서에 대한 결제를 진행 중입니다. 사용자의 플랜이 변경되거나 결제 상세 정보가 업데이트되기 전까지 잠시 기다려주세요. 깊은 이해에 감사드립니다."
+      ],
+      "During this time, you will not be able to modify or cancel your subscription. Please wait until your payment is completed before attempting any changes. Thank you for your patience.": [
+        "이 기간 동안 구독을 수정하거나 취소할 수 없습니다. 변경을 시도하기 전에 결제가 완료될 때까지 기다려 주세요. 기다려 주셔서 감사합니다."
+      ],
+      "Renewal pricing subject to change according to ${ termsAndConditionsLink }.": [
+        "갱신 가격은 ${ termsAndConditionsLink }에 따라 변경될 수 있습니다."
+      ],
+      "Renews at ${ renewPriceStr }, cancel anytime.": [
+        "${ renewPriceStr }에 갱신되며 언제나 취소할 수 있습니다."
+      ],
+      "terms & conditions": [
+        "이용 약관"
+      ],
+      "The coupon is valid for ${ couponRedemptions } renewal.": [
+        "쿠폰이 ${ couponRedemptions } 갱신에 유효합니다."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first ${ subscriptionLength } month.": [
+        "특별 할인 가격인 ${ priceWithDiscount }은(는) 최초 ${ subscriptionLength }개월에 한해 유효합니다."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. The coupon is valid for ${ couponRedemptions } renewal. Then it will automatically be renewed at ${ renewPriceStr } for 1 month. You can cancel at any time.": [
+        "특별 할인가 ${ priceWithDiscount }는 첫 달만 적용됩니다. 쿠폰은 ${ couponRedemptions }회 갱신까지 유효합니다. 이후에는 매월 ${ renewPriceStr }로 개월 동안 자동 갱신되며, 언제든지 취소할 수 있습니다."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. Then it will automatically be renewed at ${ renewPriceStr } every month. You can cancel at any time.": [
+        "특별 할인가 ${ priceWithDiscount }는 첫 달에만 유효합니다. 이후 매 달 ${ renewPriceStr }에 자동으로 갱신됩니다. 취소는 언제나 가능합니다."
+      ],
+      "Then it will automatically be renewed at ${ renewPriceStr } for ${ renewalLength } month. You can cancel at any time.": [
+        "그 후 ${ renewalLength }개월 간 ${ renewPriceStr }(으)로 자동 갱신됩니다. 언제든 취소하실 수 있습니다."
+      ],
+      "Your payment is still being processed": [
+        "회원님의 결제가 아직 처리 중입니다"
       ]
     },
     "Payments.Error": {
@@ -11872,6 +11965,9 @@
       ],
       "${ n } VPN connection per user": [
         "사용자 당 ${ n }개 VPN 연결"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "사용자 당 ${ n }개 기기에 대한 VPN 연결"
       ]
     },
     "Subscription change warning": {
@@ -13489,6 +13585,9 @@
       ],
       "Your shorter address is now ready": [
         "짧은 주소가 준비되었습니다"
+      ],
+      "Help and feedback": [
+        "도움말 및 의견"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13640,6 +13739,9 @@
       ],
       "Auto-selects from ${ numberOfCountries } country": [
         "${ numberOfCountries }개 국가에서 자동 선택됨"
+      ],
+      "Servers in ${ numberOfCountries }+ country": [
+        "${ numberOfCountries }개 이상 국가 내 서버"
       ]
     },
     "vpn_2024: renew": {
@@ -13654,6 +13756,9 @@
       ],
       "Your subscription will automatically renew in ${ cycle } month.": [
         "사용자의 구독이 ${ cycle }개월 뒤에 자동으로 갱신됩니다."
+      ],
+      "You'll then be billed every 12 months at ${ renewPriceStr }.": [
+        "12개월마다 ${ renewPriceStr }가 결제됩니다."
       ]
     },
     "vpn_2step: feature": {
@@ -14067,6 +14172,31 @@
     "Feature": {
       "Unlimited hide-my-email aliases": [
         "무제한 hide-my-email 별칭"
+      ]
+    },
+    "customer_support.feature.all": {
+      "For all ${ BRAND_NAME } services": [
+        "모든 ${ BRAND_NAME } 서비스에서 사용"
+      ]
+    },
+    "customer_support.feature.drive": {
+      "For ${ DRIVE_APP_NAME }": [
+        "${ DRIVE_APP_NAME }용"
+      ]
+    },
+    "customer_support.feature.mail": {
+      "For ${ MAIL_APP_NAME }": [
+        "${ MAIL_APP_NAME }용"
+      ]
+    },
+    "customer_support.feature.pass": {
+      "For ${ PASS_APP_NAME }": [
+        "${ PASS_APP_NAME }용"
+      ]
+    },
+    "customer_support.feature.vpn": {
+      "For ${ VPN_APP_NAME }": [
+        "${ VPN_APP_NAME }용"
       ]
     }
   }

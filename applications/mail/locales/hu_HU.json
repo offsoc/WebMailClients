@@ -1374,7 +1374,7 @@
         "Pontosabb műveletek"
       ],
       "Resume downloading": [
-        "letöltés "
+        "Letöltés folytatása"
       ],
       "Show navigation bar": [
         "Navigációs sáv mutatása"
@@ -1452,7 +1452,7 @@
     },
     "Alt": {
       "Forwarded": [
-        "Továbbított"
+        "Továbbítva"
       ],
       "Replied to": [
         "Válaszolt"
@@ -1525,7 +1525,7 @@
     },
     "Assistant toggle": {
       "Take email productivity to new levels. Let ${ BRAND_NAME } Scribe help you write, reply to, and proofread your emails.": [
-        "Emeld új szintre az e-mailes produktivitást. Hagyd, hogy a ${ BRAND_NAME } Scribe segítsen megírni, válaszolni és lektorálni az e-mailjeidet."
+        "Emelje új szintre az e-mailes produktivitást. Hagyja, hogy a ${ BRAND_NAME } Scribe segítsen megírni, válaszolni és lektorálni az e-mailjeit."
       ]
     },
     "Attached ics file error": {
@@ -1686,10 +1686,10 @@
         "Tartsa biztonságban e-mailjeit és időbeosztását végpontok közti titkosítással. Tartalmaz ${ addresses } e-mail címet, egyéni e-mail domain név támogatását, ${ BRAND_NAME } Scribe íróasszisztenst, korlátlan számú hide-my-email álnév és további lehetőségeket."
       ],
       "Secure your emails and schedule with end-to-end encryption. Includes 15 email addresses, support for custom email domains, ${ BRAND_NAME } Scribe writing assistant, unlimited hide-my-email aliases and more.": [
-        "Tartsa biztonságban e-mailjeit és időbeosztását végpontok közti titkosítással. Tartalmaz 15 e-mail címet, egyéni e-mail domain név támogatását, ${ BRAND_NAME } Scribe íróasszisztenst, korlátlan számú hide-my-email álnév és további lehetőségeket."
+        "Tartsa biztonságban e-mailjeit és időbeosztását végpontok közti titkosítással. Tartalmaz 15 e-mail címet, egyéni e-mail domain név támogatását, ${ BRAND_NAME } Scribe íróasszisztenst, korlátlan számú hide-my-email álnevet és további lehetőségeket."
       ],
       "Secure your emails and schedule with end-to-end encryption. Includes 15 email addresses, support for custom email domains, unlimited hide-my-email aliases and more.": [
-        "Tartsa biztonságban e-mailjeit és időbeosztását végpontok közti titkosítással. 15 e-mail címet, egyéni e-mail domain név támogatását, korlátlan számú hide-my-email e-mail álnév és további lehetőségeket tartalmaz."
+        "Tartsa biztonságban e-mailjeit és időbeosztását végpontok közti titkosítással. 15 e-mail címet, egyéni e-mail domain név támogatását, korlátlan számú hide-my-email e-mail álnevet és további lehetőségeket tartalmaz."
       ],
       "Secure your files with encrypted cloud storage. Includes online document editor, photo backup, version history, encrypted file sharing, and more.": [
         "Tartsa biztonságban fájljait titkosított felhőtárhelyen. Online dokumentum szerkesztő, fotók biztonsági mentése, verziótörténet, titkosított fájlmegosztás és további lehetőségek."
@@ -1699,6 +1699,10 @@
       ],
       "Storage space is shared across all ${ BRAND_NAME } services.": [
         "A tárhelye meg van osztva minden ${ BRAND_NAME } alkalmazás között."
+      ],
+      "Secure your emails and schedule with end-to-end encryption. Includes ${ addresses } email address, support for custom email domains, unlimited hide-my-email aliases and more.": [
+        "Védje e-mailjeit és ütemezze végponttól-végpontig tartó titkosítással. Tartalmaz ${ addresses } e-mail címet, egyéni e-mail tartományok támogatását, korlátlan számú hide-my-email e-mail álnevet és még sok mást.",
+        "Védje e-mailjeit és ütemezze végponttól-végpontig tartó titkosítással. Tartalmaz ${ addresses } e-mail címet, egyéni e-mail tartományok támogatását, korlátlan számú hide-my-email e-mail álnevet és még sok mást."
       ]
     },
     "Billing cycle option": {
@@ -1716,6 +1720,9 @@
       ],
       "Two-year": [
         "Kétévente"
+      ],
+      "New!": [
+        "Új"
       ]
     },
     "Browser": {
@@ -1818,6 +1825,9 @@
       ],
       "Remind me later": [
         "Emlékeztessen később"
+      ],
+      "Next": [
+        "Tovább"
       ]
     },
     "Calendar attachment tooltip": {
@@ -2433,7 +2443,7 @@
         "E-mail"
       ],
       "Enter a display name or nickname": [
-        "Írja be a megejelnítendő nevét vagy becenevét"
+        "Írjon be egy megjelenítendő nevet vagy becenevet"
       ],
       "First name": [
         "Keresztnév"
@@ -2507,6 +2517,9 @@
       ],
       "Work": [
         "Munkahelyi"
+      ],
+      "Yomi": [
+        "Yomi"
       ]
     },
     "Country name": {
@@ -4236,6 +4249,9 @@
       ],
       "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
         "${ user.Name } az Ön felhasználói neve. E-mail cím ${ emailAddress } létrehozásához kövesse az alábbi lépéseket: beállítások, személyazonosság és cím, rövid domain név (pm.me)"
+      ],
+      "Please select a state": [
+        "Kérjük, válasszon ki egy megyét"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -5635,7 +5651,7 @@
         "és"
       ],
       "Another tip will be displayed next time you open Mail": [
-        "Még egy tipp ki lesz írva amikor legközelebb megnyitja a Proton Mail-t."
+        "Még egy tipp ki lesz írva, amikor legközelebb megnyitja a Proton Mail-t."
       ],
       "Any scheduled or snoozed messages will be canceled.": [
         "Minden időzített vagy némított üzenet le lesz mondva"
@@ -7267,6 +7283,84 @@
       ],
       "You get notified if your password or other data was leaked from a third-party service.": [
         "Értesítést fog kapni, ha jelszava vagy más adata kiszivárgott harmadik fél szolgáltatása miatt."
+      ],
+      "${ BRAND_NAME } Scribe helps you craft better emails quickly and effortlessly.": [
+        "${ BRAND_NAME } Scribe segítségével gyorsan és könnyedén készíthet jobb e-maileket."
+      ],
+      "${ BRAND_NAME }'s password manager lets you create, store, and autofill passwords, so you never have to reset them.": [
+        "A ${ BRAND_NAME } jelszókezelő lehetővé teszi jelszavak létrehozását, tárolását és automatikus kitöltését, így soha nem kell visszaállítania azokat."
+      ],
+      "${ PASS_SHORT_APP_NAME } lifetime deal has no renewal price, it's a one-time payment for lifetime access to ${ PASS_SHORT_APP_NAME }.": [
+        "A ${ PASS_SHORT_APP_NAME } élethosszig tartó szerződésnek nincs megújítási ára, ez egy egyszeri fizetés a ${ PASS_SHORT_APP_NAME } élethosszig tartó hozzáférésért."
+      ],
+      "Enabling auto-deletion…": [
+        "Automatikus törlés engedélyezése..."
+      ],
+      "Enjoy a faster, focused emailing experience with the desktop app.": [
+        "Élvezze a gyorsabb, koncentráltabb e-mailezés élményét az asztali alkalmazással."
+      ],
+      "Expand selection": [
+        "Kiválasztás bővítése"
+      ],
+      "Expand text": [
+        "Szöveg bővítése"
+      ],
+      "Generate text": [
+        "Szöveg létrehozása"
+      ],
+      "If you believe we made a mistake, please ${ contactLink }.": [
+        "Ha úgy gondolja, hogy hibát követtünk el, kérjük, ${ contactLink }."
+      ],
+      "Join ${ PROTON_SENTINEL_NAME } program for our highest level of account security and support.": [
+        "Csatlakozzon a ${ PROTON_SENTINEL_NAME } programhoz a legmagasabb szintű fiókbiztonságért és támogatásért."
+      ],
+      "More refine actions": [
+        "További pontosító műveletek"
+      ],
+      "or discover other features:": [
+        "vagy fedezzen fel más funkciókat:"
+      ],
+      "Other accounts": [
+        "Egyéb fiókok"
+      ],
+      "Our system flagged this as suspicious. If it is not a phishing or scam email, mark as legitimate.": [
+        "A rendszerünk ezt gyanúsnak jelezte. Ha nem adathalász vagy csaló e-mail, minősítse jogosnak."
+      ],
+      "Our system flagged this message as a phishing attempt. Please check to ensure that it is legitimate.": [
+        "Rendszerünk ezt az üzenetet adathalász kísérletnek jelölte. Kérjük, ellenőrizze, hogy az üzenet valódi-e."
+      ],
+      "Scribe panel": [
+        "Scribe panel"
+      ],
+      "SEPA payments are not available at the moment. Please try again later.": [
+        "A SEPA-fizetések jelenleg nem elérhetők. Kérjük, próbálja meg később újra."
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "Állítsa be ${ MAIL_APP_NAME }-t alapértelmezett e-mail alkalmazásnak. ${ MAIL_APP_NAME } automatikusan megnyílik, amikor egy e-mail linkre kattint."
+      ],
+      "Storage capabilities are not supported in this browser, we need this support to enable message content search.": [
+        "A tárolási képességek nincsenek támogatva ebben a böngészőben, szükségünk van erre a funkcióra, hogy lehetővé tegyük az üzenetek tartalmának keresését."
+      ],
+      "The initial setup may take a few minutes.": [
+        "A kezdeti beállítás néhány percig eltarthat."
+      ],
+      "This only needs to be done once.": [
+        "Ezt csak egyszer kell elvégezni."
+      ],
+      "This was shown to you because your email subject line contains password reset keywords.": [
+        "Ezt azért mutattuk meg Önnek, mert az e-mailje tárgysorában jelszó-visszaállítási kulcsszavak szerepelnek."
+      ],
+      "Unable to access storage capabilities in this browser, we need this access to enable message content search.": [
+        "Ebben a böngészőben nem érhetőek el a tárolási lehetőségek, az üzenetek tartalmának kereséséhez szükségünk van erre a hozzáférésre."
+      ],
+      "We cannot enable message content search in this browser.": [
+        "Ebben a böngészőben nem tudjuk engedélyezni az üzenetek tartalmának keresését."
+      ],
+      "Your next billing date is ${ renewalTime }. Please contact support if you require an immediate plan change.": [
+        "A következő számlázási dátum ${ renewalTime }. Kérjük, vegye fel a kapcsolatot az ügyfélszolgálattal, ha azonnali csomagváltásra van szüksége."
+      ],
+      "Your private writing assistant": [
+        "Az Ön privát írói asszisztense"
       ]
     },
     "info": {
@@ -7319,6 +7413,9 @@
       ],
       "Trusted": [
         "Megbízható"
+      ],
+      "WKD": [
+        "WKD"
       ]
     },
     "Key pinning": {
@@ -9842,7 +9939,7 @@
         "Mondd meg az írósegédnek, hogy mit írjon. Példa: \"Mondja le az edzőtermi tagságomat.\""
       ],
       "Tell the writing assistant what to write. Example: “Invite Jane to my party”": [
-        "Mondd meg az írósegédnek, hogy mit írjon. Példa: \"Hívd meg Jant a bulimra.\""
+        "Mondja meg az írósegédnek, hogy mit írjon. Példa: \"Hívd meg Jane-t a bulimra.\""
       ],
       "Tell the writing assistant what to write. Example: “Thank my coworker for help on a project”": [
         "Mondd meg az írósegédnek, hogy mit írjon. Példa: \"Köszönd meg a kollégámnak a segítséget a projekten.\""
@@ -9851,7 +9948,7 @@
         "Mondd meg az írósegédnek, hogy mit írjon. Példa: \"Írj egy kísérőlevelet egy gyakornoki pozícióhoz.\""
       ],
       "Tell the writing assistant what to write. Example: “Write a follow-up email to a client”": [
-        "Mondd meg az írósegédnek, hogy mit írjon. Példa: \"Írj egy utánkövető e-mailt egy kliensnek.\""
+        "Mondja meg az írósegédnek, hogy mit írjon. Példa: \"Írj egy utánkövető e-mailt egy kliensnek.\""
       ],
       "Text": [
         "Szöveg"
@@ -10755,6 +10852,10 @@
       "${ n } VPN connection per user": [
         "${ n } VPN kapcsolat felhasználónként",
         "${ n } VPN kapcsolat felhasználónként"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "VPN kapcsolat felhasználónként ${ n } eszközre",
+        "VPN kapcsolat felhasználónként ${ n } eszközre"
       ]
     },
     "Subscription change warning": {
@@ -10791,6 +10892,9 @@
       ],
       "We don't sell your data": [
         "Nem adjuk el az adatait."
+      ],
+      "Automatic email forwarding ${ strongText }": [
+        "Automatikus e-mail továbbítás ${ strongText }"
       ]
     },
     "Subscription reminder": {
@@ -10873,7 +10977,7 @@
         "Korai hozzáférés az új alkalmazásokhoz és funkciókhoz"
       ],
       "Email productivity features": [
-        "Email hatékonysági funciók"
+        "E-mail hatékonysági funciók"
       ],
       "Extra storage and users": [
         "Extra tárhely és további felhasználók"
@@ -12298,6 +12402,14 @@
       "${ numberOfCountries } country": [
         "${ numberOfCountries } ország",
         "${ numberOfCountries } ország"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "Automatikus kiválasztás ${ numberOfCountries } országból",
+        "Automatikus kiválasztás ${ numberOfCountries } országból"
+      ],
+      "Servers in ${ numberOfCountries }+ country": [
+        "Szerverek ${ numberOfCountries }+ országban",
+        "Szerverek ${ numberOfCountries }+ országban"
       ]
     },
     "vpn_2024: renew": {
@@ -12334,10 +12446,10 @@
         "Bitcoin küldés e-mailben"
       ],
       "Encrypted and secure ${ MAIL_APP_NAME } email address. You can easily send Bitcoin to anyone with just their ${ BRAND_NAME } name.": [
-        "Titkosított és biztonságos ${ MAIL_APP_NAME } e-mail cím. Egyszerűen küldhetsz Bitcoint bárkinek csupán a ${ BRAND_NAME } nevét."
+        "Titkosított és biztonságos ${ MAIL_APP_NAME } e-mail cím. Egyszerűen küldhet Bitcoint bárkinek csupán a ${ BRAND_NAME } nevét ismerve."
       ],
       "Securely exchange Bitcoin via email instead of complex, 26-character Bitcoin addresses that are prone to error": [
-        "Biztonságosan cserélj Bitcoint e-mailen keresztül, ahelyett, hogy összetett, 26 karakteres és hibára hajlamos Bitcoin címeket használnál"
+        "Biztonságosan cserélhet Bitcoint e-mailen keresztül, ahelyett, hogy összetett, 26 karakteres és hibára hajlamos Bitcoin címeket használna"
       ],
       "${ n } ${ BRAND_NAME } email address": [
         "${ n } ${ BRAND_NAME } e-mail cím",
@@ -12768,6 +12880,9 @@
       ],
       "Time zone not supported": [
         "Az időzóna nincs támogatva"
+      ],
+      "Edited event not supported": [
+        "Szerkesztett esemény nincs támogatva"
       ]
     },
     "Offer": {
@@ -12776,6 +12891,9 @@
       ],
       "Special offer": [
         "Különleges ajánlat"
+      ],
+      "Save": [
+        "Mentés"
       ]
     },
     "Offer feature": {
@@ -12815,6 +12933,11 @@
     "Subscription length": {
       "Lifetime": [
         "Életre szóló"
+      ]
+    },
+    "email_forwarding_2023: Composer email icon": {
+      "Zero-access encrypted. Recipient has disabled end-to-end encryption on their account.": [
+        "Zéró hozzáférésű, titkosított. A címzett letiltotta a végpontok közötti titkosítást a fiókjában."
       ]
     }
   }

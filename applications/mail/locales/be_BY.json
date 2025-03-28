@@ -1495,7 +1495,13 @@
         "Даведка і рэсурсы"
       ],
       "hide-my-email aliases": [
-        "псеўданімаў Hide-my-email"
+        "псеўданімаў hide-my-email"
+      ],
+      "Explore ${ VPN_APP_NAME }": [
+        "Даследуйце ${ VPN_APP_NAME }"
+      ],
+      "Toggle VPN dashboard": [
+        "Пераключыць панэль кіравання VPN"
       ]
     },
     "action": {
@@ -1569,6 +1575,9 @@
         "${ users } карыстальнікі",
         "${ users } карыстальнікаў",
         "${ users } карыстальнікаў"
+      ],
+      "${ price } per seat": [
+        "${ price } за ліцэнзію"
       ]
     },
     "Alert": {
@@ -4613,7 +4622,7 @@
         "Вы не можаце адкрыць адначасова больш за ${ maxActiveComposer } акно рэдактара",
         "Вы не можаце адкрыць адначасова за ${ maxActiveComposer } акны рэдактара",
         "Вы не можаце адкрыць адначасова больш за ${ maxActiveComposer } вокнаў рэдактара",
-        "Вы не можаце адкрыць адначасова за ${ maxActiveComposer } акны рэдактара"
+        "Вы не можаце адкрыць адначасова больш за ${ maxActiveComposer } вокнаў рэдактара"
       ],
       "You did not provide a file.": [
         "Вы не выбралі файл."
@@ -4641,6 +4650,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Ваш пошук вярнуў занадта шмат вынікаў. Абмяжуйце вобласць пошуку і паспрабуйце яшчэ раз."
+      ],
+      "Unable to load VPN dashboard. Please check your connection and try again.": [
+        "Немагчыма загрузіць панэль кіравання VPN. Калі ласка, праверце падключэнне і паўтарыце спробу."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -5080,7 +5092,7 @@
         "байт",
         "байты",
         "байтаў",
-        "байты"
+        "байтаў"
       ],
       "GB": [
         "ГБ"
@@ -5100,25 +5112,25 @@
         "Байт",
         "Байты",
         "Байтаў",
-        "Байты"
+        "Байтаў"
       ],
       "Gigabyte": [
         "Гігабайт",
         "Гігабайты",
         "Гігабайтаў",
-        "Гігабайты"
+        "Гігабайтаў"
       ],
       "Kilobyte": [
         "Кілабайт",
         "Кілабайты",
         "Кілабайтаў",
-        "Кілабайты"
+        "Кілабайтаў"
       ],
       "Megabyte": [
         "Мегабайт",
         "Мегабайты",
         "Мегабайтаў",
-        "Мегабайты"
+        "Мегабайтаў"
       ],
       "Terabyte": [
         "тэрабайт",
@@ -5537,7 +5549,7 @@
     "Hint": {
       "Found ${ itemsCount } suggestion, use keyboard to navigate.": [
         "Знойдзена ${ itemsCount } прапанова. Выкарыстоўвайце клавіятуру для навігацыі.",
-        "Знойдзены ${ itemsCount } прапановы, выкарыстоўвайце клавіятуру для навігацыі.",
+        "Знойдзены ${ itemsCount } прапановы. Выкарыстоўвайце клавіятуру для навігацыі.",
         "Знойдзены ${ itemsCount } прапаноў. Выкарыстоўвайце клавіятуру для навігацыі.",
         "Знойдзены ${ itemsCount } прапаноў. Выкарыстоўвайце клавіятуру для навігацыі."
       ],
@@ -5619,10 +5631,10 @@
     },
     "Import calendar": {
       "${ totalImported }/${ totalToImport } event encrypted and added to your calendar": [
-        "${ totalImported }/${ totalToImport } падзея зашыфравана і дададзена ў ваш каляндар",
-        "${ totalImported }/${ totalToImport } падзеі зашыфраваны і дадзены ў ваш каляндар",
-        "${ totalImported }/${ totalToImport } падзей зашыфраваны і дададзены ў ваш каляндар",
-        "${ totalImported }/${ totalToImport } падзеі зашыфраваны і дададзены ў ваш каляндар"
+        "${ totalImported } падзея з ${ totalToImport } зашыфравана і дададзена ў ваш каляндар",
+        "${ totalImported } падзеі з ${ totalToImport } зашыфраваны і дададзена ў ваш каляндар",
+        "${ totalImported } падзей з ${ totalToImport } зашыфраваны і дададзена ў ваш каляндар",
+        "${ totalImported } падзей з ${ totalToImport } зашыфраваны і дададзена ў ваш каляндар"
       ],
       "An error occurred while encrypting and adding your event. ${ totalImported } out of ${ totalToImport } event successfully imported.": [
         "Адбылася памылка падчас шыфравання і дадавання падзеі. ${ totalImported } падзея з ${ totalToImport } паспяхова імпартавана.",
@@ -5682,10 +5694,10 @@
     },
     "Import contact": {
       "${ totalImported }/${ totalToImport } contact encrypted and added to your contact list": [
-        "${ totalImported }/${ totalToImport } кантакт зашыфраваны і дададзены ў ваш спіс кантактаў",
-        "${ totalImported }/${ totalToImport } кантакты зашыфраваны і дададзены ў ваш спіс кантактаў",
-        "${ totalImported }/${ totalToImport } кантактаў зашыфраваны і дадзены ў ваш спіс кантактаў",
-        "${ totalImported }/${ totalToImport } кантакты зашыфраваны і дададзены ў ваш спіс кантактаў"
+        "${ totalImported } кантакт з ${ totalToImport } зашыфраваны і дададзены ў ваш спіс кантактаў",
+        "${ totalImported } кантакты з ${ totalToImport } зашыфраваны і дададзены ў ваш спіс кантактаў",
+        "${ totalImported } кантактаў з ${ totalToImport } зашыфраваны і дададзены ў ваш спіс кантактаў",
+        "${ totalImported } кантактаў з ${ totalToImport } зашыфраваны і дададзены ў ваш спіс кантактаў"
       ],
       "An error occurred while encrypting and adding your contact. No contact could be imported.": [
         "Адбылася памылка падчас шыфравання і дадавання вашага кантакту. Ніводны кантакт не быў імпартаваны."
@@ -6062,10 +6074,10 @@
         "${ MAIL_APP_NAME } таксама можа абараніць ваш бізнес."
       ],
       "${ messagesNotAuthorizedToMove } message could not be moved.": [
-        "Не атрымалася перамясціць ${ messagesNotAuthorizedToMove } паведамленне.",
-        "Не атрымалася перамясціць ${ messagesNotAuthorizedToMove } паведамленні.",
-        "Не атрымалася перамясціць ${ messagesNotAuthorizedToMove } паведамленняў.",
-        "Не атрымалася перамясціць ${ messagesNotAuthorizedToMove } паведамленняў."
+        "Не ўдалося перамясціць ${ messagesNotAuthorizedToMove } паведамленне.",
+        "Не ўдалося перамясціць ${ messagesNotAuthorizedToMove } паведамленні.",
+        "Не ўдалося перамясціць ${ messagesNotAuthorizedToMove } паведамленняў.",
+        "Не ўдалося перамясціць ${ messagesNotAuthorizedToMove } паведамленняў."
       ],
       "${ n } unread conversation": [
         "${ n } непрачытаная размова",
@@ -6146,10 +6158,10 @@
         "${ pureAttachmentsCount } файлы далучаны"
       ],
       "${ selectedCalendarsTotal } of ${ providerCalendars.length } calendar": [
-        "${ selectedCalendarsTotal } з ${ providerCalendars.length } календара",
-        "${ selectedCalendarsTotal } з ${ providerCalendars.length } календароў",
-        "${ selectedCalendarsTotal } з ${ providerCalendars.length } календароў",
-        "${ selectedCalendarsTotal } з ${ providerCalendars.length } календароў"
+        "${ selectedCalendarsTotal } каляндар з ${ providerCalendars.length }",
+        "${ selectedCalendarsTotal } календары з ${ providerCalendars.length }",
+        "${ selectedCalendarsTotal } календароў з ${ providerCalendars.length }",
+        "${ selectedCalendarsTotal } календароў з ${ providerCalendars.length }"
       ],
       "${ selectedContactsLength }/${ contactsLength } contact selected": [
         "Выбраны ${ selectedContactsLength } кантакт з ${ contactsLength }",
@@ -6710,10 +6722,10 @@
         "Увядзіце свой пароль (адміністратара арганізацыі)."
       ],
       "Estimated time remaining: ${ estimatedMinutes } minute": [
-        "Засталося часу: ${ estimatedMinutes } хвіліна",
-        "Засталося часу: ${ estimatedMinutes } хвіліны",
-        "Засталося часу: ${ estimatedMinutes } хвілін",
-        "Засталося часу: ${ estimatedMinutes } хвіліны"
+        "Прыблізна засталося часу: ${ estimatedMinutes } хвіліна",
+        "Прыблізна засталося часу: ${ estimatedMinutes } хвіліны",
+        "Прыблізна засталося часу: ${ estimatedMinutes } хвілін",
+        "Прыблізна засталося часу: ${ estimatedMinutes } хвілін"
       ],
       "Estimated time remaining: Less than a minute": [
         "Прыблізна засталося часу: менш за хвіліну"
@@ -7205,10 +7217,10 @@
         "Выберыце тып спасылкі, якую вы хочаце ўставіць, і запоўніце ўсе палі."
       ],
       "Please select which email address or addresses to add to ${ groupCount } group.": [
-        "Выберыце адрас або адрасы электроннай пошты, каб дадаць у ${ groupCount } групу.",
-        "Выберыце адрас або адрасы электроннай пошты, каб дадаць у ${ groupCount } групы.",
-        "Выберыце адрас або адрасы электроннай пошты, каб дадаць у ${ groupCount } груп.",
-        "Выберыце адрас або адрасы электроннай пошты, каб дадаць у ${ groupCount } групы."
+        "Выберыце, які адрас або адрасы электроннай пошты неабходна дадаць у ${ groupCount } групу.",
+        "Выберыце, які адрас або адрасы электроннай пошты неабходна дадаць у ${ groupCount } групы.",
+        "Выберыце, які адрас або адрасы электроннай пошты неабходна дадаць у ${ groupCount } груп.",
+        "Выберыце, які адрас або адрасы электроннай пошты неабходна дадаць у ${ groupCount } груп."
       ],
       "Please select which email address or addresses to add to ${ groupName }.": [
         "Выберыце адрас або адрасы электроннай пошты, каб дадаць у ${ groupName }."
@@ -8196,6 +8208,135 @@
       ],
       "Protect your email from being leaked to mailing lists or spammers with ${ hideMyEmailAliasesLink }.": [
         "Абараняйце сваю электронную пошту ад уцечкі ў спіс рассылкі або спамераў з дапамогай ${ hideMyEmailAliasesLink }."
+      ],
+      "${ VPN_APP_NAME } is masking your IP address, so websites can’t identify you.": [
+        "${ VPN_APP_NAME } маскіруе ваш IP-адрас і вэб-сайты не могуць вызначыць вас."
+      ],
+      "**Auto-connect**: Opens and connects to VPN as soon as you turn on your device.": [
+        "**Аўтаматычнае падключэнне**: падключэнне да сервера VPN адбываецца адразу пасля ўключэння прылады."
+      ],
+      "**Kill switch**: Stops data leaks by blocking your internet if the VPN drops unexpectedly.": [
+        "**Kill Switch**: спыняе ўцечку даных блакіруючы інтэрнэт, калі падключэнне па VPN нечакана знікла."
+      ],
+      "A secure connection is essential when working remotely. A VPN protects company data from cyber threats and keeps your work private.": [
+        "Бяспечнае падключэнне вельмі важна пры аддаленай працы. VPN абараняе даныя кампаніі ад кіберпагроз і захоўвае прыватнасць вашай працы."
+      ],
+      "A VPN encrypts your connection and hides your IP address, making it much harder for anyone to track or monitor your browsing.": [
+        "VPN шыфруе ваша падключэнне і хавае ваш IP-адрас. Гэта вельмі ўскладняе адсочванне або маніторынг прагляду вэб-старонак для любых зацікаўленых структур."
+      ],
+      "A VPN hides your IP address and encrypts your browsing activity, making it harder for websites, advertisers, and ISPs to track you over time.": [
+        "VPN хавае ваш IP-адрас і шыфруе вашу актыўнасць у браўзеры, што ўскладняе сайтам, рэкламадаўцам і пастаўшчыкам паслуг інтэрнэту адсочваць вас з цягам часу."
+      ],
+      "A VPN is a secure tunnel between your device and the internet. It hides your location and activity from your internet service provider (ISP) and the websites you visit.": [
+        "VPN - гэта бяспечны тунэль паміж вашай прыладай і інтэрнэтам. Ён хавае ваша месцазнаходжанне і актыўнасць ад вашага пастаўшчыка паслуг інтэрнэту (ISP) і вэб-сайтаў, якія вы наведваеце."
+      ],
+      "Ad targeting": [
+        "Мэтавая рэклама"
+      ],
+      "Advertisers track your browsing to show targeted ads. ${ VPN_APP_NAME } blocks trackers and ads, making your connection faster and improving your online experience.": [
+        "Рэкламадаўцы адсочваюць, якія вэб-старонкі вы наведваеце, каб паказваць мэтавую рэкламу. ${ VPN_APP_NAME } блакіруе праграмы адсочвання і рэкламу, робіць ваша падключэнне хутчэйшым і паляпшае працу ў інтэрнэце."
+      ],
+      "Browse privately and access blocked content.": [
+        "Прыватны агляд і доступ да заблакіраванага змесціва."
+      ],
+      "Connect to ${ VPN_APP_NAME } to browse privately": [
+        "Падключыцеся да ${ VPN_APP_NAME } для прыватнага прагляду"
+      ],
+      "Geoblocking": [
+        "Геаблакіроўка"
+      ],
+      "Governments and ISPs can monitor your online activity. By hiding your real IP and encrypting your activity your browsing becomes private.": [
+        "Урады і пастаўшчыкі паслуг інтэрнэту могуць сачыць за тым, якія сайты вы наведваеце. Ваш прагляд вэб-старонак у інтэрнэце становіцца прыватным дзякуючы хаванню вашага рэальнага IP-адрас і шыфраванню."
+      ],
+      "In restrictive countries": [
+        "У краінах, якія абмяжоўваюць інтэрнэт"
+      ],
+      "Included for free with your plan": [
+        "Уваходзіць бясплатна ў ваш тарыфны план"
+      ],
+      "It’s best to use a VPN at all times. But here’s when cybersecurity threats can be the highest:": [
+        "Лепш за ўсё выкарыстоўваць VPN заўсёды. Але вось калі пагрозы кібербяспецы могуць быць найбольшымі:"
+      ],
+      "Most public WiFi networks are safe, but some lack security, exposing you to cyber threats. A VPN encrypts your traffic, keeping you protected.": [
+        "Большасць агульнадаступных сетак Wi-Fi бяспечныя, але ў некаторых адсутнічаюць функцыі бяспекі і гэта падвяргае вас кіберпагрозам. VPN шыфруе трафік і абараняе ваша падключэнне."
+      ],
+      "Not connected": [
+        "Не падключана"
+      ],
+      "On public WiFi networks": [
+        "У грамадскіх сетках Wi-Fi"
+      ],
+      "Private browsing (or “incognito” mode) is only useful for keeping your activity hidden on your device. It stops your browser from saving history and cookies, but it doesn’t make you invisible. Your ISP, network administrator, and the websites you visit can still see what you do online.": [
+        "Прыватны прагляд вэб-старонак (або рэжым \"інкогніта\") карысны толькі для хавання актыўнасці на вашай прыладзе. Браўзер не будзе захоўваць гісторыю і файлы cookie, але гэта не робіць вас нябачным. Ваш пастаўшчык паслуг інтэрнэту, сеткавы адміністратар і вэб-сайты ўсё яшчэ могуць бачыць, што вы робіце ў інтэрнэце."
+      ],
+      "Scan the QR code with your mobile device": [
+        "Адсканіруйце QR-код з дапамогай мабільнай прылады"
+      ],
+      "Some governments block or restrict access to certain websites. A VPN helps bypass censorship while keeping your activity and identity private.": [
+        "Некаторыя ўрады блакіруюць або абмяжоўваюць доступ да пэўных вэб-сайтаў. VPN дапамагае абысці цэнзуру, захоўваючы вашу актыўнасць і асобу ў таямніцы."
+      ],
+      "Some websites and streaming services block content by region. A VPN lets you bypass these restrictions and access the internet freely.": [
+        "Некаторыя вэб-сайты і сэрвісы з трансляцыямі блакіруюць змесціва па рэгіёнах. VPN дазваляе абысці гэтыя абмежаванні і атрымаць свабодны доступ у інтэрнэт."
+      ],
+      "Stay connected effortlessly by enabling the following VPN settings:": [
+        "Уключыце наступныя налады VPN, каб заставацца падключанымі без асаблівых намаганняў:"
+      ],
+      "Subscription auto-renews every ${ cycle } month.": [
+        "Падпіска аўтаматычна падаўжаецца кожны ${ cycle } месяц.",
+        "Падпіска аўтаматычна падаўжаецца кожныя ${ cycle } месяцы.",
+        "Падпіска аўтаматычна падаўжаецца кожныя ${ cycle } месяцаў.",
+        "Падпіска аўтаматычна падаўжаецца кожныя ${ cycle } месяцаў."
+      ],
+      "Surveillance": [
+        "Назіранне"
+      ],
+      "This means that your ISP and the websites you visit can’t connect your personal information with your online activity.": [
+        "Гэта азначае, што ваш пастаўшчык паслуг інтэрнэту і вэб-сайты не змогуць атрымліваць вашы асабістыя звесткі з вашай актыўнасці ў інтэрнэце."
+      ],
+      "This unique code can be used by websites and ISPs (internet service providers) to link your location and browsing history to your device": [
+        "Гэты ўнікальны код можа быць выкарыстаны вэб-сайтамі і пастаўшчыком паслуг інтэрнэту (ISP), каб звязаць ваша месцазнаходжанне і гісторыю прагляду старонак на вашай прыладзе."
+      ],
+      "Tracking": [
+        "Адсочванне"
+      ],
+      "VPN IP": [
+        "IP VPN"
+      ],
+      "When working remotely": [
+        "Пры аддаленай працы"
+      ],
+      "When you connect to VPN, it uses encryption technology to hide your IP address (a unique code assigned to your device).": [
+        "VPN выкарыстоўвае тэхналогію шыфравання, каб схаваць ваш IP-адрас пры падключэнні да VPN (унікальны код, які прызначаны вашай прыладзе)."
+      ],
+      "You'll then be billed every ${ renewCycle } month at ${ renewAmountStr }.": [
+        "Пасля гэтага вам будзе выстаўляцца рахунак кожны ${ renewCycle } месяц у памеры ${ renewAmountStr }.",
+        "Пасля гэтага вам будзе выстаўляцца рахунак кожныя ${ renewCycle } месяцы ў памеры ${ renewAmountStr }.",
+        "Пасля гэтага вам будзе выстаўляцца рахунак кожныя ${ renewCycle } месяцаў у памеры ${ renewAmountStr }.",
+        "Пасля гэтага вам будзе выстаўляцца рахунак кожныя ${ renewCycle } месяцаў у памеры ${ renewAmountStr }."
+      ],
+      "Your internet service provider can monitor and sometimes sell your data, or even restrict what websites you can access.": [
+        "Ваш пастаўшчык паслуг інтэрнэту можа назіраць за вашымі дзеяннямі ў інтэрнэце і час ад часу прадаваць вашы даныя або нават абмяжоўваць доступ да некаторых вэб-сайтаў"
+      ],
+      "Your IP": [
+        "Ваш IP"
+      ],
+      "Your IP address is visible and can be used to track your online activity.": [
+        "Ваш IP-адрас з'яўляецца бачным і можа быць выкарыстаны для адсочвання вашай актыўнасці ў інтэрнэце."
+      ],
+      "Your online activity is protected": [
+        "Ваша актыўнасць у інтэрнэце абаронена"
+      ],
+      "Your physical location is visible and can be used to restrict your access to the internet.": [
+        "Ваша фізічнае месцазнаходжанне з'яўляецца бачным і можа выкарыстоўвацца для забароны доступу ў інтэрнэт."
+      ],
+      "Your scheduled plan starts on ${ renewalTime } and will auto-renew every ${ cycle } month.": [
+        "Ваш запланаваны тарыфны план пачынаецца ${ renewalTime } і будзе аўтаматычна падаўжацца кожны ${ cycle } месяц.",
+        "Ваш запланаваны тарыфны план пачынаецца ${ renewalTime } і будзе аўтаматычна падаўжацца кожныя ${ cycle } месяцы.",
+        "Ваш запланаваны тарыфны план пачынаецца ${ renewalTime } і будзе аўтаматычна падаўжацца кожныя ${ cycle } месяцаў.",
+        "Ваш запланаваны тарыфны план пачынаецца ${ renewalTime } і будзе аўтаматычна падаўжацца кожныя ${ cycle } месяцаў."
+      ],
+      "Your subscription will automatically renew on ${ renewalTime }.": [
+        "Ваша падпіска будзе аўтаматычна падоўжана ${ renewalTime }."
       ]
     },
     "info": {
@@ -9049,6 +9190,15 @@
       ],
       "Integrated 2FA authenticator": [
         "Інтэграваны аўтэнтыфікатар 2ФА"
+      ],
+      "Your IP": [
+        "Ваш IP"
+      ],
+      "Your ISP": [
+        "Ваш ISP"
+      ],
+      "Your location": [
+        "Ваша месцазнаходжанне"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9855,10 +10005,10 @@
         "Пажыццёвая прапанова ${ PASS_APP_NAME } + SimpleLogin"
       ],
       "${ PASS_APP_NAME } with ${ n } hide-my-email alias": [
-        "${ PASS_APP_NAME } з ${ n } hide-my-email псеўданімам",
-        "${ PASS_APP_NAME } з ${ n } hide-my-email псеўданімамі",
-        "${ PASS_APP_NAME } з ${ n } hide-my-email псеўданімамі",
-        "${ PASS_APP_NAME } з ${ n } hide-my-email псеўданімамі"
+        "${ PASS_APP_NAME } з ${ n } псеўданімам hide-my-email",
+        "${ PASS_APP_NAME } з ${ n } псеўданімамі hide-my-email",
+        "${ PASS_APP_NAME } з ${ n } псеўданімамі hide-my-email",
+        "${ PASS_APP_NAME } з ${ n } псеўданімамі hide-my-email"
       ],
       "${ PASS_APP_NAME } with unlimited hide-my-email aliases": [
         "${ PASS_APP_NAME } з неабмежаванай колькасцю псеўданімаў hide-my-email"
@@ -10399,7 +10549,7 @@
     },
     "new_plans: Subtext": {
       "The discounted price of ${ priceCoupon } is valid for the first month. Then it will automatically be renewed at ${ priceLine }. You can cancel at any time.": [
-        "Зніжаны кошт у памеры ${ priceCoupon } сапраўдны на працягу першага месяца. Пасля гэтага будзе выканана аўтаматычнае падаўжэнне з коштам у памеры ${ priceLine }. Скасаваць можна ў любы момант."
+        "Зніжаны кошт у памеры ${ priceCoupon } дзейнічае на працягу першага месяца. Пасля гэтага будзе выканана аўтаматычнае падаўжэнне з коштам у памеры ${ priceLine }. Скасаваць можна ў любы момант."
       ],
       "Unlock all ${ BRAND_NAME } premium products and features for just ${ priceLine }. Cancel anytime.": [
         "Разблакіраваць усе прэміяльныя прадукты ${ BRAND_NAME } і функцыі ўсяго за ${ priceLine }. Скасаваць можна ў любы момант."
@@ -11256,6 +11406,48 @@
       ],
       "We are processing your payment for the billed invoice. Please wait until the payment is completed before making changes to your plan or updating your payment details. Thank you for your patience.": [
         "Мы апрацоўваем ваш плацеж за выстаўлены рахунак. Перад тым, як уносіць змены ў свой тарыфны план або абнаўляць рэквізіты плацяжу, дачакайцеся завяршэння плацяжу. Дзякуй за цярпенне."
+      ],
+      "During this time, you will not be able to modify or cancel your subscription. Please wait until your payment is completed before attempting any changes. Thank you for your patience.": [
+        "У вас больш не будзе магчымасці змяніць або скасаваць сваю падпіску пачынаючы з гэтага моманту. Пачакайце, пакуль завершыцца аплата перад тым, як спрабаваць зрабіць нейкія змены. Дзякуй за ваша цярпенне."
+      ],
+      "Renewal pricing subject to change according to ${ termsAndConditionsLink }.": [
+        "Кошт падаўжэння можа быць зменены ў адпаведнасці з ${ termsAndConditionsLink }."
+      ],
+      "Renews at ${ renewPriceStr }, cancel anytime.": [
+        "Падаўжаецца за ${ renewPriceStr }. Скасаваць можна ў любы час."
+      ],
+      "terms & conditions": [
+        "умовы выкарыстання"
+      ],
+      "The coupon is valid for ${ couponRedemptions } renewal.": [
+        "Купон дзейнічае для ${ couponRedemptions } падаўжэння.",
+        "Купон дзейнічае для ${ couponRedemptions } падаўжэнняў.",
+        "Купон дзейнічае для ${ couponRedemptions } падаўжэнняў.",
+        "Купон дзейнічае для ${ couponRedemptions } падаўжэнняў."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first ${ subscriptionLength } month.": [
+        "Спецыяльны зніжаны кошт у памеры ${ priceWithDiscount } дзейнічае на працягу першага ${ subscriptionLength } месяца.",
+        "Спецыяльны зніжаны кошт у памеры ${ priceWithDiscount } дзейнічае на працягу першых ${ subscriptionLength } месяцаў.",
+        "Спецыяльны зніжаны кошт у памеры ${ priceWithDiscount } дзейнічае на працягу першых ${ subscriptionLength } месяцаў.",
+        "Спецыяльны зніжаны кошт у памеры ${ priceWithDiscount } дзейнічае на працягу першых ${ subscriptionLength } месяцаў."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. The coupon is valid for ${ couponRedemptions } renewal. Then it will automatically be renewed at ${ renewPriceStr } for 1 month. You can cancel at any time.": [
+        "Спецыяльны зніжаны кошт у памеры ${ priceWithDiscount } дзейнічае на працягу першага месяца. Гэты купон дзейнічае для ${ couponRedemptions } падаўжэння. Пасля гэтага будзе выканана аўтаматычнае падаўжэнне з коштам у памеры ${ renewPriceStr } за 1 месяц. Скасаваць можна ў любы момант.",
+        "Спецыяльны зніжаны кошт у памеры ${ priceWithDiscount } дзейнічае на працягу першага месяца. Гэты купон дзейнічае для ${ couponRedemptions } падаўжэнняў. Пасля гэтага будзе выканана аўтаматычнае падаўжэнне з коштам у памеры ${ renewPriceStr } за 1 месяц. Скасаваць можна ў любы момант.",
+        "Спецыяльны зніжаны кошт у памеры ${ priceWithDiscount } дзейнічае на працягу першага месяца. Гэты купон дзейнічае для ${ couponRedemptions } падаўжэнняў. Пасля гэтага будзе выканана аўтаматычнае падаўжэнне з коштам у памеры ${ renewPriceStr } за 1 месяц. Скасаваць можна ў любы момант.",
+        "Спецыяльны зніжаны кошт у памеры ${ priceWithDiscount } дзейнічае на працягу першага месяца. Гэты купон дзейнічае для ${ couponRedemptions } падаўжэнняў. Пасля гэтага будзе выканана аўтаматычнае падаўжэнне з коштам у памеры ${ renewPriceStr } за 1 месяц. Скасаваць можна ў любы момант."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. Then it will automatically be renewed at ${ renewPriceStr } every month. You can cancel at any time.": [
+        "Спецыяльны зніжаны кошт у памеры ${ priceWithDiscount } дзейнічае на працягу першага месяца. Пасля гэтага адбудзецца аўтаматычнае падаўжэнне з коштам у памеры ${ renewPriceStr } за кожны месяц. Скасаваць можна ў любы момант."
+      ],
+      "Then it will automatically be renewed at ${ renewPriceStr } for ${ renewalLength } month. You can cancel at any time.": [
+        "Пасля гэтага адбудзецца аўтаматычнае падаўжэнне за ${ renewPriceStr } на ${ renewalLength } месяц. Скасаваць можна ў любы час.",
+        "Пасля гэтага адбудзецца аўтаматычнае падаўжэнне за ${ renewPriceStr } за ${ renewalLength } месяцы. Скасаваць можна ў любы час.",
+        "Пасля гэтага адбудзецца аўтаматычнае падаўжэнне за ${ renewPriceStr } за ${ renewalLength } месяцаў. Скасаваць можна ў любы час.",
+        "Пасля гэтага адбудзецца аўтаматычнае падаўжэнне за ${ renewPriceStr } за ${ renewalLength } месяцаў. Скасаваць можна ў любы час."
+      ],
+      "Your payment is still being processed": [
+        "Ваш плацеж усё яшчэ апрацоўваецца"
       ]
     },
     "Payments.Error": {
@@ -13218,7 +13410,7 @@
         "Перамясціць ${ selectionCount } размову",
         "Перамясціць ${ selectionCount } размовы",
         "Перамясціць ${ selectionCount } размоў",
-        "Перамясціць ${ selectionCount } размовы"
+        "Перамясціць ${ selectionCount } размоў"
       ],
       "Move ${ selectionCount } message": [
         "Перамясціць ${ selectionCount } паведамленне",
@@ -13404,13 +13596,13 @@
         "${ hours } гадз",
         "${ hours } гадз",
         "${ hours } гадз",
-        "${ hours } гадз"
+        "${ hours } г"
       ],
       "${ hoursInt }.5 h": [
-        "${ hoursInt },5 гадз",
-        "${ hoursInt },5 гадз",
-        "${ hoursInt },5 гадз",
-        "${ hoursInt },5 гадз"
+        "${ hoursInt },5 г",
+        "${ hoursInt },5 г",
+        "${ hoursInt },5 г",
+        "${ hoursInt },5 г"
       ],
       "${ minutes } min": [
         "${ minutes } хв",
@@ -13429,8 +13621,8 @@
       "${ hoursInt }.5 hour": [
         "${ hoursInt },5 гадзіны",
         "${ hoursInt },5 гадзіны",
-        "${ hoursInt },5 гадзін",
-        "${ hoursInt },5 гадзін"
+        "${ hoursInt },5 гадзіны",
+        "${ hoursInt },5 гадзіны"
       ],
       "${ minutes } minute": [
         "${ minutes } хвіліна",
@@ -13695,31 +13887,31 @@
         "Выдаліць ${ count } кантакт",
         "Выдаліць ${ count } кантакты",
         "Выдаліць ${ count } кантактаў",
-        "Выдаліць ${ count } кантакты"
+        "Выдаліць ${ count } кантактаў"
       ],
       "Delete ${ count } contact group": [
         "Выдаліць ${ count } групу кантактаў",
         "Выдаліць ${ count } групы кантактаў",
         "Выдаліць ${ count } груп кантактаў",
-        "Выдаліць ${ count } групы кантактаў"
+        "Выдаліць ${ count } груп кантактаў"
       ],
       "Delete ${ count } conversation": [
         "Выдаліць ${ count } размову",
         "Выдаліць ${ count } размовы",
         "Выдаліць ${ count } размоў",
-        "Выдаліць ${ count } размовы"
+        "Выдаліць ${ count } размоў"
       ],
       "Delete ${ count } draft": [
         "Выдаліць ${ count } чарнавік",
         "Выдаліць ${ count } чарнавікі",
         "Выдаліць ${ count } чарнавікоў",
-        "Выдаліць ${ count } чарнавікі"
+        "Выдаліць ${ count } чарнавікоў"
       ],
       "Delete ${ count } message": [
         "Выдаліць ${ count } паведамленне",
         "Выдаліць ${ count } паведамленні",
         "Выдаліць ${ count } паведамленняў",
-        "Выдаліць ${ count } паведамленні"
+        "Выдаліць ${ count } паведамленняў"
       ],
       "Delete ${ value }": [
         "Выдаліць ${ value }"
@@ -14320,6 +14512,42 @@
       ],
       "Help and feedback": [
         "Даведка і зваротная сувязь"
+      ],
+      "Desktop": [
+        "Для камп'ютара"
+      ],
+      "Download the app": [
+        "Спампаваць праграму"
+      ],
+      "Get more from your VPN": [
+        "Атрымайце больш ад свайго VPN"
+      ],
+      "How does it all work?": [
+        "Як гэта ўсё працуе?"
+      ],
+      "Increase security with ${ VPN_APP_NAME }": [
+        "Павялічце бяспеку з ${ VPN_APP_NAME }"
+      ],
+      "Make a secure connection your default": [
+        "Зрабіце бяспечнае падключэнне прадвызначаным"
+      ],
+      "Mobile": [
+        "Для смартфона"
+      ],
+      "Private browsing vs VPN": [
+        "Прыватны прагляд у параўнанні з VPN"
+      ],
+      "VPN explained": [
+        "Тлумачэнне VPN"
+      ],
+      "What can a VPN protect you from?": [
+        "Ад чаго можа абараніць VPN?"
+      ],
+      "What is a VPN?": [
+        "Што такое VPN?"
+      ],
+      "When is it most important to use a VPN?": [
+        "У якіх выпадках варта выкарыстоўваць VPN?"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14445,7 +14673,7 @@
         "Паспрабуйце больш кароткае імя карыстальніка (максімум ${ n } сімвал)",
         "Паспрабуйце больш кароткае імя карыстальніка (максімум ${ n } сімвалы)",
         "Паспрабуйце больш кароткае імя карыстальніка (максімум ${ n } сімвалаў)",
-        "Паспрабуйце больш кароткае імя карыстальніка (максімум ${ n } сімвалы)"
+        "Паспрабуйце больш кароткае імя карыстальніка (максімум ${ n } сімвалаў)"
       ]
     },
     "Video control": {
@@ -14498,6 +14726,12 @@
         "Аўтаматычны выбар з ${ numberOfCountries } краін",
         "Аўтаматычны выбар з ${ numberOfCountries } краін",
         "Аўтаматычны выбар з ${ numberOfCountries } краін"
+      ],
+      "Servers in ${ numberOfCountries }+ country": [
+        "Серверы ў больш, чым ${ numberOfCountries } краіне",
+        "Серверы ў больш, чым ${ numberOfCountries } краінах",
+        "Серверы ў больш, чым ${ numberOfCountries } краінах",
+        "Серверы ў больш, чым ${ numberOfCountries } краінах"
       ]
     },
     "vpn_2024: renew": {
@@ -14518,6 +14752,9 @@
         "Ваша падпіска будзе аўтаматычна падоўжана праз ${ cycle } месяцы.",
         "Ваша падпіска будзе аўтаматычна падоўжана праз ${ cycle } месяцаў.",
         "Ваша падпіска будзе аўтаматычна падоўжана праз ${ cycle } месяцаў."
+      ],
+      "You'll then be billed every 12 months at ${ renewPriceStr }.": [
+        "З вас будзе спаганяцца плата кожныя 12 месяцаў у памеры ${ renewPriceStr }."
       ]
     },
     "vpn_2step: feature": {
@@ -14610,7 +14847,7 @@
         "Вы сапраўды хочаце незваротна выдаліць ${ count } кантакт?",
         "Вы сапраўды хочаце незваротна выдаліць ${ count } кантакты?",
         "Вы сапраўды хочаце незваротна выдаліць ${ count } кантактаў?",
-        "Вы сапраўды хочаце незваротна выдаліць ${ count } кантакты?"
+        "Вы сапраўды хочаце незваротна выдаліць ${ count } кантактаў?"
       ],
       "Are you sure you want to permanently delete these contact groups?": [
         "Вы ўпэўнены, што хочаце незваротна выдаліць гэтыя групы кантактаў?"
@@ -14743,10 +14980,10 @@
         "Кожныя ${ interval } тыдні ў панядзелак"
       ],
       "Every ${ interval } week on Monday, ${ timesString }": [
-        "Кожны ${ interval } тыдзень у панядзелак а ${ timesString }",
-        "Кожныя ${ interval } тыдні ў панядзелак а ${ timesString }",
-        "Кожных ${ interval } тыдняў у панядзелак а ${ timesString }",
-        "Кожныя ${ interval } тыдні ў панядзелак а ${ timesString }"
+        "Кожны ${ interval } тыдзень у панядзелак у ${ timesString }",
+        "Кожныя ${ interval } тыдні ў панядзелак у ${ timesString }",
+        "Кожных ${ interval } тыдняў у панядзелак у ${ timesString }",
+        "Кожныя ${ interval } тыдні ў панядзелак у ${ timesString }"
       ],
       "Every ${ interval } week on Saturday": [
         "Кожны ${ interval } тыдзень у суботу",
@@ -14761,10 +14998,10 @@
         "Кожныя ${ interval } тыдні ў нядзелю"
       ],
       "Every ${ interval } week on Sunday, ${ timesString }": [
-        "Кожны ${ interval } тыдзень у нядзелю а ${ timesString }",
-        "Кожныя ${ interval } тыдні ў нядзелю а ${ timesString }",
-        "Кожных ${ interval } тыдняў у нядзелю а ${ timesString }",
-        "Кожныя ${ interval } тыдні ў нядзелю а ${ timesString }"
+        "Кожны ${ interval } тыдзень у нядзелю ў ${ timesString }",
+        "Кожныя ${ interval } тыдні ў нядзелю ў ${ timesString }",
+        "Кожных ${ interval } тыдняў у нядзелю ў ${ timesString }",
+        "Кожных ${ interval } тыдняў у нядзелю ў ${ timesString }"
       ],
       "Every ${ interval } week on Thursday": [
         "Кожны ${ interval } тыдзень у чацвер",
@@ -14779,10 +15016,10 @@
         "Кожныя ${ interval } тыдні ў аўторак"
       ],
       "Every ${ interval } week on Tuesday, ${ timesString }": [
-        "Кожны ${ interval } тыдзень у аўторак а ${ timesString }",
-        "Кожныя ${ interval } тыдні ў аўторак а ${ timesString }",
-        "Кожных ${ interval } тыдняў у аўторак а ${ timesString }",
-        "Кожныя ${ interval } тыдні ў аўторак а ${ timesString }"
+        "Кожны ${ interval } тыдзень у аўторак у ${ timesString }",
+        "Кожныя ${ interval } тыдні ў аўторак у ${ timesString }",
+        "Кожных ${ interval } тыдняў у аўторак у ${ timesString }",
+        "Кожныя ${ interval } тыдні ў аўторак у ${ timesString }"
       ],
       "Every ${ interval } week on Wednesday": [
         "Кожны ${ interval } тыдзень у сераду",
@@ -15061,6 +15298,17 @@
     "Feature": {
       "Unlimited hide-my-email aliases": [
         "Неабмежаваная колькасць псеўданімаў hide-my-email"
+      ]
+    },
+    "Drawer tab, Action": {
+      "Download for Linux": [
+        "Спампаваць для Linux"
+      ],
+      "Download for macOS": [
+        "Спампаваць для macOS"
+      ],
+      "Download for Windows": [
+        "Спампаваць для Windows"
       ]
     }
   }

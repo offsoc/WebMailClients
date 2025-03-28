@@ -1477,6 +1477,21 @@
       ],
       "hide-my-email aliases": [
         "hide-my-email-aliaser"
+      ],
+      "Add another account": [
+        "Legg til en annen konto"
+      ],
+      "Explore ${ VPN_APP_NAME }": [
+        "Utforsk ${ VPN_APP_NAME }"
+      ],
+      "Help and feedback": [
+        "Hjelp og tilbakemelding"
+      ],
+      "Help and resources": [
+        "Hjelp og ressurser"
+      ],
+      "Toggle VPN dashboard": [
+        "Veksle VPN-kontrollpanel"
       ]
     },
     "action": {
@@ -1542,6 +1557,9 @@
       "${ users } user": [
         "${ users } bruker",
         "${ users } brukere"
+      ],
+      "${ price } per seat": [
+        "${ price } per lisens"
       ]
     },
     "Alert": {
@@ -1797,6 +1815,9 @@
       ],
       "VPN Accelerator": [
         "VPN Accelerator"
+      ],
+      "Unlimited logins, credit cards, hide-my-email aliases and more": [
+        "Ubegrenset antall pålogginger, kredittkort, hide-my-email-aliaser og mer"
       ]
     },
     "BF2024: Offers": {
@@ -1856,6 +1877,12 @@
       ],
       "Two-year": [
         "Toårig"
+      ],
+      "Lifetime": [
+        "Livstid"
+      ],
+      "New!": [
+        "Ny!"
       ]
     },
     "Browser": {
@@ -4561,6 +4588,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Søket samsvarte med for mange resultater. Begrens søket, og prøv på nytt."
+      ],
+      "Unable to load VPN dashboard. Please check your connection and try again.": [
+        "Kan ikke laste VPN-kontrollpanelet. Kontroller tilkoblingen og prøv på nytt."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7913,6 +7943,132 @@
       ],
       "Protect your email from being leaked to mailing lists or spammers with ${ hideMyEmailAliasesLink }.": [
         "Beskytt e-postadressen din fra å bli lekket til e-postlister eller utsendere av søppelpost med ${ hideMyEmailAliasesLink }."
+      ],
+      "${ VPN_APP_NAME } is masking your IP address, so websites can’t identify you.": [
+        "${ VPN_APP_NAME } maskerer IP-adressen din, slik at nettsteder ikke kan identifisere deg."
+      ],
+      "**Auto-connect**: Opens and connects to VPN as soon as you turn on your device.": [
+        "**Automatisk tilkobling**: åpnes og kobles til VPN så snart du slår på enheten."
+      ],
+      "**Kill switch**: Stops data leaks by blocking your internet if the VPN drops unexpectedly.": [
+        "**Nødstopp**: stopper datalekkasjer ved å blokkere internett hvis VPN-en dropper ut uventet."
+      ],
+      "A secure connection is essential when working remotely. A VPN protects company data from cyber threats and keeps your work private.": [
+        "En sikker tilkobling er avgjørende når du jobber eksternt. Et VPN beskytter bedriftsdata mot cybertrusler og holder arbeidet ditt privat."
+      ],
+      "A VPN encrypts your connection and hides your IP address, making it much harder for anyone to track or monitor your browsing.": [
+        "Et VPN krypterer tilkoblingen din og skjuler IP-adressen, noe som gjør det mye vanskeligere for noen å spore eller overvåke surfingen din."
+      ],
+      "A VPN hides your IP address and encrypts your browsing activity, making it harder for websites, advertisers, and ISPs to track you over time.": [
+        "Et VPN skjuler IP-adressen din og krypterer nettleseraktiviteten din, noe som gjør det vanskeligere for nettsteder, annonsører og Internett-leverandører å spore deg over tid."
+      ],
+      "A VPN is a secure tunnel between your device and the internet. It hides your location and activity from your internet service provider (ISP) and the websites you visit.": [
+        "Et VPN er en sikker tunnel mellom enheten din og internett. Den skjuler posisjonen og aktiviteten din for internettleverandøren din (ISP) og nettstedene du besøker."
+      ],
+      "Ad targeting": [
+        "Målretting mot annonser"
+      ],
+      "Advertisers track your browsing to show targeted ads. ${ VPN_APP_NAME } blocks trackers and ads, making your connection faster and improving your online experience.": [
+        "Annonsører sporer surfingen din for å vise målrettede annonser. ${ VPN_APP_NAME } blokkerer sporere og annonser, noe som gjør tilkoblingen din raskere og forbedrer nettopplevelsen din."
+      ],
+      "Browse privately and access blocked content.": [
+        "Surf privat og få tilgang til blokkert innhold."
+      ],
+      "Connect to ${ VPN_APP_NAME } to browse privately": [
+        "Koble til ${ VPN_APP_NAME } for å surfe privat"
+      ],
+      "Geoblocking": [
+        "Geoblokkering"
+      ],
+      "Governments and ISPs can monitor your online activity. By hiding your real IP and encrypting your activity your browsing becomes private.": [
+        "Myndigheter og Internett-leverandører kan overvåke nettaktiviteten din. Ved å skjule din virkelige IP og kryptere aktiviteten din blir surfingen privat."
+      ],
+      "In restrictive countries": [
+        "I restriktive land"
+      ],
+      "Included for free with your plan": [
+        "Inkludert gratis i planen din"
+      ],
+      "It’s best to use a VPN at all times. But here’s when cybersecurity threats can be the highest:": [
+        "Det er best å bruke et VPN til enhver tid. Men her er når cybersikkerhetstrusler kan være høyest:"
+      ],
+      "Most public WiFi networks are safe, but some lack security, exposing you to cyber threats. A VPN encrypts your traffic, keeping you protected.": [
+        "De fleste offentlige WiFi-nettverk er trygge, men noen mangler sikkerhet, noe som utsetter deg for cybertrusler. Et VPN krypterer trafikken din og holder deg beskyttet."
+      ],
+      "Not connected": [
+        "Ikke tilkoblet"
+      ],
+      "On public WiFi networks": [
+        "På offentlige Wi-Fi-nettverk"
+      ],
+      "Other accounts": [
+        "Andre kontoer"
+      ],
+      "Private browsing (or “incognito” mode) is only useful for keeping your activity hidden on your device. It stops your browser from saving history and cookies, but it doesn’t make you invisible. Your ISP, network administrator, and the websites you visit can still see what you do online.": [
+        "Privat surfing (eller \"inkognitomodus\") er bare nyttig for å holde aktiviteten din skjult på enheten din. Det hindrer nettleseren din i å lagre historikk og informasjonskapsler, men det gjør deg ikke usynlig. Internett-leverandøren, nettverksadministratoren og nettstedene du besøker, kan fortsatt se hva du gjør på nettet."
+      ],
+      "Scan the QR code with your mobile device": [
+        "Skann QR-koden med mobilenheten din"
+      ],
+      "Some governments block or restrict access to certain websites. A VPN helps bypass censorship while keeping your activity and identity private.": [
+        "Noen myndigheter blokkerer eller begrenser tilgangen til visse nettsteder. Et VPN hjelper til med å omgå sensur samtidig som aktiviteten og identiteten din holdes privat."
+      ],
+      "Some websites and streaming services block content by region. A VPN lets you bypass these restrictions and access the internet freely.": [
+        "Noen nettsteder og strømmetjenester blokkerer innhold etter region. Et VPN lar deg omgå disse begrensningene og gir fri tilgang til internett."
+      ],
+      "Stay connected effortlessly by enabling the following VPN settings:": [
+        "Hold deg tilkoblet uten problemer ved å aktivere følgende VPN-innstillinger:"
+      ],
+      "Subscription auto-renews every ${ cycle } month.": [
+        "Abonnementet fornyes automatisk hver ${ cycle } måned.",
+        "Abonnementet fornyes automatisk hver ${ cycle } måned."
+      ],
+      "Surveillance": [
+        "Overvåking"
+      ],
+      "This means that your ISP and the websites you visit can’t connect your personal information with your online activity.": [
+        "Dette betyr at Internett-leverandøren din og nettstedene du besøker, ikke kan koble personopplysningene dine til nettaktiviteten din."
+      ],
+      "This unique code can be used by websites and ISPs (internet service providers) to link your location and browsing history to your device": [
+        "Denne unike koden kan brukes av nettsteder og Internett-leverandører for å koble posisjonen og nettleserloggen din til enheten din."
+      ],
+      "Tracking": [
+        "Sporing"
+      ],
+      "VPN IP": [
+        "VPN-IP"
+      ],
+      "When working remotely": [
+        "Når du jobber eksternt"
+      ],
+      "When you connect to VPN, it uses encryption technology to hide your IP address (a unique code assigned to your device).": [
+        "Når du kobler til VPN, bruker det krypteringsteknologi for å skjule IP-adressen din (en unik kode som er tildelt enheten din)."
+      ],
+      "You'll then be billed every ${ renewCycle } month at ${ renewAmountStr }.": [
+        "Du vil da bli fakturert hver ${ renewCycle } måned med ${ renewAmountStr }",
+        "Du vil da bli fakturert hver ${ renewCycle } måned med ${ renewAmountStr }."
+      ],
+      "Your internet service provider can monitor and sometimes sell your data, or even restrict what websites you can access.": [
+        "Internett-leverandøren din kan overvåke og noen ganger selge dataene dine, eller til og med begrense hvilke nettsteder du har tilgang til."
+      ],
+      "Your IP": [
+        "Din IP"
+      ],
+      "Your IP address is visible and can be used to track your online activity.": [
+        "IP-adressen din er synlig og kan brukes til å spore nettaktiviteten din."
+      ],
+      "Your online activity is protected": [
+        "Nettaktiviteten din er beskyttet"
+      ],
+      "Your physical location is visible and can be used to restrict your access to the internet.": [
+        "Din fysiske plassering er synlig og kan brukes til å begrense tilgangen din til internett."
+      ],
+      "Your scheduled plan starts on ${ renewalTime } and will auto-renew every ${ cycle } month.": [
+        "Den planlagte planen starter den ${ renewalTime } og fornyes automatisk hver ${ cycle } måned.",
+        "Den planlagte planen starter den ${ renewalTime } og fornyes automatisk hver ${ cycle } måned."
+      ],
+      "Your subscription will automatically renew on ${ renewalTime }.": [
+        "Abonnementet ditt fornyes automatisk ${ renewalTime }."
       ]
     },
     "info": {
@@ -8754,6 +8910,15 @@
       ],
       "Integrated 2FA authenticator": [
         "Integrert 2FA-autentisering"
+      ],
+      "Your IP": [
+        "Din IP"
+      ],
+      "Your ISP": [
+        "Din internettleverandør"
+      ],
+      "Your location": [
+        "Din plassering"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -10033,6 +10198,9 @@
       ],
       "You’re enjoying a promotional price on your current plan. If you downgrade your account, you will lose your promotional price and it won’t be available if you try to subscribe again.": [
         "Du får en kampanjepris på det nåværende abonnementet ditt. Hvis du nedgraderer kontoen vil du miste kampanjeprisen og den vil ikke være tilgjengelig hvis du forsøker å abonnere igjen."
+      ],
+      "Pay once, secure your passwords and identity forever.": [
+        "Betal én gang, sikre passordene og identiteten din for alltid."
       ]
     },
     "new_plans: Subtext": {
@@ -10742,6 +10910,12 @@
       "Secure vault sharing (${ n } vault) and link sharing": [
         "Sikker hvelvdeling (${ n } hvelv) og koblingsdeling",
         "Sikker hvelvdeling (${ n } hvelv) og koblingsdeling"
+      ],
+      "Secure vault, item and link sharing": [
+        "Sikker deling av hvelv, elementer og koblinger"
+      ],
+      "Unlimited logins, notes, credit cards and more": [
+        "Ubegrenset antall pålogginger, notater, kredittkort og mer"
       ]
     },
     "pass_signup_2024: Info": {
@@ -10878,6 +11052,40 @@
       ],
       "We are processing your payment for the billed invoice. Please wait until the payment is completed before making changes to your plan or updating your payment details. Thank you for your patience.": [
         "Vi behandler betalingen din for den fakturerte fakturaen. Vent til betalingen er fullført før du gjør endringer i planen din eller oppdaterer betalingsinformasjonen din. Takk for tålmodigheten."
+      ],
+      "During this time, you will not be able to modify or cancel your subscription. Please wait until your payment is completed before attempting any changes. Thank you for your patience.": [
+        "I løpet av denne tiden vil du ikke kunne endre eller kansellere abonnementet ditt. Vent til betalingen er fullført før du prøver å gjøre noen endringer. Takk for tålmodigheten."
+      ],
+      "Renewal pricing subject to change according to ${ termsAndConditionsLink }.": [
+        "Fornyelsespriser kan endres i henhold til ${ termsAndConditionsLink }."
+      ],
+      "Renews at ${ renewPriceStr }, cancel anytime.": [
+        "Fornyes til ${ renewPriceStr }, avbryt når som helst."
+      ],
+      "terms & conditions": [
+        "vilkår og betingelser"
+      ],
+      "The coupon is valid for ${ couponRedemptions } renewal.": [
+        "Kupongen er gyldig for ${ couponRedemptions } fornyelse.",
+        "Kupongen er gyldig for ${ couponRedemptions } fornyelser."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first ${ subscriptionLength } month.": [
+        "Den spesielt rabatterte prisen på ${ priceWithDiscount } er gyldig for den første ${ subscriptionLength } måneden.",
+        "Den spesielt rabatterte prisen på ${ priceWithDiscount } er gyldig de første ${ subscriptionLength } månedene."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. The coupon is valid for ${ couponRedemptions } renewal. Then it will automatically be renewed at ${ renewPriceStr } for 1 month. You can cancel at any time.": [
+        "Den spesielt rabatterte prisen på ${ priceWithDiscount } er gyldig den første måneden. Kupongen er gyldig for ${ couponRedemptions } fornyelse. Deretter vil den automatisk bli fornyet til ${ renewPriceStr } for 1 måned. Du kan avbryte når som helst.",
+        "Den spesielt rabatterte prisen på ${ priceWithDiscount } er gyldig den første måneden. Kupongen er gyldig for ${ couponRedemptions } fornyelser. Deretter vil den automatisk bli fornyet til ${ renewPriceStr } for 1 måned. Du kan avbryte når som helst."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. Then it will automatically be renewed at ${ renewPriceStr } every month. You can cancel at any time.": [
+        "Den spesielt rabatterte prisen på ${ priceWithDiscount } er gyldig den første måneden. Da blir den automatisk fornyet til ${ renewPriceStr } hver måned. Du kan avbryte når som helst."
+      ],
+      "Then it will automatically be renewed at ${ renewPriceStr } for ${ renewalLength } month. You can cancel at any time.": [
+        "Da vil den automatisk bli fornyet på ${ renewPriceStr } for ${ renewalLength } måned. Du kan si opp når som helst.",
+        "Da vil den automatisk bli fornyet på ${ renewPriceStr } for ${ renewalLength } måneder. Du kan si opp når som helst."
+      ],
+      "Your payment is still being processed": [
+        "Betalingen din behandles fortsatt"
       ]
     },
     "Payments.Error": {
@@ -12105,7 +12313,7 @@
         "${ n } VPN-tilkoblinger per bruker"
       ],
       "VPN connection for ${ n } devices per user": [
-        "VPN-tilkobling for ${ n } enheter per bruker",
+        "VPN-tilkobling for ${ n } enhet per bruker",
         "VPN-tilkobling for ${ n } enheter per bruker"
       ]
     },
@@ -13773,6 +13981,45 @@
       ],
       "Your shorter address is now ready": [
         "Den kortere adressen din er nå klar"
+      ],
+      "Desktop": [
+        "Skrivebord"
+      ],
+      "Download the app": [
+        "Last ned appen"
+      ],
+      "Get more from your VPN": [
+        "Får mer ut av ditt VPN"
+      ],
+      "Help and feedback": [
+        "Hjelp og tilbakemelding"
+      ],
+      "How does it all work?": [
+        "Hvordan fungerer det hele?"
+      ],
+      "Increase security with ${ VPN_APP_NAME }": [
+        "Øk sikkerheten med ${ VPN_APP_NAME }"
+      ],
+      "Make a secure connection your default": [
+        "Gjør en sikker tilkobling til standard"
+      ],
+      "Mobile": [
+        "Mobil"
+      ],
+      "Private browsing vs VPN": [
+        "Privat surfing kontra VPN"
+      ],
+      "VPN explained": [
+        "VPN forklart"
+      ],
+      "What can a VPN protect you from?": [
+        "Hva kan et VPN beskytte deg mot?"
+      ],
+      "What is a VPN?": [
+        "Hva er et VPN?"
+      ],
+      "When is it most important to use a VPN?": [
+        "Når er det viktigst å bruke et VPN?"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13933,6 +14180,10 @@
       "Auto-selects from ${ numberOfCountries } country": [
         "Velger automatisk fra ${ numberOfCountries } land",
         "Velger automatisk fra ${ numberOfCountries } land"
+      ],
+      "Servers in ${ numberOfCountries }+ country": [
+        "Tjenere i ${ numberOfCountries }+ land",
+        "Tjenere i ${ numberOfCountries }+ land"
       ]
     },
     "vpn_2024: renew": {
@@ -13949,6 +14200,9 @@
       "Your subscription will automatically renew in ${ cycle } month.": [
         "Abonnementet ditt fornyes automatisk om ${ cycle } måned.",
         "Abonnementet ditt fornyes automatisk om ${ cycle } måneder."
+      ],
+      "You'll then be billed every 12 months at ${ renewPriceStr }.": [
+        "Du blir deretter fakturert hver 12. måned med ${ renewPriceStr }."
       ]
     },
     "vpn_2step: feature": {
@@ -14397,6 +14651,42 @@
     "Feature": {
       "Unlimited hide-my-email aliases": [
         "Ubegrenset antall hide-my-email-aliaser"
+      ]
+    },
+    "customer_support.feature.all": {
+      "For all ${ BRAND_NAME } services": [
+        "For alle ${ BRAND_NAME }-tjenester"
+      ]
+    },
+    "customer_support.feature.drive": {
+      "For ${ DRIVE_APP_NAME }": [
+        "For ${ DRIVE_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.mail": {
+      "For ${ MAIL_APP_NAME }": [
+        "For ${ MAIL_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.pass": {
+      "For ${ PASS_APP_NAME }": [
+        "For ${ PASS_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.vpn": {
+      "For ${ VPN_APP_NAME }": [
+        "For ${ VPN_APP_NAME }"
+      ]
+    },
+    "Drawer tab, Action": {
+      "Download for Linux": [
+        "Last ned for Linux"
+      ],
+      "Download for macOS": [
+        "Last ned for macOS"
+      ],
+      "Download for Windows": [
+        "Last ned for Windows"
       ]
     }
   }

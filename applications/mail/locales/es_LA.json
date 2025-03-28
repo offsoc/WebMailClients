@@ -1489,6 +1489,12 @@
       ],
       "hide-my-email aliases": [
         "los alias de hide-my-email"
+      ],
+      "Explore ${ VPN_APP_NAME }": [
+        "Descubra ${ VPN_APP_NAME }"
+      ],
+      "Toggle VPN dashboard": [
+        "Activar o desactivar el panel de control de VPN"
       ]
     },
     "action": {
@@ -1554,6 +1560,9 @@
       "${ users } user": [
         "${ users } usuario",
         "${ users } usuarios"
+      ],
+      "${ price } per seat": [
+        "${ price } por licencia"
       ]
     },
     "Alert": {
@@ -4582,6 +4591,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "La búsqueda coincidió con muchos resultados. Limite la búsqueda e inténtelo de nuevo."
+      ],
+      "Unable to load VPN dashboard. Please check your connection and try again.": [
+        "No se puede cargar el panel de control de la VPN. Revise su conexión e intente de nuevo."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7930,13 +7942,136 @@
         "Otras cuentas"
       ],
       "Our system flagged this as suspicious. If it is not a phishing or scam email, mark as legitimate.": [
-        "Nuestro sistema marcó este mensaje como sospechoso. Si no es un mail falso o de suplantación, marquelo como legítimo"
+        "Nuestro sistema marcó este mensaje como sospechoso. Si no es un correo falso o de suplantación, márquelo como legítimo."
       ],
       "Our system flagged this message as a phishing attempt. Please check to ensure that it is legitimate.": [
-        "Nuestro sistema marcó este mensaje como un intento de suplantación. Por favor verifique para asegurar que es legitimo"
+        "Nuestro sistema marcó este mensaje como un intento de suplantación de identidad. Compruebe que es legítimo."
       ],
       "Protect your email from being leaked to mailing lists or spammers with ${ hideMyEmailAliasesLink }.": [
         "Proteja el correo de ser filtrado en listas de correo o spammers con ${ hideMyEmailAliasesLink }."
+      ],
+      "${ VPN_APP_NAME } is masking your IP address, so websites can’t identify you.": [
+        "${ VPN_APP_NAME } está enmascarando su dirección IP por lo que los sitios web no pueden identificarle."
+      ],
+      "**Auto-connect**: Opens and connects to VPN as soon as you turn on your device.": [
+        "**Conexión automática**: Inicie y conéctese a la VPN en cuanto encienda su dispositivo."
+      ],
+      "**Kill switch**: Stops data leaks by blocking your internet if the VPN drops unexpectedly.": [
+        "**Interruptor de bloqueo**: Detiene las filtraciones de datos al bloquear su conexión internet si la VPN se desconecta inesperadamente."
+      ],
+      "A secure connection is essential when working remotely. A VPN protects company data from cyber threats and keeps your work private.": [
+        "Una conexión segura es esencial al trabajar remotamente. Una VPN protege los datos de la compañía de amenazas cibernéticas y mantiene su trabajo privado."
+      ],
+      "A VPN encrypts your connection and hides your IP address, making it much harder for anyone to track or monitor your browsing.": [
+        "Una VPN cifra su conexión y oculta su dirección IP, lo que hace que sea mucho más difícil para cualquiera rastrear o monitorear su navegación."
+      ],
+      "A VPN hides your IP address and encrypts your browsing activity, making it harder for websites, advertisers, and ISPs to track you over time.": [
+        "Una VPN oculta su dirección IP y cifra su actividad de navegación, lo que dificulta que sitios web, anunciantes e ISP lo rastreen a lo largo del tiempo."
+      ],
+      "A VPN is a secure tunnel between your device and the internet. It hides your location and activity from your internet service provider (ISP) and the websites you visit.": [
+        "Una VPN es un túnel seguro entre su dispositivo e internet. Oculta su ubicación y su actividad de su proveedor de servicios de internet (ISP) y los sitios web que visita."
+      ],
+      "Ad targeting": [
+        "Orientación de anuncios"
+      ],
+      "Advertisers track your browsing to show targeted ads. ${ VPN_APP_NAME } blocks trackers and ads, making your connection faster and improving your online experience.": [
+        "Los anunciantes rastrean su navegación para mostrar anuncios específicos. ${ VPN_APP_NAME } bloquea rastreadores y anuncios, lo que hace que su conexión sea más rápida y mejora su experiencia en línea."
+      ],
+      "Browse privately and access blocked content.": [
+        "Navegue de forma privada y accedea a contenidos bloqueados."
+      ],
+      "Connect to ${ VPN_APP_NAME } to browse privately": [
+        "Conéctese a ${ VPN_APP_NAME } para navegar de forma privada."
+      ],
+      "Geoblocking": [
+        "Bloqueo geográfico"
+      ],
+      "Governments and ISPs can monitor your online activity. By hiding your real IP and encrypting your activity your browsing becomes private.": [
+        "Los gobiernos y los proveedores de servicios de internet pueden monitorear su actividad en línea. Ocultando su IP real y cifrando su actividad de navegación se vuelve privada."
+      ],
+      "In restrictive countries": [
+        "En países con restricciones"
+      ],
+      "Included for free with your plan": [
+        "Incluido gratis con su plan"
+      ],
+      "It’s best to use a VPN at all times. But here’s when cybersecurity threats can be the highest:": [
+        "Es mejor usar una VPN en todo momento. Pero estos son los casos en que las amenazas de ciberseguridad pueden ser mayores:"
+      ],
+      "Most public WiFi networks are safe, but some lack security, exposing you to cyber threats. A VPN encrypts your traffic, keeping you protected.": [
+        "La mayoría de las redes Wi-Fi públicas son seguras, pero algunas carecen de seguridad, exponiéndole a amenazas cibernéticas. Una VPN cifra su tráfico brindándole protección."
+      ],
+      "Not connected": [
+        "No conectado"
+      ],
+      "On public WiFi networks": [
+        "En redes Wi-Fi públicas"
+      ],
+      "Private browsing (or “incognito” mode) is only useful for keeping your activity hidden on your device. It stops your browser from saving history and cookies, but it doesn’t make you invisible. Your ISP, network administrator, and the websites you visit can still see what you do online.": [
+        "La navegación privada (o modo «incógnito») solo es útil para mantener oculta su actividad en su dispositivo. Evita que su navegador guarde el historial y las cookies, pero no le hace invisible. Su ISP, administrador de red y los sitios web que visita aún pueden ver lo que hace en línea."
+      ],
+      "Scan the QR code with your mobile device": [
+        "Escanee el código QR con su dispositivo móvil."
+      ],
+      "Some governments block or restrict access to certain websites. A VPN helps bypass censorship while keeping your activity and identity private.": [
+        "Algunos gobiernos bloquean o restringen el acceso a ciertos sitios web. Una VPN ayuda a evitar la censura al mantener su actividad e identidad privadas."
+      ],
+      "Some websites and streaming services block content by region. A VPN lets you bypass these restrictions and access the internet freely.": [
+        "Algunos sitios web y servicios de streaming bloquean los contenidos por región. Una VPN te permite evitar estas restricciones y acceder a internet."
+      ],
+      "Stay connected effortlessly by enabling the following VPN settings:": [
+        "Manténgase en línea sin ningún esfuerzo al activar los siguientes ajustes VPN:"
+      ],
+      "Subscription auto-renews every ${ cycle } month.": [
+        "La suscripción se renueva automáticamente cada ${ cycle } mes.",
+        "La suscripción se renueva automáticamente cada ${ cycle } meses."
+      ],
+      "Surveillance": [
+        "Vigilancia"
+      ],
+      "This means that your ISP and the websites you visit can’t connect your personal information with your online activity.": [
+        "Esto significa que su proveedor de servicios de internet y los sitios web que visita no pueden conectar su información personal con su actividad en línea."
+      ],
+      "This unique code can be used by websites and ISPs (internet service providers) to link your location and browsing history to your device": [
+        "Este código único puede ser usado por sitios web e ISP (proveedores de servicios de Internet) para vincular su ubicación y su historial de navegación a su dispositivo."
+      ],
+      "Tracking": [
+        "Seguimiento"
+      ],
+      "VPN IP": [
+        "IP de VPN"
+      ],
+      "When working remotely": [
+        "Al trabajar remotamente"
+      ],
+      "When you connect to VPN, it uses encryption technology to hide your IP address (a unique code assigned to your device).": [
+        "Cuando se conecta a una VPN, usa tecnología de cifrado para ocultar su dirección IP (un código único asignado a su dispositivo)."
+      ],
+      "You'll then be billed every ${ renewCycle } month at ${ renewAmountStr }.": [
+        "Después se le facturará cada ${ renewCycle } mes por ${ renewAmountStr }.",
+        "Después se le facturará cada ${ renewCycle } meses por ${ renewAmountStr }."
+      ],
+      "Your internet service provider can monitor and sometimes sell your data, or even restrict what websites you can access.": [
+        "Su proveedor de servicios de internet puede monitorear y, en ocasiones, vender us datos, o incluso restringir a qué sitios web puede acceder."
+      ],
+      "Your IP": [
+        "Su IP"
+      ],
+      "Your IP address is visible and can be used to track your online activity.": [
+        "Su dirección IP es visible y puede usarse para rastrear su actividad en línea."
+      ],
+      "Your online activity is protected": [
+        "Su actividad en línea está protegida."
+      ],
+      "Your physical location is visible and can be used to restrict your access to the internet.": [
+        "Su ubicación física es visible y puede usarse para restringir su acceso a internet."
+      ],
+      "Your scheduled plan starts on ${ renewalTime } and will auto-renew every ${ cycle } month.": [
+        "Su plan programado comienza el ${ renewalTime } y se renovará automáticamente cada ${ cycle } mes.",
+        "Su plan programado comienza el ${ renewalTime } y se renovará automáticamente cada ${ cycle } meses."
+      ],
+      "Your subscription will automatically renew on ${ renewalTime }.": [
+        "Su suscripción se renovará automáticamente en ${ renewalTime }."
       ]
     },
     "info": {
@@ -8781,6 +8916,15 @@
       ],
       "Integrated 2FA authenticator": [
         "Autenticador de 2FA integrado"
+      ],
+      "Your IP": [
+        "Su IP"
+      ],
+      "Your ISP": [
+        "Su proveedor de internet"
+      ],
+      "Your location": [
+        "Su ubicación"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -10573,7 +10717,7 @@
         "Acceso en cualquier momento y en cualquier lugar"
       ],
       "Auto-delete spam and trash": [
-        "Eliminación automática del spam y la papelera"
+        "Eliminación automática del spam y de la papelera"
       ],
       "browser": [
         "navegador"
@@ -10780,7 +10924,7 @@
         "Intercambio seguro de bóveda (${ n } bóvedas) e intercambio de enlaces"
       ],
       "Secure vault, item and link sharing": [
-        "Bóveda segura, elemento y enlace coompartido"
+        "Uso compartido seguro de bóveda, enlaces y elementos"
       ],
       "Unlimited logins, notes, credit cards and more": [
         "Inicios de sesión ilimitados, notas, tarjetas de crédito y más"
@@ -10920,6 +11064,40 @@
       ],
       "We are processing your payment for the billed invoice. Please wait until the payment is completed before making changes to your plan or updating your payment details. Thank you for your patience.": [
         "Estamos procesando el pago de la factura. Espere hasta que se complete el pago antes de realizar cambios en su plan o actualizar sus detalles de pago. Gracias por su paciencia."
+      ],
+      "During this time, you will not be able to modify or cancel your subscription. Please wait until your payment is completed before attempting any changes. Thank you for your patience.": [
+        "Durante este tiempo no podrá modificar o cancelar su suscripción. Por favor, espere hasta que su pago se complete antes de intentar cualquier cambio. Gracias por su paciencia."
+      ],
+      "Renewal pricing subject to change according to ${ termsAndConditionsLink }.": [
+        "Precio de renovación sujeta a cambios de acuerdo a ${ termsAndConditionsLink }"
+      ],
+      "Renews at ${ renewPriceStr }, cancel anytime.": [
+        "Se renueva por ${ renewPriceStr }, cancele en cualquier momento."
+      ],
+      "terms & conditions": [
+        "los términos y condiciones"
+      ],
+      "The coupon is valid for ${ couponRedemptions } renewal.": [
+        "El cupón es válido por ${ couponRedemptions } renovación.",
+        "El cupón es válido por ${ couponRedemptions } renovaciones."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first ${ subscriptionLength } month.": [
+        "El precio especial de descuento de ${ priceWithDiscount } es válido para el primer ${ subscriptionLength } mes",
+        "El precio especial de descuento de ${ priceWithDiscount } es válido para los primeros ${ subscriptionLength } meses"
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. The coupon is valid for ${ couponRedemptions } renewal. Then it will automatically be renewed at ${ renewPriceStr } for 1 month. You can cancel at any time.": [
+        "La oferta especial por ${ priceWithDiscount } es válida para el primer mes. El cupón es válido para ${ couponRedemptions } renovación. Después se renovará automáticamente a ${ renewPriceStr } por 1 mes. Puede cancelarlo en cualquier momento.",
+        "La oferta especial por ${ priceWithDiscount } es válida para el primer mes. El cupón es válido para ${ couponRedemptions } renovaciones. Después se renovará automáticamente a ${ renewPriceStr } por 1 mes. Puede cancelarlo en cualquier momento."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. Then it will automatically be renewed at ${ renewPriceStr } every month. You can cancel at any time.": [
+        "La oferta especial por ${ priceWithDiscount } es válida durante el primer mes. Después se renovará automáticamente por ${ renewPriceStr } cada mes. Puede cancelarla en cualquier momento."
+      ],
+      "Then it will automatically be renewed at ${ renewPriceStr } for ${ renewalLength } month. You can cancel at any time.": [
+        "Después se renovará automáticamente a ${ renewPriceStr } por ${ renewalLength } mes. Puede cancelar en cualquier momento.",
+        "Después se renovará automáticamente a ${ renewPriceStr } por ${ renewalLength } meses. Puede cancelar en cualquier momento."
+      ],
+      "Your payment is still being processed": [
+        "Su pago aún está siendo procesado"
       ]
     },
     "Payments.Error": {
@@ -13818,6 +13996,42 @@
       ],
       "Help and feedback": [
         "Ayuda y comentarios"
+      ],
+      "Desktop": [
+        "Escritorio"
+      ],
+      "Download the app": [
+        "Descargar la aplicación"
+      ],
+      "Get more from your VPN": [
+        "Obtenga más de su VPN"
+      ],
+      "How does it all work?": [
+        "¿Cómo funciona?"
+      ],
+      "Increase security with ${ VPN_APP_NAME }": [
+        "Aumente la seguridad con ${ VPN_APP_NAME }"
+      ],
+      "Make a secure connection your default": [
+        "Elija una conexión segura como opción predeterminada"
+      ],
+      "Mobile": [
+        "Móvil"
+      ],
+      "Private browsing vs VPN": [
+        "Navegación privada y VPN"
+      ],
+      "VPN explained": [
+        "Explicaciones sobre la VPN"
+      ],
+      "What can a VPN protect you from?": [
+        "¿De qué le puede proteger una VPN?"
+      ],
+      "What is a VPN?": [
+        "¿Qué es una VPN?"
+      ],
+      "When is it most important to use a VPN?": [
+        "¿Cuándo es más importante utilizar una VPN?"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13978,6 +14192,10 @@
       "Auto-selects from ${ numberOfCountries } country": [
         "Selección automática de ${ numberOfCountries } país",
         "Selección automática de ${ numberOfCountries } países"
+      ],
+      "Servers in ${ numberOfCountries }+ country": [
+        "Servidores en ${ numberOfCountries } país",
+        "Servidores en más de ${ numberOfCountries } países"
       ]
     },
     "vpn_2024: renew": {
@@ -13994,6 +14212,9 @@
       "Your subscription will automatically renew in ${ cycle } month.": [
         "La suscripción se renovará automáticamente en ${ cycle } mes.",
         "La suscripción se renovará automáticamente en ${ cycle } meses."
+      ],
+      "You'll then be billed every 12 months at ${ renewPriceStr }.": [
+        "Se le facturará cada 12 meses por ${ renewPriceStr }."
       ]
     },
     "vpn_2step: feature": {
@@ -14467,6 +14688,17 @@
     "Feature": {
       "Unlimited hide-my-email aliases": [
         "Alias hide-my-email ilimitados"
+      ]
+    },
+    "Drawer tab, Action": {
+      "Download for Linux": [
+        "Descargar para Linux"
+      ],
+      "Download for macOS": [
+        "Descargar para macOS"
+      ],
+      "Download for Windows": [
+        "Descargar para Windows"
       ]
     }
   }

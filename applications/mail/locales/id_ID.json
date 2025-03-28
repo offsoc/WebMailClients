@@ -1472,6 +1472,15 @@
       ],
       "hide-my-email aliases": [
         "alias hide-my-email"
+      ],
+      "Add another account": [
+        "Tambah akun lainnya"
+      ],
+      "Help and feedback": [
+        "Bantuan dan saran"
+      ],
+      "Help and resources": [
+        "Bantuan dan sumber daya"
       ]
     },
     "action": {
@@ -1533,6 +1542,9 @@
       ],
       "${ users } user": [
         "${ users } pengguna"
+      ],
+      "${ price } per seat": [
+        "${ price } per kuota"
       ]
     },
     "Alert": {
@@ -6503,7 +6515,7 @@
         "Apabila alias Anda dijual, dibocorkan, atau disalahgunakan, Anda hanya perlu menonaktifkannya untuk dapat berhenti menerima spam."
       ],
       "If your password ends up on the dark web, ${ BRAND_NAME } can tell you which service your data was leaked from and how to halt the damage.": [
-        "Apabila kata sandi Anda muncul pada dark web, ${ BRAND_NAME } dapat memberi tahu Anda dari layanan mana kata sandi ini dibocorkan serta bagaimana cara untuk menghentikan dampak kebocoran ini."
+        "Apabila kata sandi Anda muncul di dark web, ${ BRAND_NAME } dapat memberi tahu Anda dari layanan mana kata sandi ini dibocorkan serta bagaimana cara untuk menghentikan dampak kebocoran ini."
       ],
       "Image description": [
         "Keterangan gambar"
@@ -7791,6 +7803,81 @@
       ],
       "Protect your email from being leaked to mailing lists or spammers with ${ hideMyEmailAliasesLink }.": [
         "Lindungi email Anda agar tidak sampai bocor ke tangan milis atau spammer dengan ${ hideMyEmailAliasesLink }."
+      ],
+      "${ VPN_APP_NAME } is masking your IP address, so websites can’t identify you.": [
+        "${ VPN_APP_NAME } sedang menyamarkan alamat IP Anda, sehingga situs web yang Anda kunjungi tidak akan dapat mengenali diri Anda."
+      ],
+      "**Auto-connect**: Opens and connects to VPN as soon as you turn on your device.": [
+        "**Sambungan otomatis**: Membuka aplikasi dan menghubungkan Anda ke VPN segera setelah Anda menyalakan perangkat Anda."
+      ],
+      "**Kill switch**: Stops data leaks by blocking your internet if the VPN drops unexpectedly.": [
+        "**Kill switch**: Menghentikan kebocoran data dengan memblokir internet Anda apabila koneski VPN terputus secara tiba-tiba."
+      ],
+      "A secure connection is essential when working remotely. A VPN protects company data from cyber threats and keeps your work private.": [
+        "Koneksi yang aman sangat penting pada saat bekerja secara remote. Aplikasi VPN melindungi data perusahaan Anda dari ancaman siber dan menjaga pekerjaan Anda tetap privat."
+      ],
+      "A VPN is a secure tunnel between your device and the internet. It hides your location and activity from your internet service provider (ISP) and the websites you visit.": [
+        "VPN merupakan terowongan yang aman antara perangkat Anda dan jaringan internet. Aplikasi VPN menyembunyikan lokasi dan aktivitas Anda dari penyedia layanan internet (ISP) dan situs web yang Anda kunjungi."
+      ],
+      "Connect to ${ VPN_APP_NAME } to browse privately": [
+        "Hubungkan ke ${ VPN_APP_NAME } untuk berselancar secara privat"
+      ],
+      "Geoblocking": [
+        "Pemblokiran wilayah"
+      ],
+      "In restrictive countries": [
+        "Di negara dengan pembatasan yang ketat"
+      ],
+      "It’s best to use a VPN at all times. But here’s when cybersecurity threats can be the highest:": [
+        "Tidak ada waktu yang tidak tepat untuk menggunakan VPN. Meskipun demikian, terdapat beberapa lokasi dan situasi di mana tindak kejahatan siber dapat sangat mengancam:"
+      ],
+      "Most public WiFi networks are safe, but some lack security, exposing you to cyber threats. A VPN encrypts your traffic, keeping you protected.": [
+        "Sebagian besar jaringan WiFi publik dapat diakses secara aman, namun jaringan tertentu yang kurang aman dapat memaparkan diri Anda ke berbagai ancaman siber. Aplikasi VPN melindungi lalu lintas jaringan Anda, yang membuat diri Anda tetap terlindung atas ancaman ini."
+      ],
+      "Not connected": [
+        "Tidak terhubung"
+      ],
+      "On public WiFi networks": [
+        "Di jaringan WiFI publik"
+      ],
+      "Other accounts": [
+        "Akun lainnya"
+      ],
+      "Scan the QR code with your mobile device": [
+        "Pindai kode QR dengan perangkat seluler Anda"
+      ],
+      "Some governments block or restrict access to certain websites. A VPN helps bypass censorship while keeping your activity and identity private.": [
+        "Beberapa pemerintahan dapat memblokir atau membatasi akses ke situs web tertentu. Aplikasi VPN dapat membantu Anda untuk menangkal sensor selagi menjaga aktivitas dan identitas Anda tetap privat."
+      ],
+      "Stay connected effortlessly by enabling the following VPN settings:": [
+        "Buat diri Anda selalu terhubung tanpa harus repot dengan mengaktifkan pengaturan VPN berikut:"
+      ],
+      "Subscription auto-renews every ${ cycle } month.": [
+        "Langganan diperbarui secara otomatis setiap ${ cycle } bulan."
+      ],
+      "This unique code can be used by websites and ISPs (internet service providers) to link your location and browsing history to your device": [
+        "Kode unik ini dapat digunakan oleh situs web dan penyedia layanan internet (ISP) untuk menautkan lokasi dan riwayat penjelajahan Anda ke perangkat Anda"
+      ],
+      "VPN IP": [
+        "IP VPN"
+      ],
+      "When working remotely": [
+        "Pada saat bekerja secara remote"
+      ],
+      "You'll then be billed every ${ renewCycle } month at ${ renewAmountStr }.": [
+        "Anda kemudian akan ditagih setiap ${ renewCycle } bulan pada harga ${ renewAmountStr }."
+      ],
+      "Your IP": [
+        "IP Anda"
+      ],
+      "Your physical location is visible and can be used to restrict your access to the internet.": [
+        "Lokasi fisik Anda sedang dapat terlihat dan digunakan untuk membatasi akses internet Anda."
+      ],
+      "Your scheduled plan starts on ${ renewalTime } and will auto-renew every ${ cycle } month.": [
+        "Paket terjadwal Anda dimulai pada ${ renewalTime } dan akan diperbarui secara otomatis setiap ${ cycle } bulan."
+      ],
+      "Your subscription will automatically renew on ${ renewalTime }.": [
+        "Langganan Anda akan diperbarui secara otomatis pada ${ renewalTime }."
       ]
     },
     "info": {
@@ -10714,6 +10801,36 @@
       ],
       "We are processing your payment for the billed invoice. Please wait until the payment is completed before making changes to your plan or updating your payment details. Thank you for your patience.": [
         "Kami sedang memproses pembayaran Anda untuk faktur yang tertagih. Silakan tunggu hingga pembayaran selesai sebelum membuat perubahan pada paket Anda atau memperbarui rincian pembayaran Anda. Terima kasih atas kesabaran Anda."
+      ],
+      "During this time, you will not be able to modify or cancel your subscription. Please wait until your payment is completed before attempting any changes. Thank you for your patience.": [
+        "Selama periode ini, Anda tidak akan dapat mengubah atau membatalkan langganan Anda. Silakan tunggu hingga pembayaran Anda rampung sebelum mencoba untuk merubah suatu hal. Terima kasih atas kesabaran Anda."
+      ],
+      "Renewal pricing subject to change according to ${ termsAndConditionsLink }.": [
+        "Harga pembaruan dapat berubah sewaktu-waktu sesuai dengan ${ termsAndConditionsLink } yang berlaku."
+      ],
+      "Renews at ${ renewPriceStr }, cancel anytime.": [
+        "Diperbarui seharga ${ renewPriceStr }, batalkan kapan saja."
+      ],
+      "terms & conditions": [
+        "syarat & ketentuan"
+      ],
+      "The coupon is valid for ${ couponRedemptions } renewal.": [
+        "Kupon ini valid untuk ${ couponRedemptions } kali pembaruan."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first ${ subscriptionLength } month.": [
+        "Harga diskon khusus ${ priceWithDiscount } ini valid untuk ${ subscriptionLength } bulan pertama."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. The coupon is valid for ${ couponRedemptions } renewal. Then it will automatically be renewed at ${ renewPriceStr } for 1 month. You can cancel at any time.": [
+        "Harga diskon khusus ${ priceWithDiscount } ini valid untuk bulan pertama. Kupon ini valid untuk ${ couponRedemptions } kali pembaruan. Setelahnya, langganan ini akan diperbarui secara otomatis pada harga ${ renewPriceStr } untuk 1 bulan. Anda dapat membatalkan langganan Anda kapan saja."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. Then it will automatically be renewed at ${ renewPriceStr } every month. You can cancel at any time.": [
+        "Harga diskon khusus ${ priceWithDiscount } ini valid untuk bulan pertama. Selanjutnya, langganan ini akan diperbarui secara otomatis pada harga ${ renewPriceStr } per bulannya. Anda dapat membatalkan langganan Anda kapan saja."
+      ],
+      "Then it will automatically be renewed at ${ renewPriceStr } for ${ renewalLength } month. You can cancel at any time.": [
+        "Setelahnya, langganan ini akan diperbarui secara otomatis pada harga ${ renewPriceStr } setiap ${ renewalLength } bulan. Anda dapat membatalkan langganan Anda kapan saja."
+      ],
+      "Your payment is still being processed": [
+        "Pembayaran Anda masih diproses"
       ]
     },
     "Payments.Error": {
@@ -13526,6 +13643,24 @@
       ],
       "On-device suggestions": [
         "Saran pada perangkat"
+      ],
+      "Get more from your VPN": [
+        "Dapatkan yang lebh dari VPN Anda"
+      ],
+      "Help and feedback": [
+        "Bantuan dan saran"
+      ],
+      "Make a secure connection your default": [
+        "Jadikan koneksi yang aman sebagai koneksi bawaan Anda"
+      ],
+      "VPN explained": [
+        "Kupas tuntas VPN"
+      ],
+      "What is a VPN?": [
+        "Apa itu VPN?"
+      ],
+      "When is it most important to use a VPN?": [
+        "Kapan waktu yang paling penting untuk menggunakan VPN?"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13677,6 +13812,9 @@
       ],
       "Auto-selects from ${ numberOfCountries } country": [
         "Terpilih secara otomatis dari ${ numberOfCountries } negara"
+      ],
+      "Servers in ${ numberOfCountries }+ country": [
+        "Server di ${ numberOfCountries }+ negara"
       ]
     },
     "vpn_2024: renew": {
@@ -13691,6 +13829,9 @@
       ],
       "Your subscription will automatically renew in ${ cycle } month.": [
         "Langganan Anda akan diperbarui secara otomatis dalam ${ cycle } bulan."
+      ],
+      "You'll then be billed every 12 months at ${ renewPriceStr }.": [
+        "Setelahnya, Anda akan ditagih setiap 12 bulan pada harga ${ renewPriceStr }."
       ]
     },
     "vpn_2step: feature": {

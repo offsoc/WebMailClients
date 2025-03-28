@@ -661,7 +661,7 @@
         "Курсив"
       ],
       "Keep my subscription": [
-        "Зберегти мою підписку"
+        "Зберегти передплату"
       ],
       "Label as": [
         "Позначити міткою"
@@ -1270,7 +1270,7 @@
         "Завтра"
       ],
       "Tracker protection prevented some images from loading. Load them if you trust the sender.": [
-        "Захист трекера не дозволив завантажити деякі зображення. Завантажте їх, якщо ви довіряєте відправнику."
+        "Захист від стеження заблокував завантаження деяких зображень. Завантажте їх, якщо ви довіряєте відправнику."
       ],
       "Trust": [
         "Довіряти"
@@ -1515,6 +1515,9 @@
         "${ users } користувачі",
         "${ users } користувачів",
         "${ users } користувачів"
+      ],
+      "${ price } per seat": [
+        "${ price } за ліцензію"
       ]
     },
     "Alert": {
@@ -2198,10 +2201,10 @@
         "Повторно активуйте за допомогою ${ formattedEndDate }, щоб зберегти ці можливості:"
       ],
       "Reactivate subscription": [
-        "Відновити підписку"
+        "Відновити передплату"
       ],
       "Your subscription is ending soon": [
-        "Ваша підписка закінчується найближчим часом"
+        "Ваша передплата незабаром завершиться"
       ]
     },
     "Cancellation upsell": {
@@ -2649,6 +2652,9 @@
       ],
       "Work": [
         "Робочий"
+      ],
+      "Yomi": [
+        "Yomi"
       ]
     },
     "Country name": {
@@ -4533,6 +4539,15 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "За вашим пошуковим запитом знайдено надто багато результатів. Обмежте пошуковий запит і спробуйте знову."
+      ],
+      "${ user.Name } is your username. To create ${ emailAddress }, please go to Settings > Identity and addresses > Short domain (pm.me)": [
+        "${ user.Name } – ваше ім'я користувача. Щоб створити ${ emailAddress }, відкрийте Налаштування > Особистість й адреси > Короткий домен (pm.me)"
+      ],
+      "Please select a country": [
+        "Виберіть країну"
+      ],
+      "Please select a state": [
+        "Виберіть регіон"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7954,6 +7969,21 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Ваш план починається ${ renewalTime } і буде автоматично поновлюватися щомісяця."
+      ],
+      "Make ${ MAIL_APP_NAME } your default email application.": [
+        "Зробити ${ MAIL_APP_NAME } типовим поштовим застосунком."
+      ],
+      "Registering your subscription…": [
+        "Реєстрація передплати…"
+      ],
+      "Set ${ MAIL_APP_NAME } as your default email application. ${ MAIL_APP_NAME } will open automatically when you click an email link.": [
+        "Встановити ${ MAIL_APP_NAME } типовим поштовим застосунком. ${ MAIL_APP_NAME } відкриватиметься автоматично після натискання на поштове посилання."
+      ],
+      "Setting up your new address…": [
+        "Налаштування вашої нової адреси…"
+      ],
+      "You can change this anytime in ${ settingsLink }.": [
+        "Ви можете змінити це будь-коли в ${ settingsLink }."
       ]
     },
     "info": {
@@ -9653,7 +9683,7 @@
         "Всі базові ${ BRAND_NAME } послуги (${ MAIL_SHORT_APP_NAME }, ${ VPN_SHORT_APP_NAME }, ${ PASS_SHORT_APP_NAME })"
       ],
       "All premium ${ BRAND_NAME } services. One easy subscription": [
-        "Всі преміумсервіси ${ BRAND_NAME }. Одна проста підписка"
+        "Всі преміальні сервіси ${ BRAND_NAME }. Одна передплата"
       ],
       "Auto-delete Spam and Trash": [
         "Автоматичне видалення спаму та смітника"
@@ -9963,6 +9993,12 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Ми скануємо \"Темну мережу\", щоб перевірити, чи не було витоку ваших адрес або псевдонімів ${ BRAND_NAME }, і негайно сповіщаємо вас, якщо щось знайдемо."
+      ],
+      "Use on up to ${ n } device at once": [
+        "Використовується одночасно на ${ n } пристрої",
+        "Використовується одночасно на ${ n } пристроях",
+        "Використовується одночасно на ${ n } пристроях",
+        "Використовується одночасно на ${ n } пристроях"
       ]
     },
     "new_plans: feature highlight": {
@@ -12074,6 +12110,12 @@
         "${ n } VPN-з'єднання на користувача",
         "${ n } VPN-з'єднань на користувача",
         "${ n } VPN-з'єднання на користувача"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "VPN з'єднання для ${ n } пристрою на користувача",
+        "VPN з'єднання для ${ n } пристроїв на користувача",
+        "VPN з'єднання для ${ n } пристроїв на користувача",
+        "VPN з'єднання для ${ n } пристроїв на користувача"
       ]
     },
     "Subscription change warning": {
@@ -12217,22 +12259,22 @@
         "${ planNumberOfCalendars } календарів на користувача"
       ],
       "${ planNumberOfDomains } custom email domain": [
-        "${ planNumberOfDomains } власний поштовий домен",
-        "${ planNumberOfDomains } власні поштові домени",
-        "${ planNumberOfDomains } власних поштових доменів",
-        "${ planNumberOfDomains } власних поштових доменів"
+        "${ planNumberOfDomains } власний домен електронної пошти",
+        "${ planNumberOfDomains } власні домени електронної пошти",
+        "${ planNumberOfDomains } власних доменів електронної пошти",
+        "${ planNumberOfDomains } власних доменів електронної пошти"
       ],
       "${ planNumberOfEmails } email address": [
-        "${ planNumberOfEmails } поштова адреса",
-        "${ planNumberOfEmails } поштові адреси",
-        "${ planNumberOfEmails } поштових адрес",
-        "${ planNumberOfEmails } поштових адрес"
+        "${ planNumberOfEmails } адреса електронної пошти",
+        "${ planNumberOfEmails } адреси електронної пошти",
+        "${ planNumberOfEmails } адрес електронної пошти",
+        "${ planNumberOfEmails } адрес електронної пошти"
       ],
       "${ planNumberOfEmails } email address per user": [
-        "${ planNumberOfEmails } поштова адреса на користувача",
-        "${ planNumberOfEmails } поштові адреси на користувача",
-        "${ planNumberOfEmails } поштових адрес на користувача",
-        "${ planNumberOfEmails } поштових адрес на користувача"
+        "${ planNumberOfEmails } адреса електронної пошти на користувача",
+        "${ planNumberOfEmails } адреси електронної пошти на користувача",
+        "${ planNumberOfEmails } адрес електронної пошти на користувача",
+        "${ planNumberOfEmails } адрес електронної пошти на користувача"
       ],
       "${ planNumberOfUsers } user": [
         "${ planNumberOfUsers } користувач",
@@ -13944,6 +13986,30 @@
         "${ numberOfServers } в ${ numberOfCountries } країнах",
         "${ numberOfServers } в ${ numberOfCountries } країнах",
         "${ numberOfServers } в ${ numberOfCountries } країнах"
+      ],
+      "${ n } device": [
+        "${ n } пристрій",
+        "${ n } пристрої",
+        "${ n } пристроїв",
+        "${ n } пристроїв"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } країна",
+        "${ numberOfCountries } країни",
+        "${ numberOfCountries } країн",
+        "${ numberOfCountries } країн"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "Автовибір з ${ numberOfCountries } країни",
+        "Автовибір з ${ numberOfCountries } країн",
+        "Автовибір з ${ numberOfCountries } країн",
+        "Автовибір з ${ numberOfCountries } країн"
+      ],
+      "Servers in ${ numberOfCountries }+ country": [
+        "Сервери в ${ numberOfCountries }+ країні",
+        "Сервери в ${ numberOfCountries }+ країнах",
+        "Сервери в ${ numberOfCountries }+ країнах",
+        "Сервери в ${ numberOfCountries }+ країнах"
       ]
     },
     "vpn_2024: renew": {
@@ -13955,6 +14021,12 @@
         "Ваша передплата автоматично поновиться через ${ cycle } місяці.",
         "Ваша передплата автоматично поновиться через ${ cycle } місяців.",
         "Ваша передплата автоматично поновиться через ${ cycle } місяців."
+      ],
+      "Your new subscription will automatically renew in ${ cycle } month.": [
+        "Ваша нова передплата автоматично поновиться через ${ cycle } місяць.",
+        "Ваша нова передплата автоматично поновиться через ${ cycle } місяці.",
+        "Ваша нова передплата автоматично поновиться через ${ cycle } місяців.",
+        "Ваша нова передплата автоматично поновиться через ${ cycle } місяців."
       ]
     },
     "vpn_2step: feature": {
@@ -13994,6 +14066,12 @@
       ],
       "Securely exchange Bitcoin via email instead of complex, 26-character Bitcoin addresses that are prone to error": [
         "Безпечно обмінюйтесь Bitcoin електронною поштою замість складних, 26-символьних адрес Bitcoin, схильних до помилок"
+      ],
+      "${ n } ${ BRAND_NAME } email address": [
+        "${ n } адреса електронної пошти ${ BRAND_NAME }",
+        "${ n } адреси електронної пошти ${ BRAND_NAME }",
+        "${ n } адрес електронної пошти ${ BRAND_NAME }",
+        "${ n } адрес електронної пошти ${ BRAND_NAME }"
       ]
     },
     "wallet_signup_2024:Action": {

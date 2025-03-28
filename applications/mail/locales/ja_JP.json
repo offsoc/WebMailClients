@@ -721,7 +721,7 @@
         "読み込み中${ ellipsis }"
       ],
       "Make ${ MAIL_APP_NAME } your default email application": [
-        "${ MAIL_APP_NAME } をデフォルトのメールアプリケーションとして設定する"
+        "${ MAIL_APP_NAME } をデフォルトのメールアプリにする"
       ],
       "Make it friendly": [
         "フレンドリーにする"
@@ -1469,6 +1469,15 @@
       ],
       "Zoom out": [
         "縮小"
+      ],
+      "Add another account": [
+        "別のアカウントを追加する"
+      ],
+      "Help and feedback": [
+        "ヘルプとフィードバック"
+      ],
+      "Help and resources": [
+        "ヘルプとリソース"
       ]
     },
     "action": {
@@ -1842,6 +1851,12 @@
       ],
       "Two-year": [
         "2年払い"
+      ],
+      "Lifetime": [
+        "一生涯"
+      ],
+      "New!": [
+        "New!"
       ]
     },
     "Browser": {
@@ -2323,7 +2338,7 @@
         "黒"
       ],
       "blanched almond": [
-        "かなり白い黄"
+        "クリームイエロー"
       ],
       "blue-gray": [
         "ややグレーな青"
@@ -2344,7 +2359,7 @@
         "コバルト"
       ],
       "copper": [
-        "カッパー"
+        "赤錆色"
       ],
       "cyan-blue azure": [
         "グレーな青"
@@ -2356,19 +2371,19 @@
         "黒い青"
       ],
       "dark midnight blue": [
-        "ダークミッドナイトブルー"
+        "紺色"
       ],
       "dim gray": [
         "やや黒いグレー"
       ],
       "enzian": [
-        "リンドウ"
+        "濃藍"
       ],
       "fern": [
-        "シダ"
+        "緑"
       ],
       "field drab": [
-        "フィールドドラブ"
+        "露紅茶"
       ],
       "forest": [
         "フォレスト"
@@ -2377,7 +2392,7 @@
         "かなり白いグレー"
       ],
       "japanese laurel": [
-        "黒い緑"
+        "濃い緑"
       ],
       "kiwi": [
         "キウイ"
@@ -2389,16 +2404,16 @@
         "かなり赤いピンク"
       ],
       "light moss green": [
-        "ライトモスグリーン"
+        "若葉色"
       ],
       "light red": [
-        "ライトレッド"
+        "薄い赤"
       ],
       "maize": [
-        "やや黒い黄"
+        "あさき"
       ],
       "mughal green": [
-        "かなり黒い緑"
+        "深緑"
       ],
       "ocean": [
         "オーシャン"
@@ -2419,7 +2434,7 @@
         "やや白い青"
       ],
       "pastel gray": [
-        "パステルグレー"
+        "パールグレー"
       ],
       "persian plum": [
         "かなり黒い赤"
@@ -2434,7 +2449,7 @@
         "やや白いグレー"
       ],
       "pickle": [
-        "ピクルス"
+        "璃寛茶"
       ],
       "pine": [
         "パイン"
@@ -2443,7 +2458,7 @@
         "ピンク"
       ],
       "pistachio": [
-        "ピスタチオ"
+        "わさびいろ"
       ],
       "plum": [
         "プラム"
@@ -2461,7 +2476,7 @@
         "サハラ"
       ],
       "satin sheen gold": [
-        "サテンシーンゴールド"
+        "オリーブ"
       ],
       "slateblue": [
         "スレートブルー"
@@ -3891,7 +3906,7 @@
     },
     "Email body for invitation (event details part)": {
       "Removed": [
-        "削除"
+        "削除済み"
       ]
     },
     "Email body for invitation (location part)": {
@@ -3980,7 +3995,7 @@
         "${ BRAND_NAME } から外部アカウントに接続できません"
       ],
       "${ error.message } for <${ email }>. You can add another key or disable encryption for this contact to resolve the issue.": [
-        "<${ email }> で次のエラーが発生しました${ error.message } この連絡先にほかのキーを追加するか、暗号化を無効にすることで問題は解決します。"
+        "<${ email }> で次のエラーが発生しました: ${ error.message }。この連絡先にほかのキーを追加するか、暗号化を無効にすることで問題は解決します。"
       ],
       "${ errorMessage }. You can also check our ${ statusPageLink }": [
         "${ errorMessage }。必要に応じて${ statusPageLink }も確認してください。"
@@ -4574,7 +4589,7 @@
         "ファイル${ formattedFilename }はメソッドが正しくなく、インポートできません。"
       ],
       "Your file ${ formattedFilename } has no events to be imported.": [
-        "ファイル${ formattedFilename }にはインポートする連絡先がありません。"
+        "ファイル${ formattedFilename }にはインポートする予定がありません。"
       ],
       "Your file ${ formattedFilename } is empty.": [
         "ファイル${ formattedFilename }が空です。"
@@ -5417,7 +5432,7 @@
     },
     "ICS event error": {
       "Calendar time zone not supported": [
-        "カレンダーのタイムゾーンはサポートされていません"
+        "カレンダーのタイムゾーンがサポートされていません"
       ],
       "Edited event not supported": [
         "編集された予定はサポートされていません"
@@ -5450,7 +5465,7 @@
         "定期的な予定に繰り返しがありません"
       ],
       "Recurring rule not supported": [
-        "繰り返しルールはサポートされていません"
+        "繰り返しルールがサポートされていません"
       ],
       "Start time out of bounds": [
         "開始日時が指定可能な範囲を超えています"
@@ -5753,7 +5768,7 @@
         "${ BRAND_NAME } の暗号化技術は私たちでさえもパスワードにアクセスできないことを意味しています。"
       ],
       "${ BRAND_NAME }'s password manager lets you create, store, and autofill passwords, so you never have to reset them.": [
-        "${ BRAND_NAME }のパスワードマネージャーは、パスワードを作成、保存、自動入力することができ流ので、パスワードをリセットする必要はもうありません。"
+        "${ BRAND_NAME }のパスワードマネージャーは、パスワードを作成、保存、自動入力することができるので、パスワードをリセットする必要がなくなります。"
       ],
       "${ calendarsToBeCreatedCount } new calendar": [
         "${ calendarsToBeCreatedCount } 個の新しいカレンダー"
@@ -6362,7 +6377,7 @@
         "メッセージを暗号化"
       ],
       "Enjoy a faster, focused emailing experience with the desktop app.": [
-        "デスクトップアプリを使って、より速く、集中したメール送信をお楽しみください。"
+        "デスクトップアプリで、より速く、集中できるメール送信をお楽しみください。"
       ],
       "Enter the code from your authenticator app": [
         "認証アプリのコードを入力してください"
@@ -6704,7 +6719,7 @@
         "毎月 ${ onDayString }"
       ],
       "More infos": [
-        "もっと詳しく"
+        "詳細"
       ],
       "More refine actions": [
         "その他の修正操作"
@@ -7770,6 +7785,18 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "予定されているプランは ${ renewalTime } から始まり、毎月自動更新されます。"
+      ],
+      "Other accounts": [
+        "その他のアカウント"
+      ],
+      "Our system flagged this as suspicious. If it is not a phishing or scam email, mark as legitimate.": [
+        "システムはこれを疑わしいとしています。フィッシングメールや詐欺メールでない場合は、正当なものとしてマークしてください。"
+      ],
+      "Our system flagged this message as a phishing attempt. Please check to ensure that it is legitimate.": [
+        "システムはこのメッセージがフィッシングの可能性があるとフラグを立てました。正当性を確認してください。"
+      ],
+      "Protect your email from being leaked to mailing lists or spammers with ${ hideMyEmailAliasesLink }.": [
+        "ニュースレターや迷惑メールの配信リストから、${ hideMyEmailAliasesLink }で自分のメールアドレスを守りましょう。"
       ]
     },
     "info": {
@@ -8244,7 +8271,7 @@
         "次回から表示しない"
       ],
       "Don't show this suggestion": [
-        "この提案を表示しない"
+        "今後このメッセージを表示しない"
       ],
       "e.g., Amazon, eBay, Etsy": [
         "Amazon、eBay、Etsyなど"
@@ -8695,7 +8722,7 @@
         "新しいカレンダーを追加するには、既存のカレンダーを削除します。"
       ],
       "To add a new calendar, remove another calendar or upgrade your ${ BRAND_NAME } plan to a ${ MAIL_SHORT_APP_NAME } paid plan.": [
-        "新しいカレンダーを追加するには、ほかのカレンダーを削除するか、${ BRAND_NAME } プランから有料の${ MAIL_SHORT_APP_NAME } プランにアップグレードします。"
+        "新しいカレンダーを追加するには、ほかのカレンダーを削除するか、${ BRAND_NAME } プランから有料の${ MAIL_SHORT_APP_NAME } プランへアップグレードしてください。"
       ],
       "You've reached the maximum number of calendars available in your plan.": [
         "このプランで利用できるカレンダーの最大数に達しました。"
@@ -8964,6 +8991,9 @@
       ],
       "${ BRAND_NAME } Scribe writing assistant": [
         "${ BRAND_NAME } Scribe 執筆アシスタント"
+      ],
+      "Add-on with free trial": [
+        "無料トライアル付きアドオン"
       ]
     },
     "Mailbox": {
@@ -9724,6 +9754,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "ダークウェブをスキャンして、あなたの ${ BRAND_NAME } アドレスやエイリアスが漏洩していないかを確認し、何か見つかった場合はすぐに警告します。"
+      ],
+      "${ size } storage per user": [
+        "ユーザーあたり ${ size }のストレージ"
+      ],
+      "Manage user permissions and access": [
+        "ユーザー権限とアクセス権限の管理"
+      ],
+      "Password manager to secure credentials": [
+        "認証情報を保護するためのパスワードマネージャー"
       ]
     },
     "new_plans: feature highlight": {
@@ -9840,6 +9879,9 @@
       ],
       "You’re enjoying a promotional price on your current plan. If you downgrade your account, you will lose your promotional price and it won’t be available if you try to subscribe again.": [
         "現在ご契約中のプランでは、キャンペーン価格をご利用いただけます。アカウントをダウングレードすると、キャンペーン価格が適用されなくなります。"
+      ],
+      "Pay once, secure your passwords and identity forever.": [
+        "一度だけの支払いで、パスワードとアイデンティティを永遠に保護します。"
       ]
     },
     "new_plans: Subtext": {
@@ -10545,6 +10587,12 @@
       ],
       "Secure vault sharing (${ n } vault) and link sharing": [
         "安全な保管庫共有 (${ n } 個の保管庫) とリンクの共有"
+      ],
+      "Secure vault, item and link sharing": [
+        "安全な保管庫、アイテム、リンク共有"
+      ],
+      "Unlimited logins, notes, credit cards and more": [
+        "無制限のログイン、メモ、クレジットカードなど"
       ]
     },
     "pass_signup_2024: Info": {
@@ -11872,6 +11920,9 @@
       ],
       "${ n } VPN connection per user": [
         "1 ユーザーあたり ${ n } 件の VPN 接続"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "ユーザーごとに ${ n } 台のデバイスへのVPN接続"
       ]
     },
     "Subscription change warning": {
@@ -12192,7 +12243,7 @@
         "${ planName } をキャンセルすると、${ BRAND_NAME } Free にダウングレードされ、最大 1 GB のメール ストレージと最大 5 GB のドライブ ストレージのみが提供されます。無料プランでは追加ユーザーがサポートされていないため、チームの作業が中断されます。"
       ],
       "When your ${ planName } subscription ends on ${ expiryDate }, you'll be downgraded to the ${ BRAND_NAME } Free plan.": [
-        "${ expiryDate }に${ planName }サブスクリプションが終了すると、${ BRAND_NAME }Freeにダウングレードされます。"
+        "${ expiryDate }に${ planName }サブスクリプションが終了すると、${ BRAND_NAME } Freeにダウングレードされます。"
       ],
       "Yearly free storage bonuses": [
         "年間無料ストレージボーナス"
@@ -12681,7 +12732,7 @@
     },
     "Title": {
       "${ appName } keyboard shortcuts": [
-        "${ appName } キーボードショートカット"
+        "${ appName } のキーボードショートカット"
       ],
       "${ emailsCount } email address": [
         "${ emailsCount } 件のメールアドレス"
@@ -13407,7 +13458,7 @@
         "このフィールドは空欄にできません"
       ],
       "This field cannot contain only spaces": [
-        "このフィールドにはスペースのみを含めることはできません"
+        "このフィールドに空白のみを入れることはできません"
       ],
       "To": [
         "宛先"
@@ -13489,6 +13540,12 @@
       ],
       "Your shorter address is now ready": [
         "短いアドレスの準備ができました"
+      ],
+      "Get more from your VPN": [
+        "VPNからさらに入手する"
+      ],
+      "Help and feedback": [
+        "ヘルプとフィードバック"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13640,6 +13697,9 @@
       ],
       "Auto-selects from ${ numberOfCountries } country": [
         "${ numberOfCountries }ヶ国から自動選択"
+      ],
+      "Servers in ${ numberOfCountries }+ country": [
+        "${ numberOfCountries }ヶ国以上にあるサーバー"
       ]
     },
     "vpn_2024: renew": {
@@ -14062,6 +14122,31 @@
     "Feature": {
       "Unlimited hide-my-email aliases": [
         "無制限の Hide-my-email エイリアス"
+      ]
+    },
+    "customer_support.feature.all": {
+      "For all ${ BRAND_NAME } services": [
+        "すべての ${ BRAND_NAME } サービス向け"
+      ]
+    },
+    "customer_support.feature.drive": {
+      "For ${ DRIVE_APP_NAME }": [
+        "${ DRIVE_APP_NAME } 向け"
+      ]
+    },
+    "customer_support.feature.mail": {
+      "For ${ MAIL_APP_NAME }": [
+        "${ MAIL_APP_NAME } 向け"
+      ]
+    },
+    "customer_support.feature.pass": {
+      "For ${ PASS_APP_NAME }": [
+        "${ PASS_APP_NAME } 向け"
+      ]
+    },
+    "customer_support.feature.vpn": {
+      "For ${ VPN_APP_NAME }": [
+        "${ VPN_APP_NAME } 向け"
       ]
     }
   }

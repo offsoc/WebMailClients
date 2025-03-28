@@ -1486,6 +1486,12 @@
       ],
       "hide-my-email aliases": [
         "hide-my-email ψευδώνυμα"
+      ],
+      "Explore ${ VPN_APP_NAME }": [
+        "Ανακαλύψτε το ${ VPN_APP_NAME }"
+      ],
+      "Toggle VPN dashboard": [
+        "Εναλλαγή πίνακα ελέγχου VPN"
       ]
     },
     "action": {
@@ -1551,6 +1557,9 @@
       "${ users } user": [
         "${ users } χρήστης",
         "${ users } χρήστες"
+      ],
+      "${ price } per seat": [
+        "${ price } ανά θέση"
       ]
     },
     "Alert": {
@@ -1975,7 +1984,7 @@
         "Δημιουργία ετικέτας"
       ],
       "Discover and set up features": [
-        "Ανακαλύψτε και ρυθμίστε λειτουργίες"
+        "Ανακαλύψτε και ρυθμίστε δυνατότητες"
       ],
       "Got it": [
         "Το κατάλαβα"
@@ -2289,7 +2298,7 @@
         "Προηγμένη προστασία λογαριασμού"
       ],
       "All ${ BRAND_NAME } apps and premium features": [
-        "Όλες οι εφαρμογές ${ BRAND_NAME } και οι premium δυνατότητές"
+        "Όλες οι εφαρμογές ${ BRAND_NAME } και οι premium δυνατότητες"
       ],
       "Cancel and downgrade": [
         "Ακύρωση και υποβάθμιση"
@@ -2304,7 +2313,7 @@
         "Κρυπτογραφημένος διαχειριστής κωδικών πρόσβασης"
       ],
       "Our basic, free plan with end-to-end encrypted email and storage. No premium features included.": [
-        "Το βασικό, δωρεάν πλάνο μας με κρυπτογραφημένο ηλεκτρονικό ταχυδρομείο και αποθηκευτικό χώρο από άκρο σε άκρο. Δεν περιλαμβάνονται premium χαρακτηριστικά."
+        "Το βασικό, δωρεάν πλάνο μας με κρυπτογραφημένο ηλεκτρονικό ταχυδρομείο και αποθηκευτικό χώρο από άκρο σε άκρο. Δεν περιλαμβάνονται premium δυνατότητες."
       ],
       "Save ${ upsellSavings }": [
         "Εξοικονομίστε ${ upsellSavings }"
@@ -2319,7 +2328,7 @@
         "Δοκιμάστε το ${ planName }"
       ],
       "Try ${ upsellPlanName } and retain access to all premium email and calendar features.": [
-        "Δοκιμάστε το ${ upsellPlanName } και διατηρήστε την πρόσβαση σε όλες τις premium λειτουργίες email και ημερολογίου."
+        "Δοκιμάστε το ${ upsellPlanName } και διατηρήστε την πρόσβαση σε όλες τις premium δυνατότητες ηλεκτρονικού ταχυδρομείου και ημερολογίου."
       ],
       "Ultra fast and private VPN": [
         "Εξαιρετικά γρήγορο και ιδιωτικό VPN"
@@ -3642,7 +3651,7 @@
         "Περιλαμβάνονται επίσης"
       ],
       "Auto-delete spam and trashed messages and unlock more premium features when you upgrade.": [
-        "Αυτόματη διαγραφή ανεπιθύμητων μηνυμάτων και απορριφθέντων μηνυμάτων και ξεκλείδωμα περισσότερων premium λειτουργιών κατά την αναβάθμιση."
+        "Αυτόματη διαγραφή ανεπιθύμητων μηνυμάτων και απορριφθέντων μηνυμάτων και ξεκλείδωμα περισσότερων premium δυνατοτήτων κατά την αναβάθμιση."
       ],
       "Automatically clear out emails moved to Trash and Spam more than 30 days ago.": [
         "Αυτόματη εκκαθάριση μηνυμάτων ηλεκτρονικού ταχυδρομείου που μετακινήθηκαν στον Κάδο απορριμμάτων και στα Ανεπιθύμητα πριν από περισσότερες από 30 ημέρες."
@@ -3697,10 +3706,10 @@
         "Καμία ετικέτα"
       ],
       "Save time by sending emails to everyone at once with contact groups. Unlock this and other premium features when you upgrade.": [
-        "Εξοικονομήστε χρόνο στέλνοντας μηνύματα ηλεκτρονικού ταχυδρομείου σε όλους ταυτόχρονα με ομάδες επαφών. Ξεκλειδώστε αυτήν και άλλες premium λειτουργίες κατά την αναβάθμιση."
+        "Εξοικονομήστε χρόνο στέλνοντας μηνύματα ηλεκτρονικού ταχυδρομείου σε όλους ταυτόχρονα με ομάδες επαφών. Ξεκλειδώστε αυτήν και άλλες premium δυνατότητες κατά την αναβάθμιση."
       ],
       "Separate different aspects of your life with multiple email addresses and unlock more premium features when you upgrade.": [
-        "Διαχωρίστε διαφορετικές πτυχές της ζωής σας με πολλές διευθύνσεις email και ξεκλειδώστε περισσότερες premium λειτουργίες όταν αναβαθμίσετε."
+        "Διαχωρίστε διαφορετικές πτυχές της ζωής σας με πολλές διευθύνσεις email και ξεκλειδώστε περισσότερες premium δυνατότητες όταν αναβαθμίσετε."
       ],
       "Set a data recovery method to prevent data loss.": [
         "Ορίστε μια μέθοδο ανάκτησης δεδομένων για να αποτρέψετε την απώλεια δεδομένων."
@@ -3730,19 +3739,19 @@
         "Ενεργοποιήστε την προστασία παρακολούθησης ηλεκτρονικού ταχυδρομείου για να αποτρέψετε διαφημιστές και άλλους χρήστες από την παρακολούθηση της τοποθεσίας και της δραστηριότητάς σας στο διαδίκτυο."
       ],
       "Unlock custom message scheduling and more premium features when you upgrade.": [
-        "Ξεκλειδώστε προσαρμοσμένο προγραμματισμό μηνυμάτων και περισσότερες premium λειτουργίες κατά την αναβάθμιση."
+        "Ξεκλειδώστε προσαρμοσμένο προγραμματισμό μηνυμάτων και περισσότερες premium δυνατότητες κατά την αναβάθμιση."
       ],
       "Unlock custom snooze times and more premium features when you upgrade.": [
-        "Ξεκλειδώστε προσαρμοσμένους χρόνους αναβολής και περισσότερες premium λειτουργίες κατά την αναβάθμιση."
+        "Ξεκλειδώστε προσαρμοσμένους χρόνους αναβολής και περισσότερες premium δυνατότητες κατά την αναβάθμιση."
       ],
       "Unlock shorter email addresses and other premium features by upgrading.": [
-        "Αναβαθμίζοντας, θα ξεκλειδώστε μικρότερες διευθύνσεις email και άλλες premium λειτουργίες."
+        "Αναβαθμίζοντας, θα ξεκλειδώστε μικρότερες διευθύνσεις email και άλλες premium δυνατότητες."
       ],
       "Unlock unlimited filters that sort your inbox for you and more premium features when you upgrade.": [
-        "Ξεκλειδώστε απεριόριστα φίλτρα που ταξινομούν τα εισερχόμενά σας για εσάς και περισσότερες premium λειτουργίες κατά την αναβάθμιση."
+        "Ξεκλειδώστε απεριόριστα φίλτρα που ταξινομούν τα εισερχόμενά σας για εσάς και περισσότερες premium δυνατότητες κατά την αναβάθμιση."
       ],
       "Unlock unlimited folders, labels and more premium features when you upgrade.": [
-        "Ξεκλειδώστε απεριόριστους φακέλους, ετικέτες και περισσότερες premium λειτουργίες κατά την αναβάθμιση."
+        "Ξεκλειδώστε απεριόριστους φακέλους, ετικέτες και περισσότερες premium δυνατότητες κατά την αναβάθμιση."
       ],
       "Upgrade to get ${ activatePmUser } for a shorter, easy-to-remember email address in addition to your current one.": [
         "Αναβαθμίστε για να λάβετε ${ activatePmUser } για μια συντομότερη, εύκολη στην απομνημόνευση διεύθυνση ηλεκτρονικού ταχυδρομείου εκτός από την τρέχουσα."
@@ -3822,7 +3831,7 @@
         "Βρήκα ένα φθηνότερο VPN"
       ],
       "I found a VPN with better features": [
-        "Βρήκα ένα VPN με καλύτερα χαρακτηριστικά"
+        "Βρήκα ένα VPN με καλύτερες δυνατότητες"
       ],
       "I have not managed to connect": [
         "Δεν κατάφερα να συνδεθώ"
@@ -4579,6 +4588,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Η αναζήτησή σας ταίριαξε με υπερβολικό αριθμό αποτελεσμάτων. Παρακαλούμε περιορίστε την αναζήτησή σας και δοκιμάστε ξανά."
+      ],
+      "Unable to load VPN dashboard. Please check your connection and try again.": [
+        "Δεν είναι δυνατή η φόρτωση του πίνακα ελέγχου VPN. Παρακαλούμε ελέγξτε τη σύνδεσή σας και προσπαθήστε ξανά."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -4933,7 +4945,7 @@
         "Έχετε ανεξόφλητα τιμολόγια. Παρακαλούμε πληρώστε τα πριν συμμετάσχετε σε ένα οικογενειακό πλάνο."
       ],
       "You're invited to link your ${ BRAND_NAME } Account to this family plan and together enjoy all ${ brandOrAppName } premium features.": [
-        "Έχετε προσκληθεί να συνδέσετε τον λογαριασμό σας ${ BRAND_NAME } σε αυτό το οικογενειακό πλάνο και να απολαύσετε μαζί όλες τις premium λειτουργίες ${ brandOrAppName }."
+        "Έχετε προσκληθεί να συνδέσετε τον λογαριασμό σας ${ BRAND_NAME } σε αυτό το οικογενειακό πλάνο και να απολαύσετε μαζί όλες τις premium δυνατότητες ${ brandOrAppName }."
       ],
       "Your account has more email addresses than what's available to you in this plan. ${ addressSettingsLink }": [
         "Ο λογαριασμός σας έχει περισσότερες διευθύνσεις ηλεκτρονικού ταχυδρομείου από αυτές που είναι διαθέσιμες σε αυτό το πλάνο. ${ addressSettingsLink }"
@@ -5300,7 +5312,7 @@
         "Ανακαλύψτε πώς το ${ strongText } μας σας προστατεύει"
       ],
       "Discover privacy features": [
-        "Ανακαλύψτε λειτουργίες απορρήτου"
+        "Ανακαλύψτε δυνατότητες απορρήτου"
       ],
       "Encryption so strong, only you and intended recipients can view your emails.": [
         "Τόσο ισχυρή κρυπτογράφηση, που μόνο εσείς και οι παραλήπτες για τους οποίους προορίζεστε μπορείτε να δείτε τα μηνύματα ηλεκτρονικού ταχυδρομείου σας."
@@ -5336,7 +5348,7 @@
         "Δημοφιλείς ηλεκτρονικές υπηρεσίες"
       ],
       "privacy features": [
-        "λειτουργίες απορρήτου"
+        "δυνατότητες απορρήτου"
       ],
       "Protection from trackers": [
         "Προστασία από ιχνηλάτες"
@@ -6910,7 +6922,7 @@
         "Άνοιγμα λίστας συντομεύσεων"
       ],
       "or discover other features:": [
-        "ή ανακαλύψτε άλλα χαρακτηριστικά:"
+        "ή ανακαλύψτε άλλες δυνατότητες:"
       ],
       "Organization size": [
         "Μέγεθος οργανισμού"
@@ -7492,7 +7504,7 @@
         "Δοκιμάστε νέες δυνατότητες, ενημερώσεις και προϊόντα ${ BRAND_NAME } πριν κυκλοφορήσουν στο κοινό. Αυτό θα φορτώσει ξανά την εφαρμογή"
       ],
       "Turn off to search only by date, name, email address, or subject line. To disable search message content (and delete messages downloaded to enable this feature), go to Settings.": [
-        "Απενεργοποιήστε την επιλογή για αναζήτηση μόνο κατά ημερομηνία, όνομα, διεύθυνση ηλεκτρονικού ταχυδρομείου ή γραμμή θέματος. Για να απενεργοποιήσετε το περιεχόμενο μηνυμάτων αναζήτησης (και να διαγράψετε τα ληφθέντα μηνύματα προκειμένου να ενεργοποιήσετε αυτήν τη λειτουργία), μεταβείτε στις Ρυθμίσεις."
+        "Απενεργοποιήστε την επιλογή για αναζήτηση μόνο κατά ημερομηνία, όνομα, διεύθυνση ηλεκτρονικού ταχυδρομείου ή γραμμή θέματος. Για να απενεργοποιήσετε το περιεχόμενο μηνυμάτων αναζήτησης (και να διαγράψετε τα ληφθέντα μηνύματα προκειμένου να ενεργοποιήσετε αυτήν τη δυνατότητα), μεταβείτε στις Ρυθμίσεις."
       ],
       "Turn on to search the content of your messages": [
         "Ενεργοποιήστε για αναζήτηση στο περιεχόμενο των μηνυμάτων σας"
@@ -7555,7 +7567,7 @@
         "Αναβαθμίστε για να υποστηρίξετε το ιδιωτικό απόρρητο και να αποκτήσετε περισσότερες δυνατότητες."
       ],
       "Upgrade to unlock premium features.": [
-        "Αναβαθμίστε για να ξεκλειδώσετε premium λειτουργίες."
+        "Αναβαθμίστε για να ξεκλειδώσετε premium δυνατότητες."
       ],
       "Upgrade to use ${ MAIL_APP_NAME } with Apple Mail, Outlook or Thunderbird.": [
         "Αναβαθμίστε για να χρησιμοποιήσετε το ${ MAIL_APP_NAME } με το Apple Mail, το Outlook ή το Thunderbird."
@@ -7934,6 +7946,129 @@
       ],
       "Protect your email from being leaked to mailing lists or spammers with ${ hideMyEmailAliasesLink }.": [
         "Προστατέψτε τη διεύθυνσή σας από το να διαρρεύσει σε λίστες αλληλογραφίας ή ενοχλητικούς αποστολείς, με ${ hideMyEmailAliasesLink }."
+      ],
+      "${ VPN_APP_NAME } is masking your IP address, so websites can’t identify you.": [
+        "Το ${ VPN_APP_NAME } καλύπτει τη διεύθυνση IP σας, επομένως οι ιστότοποι δεν μπορούν να σας αναγνωρίσουν."
+      ],
+      "**Auto-connect**: Opens and connects to VPN as soon as you turn on your device.": [
+        "**Αυτόματη σύνδεση**: Ανοίγει και συνδέεται στο VPN μόλις ενεργοποιήσετε τη συσκευή σας."
+      ],
+      "**Kill switch**: Stops data leaks by blocking your internet if the VPN drops unexpectedly.": [
+        "**Λειτουργία kill switch**: Σταματά τις διαρροές δεδομένων μπλοκάροντας το διαδίκτυο αν το VPN αποσυνδεθεί απροσδόκητα."
+      ],
+      "A secure connection is essential when working remotely. A VPN protects company data from cyber threats and keeps your work private.": [
+        "Μια ασφαλής σύνδεση είναι απαραίτητη όταν εργάζεστε εξ αποστάσεως. Ένα VPN προστατεύει εταιρικά δεδομένα από απειλές στον κυβερνοχώρο και διατηρεί την εργασία σας ιδιωτική."
+      ],
+      "A VPN encrypts your connection and hides your IP address, making it much harder for anyone to track or monitor your browsing.": [
+        "Ένα VPN κρυπτογραφεί τη σύνδεσή σας και κρύβει την ΙΡ διεύθυνσή σας, καθιστώντας πολύ πιο δύσκολο για οποιονδήποτε να παρακολουθεί ή να παρακολουθεί την περιήγησή σας."
+      ],
+      "A VPN hides your IP address and encrypts your browsing activity, making it harder for websites, advertisers, and ISPs to track you over time.": [
+        "Ένα VPN κρύβει τη διεύθυνσή ΙΡ σας και κρυπτογραφεί τη δραστηριότητα περιήγησής σας, καθιστώντας πιο δύσκολο για τους ιστότοπους, τους διαφημιστές και τους ISP να σας παρακολουθούν με την πάροδο του χρόνου."
+      ],
+      "A VPN is a secure tunnel between your device and the internet. It hides your location and activity from your internet service provider (ISP) and the websites you visit.": [
+        "Ένα VPN είναι μια ασφαλής σήραγγα μεταξύ της συσκευής σας και του διαδικτύου. Αποκρύπτει την τοποθεσία και τη δραστηριότητά σας από τον πάροχο υπηρεσιών διαδικτύου (ISP) και τους ιστότοπους που επισκέπτεστε."
+      ],
+      "Ad targeting": [
+        "Στόχευση διαφημίσεων"
+      ],
+      "Advertisers track your browsing to show targeted ads. ${ VPN_APP_NAME } blocks trackers and ads, making your connection faster and improving your online experience.": [
+        "Οι διαφημιζόμενοι παρακολουθούν την περιήγησή σας για να εμφανίζουν στοχευμένες διαφημίσεις. Το ${ VPN_APP_NAME } αποκλείει ιχνηλάτες και διαφημίσεις, κάνοντας τη σύνδεσή σας ταχύτερη και βελτιώνοντας την εμπειρία σας στο διαδίκτυο."
+      ],
+      "Browse privately and access blocked content.": [
+        "Περιηγηθείτε ιδιωτικά και αποκτήστε πρόσβαση σε αποκλεισμένο περιεχόμενο."
+      ],
+      "Connect to ${ VPN_APP_NAME } to browse privately": [
+        "Συνδεθείτε στο ${ VPN_APP_NAME } για ιδιωτική περιήγηση"
+      ],
+      "Geoblocking": [
+        "Γεωγραφικός αποκλεισμός"
+      ],
+      "Governments and ISPs can monitor your online activity. By hiding your real IP and encrypting your activity your browsing becomes private.": [
+        "Οι κυβερνήσεις και οι ISP μπορούν να παρακολουθούν τη δραστηριότητά σας στο διαδίκτυο. Κρύβοντας την πραγματική σας IP και κρυπτογραφώντας τη δραστηριότητά σας, η περιήγησή σας γίνεται ιδιωτική."
+      ],
+      "In restrictive countries": [
+        "Σε περιοριστικές χώρες"
+      ],
+      "Included for free with your plan": [
+        "Συμπεριλαμβάνεται δωρεάν με το πλάνο σας"
+      ],
+      "It’s best to use a VPN at all times. But here’s when cybersecurity threats can be the highest:": [
+        "Είναι καλύτερο να χρησιμοποιείτε ένα VPN ανά πάσα στιγμή. Αλλά εδώ είναι όπου οι απειλές στον κυβερνοχώρο μπορεί να είναι οι υψηλότερες:"
+      ],
+      "Most public WiFi networks are safe, but some lack security, exposing you to cyber threats. A VPN encrypts your traffic, keeping you protected.": [
+        "Τα περισσότερα δημόσια δίκτυα WiFi είναι ασφαλή, αλλά ορισμένα στερούνται ασφάλειας, εκθέτοντάς σας σε απειλές στον κυβερνοχώρο. Ένα VPN κρυπτογραφεί την κίνησή σας, διατηρώντας σας προστατευμένους."
+      ],
+      "Not connected": [
+        "Μη συνδεδεμένο"
+      ],
+      "On public WiFi networks": [
+        "Σε δημόσια δίκτυα WiFi"
+      ],
+      "Private browsing (or “incognito” mode) is only useful for keeping your activity hidden on your device. It stops your browser from saving history and cookies, but it doesn’t make you invisible. Your ISP, network administrator, and the websites you visit can still see what you do online.": [
+        "Η ιδιωτική περιήγηση (ή η κατάσταση ανώνυμης περιήγησης) είναι χρήσιμη μόνο για να διατηρείτε τη δραστηριότητά σας κρυφή στη συσκευή σας. Εμποδίζει το πρόγραμμα περιήγησής σας να αποθηκεύει ιστορικό και cookies, αλλά δεν σας κάνει αόρατους. Η υπηρεσία παροχής Internet, ο διαχειριστής δικτύου και οι τοποθεσίες Web που επισκέπτεστε εξακολουθούν να μπορούν να δουν τι κάνετε στο Internet."
+      ],
+      "Scan the QR code with your mobile device": [
+        "Σαρώστε τον κωδικό QR με την κινητή συσκευή σας"
+      ],
+      "Some governments block or restrict access to certain websites. A VPN helps bypass censorship while keeping your activity and identity private.": [
+        "Ορισμένες κυβερνήσεις αποκλείουν ή περιορίζουν την πρόσβαση σε ορισμένους ιστότοπους. Ένα VPN βοηθά στην παράκαμψη της λογοκρισίας, διατηρώντας παράλληλα τη δραστηριότητα και την ταυτότητά σας ιδιωτικές."
+      ],
+      "Some websites and streaming services block content by region. A VPN lets you bypass these restrictions and access the internet freely.": [
+        "Ορισμένοι ιστότοποι και υπηρεσίες ροής αποκλείουν περιεχόμενο ανά περιοχή. Ένα VPN σάς επιτρέπει να παρακάμψετε αυτούς τους περιορισμούς και να έχετε ελεύθερη πρόσβαση στο διαδίκτυο."
+      ],
+      "Stay connected effortlessly by enabling the following VPN settings:": [
+        "Μείνετε συνδεδεμένοι χωρίς κόπο ενεργοποιώντας τις ακόλουθες ρυθμίσεις VPN:"
+      ],
+      "Subscription auto-renews every ${ cycle } month.": [
+        "Η συνδρομή ανανεώνεται αυτόματα κάθε ${ cycle } μήνα.",
+        "Η συνδρομή ανανεώνεται αυτόματα κάθε ${ cycle } μήνες."
+      ],
+      "Surveillance": [
+        "Παρακολούθηση"
+      ],
+      "This means that your ISP and the websites you visit can’t connect your personal information with your online activity.": [
+        "Αυτό σημαίνει ότι ο ISP σας και οι ιστότοποι που επισκέπτεστε δεν μπορούν να συνδέσουν τα προσωπικά σας στοιχεία με τη δραστηριότητά σας στο Internet."
+      ],
+      "This unique code can be used by websites and ISPs (internet service providers) to link your location and browsing history to your device": [
+        "Αυτός ο μοναδικός κωδικός μπορεί να χρησιμοποιηθεί από ιστότοπους και ISP (internet service providers) για τη σύνδεση της τοποθεσίας και του ιστορικού περιήγησής σας με τη συσκευή σας."
+      ],
+      "Tracking": [
+        "Παρακολούθηση"
+      ],
+      "VPN IP": [
+        "VPN IP"
+      ],
+      "When working remotely": [
+        "Όταν εργάζεστε εξ αποστάσεως"
+      ],
+      "When you connect to VPN, it uses encryption technology to hide your IP address (a unique code assigned to your device).": [
+        "Όταν συνδέεστε στο VPN, χρησιμοποιεί τεχνολογία κρυπτογράφησης για να κρύψει τη διεύθυνση IP σας (ένας μοναδικός κωδικός που έχει εκχωρηθεί στη συσκευή σας)."
+      ],
+      "You'll then be billed every ${ renewCycle } month at ${ renewAmountStr }.": [
+        "Στη συνέχεια, θα χρεώνεστε κάθε ${ renewCycle } μήνα στα ${ renewAmountStr }.",
+        "Στη συνέχεια, θα χρεώνεστε κάθε ${ renewCycle } μήνες στα ${ renewAmountStr }."
+      ],
+      "Your internet service provider can monitor and sometimes sell your data, or even restrict what websites you can access.": [
+        "Ο πάροχος υπηρεσιών διαδικτύου σας μπορεί να παρακολουθεί και μερικές φορές να πουλά τα δεδομένα σας ή ακόμα και να περιορίζει τους ιστότοπους στους οποίους μπορείτε να έχετε πρόσβαση."
+      ],
+      "Your IP": [
+        "Η διεύθυνση IP σας"
+      ],
+      "Your IP address is visible and can be used to track your online activity.": [
+        "Η διεύθυνση IP σας είναι ορατή και μπορεί να χρησιμοποιηθεί για την παρακολούθηση της δραστηριότητάς σας στο διαδίκτυο."
+      ],
+      "Your online activity is protected": [
+        "Η δραστηριότητά σας στο διαδίκτυο προστατεύεται"
+      ],
+      "Your physical location is visible and can be used to restrict your access to the internet.": [
+        "Η φυσική σας τοποθεσία είναι ορατή και μπορεί να χρησιμοποιηθεί για να περιορίσει την πρόσβασή σας στο διαδίκτυο."
+      ],
+      "Your scheduled plan starts on ${ renewalTime } and will auto-renew every ${ cycle } month.": [
+        "Το προγραμματισμένο πλάνο σας ξεκινά από ${ renewalTime } και θα ανανεώνεται αυτόματα κάθε ${ cycle } μήνα.",
+        "Το προγραμματισμένο πλάνο σας ξεκινά από ${ renewalTime } και θα ανανεώνεται αυτόματα κάθε ${ cycle } μήνες."
+      ],
+      "Your subscription will automatically renew on ${ renewalTime }.": [
+        "Η συνδρομή σας θα ανανεωθεί αυτόματα στις ${ renewalTime }."
       ]
     },
     "info": {
@@ -8775,6 +8910,15 @@
       ],
       "Integrated 2FA authenticator": [
         "Ενσωματωμένος ελεγκτής 2FA"
+      ],
+      "Your IP": [
+        "Η διεύθυνση IP σας"
+      ],
+      "Your ISP": [
+        "Ο ISP σας"
+      ],
+      "Your location": [
+        "Η τοποθεσία σας"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9567,7 +9711,7 @@
         "10 διεύθυνσεις email/ψευδώνυμα"
       ],
       "10 more premium features": [
-        "10 περισσότερα premium χαρακτηριστικά"
+        "10 περισσότερες premium δυνατότητες"
       ],
       "10-year file version history": [
         "Ιστορικό εκδόσεων αρχείων 10 ετών"
@@ -9597,10 +9741,10 @@
         "Προηγμένη προστασία λογαριασμού"
       ],
       "Advanced alias features (powered by SimpleLogin)": [
-        "Προηγμένες λειτουργίες ψευδωνύμων (υποστηρίζεται από την SimpleLogin)"
+        "Προηγμένες δυνατότητες ψευδωνύμων (υποστηρίζεται από τη SimpleLogin)"
       ],
       "All ${ BRAND_NAME } products and features": [
-        "Όλα τα προϊόντα και χαρακτηριστικά ${ BRAND_NAME }"
+        "Όλα τα προϊόντα και δυνατότητες ${ BRAND_NAME }"
       ],
       "All basic ${ BRAND_NAME } services (${ MAIL_SHORT_APP_NAME }, ${ VPN_SHORT_APP_NAME }, ${ PASS_SHORT_APP_NAME })": [
         "Όλες οι βασικές ${ BRAND_NAME } υπηρεσίες (${ MAIL_SHORT_APP_NAME }, ${ VPN_SHORT_APP_NAME }, ${ PASS_SHORT_APP_NAME })"
@@ -9705,7 +9849,7 @@
         "Γρήγορες λήψεις P2P/BitTorrent"
       ],
       "Free features from ${ BRAND_NAME } ${ MAIL_SHORT_APP_NAME }, ${ CALENDAR_SHORT_APP_NAME }, and ${ DRIVE_SHORT_APP_NAME }": [
-        "Δωρεάν λειτουργίες από ${ BRAND_NAME } ${ MAIL_SHORT_APP_NAME }, ${ CALENDAR_SHORT_APP_NAME } και ${ DRIVE_SHORT_APP_NAME }"
+        "Δωρεάν δυνατότητες από ${ BRAND_NAME } ${ MAIL_SHORT_APP_NAME }, ${ CALENDAR_SHORT_APP_NAME } και ${ DRIVE_SHORT_APP_NAME }"
       ],
       "Free VPN on a single device": [
         "Δωρεάν VPN σε μία μόνο συσκευή"
@@ -9984,13 +10128,13 @@
         "Όλες οι εφαρμογές ${ BRAND_NAME } και οι premium δυνατότητές τους"
       ],
       "All ${ BRAND_NAME } business apps and premium features to protect your entire business.": [
-        "Όλες οι επιχειρηματικές εφαρμογές ${ BRAND_NAME } και premium λειτουργίες για την προστασία ολόκληρης της επιχείρησής σας."
+        "Όλες οι επιχειρηματικές εφαρμογές ${ BRAND_NAME } και premium δυνατότητες για την προστασία ολόκληρης της επιχείρησής σας."
       ],
       "Comprehensive privacy and security with all ${ BRAND_NAME } services combined.": [
         "Ολοκληρωμένη ιδιωτικότητα και ασφάλεια με όλες τις συνδιασμένες υπηρεσίες ${ BRAND_NAME }."
       ],
       "Early access to new apps and features": [
-        "Πρώιμη πρόσβαση σε νέες εφαρμογές και λειτουργίες"
+        "Πρώιμη πρόσβαση σε νέες εφαρμογές και δυνατότητες"
       ],
       "Encrypted email and calendar to get you started.": [
         "Κρυπτογραφημένο ηλεκτρονικό ταχυδρομείο και ημερολόγιο για να ξεκινήσετε."
@@ -10014,7 +10158,7 @@
         "Εάν μεταβείτε σε διαφορετικό πλάνο, θα χάσετε όλα τα οφέλη του πλάνου ${ visionary } και δε θα μπορείτε να επιστρέψετε στο ${ visionary }."
       ],
       "Our ${ visionary } plan is no longer available to new subscribers as it is a special plan for original ${ BRAND_NAME } users with special features and benefits.": [
-        "Το ${ visionary } πλάνο μας δεν είναι πλέον διαθέσιμο σε νέους συνδρομητές, καθώς είναι ένα ειδικό πρόγραμμα για αρχικούς χρήστες ${ BRAND_NAME } με ειδικά χαρακτηριστικά και οφέλη."
+        "Το ${ visionary } πλάνο μας δεν είναι πλέον διαθέσιμο σε νέους συνδρομητές, καθώς είναι ένα ειδικό πρόγραμμα για αρχικούς χρήστες ${ BRAND_NAME } με ειδικές δυνατότητες και οφέλη."
       ],
       "Popular": [
         "Δημοφιλές"
@@ -10171,7 +10315,7 @@
         "Οι ετικέτες είναι απλό κείμενο που μπορείτε να προσθέσετε στα μηνύματα για να διευκολύνετε την εύρεση ή την εφαρμογή φίλτρων"
       ],
       "Lifetime access to ${ PASS_APP_NAME } + SimpleLogin premium features.": [
-        "Ισόβια πρόσβαση σε ${ PASS_APP_NAME } + premium χαρακτηριστικά SimpleLogin."
+        "Ισόβια πρόσβαση σε ${ PASS_APP_NAME } + premium δυνατότητες SimpleLogin."
       ],
       "Like a folder, a vault is a convenient way to organize your items": [
         "Όπως ένας φάκελος, μια θυρίδα αποθήκευσης είναι ένας βολικός τρόπος για να οργανώσετε τα στοιχεία σας"
@@ -10491,7 +10635,7 @@
     },
     "Offer feature": {
       "+10 more premium features": [
-        "+10 περισσότερα premium χαρακτηριστικά"
+        "+10 περισσότερες premium δυνατότητες"
       ],
       "Custom email domain": [
         "Προσαρμοσμένος τομέας ηλεκτρονικού ταχυδρομείου"
@@ -10552,7 +10696,7 @@
         "${ protectionFromTrackersTitle } σημαίνει ότι δεν ακολουθείται πλέον στο διαδίκτυο."
       ],
       "Activate premium features": [
-        "Ενεργοποιήστε premium χαρακτηριστικά"
+        "Ενεργοποιήστε premium δυνατότητες"
       ],
       "Activate selected": [
         "Ενεργοποίηση επιλεγμένων"
@@ -10794,7 +10938,7 @@
     },
     "PassFamilyPlan2024": {
       "All premium features. 6 users. 1 easy subscription.": [
-        "Όλα τα premium χαρακτηριστικά. 6 χρήστες. 1 εύκολη συνδρομή."
+        "Όλες οι premium δυνατότητες. 6 χρήστες. 1 εύκολη συνδρομή."
       ],
       "Billed yearly at ${ yearlyPrice }. Save ${ yearlySavedPrice } with ${ passFamilyPlanName } (vs 6 individual ${ passPlusPlanName } subscriptions).": [
         "Χρεώνεται ετησίως σε ${ yearlyPrice }. Εξοικονομήστε ${ yearlySavedPrice } με ${ passFamilyPlanName } (έναντι 6 μεμονωμένων συνδρομών ${ passPlusPlanName })."
@@ -10908,6 +11052,40 @@
       ],
       "We are processing your payment for the billed invoice. Please wait until the payment is completed before making changes to your plan or updating your payment details. Thank you for your patience.": [
         "Επεξεργαζόμαστε την πληρωμή σας για το τιμολογημένο τιμολόγιο. Παρακαλούμε περιμένετε μέχρι να ολοκληρωθεί η πληρωμή προτού κάνετε αλλαγές στο πλάνο σας ή ενημερώσετε τα στοιχεία πληρωμής σας. Σας ευχαριστούμε για την υπομονή σας."
+      ],
+      "During this time, you will not be able to modify or cancel your subscription. Please wait until your payment is completed before attempting any changes. Thank you for your patience.": [
+        "Κατά τη διάρκεια αυτής της περιόδου, δε θα μπορείτε να τροποποιήσετε ή να ακυρώσετε τη συνδρομή σας. Παρακαλούμε περιμένετε μέχρι να ολοκληρωθεί η πληρωμή σας πριν επιχειρήσετε οποιεσδήποτε αλλαγές. Σας ευχαριστούμε για την υπομονή σας."
+      ],
+      "Renewal pricing subject to change according to ${ termsAndConditionsLink }.": [
+        "Η τιμολόγηση ανανέωσης υπόκειται σε αλλαγές σύμφωνα με τους ${ termsAndConditionsLink }."
+      ],
+      "Renews at ${ renewPriceStr }, cancel anytime.": [
+        "Ανανεώνει σε ${ renewPriceStr }, ακυρώστε ανά πάσα στιγμή."
+      ],
+      "terms & conditions": [
+        "όροι και προϋποθέσεις"
+      ],
+      "The coupon is valid for ${ couponRedemptions } renewal.": [
+        "Το κουπόνι ισχύει για ${ couponRedemptions } ανανέωση.",
+        "Το κουπόνι ισχύει για ${ couponRedemptions } ανανεώσεις."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first ${ subscriptionLength } month.": [
+        "Η ειδικά μειωμένη τιμή του ${ priceWithDiscount } ισχύει για τον πρώτο ${ subscriptionLength } μήνα.",
+        "Η ειδικά μειωμένη τιμή του ${ priceWithDiscount } ισχύει για τους πρώτους ${ subscriptionLength } μήνες."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. The coupon is valid for ${ couponRedemptions } renewal. Then it will automatically be renewed at ${ renewPriceStr } for 1 month. You can cancel at any time.": [
+        "Η ειδικά μειωμένη τιμή του ${ priceWithDiscount } ισχύει για τον πρώτο μήνα. Το κουπόνι ισχύει για ${ couponRedemptions } ανανέωση. Στη συνέχεια, θα ανανεωθεί αυτόματα στο ${ renewPriceStr } για 1 μήνα. Μπορείτε να ακυρώσετε ανά πάσα στιγμή.",
+        "Η ειδικά μειωμένη τιμή του ${ priceWithDiscount } ισχύει για τον πρώτο μήνα. Το κουπόνι ισχύει για ${ couponRedemptions } ανανεώσεις. Στη συνέχεια, θα ανανεωθεί αυτόματα στο ${ renewPriceStr } για 1 μήνα. Μπορείτε να ακυρώσετε ανά πάσα στιγμή."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. Then it will automatically be renewed at ${ renewPriceStr } every month. You can cancel at any time.": [
+        "Η ειδικά μειωμένη τιμή των ${ priceWithDiscount } ισχύει για τον πρώτο μήνα. Στη συνέχεια, θα ανανεωθεί αυτόματα σε ${ renewPriceStr } το μήνα. Μπορείτε να ακυρώσετε ανά πάσα στιγμή."
+      ],
+      "Then it will automatically be renewed at ${ renewPriceStr } for ${ renewalLength } month. You can cancel at any time.": [
+        "Στη συνέχεια, θα ανανεωθεί αυτόματα στο ${ renewPriceStr } για ${ renewalLength } μήνα. Μπορείτε να ακυρώσετε ανά πάσα στιγμή.",
+        "Στη συνέχεια, θα ανανεωθεί αυτόματα στο ${ renewPriceStr } για ${ renewalLength } μήνες. Μπορείτε να ακυρώσετε ανά πάσα στιγμή."
+      ],
+      "Your payment is still being processed": [
+        "Η πληρωμή σας βρίσκεται ακόμα υπό επεξεργασία"
       ]
     },
     "Payments.Error": {
@@ -11758,7 +11936,7 @@
         "6 χρήστες"
       ],
       "All paid Mail and Calendar features": [
-        "Όλες οι επί πληρωμή δυνατότητες Mail και Calendar"
+        "Όλες οι δυνατότητες Mail και Calendar επί πληρωμή"
       ],
       "High speed VPN": [
         "VPN υψηλής ταχύτητας"
@@ -11895,7 +12073,7 @@
         "Ιδανικό για οικογένειες ή μικρές ομάδες, το καθένα μπορεί να έχει τα δικά του εισερχόμενα και ψευδώνυμα. Απαιτεί προσαρμοσμένος τομέας."
       ],
       "Receive at no extra cost the paid versions of all new privacy services we release in the future, along with early access to all future features and products.": [
-        "Λάβετε χωρίς επιπλέον κόστος τις πληρωμένες εκδόσεις όλων των νέων υπηρεσιών απορρήτου που θα κυκλοφορήσουμε στο μέλλον, μαζί με έγκαιρη πρόσβαση σε όλες τις μελλοντικές λειτουργίες και προϊόντα."
+        "Λάβετε χωρίς επιπλέον κόστος τις πληρωμένες εκδόσεις όλων των νέων υπηρεσιών απορρήτου που θα κυκλοφορήσουμε στο μέλλον, μαζί με έγκαιρη πρόσβαση σε όλες τις μελλοντικές δυνατότητες και προϊόντα."
       ],
       "Secure your files with encrypted cloud storage. Includes automatic sync, encrypted file sharing, and more.": [
         "Ασφαλίστε τα αρχεία σας με κρυπτογραφημένο χώρο αποθήκευσης cloud. Περιλαμβάνει αυτόματο συγχρονισμό, κρυπτογραφημένη κοινή χρήση αρχείων και πολλά άλλα."
@@ -12182,7 +12360,7 @@
         "15 GB αποθηκευτικός χώρος"
       ],
       "and 15 more premium features": [
-        "και 15 περισσότερα premium χαρακτηριστικά"
+        "και 15 περισσότερες premium δυνατότητες"
       ],
       "Automatic email forwarding ${ strongText }": [
         "Αυτόματη προώθηση ηλεκτρονικού ταχυδρομείου ${ strongText }"
@@ -12220,7 +12398,7 @@
     },
     "Subscription reminder": {
       "${ CALENDAR_APP_NAME }, ${ DRIVE_SHORT_APP_NAME }, ${ PASS_SHORT_APP_NAME }, and ${ VPN_SHORT_APP_NAME } with premium features": [
-        "${ CALENDAR_APP_NAME }, ${ DRIVE_SHORT_APP_NAME }, ${ PASS_SHORT_APP_NAME }, και ${ VPN_SHORT_APP_NAME } με premium χαρακτηριστικά"
+        "${ CALENDAR_APP_NAME }, ${ DRIVE_SHORT_APP_NAME }, ${ PASS_SHORT_APP_NAME }, και ${ VPN_SHORT_APP_NAME } με premium δυνατότητες"
       ],
       "${ dayDiff } day left": [
         "${ dayDiff } ημέρα απομένει",
@@ -12239,7 +12417,7 @@
         "${ planMaxSpace } συνολικός αποθηκευτικός χώρος"
       ],
       "${ planName } gives you access to all apps and premium features. Privacy is built-in so you can get on with it, knowing your data and identity are safe.": [
-        "${ planName } σας δίνει πρόσβαση σε όλες τις εφαρμογές και τις premium λειτουργίες. Το απόρρητο είναι ενσωματωμένο, ώστε να μπορείτε να συνεχίσετε με αυτό, γνωρίζοντας ότι τα δεδομένα και η ταυτότητά σας είναι ασφαλή."
+        "${ planName } σας δίνει πρόσβαση σε όλες τις εφαρμογές και τις premium δυνατότητες. Το απόρρητο είναι ενσωματωμένο, ώστε να μπορείτε να συνεχίσετε με αυτό, γνωρίζοντας ότι τα δεδομένα και η ταυτότητά σας είναι ασφαλή."
       ],
       "${ planName } gives you all apps, all features, early access to new releases, and everything you need to be in control of your data and its security.": [
         "Το ${ planName } σάς παρέχει όλες τις εφαρμογές, όλες τις δυνατότητες, την πρώιμη πρόσβαση σε νέες κυκλοφορίες και όλα όσα χρειάζεστε για να έχετε τον έλεγχο των δεδομένων σας και της ασφάλειάς τους."
@@ -12334,7 +12512,7 @@
         "Άμεση συμβολή στην αποστολή μας"
       ],
       "Early access to new apps and features": [
-        "Πρώιμη πρόσβαση σε νέες εφαρμογές και λειτουργίες"
+        "Πρώιμη πρόσβαση σε νέες εφαρμογές και δυνατότητες"
       ],
       "Email productivity features": [
         "Δυνατότητες παραγωγικότητας ηλεκτρονικού ταχυδρομείου"
@@ -12367,7 +12545,7 @@
         "Αν υπερβείτε τα όρια του δωρεάν πλάνου, δε θα μπορείτε να κάνετε τα εξής:"
       ],
       "If your usage exceeds free plan limits, you may experience restricted access to product features and your data.": [
-        "Εάν η χρήση σας υπερβαίνει τα όρια του δωρεάν πλάνου, ενδέχεται να αντιμετωπίσετε περιορισμένη πρόσβαση στις λειτουργίες του προϊόντος και στα δεδομένα σας."
+        "Εάν η χρήση σας υπερβαίνει τα όρια του δωρεάν πλάνου, ενδέχεται να αντιμετωπίσετε περιορισμένη πρόσβαση στις δυνατότητες του προϊόντος και στα δεδομένα σας."
       ],
       "Invited members will be removed from your organization": [
         "Τα προσκεκλημένα μέλη θα καταργηθούν από τον οργανισμό σας"
@@ -12498,10 +12676,10 @@
         "Διατηρήστε την αυτόματη πληρωμή"
       ],
       "Our system will no longer auto-charge you using this payment method, but your subscription will still renew at the end of the billing cycle. If you want to downgrade or change your subscription, you still need to do that yourself before the end of the billing period. Furthermore, if you forget to make a manual payment and auto-pay is disabled for all payment methods, we may auto-downgrade your account which will lead to the loss of many features.": [
-        "Το σύστημά μας δεν θα σας χρεώνει πλέον αυτόματα χρησιμοποιώντας αυτόν τον τρόπο πληρωμής, αλλά η συνδρομή σας θα εξακολουθεί να ανανεώνεται στο τέλος του κύκλου χρέωσης. Εάν θέλετε να υποβαθμίσετε ή να αλλάξετε τη συνδρομή σας, πρέπει να το κάνετε μόνοι σας πριν από το τέλος της περιόδου χρέωσης. Επιπλέον, εάν ξεχάσετε να πραγματοποιήσετε μια μη αυτόματη πληρωμή και η αυτόματη πληρωμή είναι απενεργοποιημένη για όλους τους τρόπους πληρωμής, ενδέχεται να υποβαθμίσουμε αυτόματα τον λογαριασμό σας, γεγονός που θα οδηγήσει στην απώλεια πολλών λειτουργιών."
+        "Το σύστημά μας δεν θα σας χρεώνει πλέον αυτόματα χρησιμοποιώντας αυτόν τον τρόπο πληρωμής, αλλά η συνδρομή σας θα εξακολουθεί να ανανεώνεται στο τέλος του κύκλου χρέωσης. Εάν θέλετε να υποβαθμίσετε ή να αλλάξετε τη συνδρομή σας, πρέπει να το κάνετε μόνοι σας πριν από το τέλος της περιόδου χρέωσης. Επιπλέον, εάν ξεχάσετε να πραγματοποιήσετε μια μη αυτόματη πληρωμή και η αυτόματη πληρωμή είναι απενεργοποιημένη για όλους τους τρόπους πληρωμής, ενδέχεται να υποβαθμίσουμε αυτόματα τον λογαριασμό σας, γεγονός που θα οδηγήσει στην απώλεια πολλών δυνατοτήτων."
       ],
       "Our system will no longer auto-charge you using this payment method, but your subscription will still renew at the end of the billing cycle. If you want to downgrade or change your subscription, you still need to do that yourself before the end of the billing period. We cannot auto-downgrade you because if you are over free plan storage quota or using other paid features, we cannot auto delete files, emails, or other data for you. If you disable automatic payment, remember to pay your next subscription invoice before the due date to prevent account suspension.": [
-        "Το σύστημά μας δεν θα σας χρεώνει πλέον αυτόματα χρησιμοποιώντας αυτόν τον τρόπο πληρωμής, αλλά η συνδρομή σας θα εξακολουθεί να ανανεώνεται στο τέλος του κύκλου χρέωσης. Εάν θέλετε να υποβαθμίσετε ή να αλλάξετε τη συνδρομή σας, πρέπει να το κάνετε μόνοι σας πριν από το τέλος της περιόδου χρέωσης. Δεν μπορούμε να σας υποβαθμίσουμε αυτόματα, επειδή εάν υπερβαίνετε το όριο χώρου αποθήκευσης δωρεάν πλάνου ή χρησιμοποιείτε άλλες λειτουργίες επί πληρωμή, δεν μπορούμε να διαγράψουμε αυτόματα αρχεία, email ή άλλα δεδομένα για εσάς. Εάν απενεργοποιήσετε την αυτόματη πληρωμή, θυμηθείτε να πληρώσετε το επόμενο τιμολόγιο συνδρομής πριν από την ημερομηνία λήξης, για να αποτρέψετε την αναστολή λογαριασμού."
+        "Το σύστημά μας δεν θα σας χρεώνει πλέον αυτόματα χρησιμοποιώντας αυτόν τον τρόπο πληρωμής, αλλά η συνδρομή σας θα εξακολουθεί να ανανεώνεται στο τέλος του κύκλου χρέωσης. Εάν θέλετε να υποβαθμίσετε ή να αλλάξετε τη συνδρομή σας, πρέπει να το κάνετε μόνοι σας πριν από το τέλος της περιόδου χρέωσης. Δεν μπορούμε να σας υποβαθμίσουμε αυτόματα, επειδή εάν υπερβαίνετε το όριο χώρου αποθήκευσης δωρεάν πλάνου ή χρησιμοποιείτε άλλες δυνατότητες επί πληρωμή, δεν μπορούμε να διαγράψουμε αυτόματα αρχεία, email ή άλλα δεδομένα για εσάς. Εάν απενεργοποιήσετε την αυτόματη πληρωμή, θυμηθείτε να πληρώσετε το επόμενο τιμολόγιο συνδρομής πριν από την ημερομηνία λήξης, για να αποτρέψετε την αναστολή λογαριασμού."
       ]
     },
     "Subscription saving": {
@@ -13806,6 +13984,42 @@
       ],
       "Help and feedback": [
         "Βοήθεια και σχόλια"
+      ],
+      "Desktop": [
+        "Υπολογιστής"
+      ],
+      "Download the app": [
+        "Λήψη της εφαρμογής"
+      ],
+      "Get more from your VPN": [
+        "Αποκτήστε περισσότερα από το VPN σας."
+      ],
+      "How does it all work?": [
+        "Πώς λειτουργούν όλα;"
+      ],
+      "Increase security with ${ VPN_APP_NAME }": [
+        "Αυξήστε την ασφάλεια με το ${ VPN_APP_NAME }"
+      ],
+      "Make a secure connection your default": [
+        "Ορισμός ασφαλούς σύνδεσης ως προεπιλογής"
+      ],
+      "Mobile": [
+        "Κινητό"
+      ],
+      "Private browsing vs VPN": [
+        "Ιδιωτική περιήγηση έναντι VPN"
+      ],
+      "VPN explained": [
+        "Επεξήγηση VPN"
+      ],
+      "What can a VPN protect you from?": [
+        "Από τι μπορεί να σας προστατεύσει ένα VPN;"
+      ],
+      "What is a VPN?": [
+        "Τι είναι το VPN;"
+      ],
+      "When is it most important to use a VPN?": [
+        "Πότε είναι πιο σημαντικό να χρησιμοποιήσετε ένα VPN;"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13890,7 +14104,7 @@
         "Αυτό διασφαλίζει ότι κανείς δεν μπορεί να δει την τοποθεσία, τη συσκευή και άλλες πληροφορίες που θα μπορούσαν να χρησιμοποιηθούν για την αναγνώρισή σας ή την παρακολούθησή σας."
       ],
       "This feature is only available for paid users": [
-        "Αυτή η λειτουργία είναι διαθέσιμη μόνο για χρήστες επί πληρωμή"
+        "Αυτή η δυνατότητα είναι διαθέσιμη μόνο για χρήστες επί πληρωμή"
       ],
       "Upload a public key to enable sending end-to-end encrypted emails to this email": [
         "Για ενεργοποίηση της αποστολής διατερματικά κρυπτογραφημένων μηνυμάτων προς αυτήν τη διεύθυνση, ανεβάστε ένα δημόσιο κλειδί"
@@ -13966,6 +14180,10 @@
       "Auto-selects from ${ numberOfCountries } country": [
         "Αυτόματη επιλογή από ${ numberOfCountries } χώρα",
         "Αυτόματη επιλογή από ${ numberOfCountries } χώρες"
+      ],
+      "Servers in ${ numberOfCountries }+ country": [
+        "Διακομιστές σε ${ numberOfCountries }+ χώρα",
+        "Διακομιστές σε ${ numberOfCountries }+ χώρες"
       ]
     },
     "vpn_2024: renew": {
@@ -13982,6 +14200,9 @@
       "Your subscription will automatically renew in ${ cycle } month.": [
         "Η συνδρομή σας θα ανανεωθεί αυτόματα σε ${ cycle } μήνα.",
         "Η συνδρομή σας θα ανανεωθεί αυτόματα σε ${ cycle } μήνες."
+      ],
+      "You'll then be billed every 12 months at ${ renewPriceStr }.": [
+        "Στη συνέχεια, θα χρεώνεστε κάθε 12 μήνες με ${ renewPriceStr }."
       ]
     },
     "vpn_2step: feature": {
@@ -14455,6 +14676,17 @@
     "Feature": {
       "Unlimited hide-my-email aliases": [
         "Απεριόριστα hide-my-email ψευδώνυμα"
+      ]
+    },
+    "Drawer tab, Action": {
+      "Download for Linux": [
+        "Λήψη για Linux"
+      ],
+      "Download for macOS": [
+        "Λήψη για MacOS"
+      ],
+      "Download for Windows": [
+        "Λήψη για Windows"
       ]
     }
   }

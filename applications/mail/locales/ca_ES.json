@@ -1474,6 +1474,24 @@
       ],
       "Zoom out": [
         "Allunyar"
+      ],
+      "Add another account": [
+        "Afegeix un altre compte"
+      ],
+      "Explore ${ VPN_APP_NAME }": [
+        "Descobriu ${ VPN_APP_NAME }"
+      ],
+      "Help and feedback": [
+        "Ajuda i comentaris"
+      ],
+      "Help and resources": [
+        "Ajuda i recursos"
+      ],
+      "hide-my-email aliases": [
+        "els àlies de hide-my-email"
+      ],
+      "Toggle VPN dashboard": [
+        "Activa o desactiva el tauler de control de VPN"
       ]
     },
     "action": {
@@ -1539,6 +1557,9 @@
       "${ users } user": [
         "${ users } usuari",
         "${ users } usuaris"
+      ],
+      "${ price } per seat": [
+        "${ price } per llicència"
       ]
     },
     "Alert": {
@@ -1742,7 +1763,7 @@
         "Bloquejador d'anuncis i protecció contra programari maliciós"
       ],
       "Admin panel to manage your family": [
-        "Panell d'administració per gestionar la vostra família"
+        "Panell d'administració per a gestionar la família"
       ],
       "Advanced account protection": [
         "Protecció avançada del compte"
@@ -1794,6 +1815,9 @@
       ],
       "VPN Accelerator": [
         "VPN Accelerator"
+      ],
+      "Unlimited logins, credit cards, hide-my-email aliases and more": [
+        "Nombre il·limitat d'inicis de sessió, targetes de crèdit, àlies de hide-my-email i més."
       ]
     },
     "BF2024: Offers": {
@@ -1806,7 +1830,7 @@
     },
     "BF2024: Tooltip": {
       "Access blocked content and browse privately. Includes 8,500+ servers across 110+ countries, 10 devices, high-speed streaming, ad-blocker and malware protection, VPN Accelerator and more.": [
-        "Accediu al contingut bloquejat i navegueu de forma privada. Inclou més de 8.500 servidors en més de 110 països, 10 dispositius, estríming de alta velocitat, bloquejador d'anuncis i protecció contra programari maliciós, VPN Accelerator i més."
+        "Accediu al contingut bloquejat i navegueu de forma privada. Inclou més de 8.500 servidors en més de 110 països, 10 dispositius, estríming d'alta velocitat, bloquejador d'anuncis i protecció contra programari maliciós, VPN Accelerator i més."
       ],
       "Access content on streaming services including Netflix, Disney+, Prime Video, and more, from anywhere.": [
         "Accediu al contingut dels serveis d'estríming, com ara Netflix, Disney+, Prime Video i altres, des de qualsevol lloc."
@@ -1815,15 +1839,15 @@
         "Inicis de sessió segurs en tots els vostres dispositius. Inclou àlies il·limitats de hide-my-email, compartició, 2FA integrada, ${ DARK_WEB_MONITORING_NAME } i més."
       ],
       "Secure your emails and schedule with end-to-end encryption. Includes ${ addresses } email address, support for custom email domains, ${ BRAND_NAME } Scribe writing assistant, unlimited hide-my-email aliases and more.": [
-        "Assegureu els vostres correus electrònics i planifiqueu amb xifratge d'extrem a extrem. Inclou ${ addresses } adreça de correu electrònic, suport per a dominis de correu electrònic personalitzats, assistent de redacció ${ BRAND_NAME } Scribe, àlies il·limitats de hide-my-email i més.",
-        "Assegureu els vostres correus electrònics i planifiqueu amb xifratge d'extrem a extrem. Inclou ${ addresses } adreces de correu electrònic, suport per a dominis de correu electrònic personalitzats, assistent de redacció ${ BRAND_NAME } Scribe, àlies il·limitats de hide-my-email i més."
+        "Protegiu els vostres correus electrònics i la vostra agenda amb xifratge d’extrem a extrem. Inclou ${ addresses } adreça de correu electrònic, compatibilitat amb dominis de correu electrònic personalitzats, l'assistent d'escriptura ${ BRAND_NAME } Scribe, àlies il·limitats de hide-my-email i molt més.",
+        "Protegiu els vostres correus electrònics i la vostra agenda amb xifratge d’extrem a extrem. Inclou ${ addresses } adreces de correu electrònic, compatibilitat amb dominis de correu electrònic personalitzats, l'assistent d'escriptura ${ BRAND_NAME } Scribe, àlies il·limitats de hide-my-email i molt més."
       ],
       "Secure your emails and schedule with end-to-end encryption. Includes ${ addresses } email address, support for custom email domains, unlimited hide-my-email aliases and more.": [
         "Protegiu els vostres correus electrònics i programeu-los amb un xifratge d'extrem a extrem. Inclou ${ addresses } adreça de correu electrònic, suport per a dominis de correu electrònic personalitzats, àlies hide-my-email il·limitats i molt més.",
         "Protegiu els vostres correus electrònics i programeu-los amb un xifratge d'extrem a extrem. Inclou ${ addresses } adreces de correu electrònic, suport per a dominis de correu electrònic personalitzats, àlies hide-my-email il·limitats i molt més."
       ],
       "Secure your emails and schedule with end-to-end encryption. Includes 15 email addresses, support for custom email domains, ${ BRAND_NAME } Scribe writing assistant, unlimited hide-my-email aliases and more.": [
-        "Assegureu els vostres correus electrònics i planifiqueu amb xifratge d'extrem a extrem. Inclou 15 adreces de correu electrònic, suport per a dominis de correu electrònic personalitzats, assistent de redacció ${ BRAND_NAME } Scribe, àlies il·limitats de hide-my-email i més."
+        "Protegiu els vostres correus electrònics i la vostra agenda amb xifratge d’extrem a extrem. Inclou 15 adreces de correu electrònic, compatibilitat amb dominis de correu electrònic personalitzats, l'assistent d'escriptura ${ BRAND_NAME } Scribe, àlies il·limitats de hide-my-email i molt més."
       ],
       "Secure your emails and schedule with end-to-end encryption. Includes 15 email addresses, support for custom email domains, unlimited hide-my-email aliases and more.": [
         "Assegureu els vostres correus electrònics i planifiqueu amb xifratge d’extrem a extrem. Inclou 15 adreces de correu electrònic, suport per a dominis de correu personalitzats, àlies hide-my-email il·limitats i més."
@@ -1853,6 +1877,12 @@
       ],
       "Two-year": [
         "Bianual"
+      ],
+      "Lifetime": [
+        "Oferta de per vida"
+      ],
+      "New!": [
+        "Nou"
       ]
     },
     "Browser": {
@@ -4558,6 +4588,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "La vostra cerca coincideix amb massa resultats. Limiteu la cerca i torneu-ho a provar."
+      ],
+      "Unable to load VPN dashboard. Please check your connection and try again.": [
+        "No es pot carregar el tauler de control de VPN. Comproveu la vostra connexió i torneu-ho a provar."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7408,7 +7441,7 @@
         "La clau pública del aquest remitent no ha tingut confiança encara."
       ],
       "This was shown to you because your email subject line contains password reset keywords.": [
-        "Si us ha mostrat perquè la línia d'assumpte del vostre correu electrònic conté paraules clau de restabliment de la contrasenya."
+        "Se us ha mostrat perquè la línia d'assumpte del vostre correu electrònic conté paraules clau de restabliment de la contrasenya."
       ],
       "This will sign you out of all accounts currently logged in.": [
         "Això tancarà la sessió de tots els comptes als quals teniu sessió iniciada actualment"
@@ -7901,6 +7934,138 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "El vostre pla programat comença el ${ renewalTime } i es renovarà automàticament cada mes."
+      ],
+      "${ VPN_APP_NAME } is masking your IP address, so websites can’t identify you.": [
+        "${ VPN_APP_NAME } està emmascarant la vostra adreça IP, de manera que els llocs web no us poden identificar."
+      ],
+      "**Auto-connect**: Opens and connects to VPN as soon as you turn on your device.": [
+        "**Connexió automàtica**: s'obre i es connecta a la VPN tan bon punt encengueu el dispositiu."
+      ],
+      "**Kill switch**: Stops data leaks by blocking your internet if the VPN drops unexpectedly.": [
+        "**kill switch**: atura les fuites de dades bloquejant la vostra Internet si la VPN es desconnecta de manera inesperada."
+      ],
+      "A secure connection is essential when working remotely. A VPN protects company data from cyber threats and keeps your work private.": [
+        "Una connexió segura és essencial quan es treballa a distància. Una VPN protegeix les dades de l'empresa de les amenaces cibernètiques i manté la vostra feina privada."
+      ],
+      "A VPN encrypts your connection and hides your IP address, making it much harder for anyone to track or monitor your browsing.": [
+        "Una VPN xifra la vostra connexió i amaga la vostra adreça IP, cosa que fa que sigui molt més difícil per a qualsevol rastrejar o supervisar la vostra navegació."
+      ],
+      "A VPN hides your IP address and encrypts your browsing activity, making it harder for websites, advertisers, and ISPs to track you over time.": [
+        "Una VPN amaga la vostra adreça IP i xifra la vostra activitat de navegació, cosa que dificulta que els llocs web, els anunciants i els ISP us facin un seguiment al llarg del temps."
+      ],
+      "A VPN is a secure tunnel between your device and the internet. It hides your location and activity from your internet service provider (ISP) and the websites you visit.": [
+        "Una VPN és un túnel segur entre el vostre dispositiu i internet. Oculta la vostra ubicació i activitat al vostre proveïdor de serveis d'internet (ISP) i als llocs web que visiteu."
+      ],
+      "Ad targeting": [
+        "Orientació d'anuncis"
+      ],
+      "Advertisers track your browsing to show targeted ads. ${ VPN_APP_NAME } blocks trackers and ads, making your connection faster and improving your online experience.": [
+        "Els anunciants fan un seguiment de la vostra navegació per mostrar anuncis orientats. ${ VPN_APP_NAME } bloqueja els rastrejadors i els anuncis, fent que la vostra connexió sigui més ràpida i millorant la vostra experiència en línia."
+      ],
+      "Browse privately and access blocked content.": [
+        "Navegueu en privat i accediu a continguts bloquejats."
+      ],
+      "Connect to ${ VPN_APP_NAME } to browse privately": [
+        "Connecteu-vos a ${ VPN_APP_NAME } per navegar en privat."
+      ],
+      "Geoblocking": [
+        "Geobloqueig"
+      ],
+      "Governments and ISPs can monitor your online activity. By hiding your real IP and encrypting your activity your browsing becomes private.": [
+        "Els governs i els ISP poden controlar la vostra activitat en línia. En amagar la vostra IP real i xifrar la vostra activitat, la vostra navegació esdevé privada."
+      ],
+      "In restrictive countries": [
+        "En països amb restriccions"
+      ],
+      "It’s best to use a VPN at all times. But here’s when cybersecurity threats can be the highest:": [
+        "El millor és utilitzar una VPN en tot moment. Però aquí és quan les amenaces de ciberseguretat poden ser més altes:"
+      ],
+      "Most public WiFi networks are safe, but some lack security, exposing you to cyber threats. A VPN encrypts your traffic, keeping you protected.": [
+        "La majoria de les xarxes wifi públiques són segures, però algunes no tenen seguretat, la qual cosa us exposa a amenaces cibernètiques. Una VPN xifra el vostre trànsit, mantenint-vos protegit."
+      ],
+      "Not connected": [
+        "Sense connexió"
+      ],
+      "On public WiFi networks": [
+        "A les xarxes wifi públiques"
+      ],
+      "Other accounts": [
+        "Altres comptes"
+      ],
+      "Our system flagged this as suspicious. If it is not a phishing or scam email, mark as legitimate.": [
+        "El nostre sistema ha marcat això com a sospitós. Si no es tracta d'un correu electrònic de pesca o frau, marqueu-lo com a legítim."
+      ],
+      "Our system flagged this message as a phishing attempt. Please check to ensure that it is legitimate.": [
+        "El nostre sistema ha marcat aquest missatge com a intent de suplantació d'identitat. Comproveu que sigui legítim."
+      ],
+      "Private browsing (or “incognito” mode) is only useful for keeping your activity hidden on your device. It stops your browser from saving history and cookies, but it doesn’t make you invisible. Your ISP, network administrator, and the websites you visit can still see what you do online.": [
+        "La navegació privada (o mode «incògnit») només és útil per mantenir la vostra activitat amagada al dispositiu. Impedeix que el vostre navegador desi l'historial i les galetes, però no us fa invisible. El vostre ISP, l'administrador de xarxa i els llocs web que visiteu encara poden veure el que feu en línia."
+      ],
+      "Protect your email from being leaked to mailing lists or spammers with ${ hideMyEmailAliasesLink }.": [
+        "Protegiu el vostre correu electrònic de filtracions a llistes de correu o generadors de correu brossa amb ${ hideMyEmailAliasesLink }."
+      ],
+      "Scan the QR code with your mobile device": [
+        "Escanegeu el codi QR amb el vostre dispositiu mòbil"
+      ],
+      "Some governments block or restrict access to certain websites. A VPN helps bypass censorship while keeping your activity and identity private.": [
+        "Alguns governs bloquegen o restringeixen l'accés a determinats llocs web. Una VPN ajuda a evitar la censura mentre manté la vostra activitat i identitat privades."
+      ],
+      "Some websites and streaming services block content by region. A VPN lets you bypass these restrictions and access the internet freely.": [
+        "Alguns llocs web i serveis d'estríming bloquegen els continguts per regió. Una VPN us permet evitar aquestes restriccions i accedir a internet lliurement."
+      ],
+      "Stay connected effortlessly by enabling the following VPN settings:": [
+        "Mantingueu-vos connectat sense esforç activant la configuració VPN següent:"
+      ],
+      "Subscription auto-renews every ${ cycle } month.": [
+        "La subscripció es renova automàticament cada ${ cycle } mes.",
+        "La subscripció es renova automàticament cada ${ cycle } mesos."
+      ],
+      "Surveillance": [
+        "Vigilància"
+      ],
+      "This means that your ISP and the websites you visit can’t connect your personal information with your online activity.": [
+        "Això vol dir que el vostre proveïdor d'accés a internet i els llocs web que visiteu no poden connectar la vostra informació personal amb la vostra activitat en línia."
+      ],
+      "This unique code can be used by websites and ISPs (internet service providers) to link your location and browsing history to your device": [
+        "Aquest codi únic el poden utilitzar els llocs web i els ISP (proveïdors de serveis d'internet) per a enllaçar la vostra ubicació i l'historial de navegació al vostre dispositiu."
+      ],
+      "Tracking": [
+        "Seguiment"
+      ],
+      "VPN IP": [
+        "IP de VPN"
+      ],
+      "When working remotely": [
+        "Quan es treballa a distància"
+      ],
+      "When you connect to VPN, it uses encryption technology to hide your IP address (a unique code assigned to your device).": [
+        "Quan us connecteu a la VPN, utilitza tecnologia de xifratge per ocultar la vostra adreça IP (un codi únic assignat al vostre dispositiu)."
+      ],
+      "You'll then be billed every ${ renewCycle } month at ${ renewAmountStr }.": [
+        "Després, se us facturarà cada ${ renewCycle } mes a ${ renewAmountStr }.",
+        "Després, se us facturarà cada ${ renewCycle } mesos a ${ renewAmountStr }."
+      ],
+      "Your internet service provider can monitor and sometimes sell your data, or even restrict what websites you can access.": [
+        "El vostre proveïdor de serveis d'internet pot supervisar i de vegades vendre les vostres dades, o fins i tot restringir els llocs web als quals podeu accedir."
+      ],
+      "Your IP": [
+        "La vostra IP"
+      ],
+      "Your IP address is visible and can be used to track your online activity.": [
+        "La vostra adreça IP és visible i es pot utilitzar per fer un seguiment de la vostra activitat en línia."
+      ],
+      "Your online activity is protected": [
+        "La vostra activitat en línia està protegida."
+      ],
+      "Your physical location is visible and can be used to restrict your access to the internet.": [
+        "La vostra ubicació física és visible i es pot utilitzar per restringir l'accés a internet."
+      ],
+      "Your scheduled plan starts on ${ renewalTime } and will auto-renew every ${ cycle } month.": [
+        "El vostre pla programat comença el ${ renewalTime } i es renovarà automàticament cada ${ cycle } mes.",
+        "El vostre pla programat comença el ${ renewalTime } i es renovarà automàticament cada ${ cycle } mesos."
+      ],
+      "Your subscription will automatically renew on ${ renewalTime }.": [
+        "La vostra subscripció es renovarà automàticament el ${ renewalTime }."
       ]
     },
     "info": {
@@ -8745,6 +8910,15 @@
       ],
       "Integrated 2FA authenticator": [
         "Autenticador de doble factor (2FA) integrat"
+      ],
+      "Your IP": [
+        "La vostra IP"
+      ],
+      "Your ISP": [
+        "El vostre proveïdor d'accés a internet"
+      ],
+      "Your location": [
+        "La vostra ubicació"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9109,6 +9283,9 @@
       ],
       "${ BRAND_NAME } Scribe writing assistant": [
         "Assistent d'escriptura ${ BRAND_NAME } Scribe"
+      ],
+      "Add-on with free trial": [
+        "Complement amb prova gratuïta"
       ]
     },
     "Mailbox": {
@@ -9894,6 +10071,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Escanegem el web fosc per a comprovar si les vostres adreces o àlies de ${ BRAND_NAME } s'han filtrat i us avisem immediatament si trobem alguna cosa."
+      ],
+      "${ size } storage per user": [
+        "${ size } d'emmagatzematge per usuari"
+      ],
+      "Manage user permissions and access": [
+        "Gestiona els permisos i l'accés dels usuaris"
+      ],
+      "Password manager to secure credentials": [
+        "Gestor de contrasenyes per a assegurar les credencials"
       ]
     },
     "new_plans: feature highlight": {
@@ -10012,6 +10198,9 @@
       ],
       "You’re enjoying a promotional price on your current plan. If you downgrade your account, you will lose your promotional price and it won’t be available if you try to subscribe again.": [
         "Esteu gaudint d'un preu promocional al vostre pla actual. Si feu una baixada de categoria al vostre compte, perdreu el preu promocional i no estarà disponible si intenteu subscriure-us novament."
+      ],
+      "Pay once, secure your passwords and identity forever.": [
+        "Pagueu una vegada i protegiu les vostres contrasenyes i identitat per sempre."
       ]
     },
     "new_plans: Subtext": {
@@ -10727,6 +10916,12 @@
       "Secure vault sharing (${ n } vault) and link sharing": [
         "Compartició segura de caixes fortes (${ n } caixa forta) i compartició d'enllaços",
         "Compartició segura de caixes fortes (${ n } caixes fortes) i compartició d'enllaços"
+      ],
+      "Secure vault, item and link sharing": [
+        "Compartició segura de caixes fortes, elements i enllaços"
+      ],
+      "Unlimited logins, notes, credit cards and more": [
+        "Nombre il·limitat d'inicis de sessió, notes i targetes de crèdit i més"
       ]
     },
     "pass_signup_2024: Info": {
@@ -10863,6 +11058,40 @@
       ],
       "We are processing your payment for the billed invoice. Please wait until the payment is completed before making changes to your plan or updating your payment details. Thank you for your patience.": [
         "Estem tramitant el pagament de la factura. Espereu que el pagament s'hagi completat abans de fer canvis al pla o actualitzar les dades del pagament. Gràcies per la vostra paciència."
+      ],
+      "During this time, you will not be able to modify or cancel your subscription. Please wait until your payment is completed before attempting any changes. Thank you for your patience.": [
+        "Durant aquest temps, no podreu modificar ni cancel·lar la vostra subscripció. Espereu fins que s'hagi completat el pagament abans d'intentar qualsevol canvi. Gràcies per la vostra paciència."
+      ],
+      "Renewal pricing subject to change according to ${ termsAndConditionsLink }.": [
+        "El preu de la renovació està subjecte a canvis segons ${ termsAndConditionsLink }."
+      ],
+      "Renews at ${ renewPriceStr }, cancel anytime.": [
+        "Es renova per ${ renewPriceStr } i ho podeu cancel·lar en qualsevol moment."
+      ],
+      "terms & conditions": [
+        "els termes i condicions"
+      ],
+      "The coupon is valid for ${ couponRedemptions } renewal.": [
+        "El cupó és vàlid per a ${ couponRedemptions } renovació.",
+        "El cupó és vàlid per a ${ couponRedemptions } renovacions."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first ${ subscriptionLength } month.": [
+        "El preu amb descompte especial de ${ priceWithDiscount } és vàlid durant el primer ${ subscriptionLength } mes.",
+        "El preu amb descompte especial de ${ priceWithDiscount } és vàlid durant els primers ${ subscriptionLength } mesos."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. The coupon is valid for ${ couponRedemptions } renewal. Then it will automatically be renewed at ${ renewPriceStr } for 1 month. You can cancel at any time.": [
+        "El preu amb descompte especial de ${ priceWithDiscount } és vàlid durant el primer mes. El cupó és vàlid per a ${ couponRedemptions } renovació. Aleshores, es renovarà automàticament a ${ renewPriceStr } durant 1 mes. Podeu cancel·lar-ho en qualsevol moment.",
+        "El preu amb descompte especial de ${ priceWithDiscount } és vàlid durant el primer mes. El cupó és vàlid per a ${ couponRedemptions } renovacions. Aleshores, es renovarà automàticament a ${ renewPriceStr } durant 1 mes. Podeu cancel·lar-ho en qualsevol moment."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. Then it will automatically be renewed at ${ renewPriceStr } every month. You can cancel at any time.": [
+        "El preu amb descompte especial de ${ priceWithDiscount } és vàlid durant el primer mes. Aleshores, es renovarà automàticament a ${ renewPriceStr } cada mes. Podeu cancel·lar-ho en qualsevol moment."
+      ],
+      "Then it will automatically be renewed at ${ renewPriceStr } for ${ renewalLength } month. You can cancel at any time.": [
+        "Aleshores, es renovarà automàticament a ${ renewPriceStr } durant ${ renewalLength } mes. Podeu cancel·lar-ho en qualsevol moment.",
+        "Aleshores, es renovarà automàticament a ${ renewPriceStr } durant ${ renewalLength } mesos. Podeu cancel·lar-ho en qualsevol moment."
+      ],
+      "Your payment is still being processed": [
+        "El vostre pagament encara s'està processant."
       ]
     },
     "Payments.Error": {
@@ -12088,6 +12317,10 @@
       "${ n } VPN connection per user": [
         "${ n } connexió VPN per usuari",
         "${ n } connexions VPN per usuari"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "Connexió VPN per a ${ n } dispositiu per usuari",
+        "Connexió VPN per a ${ n } dispositius per usuari"
       ]
     },
     "Subscription change warning": {
@@ -13754,6 +13987,45 @@
       ],
       "Your shorter address is now ready": [
         "La vostra adreça més curta ja està a punt."
+      ],
+      "Desktop": [
+        "Escriptori"
+      ],
+      "Download the app": [
+        "Descarrega l'aplicació"
+      ],
+      "Get more from your VPN": [
+        "Obteniu més de la vostra VPN"
+      ],
+      "Help and feedback": [
+        "Ajuda i comentaris"
+      ],
+      "How does it all work?": [
+        "Com funciona tot?"
+      ],
+      "Increase security with ${ VPN_APP_NAME }": [
+        "Augmenteu la seguretat amb ${ VPN_APP_NAME }"
+      ],
+      "Make a secure connection your default": [
+        "Feu que una connexió segura sigui la vostra predeterminada"
+      ],
+      "Mobile": [
+        "Mòbil"
+      ],
+      "Private browsing vs VPN": [
+        "Navegació privada i VPN"
+      ],
+      "VPN explained": [
+        "Explicacions sobre la VPN"
+      ],
+      "What can a VPN protect you from?": [
+        "De què us pot protegir una VPN?"
+      ],
+      "What is a VPN?": [
+        "Què és una VPN?"
+      ],
+      "When is it most important to use a VPN?": [
+        "Quan és més important utilitzar una VPN?"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13910,6 +14182,14 @@
       "${ numberOfCountries } country": [
         "${ numberOfCountries } país",
         "${ numberOfCountries } països"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "Selecció automàtica d'entre ${ numberOfCountries } país",
+        "Selecció automàtica d'entre ${ numberOfCountries } països"
+      ],
+      "Servers in ${ numberOfCountries }+ country": [
+        "Servidors en més d'${ numberOfCountries } país",
+        "Servidors en més de ${ numberOfCountries } països"
       ]
     },
     "vpn_2024: renew": {
@@ -13926,6 +14206,9 @@
       "Your subscription will automatically renew in ${ cycle } month.": [
         "La vostra subscripció es renovarà automàticament en ${ cycle } mes.",
         "La vostra subscripció es renovarà automàticament en ${ cycle } mesos."
+      ],
+      "You'll then be billed every 12 months at ${ renewPriceStr }.": [
+        "Després se us facturarà cada 12 mesos a ${ renewPriceStr }."
       ]
     },
     "vpn_2step: feature": {
@@ -14374,6 +14657,42 @@
     "Feature": {
       "Unlimited hide-my-email aliases": [
         "Nombre il·limitat d'àlies hide-my-email"
+      ]
+    },
+    "customer_support.feature.all": {
+      "For all ${ BRAND_NAME } services": [
+        "Per a tots els serveis de ${ BRAND_NAME }"
+      ]
+    },
+    "customer_support.feature.drive": {
+      "For ${ DRIVE_APP_NAME }": [
+        "Per a ${ DRIVE_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.mail": {
+      "For ${ MAIL_APP_NAME }": [
+        "Per a ${ MAIL_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.pass": {
+      "For ${ PASS_APP_NAME }": [
+        "Per a ${ PASS_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.vpn": {
+      "For ${ VPN_APP_NAME }": [
+        "Per a ${ VPN_APP_NAME }"
+      ]
+    },
+    "Drawer tab, Action": {
+      "Download for Linux": [
+        "Descarrega per a Linux"
+      ],
+      "Download for macOS": [
+        "Descarrega per a macOS"
+      ],
+      "Download for Windows": [
+        "Descarrega per a Windows"
       ]
     }
   }

@@ -1421,6 +1421,15 @@
       ],
       "Zoom out": [
         "Pomanjšaj"
+      ],
+      "Add another account": [
+        "Dodaj drug račun"
+      ],
+      "Help and resources": [
+        "Pomoč in viri"
+      ],
+      "Set as album cover": [
+        "Nastavi kot naslovnico albuma"
       ]
     },
     "action": {
@@ -1768,6 +1777,9 @@
       ],
       "Two-year": [
         "Dve leti"
+      ],
+      "New!": [
+        "Novo!"
       ]
     },
     "Browser": {
@@ -8486,6 +8498,9 @@
       ],
       "Your password (admin)": [
         "Vaše geslo (admin)"
+      ],
+      "Don't show this suggestion": [
+        "Ne prikazuj tega predloga"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -8851,6 +8866,9 @@
       ],
       "${ BRAND_NAME } Scribe writing assistant": [
         "Pomočnik pri pisanju ${ BRAND_NAME } Scribe"
+      ],
+      "Add-on with free trial": [
+        "Dodatek z brezplačno preizkusno dobo"
       ]
     },
     "Mailbox": {
@@ -9535,7 +9553,7 @@
         "Varno kopirajte vse svoje datoteke in jih sinhronizirajte v vseh napravah."
       ],
       "Tor over VPN": [
-        "Tor preko VPN"
+        "Tor prek VPN"
       ],
       "Two-factor authentication": [
         "Dvojno preverjanja pristnosti"
@@ -10090,6 +10108,12 @@
       ],
       "Special offer": [
         "Posebna ponudba"
+      ],
+      "This offer won't be shown again.": [
+        "Ta ponudba se ne bo več prikazovala."
+      ],
+      "Your subscription renews soon": [
+        "Vaša naročnina se bo kmalu obnovila"
       ]
     },
     "Offer feature": {
@@ -13126,6 +13150,12 @@
       ],
       "Your free trial has ended": [
         "Brezplačno preizkusno obdobje se je izteklo."
+      ],
+      "Help and feedback": [
+        "Pomoč in povratne informacije"
+      ],
+      "Help center": [
+        "Središče za pomoč"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13283,6 +13313,18 @@
         "${ numberOfServers } v ${ numberOfCountries } državah",
         "${ numberOfServers } v ${ numberOfCountries } državah",
         "${ numberOfServers } v ${ numberOfCountries } državah"
+      ],
+      "${ n } device": [
+        "${ n } naprava",
+        "${ n } napravi",
+        "${ n } naprave",
+        "${ n } naprav"
+      ],
+      "${ numberOfCountries } country": [
+        "${ numberOfCountries } država",
+        "${ numberOfCountries } državi",
+        "${ numberOfCountries } države",
+        "${ numberOfCountries } držav"
       ]
     },
     "vpn_2024: renew": {
@@ -13791,6 +13833,36 @@
     "Payments.Sepa": {
       "Street address, postal code, and city": [
         "Ulica, poštna številka in mesto"
+      ]
+    },
+    "customer_support.feature.all": {
+      "For all ${ BRAND_NAME } services": [
+        "Za vse storitve ${ BRAND_NAME }"
+      ]
+    },
+    "customer_support.feature.drive": {
+      "For ${ DRIVE_APP_NAME }": [
+        "Za ${ DRIVE_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.mail": {
+      "For ${ MAIL_APP_NAME }": [
+        "Za ${ MAIL_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.pass": {
+      "For ${ PASS_APP_NAME }": [
+        "Za ${ PASS_APP_NAME }"
+      ]
+    },
+    "customer_support.feature.vpn": {
+      "For ${ VPN_APP_NAME }": [
+        "Za ${ VPN_APP_NAME }"
+      ]
+    },
+    "Safety review": {
+      "Review account safety": [
+        "Preglejte varnost računa"
       ]
     }
   }
