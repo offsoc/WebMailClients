@@ -6751,7 +6751,7 @@
         "Aby uzyskać dodatkowe informacje i usunąć ograniczenia, zaloguj się pod adresem ${ mailLink }."
       ],
       "For anytime access to email and an optimized mobile experience, download our ${ androidAppLink } or ${ iosAppLink }.": [
-        "Aby uzyskać dostęp do poczty e-mail w dowolnym momencie i korzystać ze zoptymalizowanego rozwiązania mobilnego, pobierz naszą aplikację ${ androidAppLink } lub ${ iosAppLink }."
+        "Uzyskaj dostęp do poczty w dowolnym momencie, gdziekolwiek jesteś. Pobierz naszą aplikację ${ androidAppLink } lub ${ iosAppLink }."
       ],
       "For messages newer than ${ oldestDate }": [
         "Dla wiadomości nowszych niż ${ oldestDate }"
@@ -8168,6 +8168,12 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Twoja subskrypcja odnowi się automatycznie ${ renewalTime }."
+      ],
+      "VPN IP": [
+        "Adres IP VPN"
+      ],
+      "Your IP": [
+        "Twój adres IP"
       ]
     },
     "info": {
@@ -9021,6 +9027,12 @@
       ],
       "Your password (admin)": [
         "Twoje hasło (administratora)"
+      ],
+      "Your IP": [
+        "Twój adres IP"
+      ],
+      "Your location": [
+        "Twoja lokalizacja"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -14253,6 +14265,12 @@
       ],
       "Other features included in your plan": [
         "Inne funkcje zawarte w planie"
+      ],
+      "Mobile": [
+        "Aplikacja mobilna"
+      ],
+      "What is a VPN?": [
+        "Co to jest VPN?"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14989,6 +15007,17 @@
     "customer_support.feature.vpn": {
       "For ${ VPN_APP_NAME }": [
         "Dla ${ VPN_APP_NAME }"
+      ]
+    },
+    "Drawer tab, Action": {
+      "Download for Linux": [
+        "Pobierz na Linuksa"
+      ],
+      "Download for macOS": [
+        "Pobierz na macOS"
+      ],
+      "Download for Windows": [
+        "Pobierz na Windowsa"
       ]
     }
   }

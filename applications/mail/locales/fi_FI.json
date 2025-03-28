@@ -13718,6 +13718,9 @@
       ],
       "${ appName } keyboard shortcuts": [
         "${ appName }-pikanäppäimet"
+      ],
+      "Get more from your VPN": [
+        "Saa enemmän VPN-yhteydestäsi"
       ]
     },
     "Today icon tooltip in mini calendar": {

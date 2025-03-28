@@ -7818,6 +7818,66 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Langganan Anda akan diperbarui secara otomatis pada ${ renewalTime }."
+      ],
+      "${ VPN_APP_NAME } is masking your IP address, so websites can’t identify you.": [
+        "${ VPN_APP_NAME } sedang menyamarkan alamat IP Anda, sehingga situs web yang Anda kunjungi tidak akan dapat mengenali diri Anda."
+      ],
+      "**Auto-connect**: Opens and connects to VPN as soon as you turn on your device.": [
+        "**Sambungan otomatis**: Membuka aplikasi dan menghubungkan Anda ke VPN segera setelah Anda menyalakan perangkat Anda."
+      ],
+      "**Kill switch**: Stops data leaks by blocking your internet if the VPN drops unexpectedly.": [
+        "**Kill switch**: Menghentikan kebocoran data dengan memblokir internet Anda apabila koneski VPN terputus secara tiba-tiba."
+      ],
+      "A secure connection is essential when working remotely. A VPN protects company data from cyber threats and keeps your work private.": [
+        "Koneksi yang aman sangat penting pada saat bekerja secara remote. Aplikasi VPN melindungi data perusahaan Anda dari ancaman siber dan menjaga pekerjaan Anda tetap privat."
+      ],
+      "A VPN is a secure tunnel between your device and the internet. It hides your location and activity from your internet service provider (ISP) and the websites you visit.": [
+        "VPN merupakan terowongan yang aman antara perangkat Anda dan jaringan internet. Aplikasi VPN menyembunyikan lokasi dan aktivitas Anda dari penyedia layanan internet (ISP) dan situs web yang Anda kunjungi."
+      ],
+      "Connect to ${ VPN_APP_NAME } to browse privately": [
+        "Hubungkan ke ${ VPN_APP_NAME } untuk berselancar secara privat"
+      ],
+      "Geoblocking": [
+        "Pemblokiran wilayah"
+      ],
+      "In restrictive countries": [
+        "Di negara dengan pembatasan yang ketat"
+      ],
+      "It’s best to use a VPN at all times. But here’s when cybersecurity threats can be the highest:": [
+        "Tidak ada waktu yang tidak tepat untuk menggunakan VPN. Meskipun demikian, terdapat beberapa lokasi dan situasi di mana tindak kejahatan siber dapat sangat mengancam:"
+      ],
+      "Most public WiFi networks are safe, but some lack security, exposing you to cyber threats. A VPN encrypts your traffic, keeping you protected.": [
+        "Sebagian besar jaringan WiFi publik dapat diakses secara aman, namun jaringan tertentu yang kurang aman dapat memaparkan diri Anda ke berbagai ancaman siber. Aplikasi VPN melindungi lalu lintas jaringan Anda, yang membuat diri Anda tetap terlindung atas ancaman ini."
+      ],
+      "Not connected": [
+        "Tidak terhubung"
+      ],
+      "On public WiFi networks": [
+        "Di jaringan WiFI publik"
+      ],
+      "Scan the QR code with your mobile device": [
+        "Pindai kode QR dengan perangkat seluler Anda"
+      ],
+      "Some governments block or restrict access to certain websites. A VPN helps bypass censorship while keeping your activity and identity private.": [
+        "Beberapa pemerintahan dapat memblokir atau membatasi akses ke situs web tertentu. Aplikasi VPN dapat membantu Anda untuk menangkal sensor selagi menjaga aktivitas dan identitas Anda tetap privat."
+      ],
+      "Stay connected effortlessly by enabling the following VPN settings:": [
+        "Buat diri Anda selalu terhubung tanpa harus repot dengan mengaktifkan pengaturan VPN berikut:"
+      ],
+      "This unique code can be used by websites and ISPs (internet service providers) to link your location and browsing history to your device": [
+        "Kode unik ini dapat digunakan oleh situs web dan penyedia layanan internet (ISP) untuk menautkan lokasi dan riwayat penjelajahan Anda ke perangkat Anda"
+      ],
+      "VPN IP": [
+        "IP VPN"
+      ],
+      "When working remotely": [
+        "Pada saat bekerja secara remote"
+      ],
+      "Your IP": [
+        "IP Anda"
+      ],
+      "Your physical location is visible and can be used to restrict your access to the internet.": [
+        "Lokasi fisik Anda sedang dapat terlihat dan digunakan untuk membatasi akses internet Anda."
       ]
     },
     "info": {
@@ -13570,6 +13630,21 @@
       ],
       "Help and feedback": [
         "Bantuan dan saran"
+      ],
+      "Get more from your VPN": [
+        "Dapatkan yang lebh dari VPN Anda"
+      ],
+      "Make a secure connection your default": [
+        "Jadikan koneksi yang aman sebagai koneksi bawaan Anda"
+      ],
+      "VPN explained": [
+        "Kupas tuntas VPN"
+      ],
+      "What is a VPN?": [
+        "Apa itu VPN?"
+      ],
+      "When is it most important to use a VPN?": [
+        "Kapan waktu yang paling penting untuk menggunakan VPN?"
       ]
     },
     "Today icon tooltip in mini calendar": {

@@ -1483,6 +1483,12 @@
       ],
       "Zoom out": [
         "Uzaklaştır"
+      ],
+      "Explore ${ VPN_APP_NAME }": [
+        "${ VPN_APP_NAME }'i keşfedin"
+      ],
+      "Toggle VPN dashboard": [
+        "VPN panosunu aç / kapat"
       ]
     },
     "action": {
@@ -4592,6 +4598,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Aramanız çok fazla sonuç döndürdü. Lütfen aramanızı sınırlandırıp yeniden deneyin."
+      ],
+      "Unable to load VPN dashboard. Please check your connection and try again.": [
+        "VPN kontrol paneli yüklenemiyor. Lütfen bağlantınızı kontrol edin ve tekrar deneyin."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7955,6 +7964,114 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Aboneliğiniz ${ renewalTime } tarihinde otomatik olarak yenilenecek."
+      ],
+      "${ VPN_APP_NAME } is masking your IP address, so websites can’t identify you.": [
+        "${ VPN_APP_NAME } IP adresinizi maskeliyor, böylece web siteleri sizi tanımlayamıyor."
+      ],
+      "**Auto-connect**: Opens and connects to VPN as soon as you turn on your device.": [
+        "**Auto-connect**: Cihazınızı açar açmaz VPN'i açar ve bağlanır."
+      ],
+      "**Kill switch**: Stops data leaks by blocking your internet if the VPN drops unexpectedly.": [
+        "**Kill switch**: VPN beklenmedik bir şekilde kesilirse internetinizi engelleyerek veri sızıntılarını durdurur."
+      ],
+      "A secure connection is essential when working remotely. A VPN protects company data from cyber threats and keeps your work private.": [
+        "Uzaktan çalışırken güvenli bir bağlantı şarttır. VPN, şirket verilerini siber tehditlerden korur ve işinizi gizli tutar."
+      ],
+      "A VPN encrypts your connection and hides your IP address, making it much harder for anyone to track or monitor your browsing.": [
+        "VPN bağlantınızı şifreler ve IP adresinizi gizleyerek herhangi birinin gezintinizi izlemesini veya takip etmesini çok daha zor hale getirir."
+      ],
+      "A VPN hides your IP address and encrypts your browsing activity, making it harder for websites, advertisers, and ISPs to track you over time.": [
+        "VPN, IP adresinizi gizler ve tarama etkinliğinizi şifreleyerek web sitelerinin, reklamcıların ve İSS'lerin zaman içinde sizi izlemesini zorlaştırır."
+      ],
+      "A VPN is a secure tunnel between your device and the internet. It hides your location and activity from your internet service provider (ISP) and the websites you visit.": [
+        "VPN, cihazınız ile internet arasında güvenli bir tüneldir. Konumunuzu ve faaliyetlerinizi internet servis sağlayıcınızdan (ISP) ve ziyaret ettiğiniz web sitelerinden gizler."
+      ],
+      "Ad targeting": [
+        "Hedefli reklam"
+      ],
+      "Advertisers track your browsing to show targeted ads. ${ VPN_APP_NAME } blocks trackers and ads, making your connection faster and improving your online experience.": [
+        "Reklamverenler, hedefli reklamlar göstermek için gezintinizi izler. ${ VPN_APP_NAME } izleyicileri ve reklamları engelleyerek bağlantınızı daha hızlı hale getirir ve çevrimiçi deneyiminizi geliştirir."
+      ],
+      "Browse privately and access blocked content.": [
+        "Özel olarak gezinin ve engellenen içeriğe erişin."
+      ],
+      "Connect to ${ VPN_APP_NAME } to browse privately": [
+        "Özel olarak gezinmek için ${ VPN_APP_NAME } adresine bağlanın"
+      ],
+      "Geoblocking": [
+        "Coğrafi Engelleme"
+      ],
+      "Governments and ISPs can monitor your online activity. By hiding your real IP and encrypting your activity your browsing becomes private.": [
+        "Hükümetler ve İSS'ler çevrimiçi etkinliğinizi izleyebilir. Gerçek IP'nizi gizleyerek ve etkinliğinizi şifreleyerek gezintiniz gizli hale gelir."
+      ],
+      "In restrictive countries": [
+        "Sınırlayıcı ülkelerde"
+      ],
+      "Included for free with your plan": [
+        "Planınıza ücretsiz olarak dahildir"
+      ],
+      "It’s best to use a VPN at all times. But here’s when cybersecurity threats can be the highest:": [
+        "Her zaman bir VPN kullanmak en iyisidir. Ancak siber güvenlik tehditlerinin en yüksek olabileceği zamanlar buralardır:"
+      ],
+      "Most public WiFi networks are safe, but some lack security, exposing you to cyber threats. A VPN encrypts your traffic, keeping you protected.": [
+        "Çoğu herkese açık WiFi ağı güvenlidir, ancak bazıları güvenlikten yoksundur ve sizi siber tehditlere maruz bırakır. VPN trafiğinizi şifreleyerek sizi korur."
+      ],
+      "Not connected": [
+        "Bağlı değil"
+      ],
+      "On public WiFi networks": [
+        "Herkese açık WiFi ağlarında"
+      ],
+      "Private browsing (or “incognito” mode) is only useful for keeping your activity hidden on your device. It stops your browser from saving history and cookies, but it doesn’t make you invisible. Your ISP, network administrator, and the websites you visit can still see what you do online.": [
+        "Gizli tarama (veya “gizli” mod) yalnızca etkinliğinizi cihazınızda gizli tutmak için kullanışlıdır. Tarayıcınızın geçmişi ve çerezleri kaydetmesini engeller, ancak sizi görünmez yapmaz. İSS'niz, ağ yöneticiniz ve ziyaret ettiğiniz web siteleri çevrimiçi ortamda ne yaptığınızı görmeye devam edebilir."
+      ],
+      "Scan the QR code with your mobile device": [
+        "Karekodu mobil cihazınızla tarayın"
+      ],
+      "Some governments block or restrict access to certain websites. A VPN helps bypass censorship while keeping your activity and identity private.": [
+        "Bazı devletler belirli web sitelerine erişimi engeller veya kısıtlar. VPN, etkinliğinizi ve kimliğinizi gizli tutarken sansürü aşmanıza yardımcı olur."
+      ],
+      "Some websites and streaming services block content by region. A VPN lets you bypass these restrictions and access the internet freely.": [
+        "Bazı web siteleri ve yayın hizmetleri içeriği bölgelere göre engeller. VPN, bu kısıtlamaları aşmanızı ve internete özgürce erişmenizi sağlar."
+      ],
+      "Stay connected effortlessly by enabling the following VPN settings:": [
+        "Aşağıdaki VPN ayarlarını etkinleştirerek zahmetsizce bağlantıda kalın:"
+      ],
+      "Surveillance": [
+        "Gözetleme"
+      ],
+      "This means that your ISP and the websites you visit can’t connect your personal information with your online activity.": [
+        "Bu, İSS'nizin ve ziyaret ettiğiniz web sitelerinin kişisel bilgilerinizi çevrimiçi etkinliğinizle ilişkilendiremeyeceği anlamına gelir."
+      ],
+      "This unique code can be used by websites and ISPs (internet service providers) to link your location and browsing history to your device": [
+        "Bu benzersiz kod, web siteleri ve İSS'ler (internet servis sağlayıcıları) tarafından konumunuzu ve tarama geçmişinizi cihazınıza bağlamak için kullanılabilir"
+      ],
+      "Tracking": [
+        "İzleme"
+      ],
+      "VPN IP": [
+        "VPN IP adresi"
+      ],
+      "When working remotely": [
+        "Uzaktan çalışırken"
+      ],
+      "When you connect to VPN, it uses encryption technology to hide your IP address (a unique code assigned to your device).": [
+        "VPN'e bağlandığınızda, IP adresinizi (cihazınıza atanan benzersiz bir kod) gizlemek için şifreleme teknolojisini kullanır."
+      ],
+      "Your internet service provider can monitor and sometimes sell your data, or even restrict what websites you can access.": [
+        "İnternet servis sağlayıcınız verilerinizi izleyebilir ve bazen satabilir, hatta hangi web sitelerine erişebileceğinizi kısıtlayabilir."
+      ],
+      "Your IP": [
+        "IP adresiniz"
+      ],
+      "Your IP address is visible and can be used to track your online activity.": [
+        "IP adresiniz görülebilir ve çevrimiçi etkinliğinizi izlemek için kullanılabilir."
+      ],
+      "Your online activity is protected": [
+        "Çevrimiçi faaliyetleriniz korunuyor"
+      ],
+      "Your physical location is visible and can be used to restrict your access to the internet.": [
+        "Fiziksel konumunuz görülebilir ve internete erişiminizi kısıtlamak için kullanılabilir."
       ]
     },
     "info": {
@@ -8796,6 +8913,15 @@
       ],
       "Your password (admin)": [
         "Parolanız (yönetici)"
+      ],
+      "Your IP": [
+        "IP adresiniz"
+      ],
+      "Your ISP": [
+        "İSS'niz"
+      ],
+      "Your location": [
+        "Konumunuz"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -13835,6 +13961,42 @@
       ],
       "Your shorter address is now ready": [
         "Daha kısa adresiniz hazır"
+      ],
+      "Desktop": [
+        "Bilgisayar"
+      ],
+      "Download the app": [
+        "Uygulamayı indirin"
+      ],
+      "Get more from your VPN": [
+        "VPN hizmetinizden fazlasını alın"
+      ],
+      "How does it all work?": [
+        "Tüm bunlar nasıl işliyor?"
+      ],
+      "Increase security with ${ VPN_APP_NAME }": [
+        "${ VPN_APP_NAME } ile güvenliği artırın"
+      ],
+      "Make a secure connection your default": [
+        "Güvenli bir bağlantıyı varsayılanınız yapın"
+      ],
+      "Mobile": [
+        "Mobil"
+      ],
+      "Private browsing vs VPN": [
+        "Özel gezinme ile VPN karşı karşıya"
+      ],
+      "VPN explained": [
+        "VPN açıklanıyor"
+      ],
+      "What can a VPN protect you from?": [
+        "VPN sizi nelerden koruyabilir?"
+      ],
+      "What is a VPN?": [
+        "VPN nedir?"
+      ],
+      "When is it most important to use a VPN?": [
+        "VPN kullanmak en çok ne zaman önemlidir?"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14461,6 +14623,17 @@
       ],
       "Passcode:": [
         "Parola:"
+      ]
+    },
+    "Drawer tab, Action": {
+      "Download for Linux": [
+        "Linux için indirin"
+      ],
+      "Download for macOS": [
+        "macOS için indirin"
+      ],
+      "Download for Windows": [
+        "Windows için indirin"
       ]
     }
   }
