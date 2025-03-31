@@ -6672,7 +6672,8 @@
         "S'està inicialitzant…"
       ],
       "Insert image": [
-        "Insereix una imatge"
+        "Insereix una imatge",
+        "Insereix imatges"
       ],
       "Insert link": [
         "Insereix un enllaç"
@@ -8041,6 +8042,9 @@
       ],
       "Your physical location is visible and can be used to restrict your access to the internet.": [
         "La vostra ubicació física és visible i es pot utilitzar per restringir l'accés a internet."
+      ],
+      "Included for free with your plan": [
+        "Inclòs gratis amb el vostre pla"
       ]
     },
     "info": {
@@ -10591,6 +10595,12 @@
       ],
       "Your subscription renews soon": [
         "La subscripció es renovarà aviat."
+      ],
+      "${ BRAND_NAME } Unlimited for 12 months": [
+        "${ BRAND_NAME } Unlimited durant 12 mesos"
+      ],
+      "${ planName } for 12 months": [
+        "${ planName } durant 12 mesos"
       ]
     },
     "Offer feature": {

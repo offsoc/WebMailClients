@@ -6694,7 +6694,8 @@
         "Initierar…"
       ],
       "Insert image": [
-        "Infoga bild"
+        "Infoga bild",
+        "Infoga bilder"
       ],
       "Insert link": [
         "Infoga länk"
@@ -10609,6 +10610,12 @@
       ],
       "Your subscription renews soon": [
         "Din prenumeration förnyas snart"
+      ],
+      "${ BRAND_NAME } Unlimited for 12 months": [
+        "${ BRAND_NAME } Obegränsat i 12 månader"
+      ],
+      "${ planName } for 12 months": [
+        "${ planName } för 12 månader"
       ]
     },
     "Offer feature": {

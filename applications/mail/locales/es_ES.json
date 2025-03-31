@@ -1295,7 +1295,7 @@
         "Cambiar a la aplicación Calendar"
       ],
       "Toggle Contacts app": [
-        "Alternar la aplicación de Contactos"
+        "Alternar la aplicación Contactos"
       ],
       "Toggle security center app": [
         "Activar la aplicación del centro de seguridad"
@@ -3919,7 +3919,7 @@
         "Se ha cancelado esta ocurrencia del evento."
       ],
       "This event occurrence was updated.": [
-        "Esta ocurrencia del evento ha sido actualizada."
+        "Se ha actualizado esta ocurrencia del evento."
       ],
       "This event occurrence was updated. Here's what changed:\n\n${ updateEventDetailsText }": [
         "Esta ocurrencia del evento ha sido actualizada. Esto es lo que ha cambiado:\n\n${ updateEventDetailsText }"
@@ -5178,7 +5178,7 @@
     },
     "filter: Label": {
       "the email was sent ${ label }": [
-        "el correo electrónico ha sido enviado ${ label }"
+        "se ha enviado el correo electrónico ${ label }"
       ],
       "with attachments": [
         "con archivos adjuntos"
@@ -5189,7 +5189,7 @@
     },
     "filter: Label, jt": {
       "the email was sent ${ label }": [
-        "el correo electrónico ha sido enviado ${ label }"
+        "se ha enviado el correo electrónico ${ label }"
       ]
     },
     "Font Face Default": {
@@ -6697,7 +6697,8 @@
         "Inicializando…"
       ],
       "Insert image": [
-        "Insertar imagen"
+        "Insertar una imagen",
+        "Insertar imágenes"
       ],
       "Insert link": [
         "Insertar enlace"
@@ -7201,7 +7202,7 @@
         "Configura ${ MAIL_APP_NAME } como tu aplicación de correo electrónico por defecto. ${ MAIL_APP_NAME } se abrirá automáticamente al hacer clic en un enlace de correo electrónico."
       ],
       "Setting up ${ feature }…": [
-        "Configurando ${ feature }"
+        "Configurando ${ feature }…"
       ],
       "Setting up PGP allows you to send end-to-end encrypted emails with a non-${ BRAND_NAME } user that uses a PGP compatible service.": [
         "La configuración de PGP te permite enviar correos electrónicos cifrados de extremo a extremo con un usuario que no sea ${ BRAND_NAME } y que utilice un servicio compatible con PGP."
@@ -7996,7 +7997,7 @@
         "Conéctate a ${ VPN_APP_NAME } para navegar de forma privada."
       ],
       "Geoblocking": [
-        "Geoblocalización"
+        "Bloqueo geográfico"
       ],
       "Governments and ISPs can monitor your online activity. By hiding your real IP and encrypting your activity your browsing becomes private.": [
         "Los gobiernos y los proveedores de servicios de internet pueden monitorear tu actividad en línea. Ocultando tu IP real y cifrando tu actividad de navegación se vuelve privada."
@@ -8005,7 +8006,7 @@
         "En países con restricciones"
       ],
       "Included for free with your plan": [
-        "Gratis con tu plan"
+        "Incluido gratis con tu plan"
       ],
       "It’s best to use a VPN at all times. But here’s when cybersecurity threats can be the highest:": [
         "Es mejor usar una VPN en todo momento. Pero estos son los casos en que las amenazas de ciberseguridad pueden ser mayores:"
@@ -8017,7 +8018,7 @@
         "No conectado"
       ],
       "On public WiFi networks": [
-        "En redes Wi-Fi públicas"
+        "En redes wifi públicas"
       ],
       "Private browsing (or “incognito” mode) is only useful for keeping your activity hidden on your device. It stops your browser from saving history and cookies, but it doesn’t make you invisible. Your ISP, network administrator, and the websites you visit can still see what you do online.": [
         "La navegación privada (o modo «incógnito») solo es útil para mantener oculta tu actividad en tu dispositivo. Evita que tu navegador guarde el historial y las cookies, pero no te hace invisible. Tu ISP, administrador de red y los sitios web que visitas aún pueden ver lo que haces en línea."
@@ -8044,7 +8045,7 @@
         "Los sitios web y los ISP (proveedores de servicios de internet) pueden usar este código único para vincular tu ubicación e historial de navegación a tu dispositivo."
       ],
       "Tracking": [
-        "Seguimiento"
+        "Rastreadores"
       ],
       "VPN IP": [
         "IP de VPN"
@@ -8534,7 +8535,7 @@
         "Densidad"
       ],
       "Did not follow instructions": [
-        "Las instrucciones no fueron seguidas."
+        "No se han seguido las instrucciones."
       ],
       "Do you have any suggestions for our team?": [
         "¿Tienes alguna sugerencia para nuestro equipo?"
@@ -10619,6 +10620,12 @@
       ],
       "Your subscription renews soon": [
         "Tu suscripción se renueva pronto."
+      ],
+      "${ BRAND_NAME } Unlimited for 12 months": [
+        "${ BRAND_NAME } Unlimited por 12 meses"
+      ],
+      "${ planName } for 12 months": [
+        "${ planName } por 12 meses"
       ]
     },
     "Offer feature": {
@@ -12347,7 +12354,7 @@
         "${ dayDiff } días restantes"
       ],
       "${ MAIL_APP_NAME } desktop app": [
-        "App de escritorio ${ MAIL_APP_NAME }"
+        "Aplicación de escritorio ${ MAIL_APP_NAME }"
       ],
       "${ MAIL_APP_NAME } keeps your business data secure and lets you send encrypted emails to anyone.": [
         "${ MAIL_APP_NAME } mantiene seguro los datos de tu negocio y te permite enviar correos cifrados a cualquiera."
@@ -12472,7 +12479,7 @@
         "Carpetas, etiquetas y filtros personalizados"
       ],
       "Helping activists in Hong Kong": [
-        "Ayude a activistas en Hong Kong"
+        "Ayuda a activistas en Hong Kong"
       ],
       "How our customer support team got our VPN app directly into people's hands.": [
         "Cómo nuestro equipo de atención al cliente ha llevado nuestra aplicación VPN directamente a la mano de la gente."
@@ -12867,7 +12874,7 @@
         "Mensaje eliminado"
       ],
       "Message expiration canceled": [
-        "Expiración del mensaje cancelada."
+        "Se ha cancelado la expiración del mensaje."
       ],
       "Message marked as legitimate": [
         "Mensaje marcado como legítimo"
@@ -12959,7 +12966,7 @@
         "Se ha activado el asistente de escritura."
       ],
       "Writing assistant setting updated": [
-        "El ajuste del asistente de escritura ha sido actualizado."
+        "Se ha actualizado el ajuste del asistente de escritura."
       ],
       "You have successfully canceled your subscription.": [
         "La suscripción ha sido cancelada."
@@ -13972,7 +13979,7 @@
         "Escritorio"
       ],
       "Download the app": [
-        "Descarga la aplicación"
+        "Descargar la aplicación"
       ],
       "Get more from your VPN": [
         "Obtén más de tu VPN"
@@ -14234,7 +14241,7 @@
     },
     "wallet_signup_2024:app-switcher": {
       "A safer way to hold Bitcoin": [
-        "Una manera más segura de guardar Bitcoin"
+        "Una manera más segura de guardar tus bitcoins"
       ]
     },
     "wallet_signup_2024:Bug category": {

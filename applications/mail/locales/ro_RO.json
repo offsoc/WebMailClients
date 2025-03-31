@@ -5204,7 +5204,7 @@
     },
     "Filter option to only show message with attachments": {
       "Has attachments": [
-        "Are atașamente"
+        "Cu atașamente"
       ]
     },
     "Filter preview": {
@@ -6807,7 +6807,9 @@
         "Se inițializează…"
       ],
       "Insert image": [
-        "Inserare imagine"
+        "Inserare imagine",
+        "Inserare imagini",
+        "Inserare imagini"
       ],
       "Insert link": [
         "Inserare legătură web"
@@ -10790,6 +10792,12 @@
       ],
       "Your subscription renews soon": [
         "Abonamentul se va reînnoi în curând"
+      ],
+      "${ BRAND_NAME } Unlimited for 12 months": [
+        "${ BRAND_NAME } Unlimited pentru 12 luni"
+      ],
+      "${ planName } for 12 months": [
+        "${ planName } pentru 12 luni"
       ]
     },
     "Offer feature": {

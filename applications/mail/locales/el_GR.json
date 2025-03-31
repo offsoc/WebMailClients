@@ -6697,7 +6697,8 @@
         "Προετοιμασία…"
       ],
       "Insert image": [
-        "Εισαγωγή εικόνας"
+        "Εισαγωγή εικόνας",
+        "Εισαγωγή εικόνων"
       ],
       "Insert link": [
         "Εισαγωγή συνδέσμου"
@@ -10616,6 +10617,12 @@
       ],
       "Your subscription renews soon": [
         "Η συνδρομή σας ανανεωθεί σύντομα"
+      ],
+      "${ BRAND_NAME } Unlimited for 12 months": [
+        "${ BRAND_NAME } Unlimited για 12 μήνες"
+      ],
+      "${ planName } for 12 months": [
+        "${ planName } για 12 μήνες"
       ]
     },
     "Offer feature": {

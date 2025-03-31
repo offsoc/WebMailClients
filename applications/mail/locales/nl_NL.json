@@ -6700,7 +6700,8 @@
         "Initialiseren..."
       ],
       "Insert image": [
-        "Afbeelding invoegen"
+        "Afbeelding toevoegen",
+        "Afbeeldingen toevoegen"
       ],
       "Insert link": [
         "Link invoegen"
@@ -10619,6 +10620,12 @@
       ],
       "Your subscription renews soon": [
         "Uw abonnement verloopt binnenkort"
+      ],
+      "${ BRAND_NAME } Unlimited for 12 months": [
+        "${ BRAND_NAME } Onbeperkt voor 12 maanden"
+      ],
+      "${ planName } for 12 months": [
+        "${ planName } voor 12 maanden"
       ]
     },
     "Offer feature": {
@@ -13984,7 +13991,7 @@
         "Mobiel"
       ],
       "Private browsing vs VPN": [
-        "Privébrowsen vs VPN"
+        "Privé browsen versus VPN"
       ],
       "VPN explained": [
         "VPN uitgelegd"

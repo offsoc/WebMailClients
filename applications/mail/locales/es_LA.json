@@ -1295,7 +1295,7 @@
         "Cambiar a la aplicación Calendar"
       ],
       "Toggle Contacts app": [
-        "Alternar la aplicación de Contactos"
+        "Alternar la aplicación Contactos"
       ],
       "Toggle security center app": [
         "Activar aplicación del centro de seguridad"
@@ -6700,7 +6700,8 @@
         "Inicializando…"
       ],
       "Insert image": [
-        "Insertar imagen"
+        "Insertar imagen",
+        "Insertar imágenes"
       ],
       "Insert link": [
         "Insertar enlace"
@@ -8047,7 +8048,7 @@
         "Este código único puede ser usado por sitios web e ISP (proveedores de servicios de Internet) para vincular su ubicación y su historial de navegación a su dispositivo."
       ],
       "Tracking": [
-        "Seguimiento"
+        "Rastreadores"
       ],
       "VPN IP": [
         "IP de VPN"
@@ -10622,6 +10623,12 @@
       ],
       "Your subscription renews soon": [
         "Su suscripción se renueva pronto."
+      ],
+      "${ BRAND_NAME } Unlimited for 12 months": [
+        "${ BRAND_NAME } Unlimited por 12 meses"
+      ],
+      "${ planName } for 12 months": [
+        "${ planName } por 12 meses"
       ]
     },
     "Offer feature": {
@@ -14237,7 +14244,7 @@
     },
     "wallet_signup_2024:app-switcher": {
       "A safer way to hold Bitcoin": [
-        "Una manera más segura de guardar Bitcoin"
+        "Una manera más segura de guardar sus bitcoins"
       ]
     },
     "wallet_signup_2024:Bug category": {

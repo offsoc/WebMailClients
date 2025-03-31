@@ -1480,6 +1480,9 @@
       ],
       "Zoom out": [
         "დაპატარავება"
+      ],
+      "Toggle VPN dashboard": [
+        "VPN-ის მართვის პანელის გადართვა"
       ]
     },
     "action": {
@@ -6666,6 +6669,7 @@
         "ინიციალიზაცია…"
       ],
       "Insert image": [
+        "გამოსახულების ჩასმა",
         "გამოსახულების ჩასმა"
       ],
       "Insert link": [
@@ -7915,6 +7919,27 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "თქვენი გამოწერის ავტომატური განახლების თარიღი: ${ renewalTime }."
+      ],
+      "Ad targeting": [
+        "დამიზნებული რეკლამა"
+      ],
+      "Geoblocking": [
+        "გეოდაბლოკვა"
+      ],
+      "Not connected": [
+        "მიერთებული არაა"
+      ],
+      "Surveillance": [
+        "დაზვერვა"
+      ],
+      "Tracking": [
+        "ტრეკინგი"
+      ],
+      "VPN IP": [
+        "VPN IP"
+      ],
+      "Your IP": [
+        "თქვენი IP"
       ]
     },
     "info": {
@@ -8756,6 +8781,15 @@
       ],
       "Your password (admin)": [
         "თქვენი პაროლი (admin)"
+      ],
+      "Your IP": [
+        "თქვენი IP"
+      ],
+      "Your ISP": [
+        "თქვენი ISP"
+      ],
+      "Your location": [
+        "თქვენი მდებარეობა"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -13768,6 +13802,21 @@
       ],
       "Get more from your VPN": [
         "მიიღეთ მეტი თქვენი VPN-სგან"
+      ],
+      "Desktop": [
+        "სამუშაო მაგიდა"
+      ],
+      "Download the app": [
+        "აპის გადმოწერა"
+      ],
+      "Mobile": [
+        "მობილური"
+      ],
+      "VPN explained": [
+        "VPN-ის ახსნა"
+      ],
+      "What is a VPN?": [
+        "რა არის VPN?"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14394,6 +14443,17 @@
       ],
       "Passcode:": [
         "საკვანძო კოდი:"
+      ]
+    },
+    "Drawer tab, Action": {
+      "Download for Linux": [
+        "გადმოწერა Linux-სთვის"
+      ],
+      "Download for macOS": [
+        "გადმოწერა macOS-სთვის"
+      ],
+      "Download for Windows": [
+        "გადმოწერეთ Windows-სთვის"
       ]
     }
   }

@@ -6587,7 +6587,7 @@
         "初始化中..."
       ],
       "Insert image": [
-        "插入图片"
+        "插入图像"
       ],
       "Insert link": [
         "插入链接"
@@ -10442,6 +10442,12 @@
       ],
       "Your subscription renews soon": [
         "您的订阅即将续订"
+      ],
+      "${ BRAND_NAME } Unlimited for 12 months": [
+        "在 12 个月内无限制使用 ${ BRAND_NAME }"
+      ],
+      "${ planName } for 12 months": [
+        "12 个月的 ${ planName }"
       ]
     },
     "Offer feature": {

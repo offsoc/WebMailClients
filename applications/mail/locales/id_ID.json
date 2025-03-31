@@ -496,7 +496,7 @@
         "Enkripsi eksternal"
       ],
       "Fewer search options": [
-        "Lebih sedikit opsi pencarian"
+        "Tutup opsi tambahan"
       ],
       "Filter on...": [
         "Filter berdasarkan..."
@@ -802,7 +802,7 @@
         "Tindakan perbaikan lainnya"
       ],
       "More search options": [
-        "Opsi pencarian lainnya"
+        "Opsi lainnya"
       ],
       "Move": [
         "Pindahkan"
@@ -1078,7 +1078,7 @@
         "Gulir ke bawah"
       ],
       "Search": [
-        "Pencarian"
+        "Cari"
       ],
       "Search countries": [
         "Cari negara"
@@ -1475,6 +1475,12 @@
       ],
       "Help and resources": [
         "Bantuan dan sumber daya"
+      ],
+      "Explore ${ VPN_APP_NAME }": [
+        "Telusuri ${ VPN_APP_NAME }"
+      ],
+      "Toggle VPN dashboard": [
+        "Tampilkan dasbor VPN"
       ]
     },
     "action": {
@@ -4305,7 +4311,7 @@
         "Proses pembayaran tidak didukung"
       ],
       "Please activate your search again": [
-        "Silakan aktifkan kembali pencarian konten Anda"
+        "Silakan aktifkan pencarian Anda kembali"
       ],
       "Please fix the highlighted conflict to proceed.": [
         "Silakan selesaikan permasalahan yang disorot untuk melanjutkan."
@@ -4558,6 +4564,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Pencarian Anda membuahkan terlalu banyak hasil. Silakan persempit kriteria pencarian Anda dan coba lagi."
+      ],
+      "Unable to load VPN dashboard. Please check your connection and try again.": [
+        "Dasbor VPN tidak dapat dimuat. Silakan periksa koneksi Anda dan coba lagi."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -7829,10 +7838,10 @@
         "**Kill switch**: Menghentikan kebocoran data dengan memblokir internet Anda apabila koneski VPN terputus secara tiba-tiba."
       ],
       "A secure connection is essential when working remotely. A VPN protects company data from cyber threats and keeps your work private.": [
-        "Koneksi yang aman sangat penting pada saat bekerja secara remote. Aplikasi VPN melindungi data perusahaan Anda dari ancaman siber dan menjaga pekerjaan Anda tetap privat."
+        "Koneksi yang aman sangat penting pada saat bekerja secara remote. VPN melindungi data perusahaan Anda dari ancaman siber dan menjaga pekerjaan Anda tetap privat."
       ],
       "A VPN is a secure tunnel between your device and the internet. It hides your location and activity from your internet service provider (ISP) and the websites you visit.": [
-        "VPN merupakan terowongan yang aman antara perangkat Anda dan jaringan internet. Aplikasi VPN menyembunyikan lokasi dan aktivitas Anda dari penyedia layanan internet (ISP) dan situs web yang Anda kunjungi."
+        "VPN merupakan terowongan yang aman antara perangkat Anda dan jaringan internet. VPN menyembunyikan lokasi dan aktivitas Anda dari penyedia layanan internet (ISP) dan situs web yang Anda kunjungi."
       ],
       "Connect to ${ VPN_APP_NAME } to browse privately": [
         "Hubungkan ke ${ VPN_APP_NAME } untuk berselancar secara privat"
@@ -7844,10 +7853,10 @@
         "Di negara dengan pembatasan yang ketat"
       ],
       "It’s best to use a VPN at all times. But here’s when cybersecurity threats can be the highest:": [
-        "Tidak ada waktu yang tidak tepat untuk menggunakan VPN. Meskipun demikian, terdapat beberapa lokasi dan situasi di mana tindak kejahatan siber dapat sangat mengancam:"
+        "Tidak ada waktu yang tidak tepat untuk menggunakan VPN. Meskipun demikian, terdapat beberapa lokasi dan situasi di mana ancaman kejahatan siber dapat sangat membahayakan:"
       ],
       "Most public WiFi networks are safe, but some lack security, exposing you to cyber threats. A VPN encrypts your traffic, keeping you protected.": [
-        "Sebagian besar jaringan WiFi publik dapat diakses secara aman, namun jaringan tertentu yang kurang aman dapat memaparkan diri Anda ke berbagai ancaman siber. Aplikasi VPN melindungi lalu lintas jaringan Anda, yang membuat diri Anda tetap terlindung atas ancaman ini."
+        "Sebagian besar jaringan WiFi publik dapat diakses secara aman, namun jaringan tertentu yang kurang aman dapat memaparkan diri Anda ke berbagai ancaman siber. VPN melindungi lalu lintas jaringan Anda, yang membuat diri Anda tetap terlindung atas ancaman ini."
       ],
       "Not connected": [
         "Tidak terhubung"
@@ -7859,7 +7868,7 @@
         "Pindai kode QR dengan perangkat seluler Anda"
       ],
       "Some governments block or restrict access to certain websites. A VPN helps bypass censorship while keeping your activity and identity private.": [
-        "Beberapa pemerintahan dapat memblokir atau membatasi akses ke situs web tertentu. Aplikasi VPN dapat membantu Anda untuk menangkal sensor selagi menjaga aktivitas dan identitas Anda tetap privat."
+        "Pemerintahan tertentu dapat memblokir atau membatasi akses ke situs web yang spesifik. VPN dapat membantu Anda untuk menangkal sensor selagi menjaga aktivitas dan identitas Anda tetap privat."
       ],
       "Stay connected effortlessly by enabling the following VPN settings:": [
         "Buat diri Anda selalu terhubung tanpa harus repot dengan mengaktifkan pengaturan VPN berikut:"
@@ -7877,7 +7886,55 @@
         "IP Anda"
       ],
       "Your physical location is visible and can be used to restrict your access to the internet.": [
-        "Lokasi fisik Anda sedang dapat terlihat dan digunakan untuk membatasi akses internet Anda."
+        "Lokasi fisik Anda sedang terlihat dan dapat digunakan untuk membatasi akses internet Anda."
+      ],
+      "A VPN encrypts your connection and hides your IP address, making it much harder for anyone to track or monitor your browsing.": [
+        "VPN mengenkripsi koneksi Anda dan menyembunyikan alamat IP Anda, yang mempersulit siapa pun untuk melacak atau memantau aktivitas penjelajahan Anda."
+      ],
+      "A VPN hides your IP address and encrypts your browsing activity, making it harder for websites, advertisers, and ISPs to track you over time.": [
+        "VPN menyembunyikan alamat IP Anda dan mengenkripsi aktivitas penjelajahan Anda, yang mempersulit situs web, pengiklan, dan ISP untuk dapat melacak Anda seiring waktu."
+      ],
+      "Ad targeting": [
+        "Penargetan iklan"
+      ],
+      "Advertisers track your browsing to show targeted ads. ${ VPN_APP_NAME } blocks trackers and ads, making your connection faster and improving your online experience.": [
+        "Para pengiklan dapat melacak penjelajahan Anda untuk menampilkan iklan yang ditargetkan. ${ VPN_APP_NAME } memblokir program pelacak dan iklan, yang mempercepat koneksi Anda dan meningkatkan pengalaman online Anda."
+      ],
+      "Browse privately and access blocked content.": [
+        "Jelajahi internet secara pribadi dan akses konten yang diblokir."
+      ],
+      "Governments and ISPs can monitor your online activity. By hiding your real IP and encrypting your activity your browsing becomes private.": [
+        "Pemerintah dan ISP dapat memantau aktivitas online Anda. Dengan menyembunyikan alamat IP asli dan mengenkripsi aktivitas Anda, penjelajahan internet Anda akan menjadi privat."
+      ],
+      "Included for free with your plan": [
+        "Terliput secara gratis dengan paket Anda"
+      ],
+      "Private browsing (or “incognito” mode) is only useful for keeping your activity hidden on your device. It stops your browser from saving history and cookies, but it doesn’t make you invisible. Your ISP, network administrator, and the websites you visit can still see what you do online.": [
+        "Penjelajahan pribadi (atau mode \"incognito\") hanya berguna untuk menyembunyikan aktivitas Anda pada perangkat yang Anda gunakan. Walaupun mode ini menghentikan browser Anda untuk menyimpan riwayat penjelajahan dan cookie, mode ini tidak serta-merta membuat Anda kasat mata. Pihak ISP, pengelola jaringan, dan situs web yang Anda kunjungi masih akan dapat melihat apa yang Anda lakukan secara online."
+      ],
+      "Some websites and streaming services block content by region. A VPN lets you bypass these restrictions and access the internet freely.": [
+        "Situs web dan layanan streaming tertentu dapat memblokir konten berdasarkan wilayah. VPN memungkinkan Anda untuk melewati pembatasan ini dan mengakses internet secara bebas."
+      ],
+      "Surveillance": [
+        "Pemantauan"
+      ],
+      "This means that your ISP and the websites you visit can’t connect your personal information with your online activity.": [
+        "Hal ini berarti bahwa ISP Anda dan situs web yang Anda kunjungi tidak akan dapat mengaitkan informasi pribadi Anda dengan aktivitas online Anda."
+      ],
+      "Tracking": [
+        "Pelacakan"
+      ],
+      "When you connect to VPN, it uses encryption technology to hide your IP address (a unique code assigned to your device).": [
+        "Pada saat Anda terhubung ke VPN, aplikasi VPN akan menggunakan teknologi enkripsi untuk menyembunyikan alamat IP (yang merupakan kode unik perangkat) milik Anda."
+      ],
+      "Your internet service provider can monitor and sometimes sell your data, or even restrict what websites you can access.": [
+        "Penyedia layanan internet Anda dapat memantau dan terkadang menjual data Anda, atau bahkan membatasi situs web mana saja yang dapat Anda akses."
+      ],
+      "Your IP address is visible and can be used to track your online activity.": [
+        "Alamat IP Anda sedang terlihat dan dapat digunakan untuk melacak aktivitas online Anda."
+      ],
+      "Your online activity is protected": [
+        "Aktivitas online Anda terlindung"
       ]
     },
     "info": {
@@ -8713,6 +8770,15 @@
       ],
       "Your password (admin)": [
         "Kata sandi Anda (admin)"
+      ],
+      "Your IP": [
+        "IP Anda"
+      ],
+      "Your ISP": [
+        "ISP Anda"
+      ],
+      "Your location": [
+        "Lokasi Anda"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -8722,7 +8788,7 @@
     },
     "Label (end date/advanced search)": {
       "To": [
-        "Kepada"
+        "Hingga"
       ]
     },
     "Label attach to date input to select a date": {
@@ -9714,7 +9780,7 @@
         "Jadwalkan pesan sesuai keinginan Anda"
       ],
       "Search message content": [
-        "Cari konten pesan"
+        "Pencarian konten pesan"
       ],
       "Secure Core servers": [
         "Server Secure Core"
@@ -10376,6 +10442,12 @@
       ],
       "Your subscription renews soon": [
         "Langganan Anda akan segera diperbarui"
+      ],
+      "${ BRAND_NAME } Unlimited for 12 months": [
+        "${ BRAND_NAME } Unlimited untuk 12 bulan"
+      ],
+      "${ planName } for 12 months": [
+        "${ planName } untuk 12 bulan"
       ]
     },
     "Offer feature": {
@@ -13644,7 +13716,28 @@
         "Apa itu VPN?"
       ],
       "When is it most important to use a VPN?": [
-        "Kapan waktu yang paling penting untuk menggunakan VPN?"
+        "Kapan waktu yang paling tepat untuk menggunakan VPN?"
+      ],
+      "Desktop": [
+        "Desktop"
+      ],
+      "Download the app": [
+        "Unduh aplikasinya"
+      ],
+      "How does it all work?": [
+        "Bagaimana cara semua ini bekerja?"
+      ],
+      "Increase security with ${ VPN_APP_NAME }": [
+        "Tingkatkan keamanan dengan ${ VPN_APP_NAME }"
+      ],
+      "Mobile": [
+        "Seluler"
+      ],
+      "Private browsing vs VPN": [
+        "Penjelajahan pribadi vs. VPN"
+      ],
+      "What can a VPN protect you from?": [
+        "Dari hal apa saja VPN dapat melindungi Anda?"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14224,6 +14317,17 @@
       ],
       "Passcode:": [
         "Kode sandi:"
+      ]
+    },
+    "Drawer tab, Action": {
+      "Download for Linux": [
+        "Unduh untuk Linux"
+      ],
+      "Download for macOS": [
+        "Unduh untuk macOS"
+      ],
+      "Download for Windows": [
+        "Unduh untuk Windows"
       ]
     }
   }

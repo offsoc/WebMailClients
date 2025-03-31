@@ -1396,7 +1396,7 @@
         "Použít ${ PASS_APP_NAME }"
       ],
       "Use a different card": [
-        "Použijte jinou kartu"
+        "Použít jinou kartu"
       ],
       "Use a different payment method": [
         "Použít jinou platební metodu"
@@ -1492,7 +1492,7 @@
         "Oddálit"
       ],
       "Explore ${ VPN_APP_NAME }": [
-        "Objevit ${ VPN_APP_NAME }"
+        "Prozkoumat ${ VPN_APP_NAME }"
       ],
       "Toggle VPN dashboard": [
         "Přepnout ovládací panel VPN"
@@ -6899,7 +6899,7 @@
         "Import vašich dat z ${ fromEmail } do ${ toEmail }."
       ],
       "In the next step, you’ll be able to submit a deposit using a Bitcoin address.": [
-        "V dalším kroku budete moci odeslat vklad pomocí adresy Bitcoin."
+        "V dalším kroku budete moci odeslat vklad pomocí bitcoinové adresy."
       ],
       "Include Spam/Trash.": [
         "Zahrnout spam/koš."
@@ -6917,7 +6917,10 @@
         "Inicializuji..."
       ],
       "Insert image": [
-        "Vložit obrázek"
+        "Vložit obrázek",
+        "Vložit obrázky",
+        "Vložit obrázky",
+        "Vložit obrázky"
       ],
       "Insert link": [
         "Vložit odkaz"
@@ -8246,7 +8249,7 @@
         "VPN šifruje vaše připojení a skrývá vaši IP adresu, takže je mnohem těžší sledovat nebo zaznamenávat vaše prohlížení."
       ],
       "A VPN hides your IP address and encrypts your browsing activity, making it harder for websites, advertisers, and ISPs to track you over time.": [
-        "VPN skrývá vaši IP adresu a šifruje vaši aktivitu při procházení, takže webové stránky, inzerenti a poskytovatelé internetových služeb vás nemohou dlouhodobě sledovat."
+        "VPN skrývá vaši IP adresu a šifruje vaši aktivitu při procházení, což ztěžuje dlouhodobé sledování vaší aktivity webovými stránkami, inzerenty a poskytovateli internetových služeb."
       ],
       "A VPN is a secure tunnel between your device and the internet. It hides your location and activity from your internet service provider (ISP) and the websites you visit.": [
         "VPN je zabezpečený tunel mezi vaším zařízením a internetem. Skrývá vaši polohu a aktivitu před poskytovatelem internetových služeb (ISP) a navštívenými webovými stránkami."
@@ -8276,7 +8279,7 @@
         "Bezplatně v rámci vašeho tarifu"
       ],
       "It’s best to use a VPN at all times. But here’s when cybersecurity threats can be the highest:": [
-        "Nejlepší je vždy používat VPN. Ale právě zde mohou být hrozby kybernetické bezpečnosti nejvyšší:"
+        "Nejlepší je vždy používat VPN. Nejvyšší kybernetické riziko je:"
       ],
       "Most public WiFi networks are safe, but some lack security, exposing you to cyber threats. A VPN encrypts your traffic, keeping you protected.": [
         "Většina veřejných sítí Wi-Fi je bezpečná, ale některé nejsou dostatečně zabezpečené a vystavují vás kybernetickým hrozbám. VPN šifruje váš provoz a chrání vás."
@@ -8300,7 +8303,7 @@
         "Některé webové stránky a streamovací služby blokují obsah podle regionu. VPN umožňuje tato omezení obejít a volně přistupovat k internetu."
       ],
       "Stay connected effortlessly by enabling the following VPN settings:": [
-        "Zůstaňte bez problémů připojeni, pokud povolíte následující nastavení VPN:"
+        "Zůstaňte snadno připojeni povolením následujících nastavení VPN:"
       ],
       "Surveillance": [
         "Sledování"
@@ -10964,6 +10967,12 @@
       ],
       "Your subscription renews soon": [
         "Vaše předplatné se brzy obnoví"
+      ],
+      "${ BRAND_NAME } Unlimited for 12 months": [
+        "${ BRAND_NAME } Unlimited na 12 měsíců"
+      ],
+      "${ planName } for 12 months": [
+        "${ planName } na 12 měsíců"
       ]
     },
     "Offer feature": {
@@ -14487,7 +14496,7 @@
         "Desktop"
       ],
       "Download the app": [
-        "Stáhnout aplikaci"
+        "Stáhněte si aplikaci"
       ],
       "Get more from your VPN": [
         "Získejte více ze své VPN"
@@ -14496,7 +14505,7 @@
         "Jak to všechno funguje?"
       ],
       "Increase security with ${ VPN_APP_NAME }": [
-        "Zvýšte zabezpečení s ${ VPN_APP_NAME }"
+        "Zvyšte zabezpečení s ${ VPN_APP_NAME }"
       ],
       "Make a secure connection your default": [
         "Nastavte zabezpečené připojení jako výchozí"

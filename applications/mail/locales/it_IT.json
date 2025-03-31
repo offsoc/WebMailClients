@@ -6697,7 +6697,8 @@
         "Inizializzazione…"
       ],
       "Insert image": [
-        "Inserisci immagine"
+        "Inserisci immagine",
+        "Inserisci immagini"
       ],
       "Insert link": [
         "Inserisci link"
@@ -8066,6 +8067,9 @@
       ],
       "Your physical location is visible and can be used to restrict your access to the internet.": [
         "La tua posizione fisica è visibile e può essere utilizzata per limitare il tuo accesso a Internet."
+      ],
+      "Included for free with your plan": [
+        "Incluso gratuitamente nel tuo piano"
       ]
     },
     "info": {
@@ -10621,6 +10625,12 @@
       ],
       "Your subscription renews soon": [
         "Il tuo abbonamento si rinnoverà presto"
+      ],
+      "${ BRAND_NAME } Unlimited for 12 months": [
+        "${ BRAND_NAME } Unlimited per 12 mesi"
+      ],
+      "${ planName } for 12 months": [
+        "${ planName } per 12 mesi"
       ]
     },
     "Offer feature": {

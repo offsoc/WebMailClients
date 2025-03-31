@@ -7324,6 +7324,7 @@
         "Ha úgy gondolja, hogy hibát követtünk el, kérjük, ${ contactLink }."
       ],
       "Insert image": [
+        "Kép beillesztése",
         "Kép beillesztése"
       ],
       "Join ${ PROTON_SENTINEL_NAME } program for our highest level of account security and support.": [
@@ -7376,6 +7377,9 @@
       ],
       "Your private writing assistant": [
         "Az Ön privát írói asszisztense"
+      ],
+      "Included for free with your plan": [
+        "Az ingyenes csomag is tartalmazza"
       ]
     },
     "info": {

@@ -6697,7 +6697,8 @@
         "Wird initialisiert…"
       ],
       "Insert image": [
-        "Bild einfügen"
+        "Bild einfügen",
+        "Bilder einfügen"
       ],
       "Insert link": [
         "Link einfügen"
@@ -10616,6 +10617,12 @@
       ],
       "Your subscription renews soon": [
         "Dein Abonnement verlängert sich bald"
+      ],
+      "${ BRAND_NAME } Unlimited for 12 months": [
+        "${ BRAND_NAME } unbegrenzt für 12 Monate"
+      ],
+      "${ planName } for 12 months": [
+        "${ planName } für 12 Monate"
       ]
     },
     "Offer feature": {

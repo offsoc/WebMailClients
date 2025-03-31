@@ -6697,7 +6697,8 @@
         "Initialisation…"
       ],
       "Insert image": [
-        "Insérer une image"
+        "Insérer une image",
+        "Insérer des images"
       ],
       "Insert link": [
         "Insérer un lien"
@@ -8041,7 +8042,7 @@
         "Ce code unique peut être utilisé par les sites web et les FAI (Fournisseurs d'accès internet) pour lier votre emplacement et votre historique de navigation à votre appareil."
       ],
       "Tracking": [
-        "Traceur"
+        "Traqueurs"
       ],
       "VPN IP": [
         "Adresse IP du VPN"
@@ -8066,6 +8067,9 @@
       ],
       "Your physical location is visible and can be used to restrict your access to the internet.": [
         "Votre emplacement physique est visible et peut être utilisé pour restreindre votre accès à internet."
+      ],
+      "Included for free with your plan": [
+        "Inclus gratuitement dans votre abonnement"
       ]
     },
     "info": {
@@ -10616,6 +10620,12 @@
       ],
       "Your subscription renews soon": [
         "Votre abonnement se renouvelle bientôt."
+      ],
+      "${ BRAND_NAME } Unlimited for 12 months": [
+        "${ BRAND_NAME } Unlimited pour 12 mois"
+      ],
+      "${ planName } for 12 months": [
+        "${ planName } pour 12 mois"
       ]
     },
     "Offer feature": {
@@ -13987,7 +13997,7 @@
         "Mobile"
       ],
       "Private browsing vs VPN": [
-        "Navigation privée et VPN"
+        "Navigation privée versus VPN"
       ],
       "VPN explained": [
         "Explications sur le VPN"

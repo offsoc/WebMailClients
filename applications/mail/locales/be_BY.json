@@ -4659,7 +4659,7 @@
         "Ваш пошук вярнуў занадта шмат вынікаў. Абмяжуйце вобласць пошуку і паспрабуйце яшчэ раз."
       ],
       "Unable to load VPN dashboard. Please check your connection and try again.": [
-        "Немагчыма загрузіць панэль кіравання VPN. Калі ласка, праверце падключэнне і паўтарыце спробу."
+        "Немагчыма загрузіць панэль кіравання VPN. Праверце падключэнне і паўтарыце спробу."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -6917,7 +6917,10 @@
         "Ініцыялізацыя…"
       ],
       "Insert image": [
-        "Уставіць відарыс"
+        "Уставіць відарыс",
+        "Уставіць відарысы",
+        "Уставіць відарысы",
+        "Уставіць відарысы"
       ],
       "Insert link": [
         "Уставіць спасылку"
@@ -8255,7 +8258,7 @@
         "Мэтавая рэклама"
       ],
       "Advertisers track your browsing to show targeted ads. ${ VPN_APP_NAME } blocks trackers and ads, making your connection faster and improving your online experience.": [
-        "Рэкламадаўцы адсочваюць, якія вэб-старонкі вы наведваеце, каб паказваць мэтавую рэкламу. ${ VPN_APP_NAME } блакіруе праграмы адсочвання і рэкламу, робіць ваша падключэнне хутчэйшым і паляпшае працу ў інтэрнэце."
+        "Рэкламадаўцы адсочваюць, якія вэб-старонкі вы наведваеце для паказу мэтавай рэкламы. ${ VPN_APP_NAME } блакіруе праграмы адсочвання і рэкламу, робіць ваша падключэнне хутчэйшым і паляпшае працу ў інтэрнэце."
       ],
       "Browse privately and access blocked content.": [
         "Прыватны агляд і доступ да заблакіраванага змесціва."
@@ -8276,7 +8279,7 @@
         "Уваходзіць бясплатна ў ваш тарыфны план"
       ],
       "It’s best to use a VPN at all times. But here’s when cybersecurity threats can be the highest:": [
-        "Лепш за ўсё выкарыстоўваць VPN заўсёды. Але вось калі пагрозы кібербяспецы могуць быць найбольшымі:"
+        "Лепш за ўсё выкарыстоўваць VPN пастаянна. Але ў гэтых выпадках, пагрозы кібербяспекі могуць быць самымі высокімі:"
       ],
       "Most public WiFi networks are safe, but some lack security, exposing you to cyber threats. A VPN encrypts your traffic, keeping you protected.": [
         "Большасць агульнадаступных сетак Wi-Fi бяспечныя, але ў некаторых адсутнічаюць функцыі бяспекі і гэта падвяргае вас кіберпагрозам. VPN шыфруе трафік і абараняе ваша падключэнне."
@@ -8306,7 +8309,7 @@
         "Назіранне"
       ],
       "This means that your ISP and the websites you visit can’t connect your personal information with your online activity.": [
-        "Гэта азначае, што ваш пастаўшчык паслуг інтэрнэту і вэб-сайты не змогуць атрымліваць вашы асабістыя звесткі з вашай актыўнасці ў інтэрнэце."
+        "Гэта азначае, што ваш пастаўшчык паслуг інтэрнэту і вэб-сайты не змогуць атрымліваць асабістыя звесткі з вашай актыўнасці ў інтэрнэце."
       ],
       "This unique code can be used by websites and ISPs (internet service providers) to link your location and browsing history to your device": [
         "Гэты ўнікальны код можа быць выкарыстаны вэб-сайтамі і пастаўшчыком паслуг інтэрнэту (ISP), каб звязаць ваша месцазнаходжанне і гісторыю прагляду старонак на вашай прыладзе."
@@ -10964,6 +10967,12 @@
       ],
       "Your subscription renews soon": [
         "Ваша падпіска неўзабаве падоўжыцца"
+      ],
+      "${ BRAND_NAME } Unlimited for 12 months": [
+        "${ BRAND_NAME } Unlimited за 12 месяцаў"
+      ],
+      "${ planName } for 12 months": [
+        "${ planName } за 12 месяцаў"
       ]
     },
     "Offer feature": {
@@ -11139,7 +11148,7 @@
         "Персаналізуйце выгляд"
       ],
       "Pick a theme": [
-        "Выберыце тэму"
+        "Выбраць тэму"
       ],
       "Set up your organization": [
         "Наладзьце сваю арганізацыю"
@@ -14499,7 +14508,7 @@
         "Павялічце бяспеку з ${ VPN_APP_NAME }"
       ],
       "Make a secure connection your default": [
-        "Зрабіце бяспечнае падключэнне прадвызначаным"
+        "Зрабіце бяспечнае падключэнне сваім прадвызначаным"
       ],
       "Mobile": [
         "Для смартфона"
@@ -14950,10 +14959,10 @@
         "Кожныя ${ interval } тыдні ў панядзелак"
       ],
       "Every ${ interval } week on Monday, ${ timesString }": [
-        "Кожны ${ interval } тыдзень у панядзелак у ${ timesString }",
-        "Кожныя ${ interval } тыдні ў панядзелак у ${ timesString }",
-        "Кожных ${ interval } тыдняў у панядзелак у ${ timesString }",
-        "Кожныя ${ interval } тыдні ў панядзелак у ${ timesString }"
+        "Кожны ${ interval } тыдзень у панядзелак; час: ${ timesString }",
+        "Кожныя ${ interval } тыдні ў панядзелак; час: ${ timesString }",
+        "Кожных ${ interval } тыдняў у панядзелак; час: ${ timesString }",
+        "Кожныя ${ interval } тыдні ў панядзелак; час: ${ timesString }"
       ],
       "Every ${ interval } week on Saturday": [
         "Кожны ${ interval } тыдзень у суботу",
@@ -14986,10 +14995,10 @@
         "Кожныя ${ interval } тыдні ў аўторак"
       ],
       "Every ${ interval } week on Tuesday, ${ timesString }": [
-        "Кожны ${ interval } тыдзень у аўторак у ${ timesString }",
-        "Кожныя ${ interval } тыдні ў аўторак у ${ timesString }",
-        "Кожных ${ interval } тыдняў у аўторак у ${ timesString }",
-        "Кожныя ${ interval } тыдні ў аўторак у ${ timesString }"
+        "Кожны ${ interval } тыдзень у аўторак; час: ${ timesString }",
+        "Кожныя ${ interval } тыдні ў аўторак; час: ${ timesString }",
+        "Кожных ${ interval } тыдняў у аўторак; час: ${ timesString }",
+        "Кожныя ${ interval } тыдні ў аўторак; час: ${ timesString }"
       ],
       "Every ${ interval } week on Wednesday": [
         "Кожны ${ interval } тыдзень у сераду",
