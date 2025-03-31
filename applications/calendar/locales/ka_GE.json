@@ -5524,6 +5524,27 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "თქვენი გამოწერის ავტომატური განახლების თარიღი: ${ renewalTime }."
+      ],
+      "Ad targeting": [
+        "დამიზნებული რეკლამა"
+      ],
+      "Geoblocking": [
+        "გეოდაბლოკვა"
+      ],
+      "Not connected": [
+        "მიერთებული არაა"
+      ],
+      "Surveillance": [
+        "დაზვერვა"
+      ],
+      "Tracking": [
+        "ტრეკინგი"
+      ],
+      "VPN IP": [
+        "VPN IP"
+      ],
+      "Your IP": [
+        "თქვენი IP"
       ]
     },
     "info": {
@@ -6128,6 +6149,15 @@
       ],
       "Your password (admin)": [
         "თქვენი პაროლი (admin)"
+      ],
+      "Your IP": [
+        "თქვენი IP"
+      ],
+      "Your ISP": [
+        "თქვენი ISP"
+      ],
+      "Your location": [
+        "თქვენი მდებარეობა"
       ]
     },
     "Label for contact group color": {
@@ -10324,6 +10354,24 @@
       ],
       "Your shorter address is now ready": [
         "თქვენი მოკლე მისამართი ახლა მზადაა"
+      ],
+      "Desktop": [
+        "სამუშაო მაგიდა"
+      ],
+      "Download the app": [
+        "აპის გადმოწერა"
+      ],
+      "Get more from your VPN": [
+        "მიიღეთ მეტი თქვენი VPN-სგან"
+      ],
+      "Mobile": [
+        "მობილური"
+      ],
+      "VPN explained": [
+        "VPN-ის ახსნა"
+      ],
+      "What is a VPN?": [
+        "რა არის VPN?"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10936,6 +10984,17 @@
       ],
       "Passcode:": [
         "საკვანძო კოდი:"
+      ]
+    },
+    "Drawer tab, Action": {
+      "Download for Linux": [
+        "გადმოწერა Linux-სთვის"
+      ],
+      "Download for macOS": [
+        "გადმოწერა macOS-სთვის"
+      ],
+      "Download for Windows": [
+        "გადმოწერეთ Windows-სთვის"
       ]
     }
   }

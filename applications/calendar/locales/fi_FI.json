@@ -10262,6 +10262,9 @@
       ],
       "Every week on ${ weekdaysLong[currentDay] }": [
         "Joka viikko ${ weekdaysLong[currentDay] }"
+      ],
+      "Get more from your VPN": [
+        "Saa enemmän VPN-yhteydestäsi"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
