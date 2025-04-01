@@ -46,6 +46,7 @@ import { useGetAttachment } from '../../../hooks/attachments/useAttachment';
 import { useGetMessageKeys } from '../../../hooks/message/useGetMessageKeys';
 import type { Element } from '../../../models/element';
 import { updateAttachment } from '../../../store/attachments/attachmentsActions';
+import type { DecryptedAttachment } from '../../../store/attachments/attachmentsTypes';
 import { expireMessages } from '../../../store/messages/expire/messagesExpireActions';
 import type {
     MessageState,
@@ -64,7 +65,6 @@ import MessagePrintModal from '../modals/MessagePrintModal';
 import type { DropdownRender } from './HeaderDropdown';
 import HeaderDropdown from './HeaderDropdown';
 import { MESSAGE_FILTER_DROPDOWN_ID, MESSAGE_FOLDER_DROPDOWN_ID, MESSAGE_LABEL_DROPDOWN_ID } from './constants';
-import type { DecryptedAttachment } from '../../../store/attachments/attachmentsTypes';
 
 const { INBOX, TRASH, SPAM, ARCHIVE } = MAILBOX_LABEL_IDS;
 
@@ -146,6 +146,8 @@ const HeaderMoreDropdown = ({
         });
     };
 
+    // TODO it is possible that this action triggers a move back in some cases.
+    // If that's the case we should handle it in the useMoveToParent hook.
     const handleUnread = async () => {
         closeDropdown.current?.();
         onToggle();
