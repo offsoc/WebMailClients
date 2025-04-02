@@ -1,4 +1,4 @@
-import { act } from '@testing-library/react';
+import { act, waitFor } from '@testing-library/react';
 
 import { EVENT_ACTIONS } from '@proton/shared/lib/constants';
 
