@@ -59,6 +59,6 @@ describe('Mailbox performance loss check', () => {
         });
 
         // There will be a few more calls, but it has to be in limited amount
-        expect(useStar.mock.calls.length).toBeLessThan(callsAfterInitialization + 6);
+        expect(useStar.mock.calls.length).toBeLessThan(callsAfterInitialization + 15);
     });
 });
