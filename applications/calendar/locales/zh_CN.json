@@ -2582,7 +2582,7 @@
         "每 ${ interval } 天"
       ],
       "until ${ dateString }": [
-        "直到${ dateString }"
+        "直到 ${ dateString }"
       ]
     },
     "Daily recurring event, frequency (times)": {
@@ -2595,7 +2595,7 @@
     },
     "Daily recurring event, frequency (until)": {
       "Daily, ${ untilString }": [
-        "每天，直到 ${ untilString }"
+        "每天，直到${ untilString }"
       ],
       "Every ${ interval } day, ${ untilString }": [
         "每 ${ interval } 天，${ untilString }"
@@ -3916,7 +3916,7 @@
     },
     "file size format, long": {
       "Byte": [
-        "字节"
+        "B"
       ],
       "Gigabyte": [
         "GB"
@@ -3963,7 +3963,7 @@
     },
     "Google Meet": {
       "Join Google Meet": [
-        "加入Google会议"
+        "加入 Google Meet"
       ],
       "Joining instructions": [
         "加入说明"
@@ -4017,7 +4017,7 @@
     },
     "Hint": {
       "Found ${ itemsCount } suggestion, use keyboard to navigate.": [
-        "已找到${ itemsCount }建议，请使用键盘导航。"
+        "已找到 ${ itemsCount } 个建议，您可使用键盘进行导航浏览。"
       ],
       "Use Up and Down keys to access and browse suggestions after input. Press Enter to confirm your choice, or Escape to close the suggestions box.": [
         "使用向上和向下键进入并浏览输入后的建议。按 Enter 键确认您的选择，或按 Escape 键关闭建议框。"
@@ -7982,7 +7982,7 @@
     },
     "pass_signup_2024: Info": {
       "${ n } user account": [
-        "${ n }个用户账户"
+        "${ n } 个用户账户"
       ],
       "Activity log": [
         "活动日志"
@@ -8594,7 +8594,7 @@
     },
     "session_recovery:in_progress:info": {
       "${ gracePeriodHoursRemaining } more hour": [
-        "还有${ gracePeriodHoursRemaining } 小时"
+        "剩余 ${ gracePeriodHoursRemaining } 小时"
       ],
       "If you didn’t ask to reset your password, cancel this request now.": [
         "如果您没有要求重置密码，请立刻取消此请求。"
@@ -9136,7 +9136,7 @@
         "以及 15 项高级功能"
       ],
       "Automatic email forwarding ${ strongText }": [
-        "自动转发 ${ strongText } 电子邮件"
+        "自动邮件转发 ${ strongText }"
       ],
       "Data breach alerts ${ strongArgument }": [
         "数据泄露监控${ strongArgument }"
@@ -9151,7 +9151,7 @@
         "无广告，无追踪"
       ],
       "Short @pm.me email address": [
-        "短电子邮箱地址 @pm.me"
+        "简短的 @pm.me 邮箱地址"
       ],
       "Support our mission": [
         "支持我们的使命"
@@ -9321,7 +9321,7 @@
         "使用我们的网页端、iOS、Android、Windows、Mac 和 Linux 应用程序，让您的团队随时随地保持安全。"
       ],
       "Learn more": [
-        "了解更多信息"
+        "了解详情"
       ],
       "Learn more about our impact": [
         "进一步了解我们的影响"

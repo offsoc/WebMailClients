@@ -6640,11 +6640,11 @@
     },
     "Monthly recurring event, frequency (until)": {
       "Every ${ interval } month ${ onDayString }, ${ untilString }": [
-        "Chaque ${ interval } mois, le ${ onDayString }, ${ untilString }",
-        "Tous les ${ interval } mois, le ${ onDayString }, ${ untilString }"
+        "Chaque ${ interval } mois, ${ onDayString }, ${ untilString }",
+        "Tous les ${ interval } mois, ${ onDayString }, ${ untilString }"
       ],
       "Monthly ${ onDayString }, ${ untilString }": [
-        "Chaque mois, le ${ onDayString }, ${ untilString }"
+        "Chaque mois, ${ onDayString }, ${ untilString }"
       ]
     },
     "Monthly recurring event, repeats on": {
