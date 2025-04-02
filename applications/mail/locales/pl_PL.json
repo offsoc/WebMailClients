@@ -148,7 +148,7 @@
         "Uwierzytelnij"
       ],
       "Auto-delete spam and trash": [
-        "Automatyczne usuwanie Spamu i Kosza"
+        "Automatyczne usuwanie spamu i kosza"
       ],
       "Back": [
         "Wstecz"
@@ -820,7 +820,7 @@
         "Przenieś wszystko do Archiwum"
       ],
       "Move all to trash": [
-        "Przenieś wszystko do Kosza"
+        "Przenieś wszystko do kosza"
       ],
       "move emails to": [
         "przenieś wiadomości do"
@@ -838,13 +838,13 @@
         "Przenieś do Odebranych (to nie jest spam)"
       ],
       "Move to spam": [
-        "Przenieś do Spamu"
+        "Przenieś do spamu"
       ],
       "Move to spam and unsubscribe": [
-        "Przenieś do Spamu i anuluj subskrypcję"
+        "Przenieś do spamu i anuluj subskrypcję"
       ],
       "Move to trash": [
-        "Przenieś do Kosza"
+        "Przenieś do kosza"
       ],
       "Move to...": [
         "Przenieś do..."
@@ -1490,6 +1490,12 @@
       ],
       "hide-my-email aliases": [
         "aliasów hide-my-email"
+      ],
+      "Explore ${ VPN_APP_NAME }": [
+        "Poznaj plan ${ VPN_APP_NAME }"
+      ],
+      "Toggle VPN dashboard": [
+        "Przełącz pulpit VPN"
       ]
     },
     "action": {
@@ -1852,6 +1858,9 @@
       ],
       "Storage space is shared across all ${ BRAND_NAME } services.": [
         "Przestrzeń dyskowa jest dzielona pomiędzy wszystkimi usługami ${ BRAND_NAME }."
+      ],
+      "Secure logins on all your devices. Includes unlimited hide-my-email aliases, sharing, integrated 2FA, ${ DARK_WEB_MONITORING_NAME } and more.": [
+        "Bezpieczne logowanie na wszystkich urządzeniach. Zawiera nieograniczoną liczbę aliasów hide-my-email, udostępnianie, zintegrowaną aplikację uwierzytelniającą, ${ DARK_WEB_MONITORING_NAME } i wiele więcej."
       ]
     },
     "Billing cycle option": {
@@ -2538,13 +2547,13 @@
         "Przejdź do Wysłanych"
       ],
       "Go to Spam": [
-        "Przejdź do Spamu"
+        "Przejdź do spamu"
       ],
       "Go to Starred": [
         "Przejdź do Wyróżnionych"
       ],
       "Go to Trash": [
-        "Przejdź do Kosza"
+        "Przejdź do kosza"
       ],
       "New message": [
         "Nowa wiadomość"
@@ -3655,10 +3664,10 @@
         "Również w zestawie"
       ],
       "Auto-delete spam and trashed messages and unlock more premium features when you upgrade.": [
-        "Automatyczne usuwanie Spamu i Kosza oraz odblokowanie funkcji premium po ulepszeniu konta."
+        "Automatyczne usuwanie spamu i kosza oraz odblokowanie funkcji premium po ulepszeniu konta."
       ],
       "Automatically clear out emails moved to Trash and Spam more than 30 days ago.": [
-        "Automatyczne usuwanie wiadomości, które znajdują się w Koszu lub Spamie dłużej niż 30 dni."
+        "Automatyczne usuwanie wiadomości, które znajdują się w koszu lub spamie dłużej niż 30 dni."
       ],
       "Automatically sort your incoming messages before they reach your inbox.": [
         "Automatycznie sortuj przychodzące wiadomości, zanim dotrą do skrzynki odbiorczej."
@@ -4620,6 +4629,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Wyszukiwanie pasuje do zbyt wielu wyników. Sprecyzuj wyszukiwanie i spróbuj ponownie."
+      ],
+      "Unable to load VPN dashboard. Please check your connection and try again.": [
+        "Nie można załadować pulpitu VPN. Sprawdź połączenie i spróbuj ponownie."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -4635,13 +4647,13 @@
         "Szkice nie mogły zostać przeniesione do Odebranych"
       ],
       "Drafts cannot be moved to Spam": [
-        "Szkice nie mogły zostać przeniesione do Spamu"
+        "Szkice nie mogły zostać przeniesione do spamu"
       ],
       "Sent messages cannot be moved to Inbox": [
         "Wysłane wiadomości nie mogły zostać przeniesione do Odebranych"
       ],
       "Sent messages cannot be moved to Spam": [
-        "Wysłane wiadomości nie mogły zostać przeniesione do Spamu"
+        "Wysłane wiadomości nie mogły zostać przeniesione do spamu"
       ],
       "This action cannot be performed": [
         "Nie możesz wykonać tej akcji"
@@ -6340,7 +6352,7 @@
         "Czy na pewno chcesz przenieść wszystkie wiadomości do Archiwum?"
       ],
       "Are you sure you want to move all messages in this location to trash?": [
-        "Czy na pewno chcesz przenieść wszystkie wiadomości do Kosza?"
+        "Czy na pewno chcesz przenieść wszystkie wiadomości do kosza?"
       ],
       "Are you sure you want to permanently delete ${ count } conversation?": [
         "Czy na pewno chcesz trwale usunąć ${ count } wątek?",
@@ -6376,10 +6388,10 @@
         "Wymagana uwaga"
       ],
       "Automatically clear out emails moved to Trash and Spam more than 30 days ago.": [
-        "Automatyczne usuwanie wiadomości, które znajdują się w Koszu lub Spamie dłużej niż 30 dni."
+        "Automatyczne usuwanie wiadomości, które znajdują się w koszu lub spamie dłużej niż 30 dni."
       ],
       "Automatically delete messages that have been in trash and spam for more than 30 days.": [
-        "Automatycznie usuwaj wiadomości, które znajdują się w Koszu lub Spamie dłużej niż 30 dni."
+        "Automatycznie usuwaj wiadomości, które znajdują się w koszu lub spamie dłużej niż 30 dni."
       ],
       "Awaiting transaction": [
         "Transakcja oczekująca"
@@ -6394,7 +6406,7 @@
         "Skróty klawiszowe podstawowej nawigacji i akcji są zawsze włączone."
       ],
       "Before requesting a new verification code, check your spam folder and check that ${ strong } is the correct address.": [
-        "Przed poproszeniem o nowy kod weryfikacyjny, sprawdź folder Spam i poprawność adresu ${ strong }."
+        "Przed poproszeniem o nowy kod weryfikacyjny, sprawdź folder spam i poprawność adresu ${ strong }."
       ],
       "Billing cycle: ${ text }": [
         "Cykl rozliczeniowy: ${ text }"
@@ -6658,7 +6670,7 @@
         "Wiadomości są automatyczne podpisywane"
       ],
       "Emails moved to Trash and Spam more than 30 days ago will be cleared automatically.": [
-        "Wiadomości, które znajdują się w Koszu lub Spamie dłużej niż 30 dni, zostaną automatycznie usunięte."
+        "Wiadomości, które znajdują się w koszu lub spamie dłużej niż 30 dni, zostaną automatycznie usunięte."
       ],
       "Emails tagged with the label ${ nameDeleted } will not be deleted and can still be found in the respective folder.": [
         "Wiadomości oznaczone etykietą ${ nameDeleted } nie zostaną usunięte i będą nadal dostępne w odpowiednim folderze."
@@ -6811,7 +6823,7 @@
         "Jeśli anulujesz subskrypcję ${ planTitle }, nie zostanie ona odnowiona po terminie wygaśnięcia ${ expiryDate }."
       ],
       "If you don't find the email in your inbox, please check your spam folder.": [
-        "Jeśli nie widzisz wiadomości w skrzynce odbiorczej, sprawdź folder Spam."
+        "Jeśli nie widzisz wiadomości w skrzynce odbiorczej, sprawdź folder spam."
       ],
       "If you proceed with the downgrade, you will lose access to ${ MAIL_APP_NAME } and ${ VPN_APP_NAME } paid features.": [
         "Po obniżeniu planu stracisz dostęp do płatnych funkcji poczty ${ MAIL_APP_NAME } i usługi ${ VPN_APP_NAME }."
@@ -6862,7 +6874,7 @@
         "W następnym kroku wyślesz środki za pomocą adresu Bitcoin."
       ],
       "Include Spam/Trash.": [
-        "Uwzględnij foldery Spam i Kosz."
+        "Uwzględnij foldery spam i kosz."
       ],
       "Include your prompt and the response to help us improve accuracy.": [
         "Dołącz zadanie i odpowiedź, aby pomóc nam ulepszyć działanie."
@@ -6913,7 +6925,7 @@
         "Przechowuj w ${ PASS_APP_NAME } dane logowania i karty płatnicze. Usługa jest darmowa i dostępna na koncie ${ BRAND_NAME }."
       ],
       "Keep your mailbox tidy by automatically clearing out trash and spam that have been there for more than 30 days.": [
-        "Utrzymaj porządek w swojej skrzynce pocztowej, automatycznie usuwając wiadomości, które znajdują się w Koszu lub Spamie dłużej niż 30 dni."
+        "Utrzymaj porządek w swojej skrzynce pocztowej, automatycznie usuwając wiadomości, które znajdują się w koszu lub spamie dłużej niż 30 dni."
       ],
       "Key fingerprint": [
         "Odcisk klucza"
@@ -7027,7 +7039,7 @@
         "Wiadomość zostanie wysłana jutro o godzinie ${ formattedTime }"
       ],
       "Messages that have been in trash and spam more than 30 days will be automatically deleted.": [
-        "Wiadomości, które znajdują się w Koszu lub Spamie dłużej niż 30 dni, zostaną automatycznie usunięte."
+        "Wiadomości, które znajdują się w koszu lub spamie dłużej niż 30 dni, zostaną automatycznie usunięte."
       ],
       "Messages to all your email addresses will go to your inbox.": [
         "Wiadomości wysyłane na wszystkie adresy e-mail będą kierowane do skrzynki odbiorczej."
@@ -7735,7 +7747,7 @@
         "Ulepsz konto, aby dodać więcej adresów."
       ],
       "Upgrade to automatically delete messages that have been in Trash or Spam for more than 30 days.": [
-        "Ulepsz konto, aby automatycznie usuwać wiadomości, które znajdują się w Koszu lub Spamie dłużej niż 30 dni."
+        "Ulepsz konto, aby automatycznie usuwać wiadomości, które znajdują się w koszu lub spamie dłużej niż 30 dni."
       ],
       "Upgrade to create more folders, filters, and addresses.": [
         "Ulepsz konto, aby utworzyć więcej folderów, filtrów i adresów."
@@ -8177,6 +8189,129 @@
       ],
       "Your IP": [
         "Twój adres IP"
+      ],
+      "${ VPN_APP_NAME } is masking your IP address, so websites can’t identify you.": [
+        "${ VPN_APP_NAME } maskuje Twój adres IP, dzięki czemu strony internetowe nie mogą Cię zidentyfikować."
+      ],
+      "**Auto-connect**: Opens and connects to VPN as soon as you turn on your device.": [
+        "**Automatyczne połączenie**: Łączy się z siecią VPN zaraz po włączeniu urządzenia."
+      ],
+      "**Kill switch**: Stops data leaks by blocking your internet if the VPN drops unexpectedly.": [
+        "**Kill Switch**: Zatrzymuje wycieki danych, blokując dostęp do Internetu w przypadku nieoczekiwanego przerwania połączenia VPN."
+      ],
+      "A secure connection is essential when working remotely. A VPN protects company data from cyber threats and keeps your work private.": [
+        "Bezpieczne połączenie jest niezbędne podczas pracy zdalnej. VPN chroni firmowe dane przed cyfrowymi zagrożeniami i zapewnia prywatność pracy."
+      ],
+      "A VPN encrypts your connection and hides your IP address, making it much harder for anyone to track or monitor your browsing.": [
+        "Usługa VPN szyfruje połączenie i ukrywa adres IP, co znacznie utrudnia śledzenie lub monitorowanie aktywności online."
+      ],
+      "A VPN hides your IP address and encrypts your browsing activity, making it harder for websites, advertisers, and ISPs to track you over time.": [
+        "VPN ukrywa Twój adres IP i szyfruje aktywność przeglądania, utrudniając stronom internetowym, reklamodawcom oraz dostawcom Internetu śledzenie Cię online."
+      ],
+      "A VPN is a secure tunnel between your device and the internet. It hides your location and activity from your internet service provider (ISP) and the websites you visit.": [
+        "VPN to bezpieczny tunel między urządzeniem a Internetem. Ukrywa on Twoją lokalizację i aktywność przed dostawcą Internetu (ISP) i odwiedzanymi stronami internetowymi."
+      ],
+      "Ad targeting": [
+        "Kierowanie reklam"
+      ],
+      "Advertisers track your browsing to show targeted ads. ${ VPN_APP_NAME } blocks trackers and ads, making your connection faster and improving your online experience.": [
+        "Reklamodawcy śledzą Cię, aby wyświetlać ukierunkowane reklamy. ${ VPN_APP_NAME } blokuje elementy śledzące i reklamy, przyspieszając połączenie oraz poprawiając komfort korzystania z Internetu."
+      ],
+      "Browse privately and access blocked content.": [
+        "Przeglądaj prywatnie Internet i uzyskuj dostęp do zablokowanych treści."
+      ],
+      "Connect to ${ VPN_APP_NAME } to browse privately": [
+        "Połącz się z ${ VPN_APP_NAME }, aby przeglądać Internet prywatnie"
+      ],
+      "Geoblocking": [
+        "Blokada geograficzna"
+      ],
+      "Governments and ISPs can monitor your online activity. By hiding your real IP and encrypting your activity your browsing becomes private.": [
+        "Rządy i dostawcy Internetu mogą monitorować Twoją aktywność online. Ukrywając swój prawdziwy adres IP i szyfrując połączenie, przeglądanie staje się prywatne."
+      ],
+      "In restrictive countries": [
+        "W krajach restrykcyjnych"
+      ],
+      "Included for free with your plan": [
+        "Za darmo w planie"
+      ],
+      "It’s best to use a VPN at all times. But here’s when cybersecurity threats can be the highest:": [
+        "Najlepiej jest korzystać z połączenie VPN przez cały czas. Ale właśnie wtedy cyfrowe zagrożenia mogą być największe:"
+      ],
+      "Most public WiFi networks are safe, but some lack security, exposing you to cyber threats. A VPN encrypts your traffic, keeping you protected.": [
+        "Większość publicznych sieci Wi-Fi jest bezpieczna, ale niektóre z nich nie posiadają zabezpieczeń, narażając Cię na cyfrowe zagrożenia. VPN zapewnia ochronę, szyfrując ruch."
+      ],
+      "Not connected": [
+        "Nie połączono"
+      ],
+      "On public WiFi networks": [
+        "W publicznych sieciach Wi-Fi"
+      ],
+      "Our system flagged this as suspicious. If it is not a phishing or scam email, mark as legitimate.": [
+        "Nasz system oznaczył wiadomość jako podejrzaną. Jeśli wiadomość jest bezpieczna, oznacz ją jako wiarygodną."
+      ],
+      "Private browsing (or “incognito” mode) is only useful for keeping your activity hidden on your device. It stops your browser from saving history and cookies, but it doesn’t make you invisible. Your ISP, network administrator, and the websites you visit can still see what you do online.": [
+        "Przeglądanie prywatne (lub tryb incognito) jest przydatny tylko do ukrywania aktywności na urządzeniu. Uniemożliwia on przeglądarce zapisywanie historii i plików cookie, ale nie czyni użytkownika niewidzialnym. Dostawca Internetu, administrator sieci i odwiedzane strony internetowe nadal mogą zobaczyć, co robisz online."
+      ],
+      "Scan the QR code with your mobile device": [
+        "Zeskanuj kod QR za pomocą urządzenia mobilnego"
+      ],
+      "Some governments block or restrict access to certain websites. A VPN helps bypass censorship while keeping your activity and identity private.": [
+        "Niektóre rządy blokują lub ograniczają dostęp do niektórych stron internetowych. VPN pomaga ominąć cenzurę, zachowując prywatność użytkownika."
+      ],
+      "Some websites and streaming services block content by region. A VPN lets you bypass these restrictions and access the internet freely.": [
+        "Niektóre strony internetowe i usługi streamingu blokują geograficznie treści. VPN pozwala ominąć te ograniczenia i uzyskać swobodny dostęp do Internetu."
+      ],
+      "Stay connected effortlessly by enabling the following VPN settings:": [
+        "Bądź połączony bez trudu, włączając następujące ustawienia VPN:"
+      ],
+      "Subscription auto-renews every ${ cycle } month.": [
+        "Subskrypcja odnowi się automatycznie co ${ cycle } miesiąc.",
+        "Subskrypcja odnowi się automatycznie co ${ cycle } miesiące.",
+        "Subskrypcja odnowi się automatycznie co ${ cycle } miesięcy.",
+        "Subskrypcja odnowi się automatycznie co ${ cycle } miesiąca."
+      ],
+      "Surveillance": [
+        "Inwigilacja"
+      ],
+      "This means that your ISP and the websites you visit can’t connect your personal information with your online activity.": [
+        "Oznacza to, że dostawca Internetu i odwiedzane strony internetowe nie mogą łączyć Twoich danych z aktywnością online."
+      ],
+      "This unique code can be used by websites and ISPs (internet service providers) to link your location and browsing history to your device": [
+        "Ten unikalny kod może być wykorzystywany przez strony internetowe i dostawcę Internetu (ISP) do powiązania lokalizacji i historii przeglądania z urządzeniem użytkownika"
+      ],
+      "Tracking": [
+        "Śledzenie"
+      ],
+      "When working remotely": [
+        "Podczas pracy zdalnej"
+      ],
+      "When you connect to VPN, it uses encryption technology to hide your IP address (a unique code assigned to your device).": [
+        "Usługa VPN wykorzystuje szyfrowanie, aby ukryć Twój adres IP (unikalny kod przypisany do Twojego urządzenia)."
+      ],
+      "You'll then be billed every ${ renewCycle } month at ${ renewAmountStr }.": [
+        "Następnie zapłacisz co ${ renewCycle } miesiąc ${ renewAmountStr }.",
+        "Następnie zapłacisz co ${ renewCycle } miesiące ${ renewAmountStr }.",
+        "Następnie zapłacisz co ${ renewCycle } miesięcy ${ renewAmountStr }.",
+        "Następnie zapłacisz co ${ renewCycle } miesiąca ${ renewAmountStr }."
+      ],
+      "Your internet service provider can monitor and sometimes sell your data, or even restrict what websites you can access.": [
+        "Dostawca Internetu może monitorować i czasami sprzedawać dane użytkowników, a nawet ograniczać dostęp do stron internetowych."
+      ],
+      "Your IP address is visible and can be used to track your online activity.": [
+        "Twój adres IP jest widoczny i może zostać wykorzystany do śledzenia Cię online."
+      ],
+      "Your online activity is protected": [
+        "Twoja aktywność online jest chroniona"
+      ],
+      "Your physical location is visible and can be used to restrict your access to the internet.": [
+        "Fizyczna lokalizacja użytkownika jest widoczna i może zostać wykorzystana do ograniczenia dostępu do Internetu."
+      ],
+      "Your scheduled plan starts on ${ renewalTime } and will auto-renew every ${ cycle } month.": [
+        "Zaplanowany plan rozpocznie się ${ renewalTime } i odnowi się automatycznie co ${ cycle } miesiąc.",
+        "Zaplanowany plan rozpocznie się ${ renewalTime } i odnowi się automatycznie co ${ cycle } miesiące.",
+        "Zaplanowany plan rozpocznie się ${ renewalTime } i odnowi się automatycznie co ${ cycle } miesięcy.",
+        "Zaplanowany plan rozpocznie się ${ renewalTime } i odnowi się automatycznie co ${ cycle } miesięca."
       ]
     },
     "info": {
@@ -8323,13 +8458,13 @@
         "Przejdź do Wysłanych"
       ],
       "Go to Spam": [
-        "Przejdź do Spamu"
+        "Przejdź do spamu"
       ],
       "Go to Starred": [
         "Przejdź do Wyróżnionych"
       ],
       "Go to Trash": [
-        "Przejdź do Kosza"
+        "Przejdź do kosza"
       ],
       "Insert link": [
         "Wstaw link"
@@ -8374,10 +8509,10 @@
         "Przenieś do Odebranych"
       ],
       "Move to Spam": [
-        "Przenieś do Spamu"
+        "Przenieś do spamu"
       ],
       "Move to Trash": [
-        "Przenieś do Kosza"
+        "Przenieś do kosza"
       ],
       "Move to...": [
         "Przenieś do..."
@@ -9036,6 +9171,9 @@
       ],
       "Your location": [
         "Twoja lokalizacja"
+      ],
+      "Your ISP": [
+        "Twój ISP"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9914,10 +10052,10 @@
         "Wszystkie usługi ${ BRAND_NAME } w wersji premium. Jedna prosta subskrypcja"
       ],
       "Auto-delete Spam and Trash": [
-        "Automatyczne usuwanie Spamu i Kosza"
+        "Automatyczne usuwanie spamu i kosza"
       ],
       "Auto-delete spam and trashed messages": [
-        "Automatyczne usuwanie Spamu i Kosza"
+        "Automatyczne usuwanie spamu i kosza"
       ],
       "Auto-reply": [
         "Autoresponder"
@@ -10420,7 +10558,7 @@
         "Umożliwia skonfigurowanie autorespondera na przychodzące wiadomości"
       ],
       "Automatically clear out messages older than 30 days from Trash and Spam": [
-        "Automatycznie usuwaj wiadomości, które znajdują się w Koszu lub Spamie dłużej niż 30 dni"
+        "Automatycznie usuwaj wiadomości, które znajdują się w koszu lub spamie dłużej niż 30 dni"
       ],
       "Automatically forward emails sent to your ${ MAIL_APP_NAME } account to any other email address.": [
         "Automatyczne przekierowanie wiadomości do konta ${ MAIL_APP_NAME } lub na inny adres e-mail."
@@ -10801,6 +10939,12 @@
       ],
       "Your subscription renews soon": [
         "Subskrypcja odnowi się wkrótce"
+      ],
+      "${ BRAND_NAME } Unlimited for 12 months": [
+        "${ BRAND_NAME } Unlimited na 12 miesięcy"
+      ],
+      "${ planName } for 12 months": [
+        "${ planName } na 12 miesięcy"
       ]
     },
     "Offer feature": {
@@ -10875,13 +11019,13 @@
         "Zaawansowane szyfrowanie"
       ],
       "Auto-delete spam and trash": [
-        "Automatyczne usuwanie Spamu i Kosza"
+        "Automatyczne usuwanie spamu i kosza"
       ],
       "browser": [
         "przeglądarka"
       ],
       "Clear out deleted and spam emails after 30 days.": [
-        "Automatycznie usuwaj wiadomości, które znajdują się w Koszu lub Spamie dłużej niż 30 dni."
+        "Automatycznie usuwaj wiadomości, które znajdują się w koszu lub spamie dłużej niż 30 dni."
       ],
       "Continue": [
         "Kontynuuj"
@@ -10951,6 +11095,12 @@
       ],
       "Your domain and subscription are ready to use.": [
         "Twoja domena i subskrypcja są gotowe do użycia."
+      ],
+      "Distraction-free emailing": [
+        "Poczta e-mail bez rozpraszania uwagi"
+      ],
+      "Enjoy a faster, focused emailing experience with the desktop app.": [
+        "Ciesz się szybszym wysyłaniem wiadomości za pomocą aplikacji desktopowej."
       ]
     },
     "Onboarding Proton": {
@@ -11216,6 +11366,30 @@
       ],
       "Your payment is still being processed": [
         "Twoja płatność jest wciąż przetwarzana"
+      ],
+      "During this time, you will not be able to modify or cancel your subscription. Please wait until your payment is completed before attempting any changes. Thank you for your patience.": [
+        "W tym czasie nie będzie można edytować lub anulować subskrypcji. Poczekaj na zakończenie płatności przed dokonaniem zmian. Dziękujemy za cierpliwość."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first ${ subscriptionLength } month.": [
+        "Specjalna obniżona cena ${ priceWithDiscount } ważna przez pierwszy ${ subscriptionLength } miesiąc.",
+        "Specjalna obniżona cena ${ priceWithDiscount } ważna przez pierwsze ${ subscriptionLength } miesiące.",
+        "Specjalna obniżona cena ${ priceWithDiscount } ważna przez pierwsze ${ subscriptionLength } miesięcy.",
+        "Specjalna obniżona cena ${ priceWithDiscount } ważna przez pierwsze ${ subscriptionLength } miesiąca."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. The coupon is valid for ${ couponRedemptions } renewal. Then it will automatically be renewed at ${ renewPriceStr } for 1 month. You can cancel at any time.": [
+        "Specjalna obniżona cena ${ priceWithDiscount } ważna przez pierwszy miesiąc. Kupon jest ważny na ${ couponRedemptions } odnowienie. Następne automatyczne odnowienie nastąpi w cenie ${ renewPriceStr } miesięcznie. Możesz anulować w dowolnym momencie.",
+        "Specjalna obniżona cena ${ priceWithDiscount } ważna przez pierwszy miesiąc. Kupon jest ważny na ${ couponRedemptions } odnowienia. Następne automatyczne odnowienie nastąpi w cenie ${ renewPriceStr } miesięcznie. Możesz anulować w dowolnym momencie.",
+        "Specjalna obniżona cena ${ priceWithDiscount } ważna przez pierwszy miesiąc. Kupon jest ważny na ${ couponRedemptions } odnowień. Następne automatyczne odnowienie nastąpi w cenie ${ renewPriceStr } miesięcznie. Możesz anulować w dowolnym momencie.",
+        "Specjalna obniżona cena ${ priceWithDiscount } ważna przez pierwszy miesiąc. Kupon jest ważny na ${ couponRedemptions } odnowień. Następne automatyczne odnowienie nastąpi w cenie ${ renewPriceStr } miesięcznie. Możesz anulować w dowolnym momencie."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. Then it will automatically be renewed at ${ renewPriceStr } every month. You can cancel at any time.": [
+        "Specjalna obniżona cena ${ priceWithDiscount } ważna przez pierwszy miesiąc. Odnowienie nastąpi w cenie ${ renewPriceStr } miesięcznie. Możesz anulować w dowolnym momencie."
+      ],
+      "Then it will automatically be renewed at ${ renewPriceStr } for ${ renewalLength } month. You can cancel at any time.": [
+        "Automatycznie odnowienie nastąpi w cenie ${ renewPriceStr } za ${ renewalLength } miesiąc. Możesz anulować w dowolnym momencie.",
+        "Automatycznie odnowienie nastąpi w cenie ${ renewPriceStr } za ${ renewalLength } miesiące. Możesz anulować w dowolnym momencie.",
+        "Automatycznie odnowienie nastąpi w cenie ${ renewPriceStr } za ${ renewalLength } miesięcy. Możesz anulować w dowolnym momencie.",
+        "Automatycznie odnowienie nastąpi w cenie ${ renewPriceStr } za ${ renewalLength } miesiąca. Możesz anulować w dowolnym momencie."
       ]
     },
     "Payments.Error": {
@@ -12151,6 +12325,9 @@
     "specialoffer: Footer": {
       "This subscription will automatically renew every 2 years at the same rate until it is canceled.": [
         "Subskrypcja będzie automatycznie odnawiana co 2 lata po tej samej cenie do momentu jej anulowania."
+      ],
+      "Your subscription will renew at the same rate every year.": [
+        "Subskrypcja będzie odnawiana co roku w tej samej cenie."
       ]
     },
     "specialoffer: Link": {
@@ -12290,6 +12467,9 @@
       ],
       "Your pm.me email is active": [
         "Adres pm.me jest aktywny"
+      ],
+      "Check out what's included with your subscription and start enjoying the benefits.": [
+        "Sprawdź, co zawiera subskrypcja i zacznij czerpać z niej korzyści."
       ]
     },
     "sso": {
@@ -12501,6 +12681,12 @@
         "${ n } połączenia VPN na użytkownika",
         "${ n } połączeń VPN na użytkownika",
         "${ n } połączeń VPN na użytkownika"
+      ],
+      "VPN connection for ${ n } devices per user": [
+        "Połączenie VPN na ${ n } urządzenie na użytkownika",
+        "Połączenie VPN na ${ n } urządzenia na użytkownika",
+        "Połączenie VPN na ${ n } urządzeń na użytkownika",
+        "Połączenie VPN na ${ n } urządzeń na użytkownika"
       ]
     },
     "Subscription change warning": {
@@ -12947,10 +13133,10 @@
         "Przeniesiono ${ elementsCount } wątków do folderu ${ folderName }."
       ],
       "${ elementsCount } conversation moved to spam and sender added to your spam list.": [
-        "Wątek został przeniesiony do Spamu, a nadawca został dodany do listy spamu.",
-        "${ elementsCount } wątki zostały przeniesione do Spamu, a nadawcy zostali dodani do listy spamu.",
-        "${ elementsCount } wątków zostało przeniesionych do Spamu, a nadawcy zostali dodani do listy spamu.",
-        "${ elementsCount } wątków zostało przeniesionych do Spamu, a nadawcy zostali dodani do listy spamu."
+        "${ elementsCount } wątek został przeniesiony do spamu, a nadawca został dodany do listy spamu.",
+        "${ elementsCount } wątki zostały przeniesione do spamu, a nadawcy zostali dodani do listy spamu.",
+        "${ elementsCount } wątków zostało przeniesionych do spamu, a nadawcy zostali dodani do listy spamu.",
+        "${ elementsCount } wątków zostało przeniesionych do spamu, a nadawcy zostali dodani do listy spamu."
       ],
       "${ elementsCount } conversation removed from ${ labelName }.": [
         "Wątek został usunięty z etykiety ${ labelName }.",
@@ -13007,10 +13193,10 @@
         "Przeniesiono ${ elementsCount } wiadomości do folderu ${ folderName }."
       ],
       "${ elementsCount } message moved to spam and sender added to your spam list.": [
-        "Wiadomość została przeniesiona do Spamu, a nadawca został dodany do listy spamu.",
-        "${ elementsCount } wiadomości zostały przeniesione do Spamu, a nadawcy zostali dodani do listy spamu.",
-        "${ elementsCount } wiadomości zostało przeniesionych do Spamu, a nadawcy zostali dodani do listy spamu.",
-        "${ elementsCount } wiadomości zostało przeniesionych do Spamu, a nadawcy zostali dodani do listy spamu."
+        "${ elementsCount } wiadomość została przeniesiona do spamu, a nadawca został dodany do listy spamu.",
+        "${ elementsCount } wiadomości zostały przeniesione do spamu, a nadawcy zostali dodani do listy spamu.",
+        "${ elementsCount } wiadomości zostało przeniesionych do spamu, a nadawcy zostali dodani do listy spamu.",
+        "${ elementsCount } wiadomości zostało przeniesionych do spamu, a nadawcy zostali dodani do listy spamu."
       ],
       "${ elementsCount } message removed from ${ labelName }.": [
         "Wiadomość została usunięta z etykiety ${ labelName }.",
@@ -13079,7 +13265,7 @@
         "Wątek został przeniesiony do folderu ${ folderName }."
       ],
       "Conversation moved to spam and sender added to your spam list.": [
-        "Wątek został przeniesiony do Spamu, a nadawca został dodany do listy spamu."
+        "Wątek został przeniesiony do spamu, a nadawca został dodany do listy spamu."
       ],
       "Conversation removed from ${ labelName }.": [
         "Wątek został usunięty z etykiety ${ labelName }."
@@ -13151,7 +13337,7 @@
         "Wiadomość została przeniesiona do folderu ${ folderName }."
       ],
       "Message moved to spam and sender added to your spam list.": [
-        "Wiadomość została przeniesiona do Spamu, a nadawca został dodany do listy spamu."
+        "Wiadomość została przeniesiona do spamu, a nadawca został dodany do listy spamu."
       ],
       "Message removed from ${ labelName }.": [
         "Wiadomość została usunięta z etykiety ${ labelName }."
@@ -13562,7 +13748,7 @@
         "Zmień hasło"
       ],
       "Clear out the junk": [
-        "Opróżnij Kosz"
+        "Opróżnij kosz"
       ],
       "Clearing data": [
         "Usuwanie danych"
@@ -13907,7 +14093,7 @@
         "Przenieś wszystkie wiadomości do Archiwum"
       ],
       "Move all messages to trash": [
-        "Przenieś wszystkie wiadomości do Kosza"
+        "Przenieś wszystkie wiadomości do kosza"
       ],
       "Move to": [
         "Przenieś do"
@@ -13919,10 +14105,10 @@
         "Przenieś do Odebranych (to nie jest spam)"
       ],
       "Move to spam": [
-        "Przenieś do Spamu"
+        "Przenieś do spamu"
       ],
       "Move to trash": [
-        "Przenieś do Kosza"
+        "Przenieś do kosza"
       ],
       "Moving a scheduled message": [
         "Przenoszenie zaplanowanej wiadomości"
@@ -13958,7 +14144,7 @@
         "Brak wykrytych wycieków"
       ],
       "No need to empty the trash": [
-        "Nie musisz opróżniać Kosza"
+        "Nie musisz opróżniać kosza"
       ],
       "No trackers found": [
         "Nie znaleziono elementów śledzących"
@@ -14274,6 +14460,36 @@
       ],
       "What is a VPN?": [
         "Co to jest VPN?"
+      ],
+      "Desktop": [
+        "Komputer"
+      ],
+      "Download the app": [
+        "Pobierz aplikację"
+      ],
+      "Get more from your VPN": [
+        "Uzyskaj więcej z VPN"
+      ],
+      "How does it all work?": [
+        "Jak to działa?"
+      ],
+      "Increase security with ${ VPN_APP_NAME }": [
+        "Zwiększ bezpieczeństwo z ${ VPN_APP_NAME }"
+      ],
+      "Make a secure connection your default": [
+        "Ustaw bezpieczne połączenie jako domyślne"
+      ],
+      "Private browsing vs VPN": [
+        "Prywatne przeglądanie Internetu a VPN"
+      ],
+      "VPN explained": [
+        "Wyjaśnienie zasady działania VPN"
+      ],
+      "What can a VPN protect you from?": [
+        "Przed czym VPN może chronić?"
+      ],
+      "When is it most important to use a VPN?": [
+        "Kiedy korzystanie z VPN jest najważniejsze?"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14472,6 +14688,9 @@
         "Subskrypcja zostanie automatycznie odnowiona za ${ cycle } miesiące.",
         "Subskrypcja zostanie automatycznie odnowiona za ${ cycle } miesięcy.",
         "Subskrypcja zostanie automatycznie odnowiona za ${ cycle } miesiąca."
+      ],
+      "You'll then be billed every 12 months at ${ renewPriceStr }.": [
+        "Następnie zapłacisz co 12 miesięcy ${ renewPriceStr }."
       ]
     },
     "vpn_2step: feature": {
