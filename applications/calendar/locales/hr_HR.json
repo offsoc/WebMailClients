@@ -4556,6 +4556,11 @@
       ],
       "Unlimited messages per day": [
         "Neograničen broj poruka dnevno"
+      ],
+      "${ n } message per day": [
+        "${ n } poruka po danu",
+        "${ n } poruke po danu",
+        "${ n } poruka po danu"
       ]
     },
     "new_plans: heading": {
@@ -5370,6 +5375,11 @@
         "${ n } VPN veza po korisniku",
         "${ n } VPN veze po korisniku",
         "${ n } VPN veza po korisniku"
+      ],
+      "${ n } high-speed VPN connection per user": [
+        "${ n } VPN veza visoke brzine po korisniku",
+        "${ n } VPN veze visoke brzine po korisniku",
+        "${ n } VPN veza visoke brzine po korisniku"
       ]
     },
     "Subscription change warning": {

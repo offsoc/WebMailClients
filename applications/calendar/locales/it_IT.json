@@ -818,6 +818,9 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "La tua prova gratuita dell'applicazione desktop termina ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "More options for accounts": [
+        "Altre opzioni per gli account"
       ]
     },
     "action": {
@@ -5645,6 +5648,12 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Il fuso orario di sistema sembra essere cambiato a ${ timezone }. Vuoi aggiornare la tua preferenza di fuso orario?"
+      ],
+      "Learn what to do ${ dataLeakedLink }": [
+        "Scopri cosa fare ${ dataLeakedLink }"
+      ],
+      "Thank you for subscribing. Secure browsing starts now.": [
+        "Grazie per esserti abbonato. La navigazione sicura inizia ora."
       ]
     },
     "info": {
@@ -6261,6 +6270,12 @@
       ],
       "Your password (admin)": [
         "La tua password (admin)"
+      ],
+      "Enable desktop notifications": [
+        "Abilitare le notifiche desktop"
+      ],
+      "Notifications are disabled, to enable them change the browser settings.": [
+        "Le notifiche sono disabilitate, per abilitarle modificare le impostazioni del browser."
       ]
     },
     "Label for contact group color": {
@@ -6393,6 +6408,9 @@
       ],
       "What’s this?": [
         "Cos'è questo?"
+      ],
+      "if your data is leaked": [
+        "se i tuoi dati vengono divulgati"
       ]
     },
     "Link label (optional)": {
@@ -7956,6 +7974,12 @@
       ],
       "Your subscription renews soon": [
         "Il tuo abbonamento si rinnoverà presto"
+      ],
+      "${ BRAND_NAME } Unlimited for 12 months": [
+        "${ BRAND_NAME } Unlimited per 12 mesi"
+      ],
+      "${ planName } for 12 months": [
+        "${ planName } per 12 mesi"
       ]
     },
     "Offer feature": {
@@ -10498,6 +10522,9 @@
       ],
       "Your shorter address is now ready": [
         "Il tuo indirizzo breve ora è pronto"
+      ],
+      "Information exposed in breach": [
+        "Informazioni esposte in caso di violazioni"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10592,6 +10619,12 @@
       ],
       "Upload a public key to enable sending end-to-end encrypted emails to this email": [
         "Carica una chiave pubblica per abilitare l'invio di email crittografate end-to-end a questa email"
+      ],
+      "Not all information listed here was exposed for all users.": [
+        "Non tutte le informazioni elencate qui sono state esposte per tutti gli utenti."
+      ],
+      "Unless they are deciphered, encrypted passwords remain secure even if they are exposed.": [
+        "A meno che non vengano decifrate, le password crittografate rimangono sicure anche se vengono esposte."
       ]
     },
     "tooltip": {

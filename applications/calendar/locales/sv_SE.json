@@ -818,6 +818,9 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Din gratis provperiod av skrivbordsappen slutar den ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "More options for accounts": [
+        "Fler alternativ för konton"
       ]
     },
     "action": {
@@ -5630,6 +5633,12 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Din systemtidszon verkar ha ändrats till ${ timezone }. Vill du uppdatera din tidszons preferens?"
+      ],
+      "Learn what to do ${ dataLeakedLink }": [
+        "Lär dig vad du ska göra ${ dataLeakedLink }"
+      ],
+      "Thank you for subscribing. Secure browsing starts now.": [
+        "Tack för att du prenumererar. Säker surfning börjar nu."
       ]
     },
     "info": {
@@ -6246,6 +6255,12 @@
       ],
       "Your password (admin)": [
         "Ditt lösenord (admin)"
+      ],
+      "Enable desktop notifications": [
+        "Aktivera aviseringar för stationär dator"
+      ],
+      "Notifications are disabled, to enable them change the browser settings.": [
+        "Meddelanden är inaktiverade, för att aktivera dem ändrar du webbläsarinställningarna."
       ]
     },
     "Label for contact group color": {
@@ -6378,6 +6393,9 @@
       ],
       "What’s this?": [
         "Vad är detta?"
+      ],
+      "if your data is leaked": [
+        "om dina uppgifter läcker ut"
       ]
     },
     "Link label (optional)": {
@@ -7941,6 +7959,12 @@
       ],
       "Your subscription renews soon": [
         "Din prenumeration förnyas snart"
+      ],
+      "${ BRAND_NAME } Unlimited for 12 months": [
+        "${ BRAND_NAME } Obegränsat i 12 månader"
+      ],
+      "${ planName } for 12 months": [
+        "${ planName } för 12 månader"
       ]
     },
     "Offer feature": {
@@ -10471,6 +10495,9 @@
       ],
       "Your shorter address is now ready": [
         "Din kortare adress är redo nu"
+      ],
+      "Information exposed in breach": [
+        "Information exponerad vid intrång"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10565,6 +10592,12 @@
       ],
       "Upload a public key to enable sending end-to-end encrypted emails to this email": [
         "Ladda upp en offentlig nyckel för att aktivera sändning av end-to-end-krypterad e-post till denna e-post"
+      ],
+      "Not all information listed here was exposed for all users.": [
+        "All information som anges här har inte exponerats för alla användare."
+      ],
+      "Unless they are deciphered, encrypted passwords remain secure even if they are exposed.": [
+        "Om de inte avkodas förblir krypterade lösenord säkra även om de exponeras."
       ]
     },
     "tooltip": {
@@ -10689,6 +10722,10 @@
       ],
       "Securely exchange Bitcoin via email instead of complex, 26-character Bitcoin addresses that are prone to error": [
         "Växla Bitcoin säkert via e-post istället för komplexa, 26-teckniga Bitcoin-adresser som är benägna att ge upphov till fel"
+      ],
+      "${ n } ${ BRAND_NAME } email address": [
+        "${ n } ${ BRAND_NAME } e-postadress",
+        "${ n } ${ BRAND_NAME } e-postadresser"
       ]
     },
     "wallet_signup_2024:app-switcher": {

@@ -950,6 +950,9 @@
       ],
       "Two-year": [
         "Snat n tikkal i useggas"
+      ],
+      "New!": [
+        "Amaynut"
       ]
     },
     "Bug category": {
@@ -4540,6 +4543,9 @@
       ],
       "Your password (admin)": [
         "Awal-ik uffir (anedbal)"
+      ],
+      "IBAN": [
+        "IBAN"
       ]
     },
     "Label for contact group color": {
@@ -5180,6 +5186,10 @@
       ],
       "User session management": [
         "Asefrek n tiɣimiyin n useqdac"
+      ],
+      "Up to ${ n } user": [
+        "Alamma d ${ n } yiseqdac",
+        "Alamma d ${ n } yiseqdacen"
       ]
     },
     "new_plans: feature info": {
@@ -5544,6 +5554,9 @@
       ],
       "MM/YY": [
         "MM/YY"
+      ],
+      "CVC": [
+        "CVC"
       ]
     },
     "Payments.Error": {
@@ -7273,6 +7286,11 @@
       ],
       "Yearly, ${ untilString }": [
         "S useggas, ${ untilString }"
+      ]
+    },
+    "Payments.plan_name": {
+      "Free": [
+        "Baṭel"
       ]
     }
   }

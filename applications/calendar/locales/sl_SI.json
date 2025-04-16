@@ -2661,6 +2661,18 @@
       ],
       "Your account and data recovery methods are set.": [
         "Vaš račun in načini za obnovitev podatkov so nastavljeni."
+      ],
+      "${ PROTON_SENTINEL_NAME } protects your account with dedicated 24/7 monitoring of suspicious activity — including escalation to security specialists.": [
+        "${ PROTON_SENTINEL_NAME } varuje vaš račun z namenskim stalnim nadzorom sumljivih dejavnosti, vključno z obveščanjem varnostnih strokovnjakov."
+      ],
+      "Also included": [
+        "Tudi vključeno"
+      ],
+      "To ensure highest possible security of your account, set a recovery phrase.": [
+        "Za zagotovitev najvišje možne varnosti vašega računa nastavite obnovitveno frazo."
+      ],
+      "You’ve already created 10 aliases. Get unlimited aliases and 500 GB of storage with ${ BRAND_NAME } Unlimited.": [
+        "Ustvarili ste že 10 vzdevkov. Zagotovite si neomejeno število vzdevkov in 500 GB shrambe s paketom ${ BRAND_NAME } Unlimited."
       ]
     },
     "description": {
@@ -4173,6 +4185,12 @@
       ],
       "Your password is correct.": [
         "je geslo pravilno."
+      ],
+      "Your app password is correct. Do not use your regular password.": [
+        "Vaše geslo za aplikacijo je pravilno. Ne uporabljajte svojega običajnega gesla."
+      ],
+      "Your email address and app password are correct. Do not use your regular password.": [
+        "Vaš e-poštni naslov in geslo za aplikacijo sta pravilna. Ne uporabljajte običajnega gesla."
       ]
     },
     "Import instructions": {
@@ -5387,6 +5405,159 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Vaš sistemski časovni pas se je spremenil v ${ timezone }. Ali želite posodobiti nastavitve časovnega pasu?"
+      ],
+      "${ PROTON_SENTINEL_NAME } protects your account with dedicated monitoring of suspicious activity.": [
+        "${ PROTON_SENTINEL_NAME } varuje vaš račun z namenskim nadzorom sumljivih dejavnosti."
+      ],
+      "${ VPN_APP_NAME } is masking your IP address, so websites can’t identify you.": [
+        "${ VPN_APP_NAME } prikriva vaš naslov IP, zato vas spletne strani ne morejo prepoznati."
+      ],
+      "**Auto-connect**: Opens and connects to VPN as soon as you turn on your device.": [
+        "**Samodejna povezava**: Odpre in vzpostavi povezavo s storitvijo VPN takoj, ko vklopite svojo napravo."
+      ],
+      "**Kill switch**: Stops data leaks by blocking your internet if the VPN drops unexpectedly.": [
+        "**Stikalo za odklop**: Ustavi uhajanje podatkov tako, da blokira vašo internetno povezavo, če VPN nepričakovano preneha delovati."
+      ],
+      "A secure connection is essential when working remotely. A VPN protects company data from cyber threats and keeps your work private.": [
+        "Varna povezava je bistvena pri delu na daljavo. VPN ščiti podatke podjetja pred kibernetskimi grožnjami in ohranja vaše delo zasebno."
+      ],
+      "A VPN encrypts your connection and hides your IP address, making it much harder for anyone to track or monitor your browsing.": [
+        "VPN šifrira vašo povezavo in skrije vaš naslov IP, zato je veliko težje komu slediti ali nadzorovati vaše brskanje."
+      ],
+      "A VPN hides your IP address and encrypts your browsing activity, making it harder for websites, advertisers, and ISPs to track you over time.": [
+        "VPN skrije vaš IP naslov in šifrira vaše brskanje, s čimer spletnim stranem, oglaševalcem in ponudnikom internetnih storitev (ISP) oteži sledenje vam skozi čas."
+      ],
+      "A VPN is a secure tunnel between your device and the internet. It hides your location and activity from your internet service provider (ISP) and the websites you visit.": [
+        "VPN je varen tunel med vašo napravo in internetom. Skrije vašo lokacijo in dejavnost pred vašim ponudnikom internetnih storitev (ISP) in spletnimi stranmi, ki jih obiskujete."
+      ],
+      "Ad targeting": [
+        "Ciljno oglaševanje"
+      ],
+      "Advertisers track your browsing to show targeted ads. ${ VPN_APP_NAME } blocks trackers and ads, making your connection faster and improving your online experience.": [
+        "Oglaševalci sledijo vašemu brskanju, da vam kažejo ciljno usmerjene oglase. ${ VPN_APP_NAME } blokira sledilnike in oglase, s čimer pospeši vašo povezavo in izboljša vašo spletno izkušnjo."
+      ],
+      "Connect to ${ VPN_APP_NAME } to browse privately": [
+        "Povežite se s programom ${ VPN_APP_NAME } za zasebno brskanje"
+      ],
+      "Contact unassigned from group ${ contactGroupName }": [
+        "Stik odstranjen iz skupine ${ contactGroupName }"
+      ],
+      "default email address": [
+        "privzeti e-poštni naslov"
+      ],
+      "Discover new features unlocked and start using them right away!": [
+        "Odkrijte nove odklenjene funkcije in jih takoj začnite uporabljati!"
+      ],
+      "Discover new features unlocked with ${ planTitle } and start using them right away!": [
+        "Odkrijte nove funkcije, ki so odklenjene s paketom ${ planTitle }, in jih takoj začnite uporabljati!"
+      ],
+      "Emails moved to Trash and Spam more than 30 days ago will be cleared automatically.": [
+        "E-poštna sporočila, ki so bila premaknjena v smeti in neželeno pošto pred več kot 30 dnevi, bodo samodejno izbrisana."
+      ],
+      "Geoblocking": [
+        "Geoblokiranje"
+      ],
+      "Governments and ISPs can monitor your online activity. By hiding your real IP and encrypting your activity your browsing becomes private.": [
+        "Vlade in ponudniki internetnih storitev lahko spremljajo vašo spletno dejavnost. S skrivanjem vašega resničnega IP-ja in šifriranjem vaše dejavnosti postane vaše brskanje zasebno."
+      ],
+      "In restrictive countries": [
+        "V državah z omejitvami"
+      ],
+      "It’s best to use a VPN at all times. But here’s when cybersecurity threats can be the highest:": [
+        "Najbolje je VPN uporabljati ves čas. Tukaj pa so kibernetske grožnje lahko največje:"
+      ],
+      "Learn what to do ${ dataLeakedLink }": [
+        "Preberite, kaj storiti ${ dataLeakedLink }"
+      ],
+      "Most public WiFi networks are safe, but some lack security, exposing you to cyber threats. A VPN encrypts your traffic, keeping you protected.": [
+        "Večina javnih omrežij WiFi je varnih, vendar nekatera nimajo ustrezne varnosti, zato ste izpostavljeni kibernetskim grožnjam. VPN šifrira vaš promet in vas ohranja zaščitene."
+      ],
+      "Not connected": [
+        "Niste povezani"
+      ],
+      "On public WiFi networks": [
+        "V javnih omrežjih WiFi"
+      ],
+      "or discover other features:": [
+        "ali odkrijte druge funkcije:"
+      ],
+      "Other accounts": [
+        "Drugi računi"
+      ],
+      "Our alerts prioritize safety. If you don’t recognize any of the breached information, you can safely ignore this report.": [
+        "Naša opozorila dajejo prednost varnosti. Če ne prepoznate nobenih informacij o vdorih, lahko to poročilo varno prezrete."
+      ],
+      "Private browsing (or “incognito” mode) is only useful for keeping your activity hidden on your device. It stops your browser from saving history and cookies, but it doesn’t make you invisible. Your ISP, network administrator, and the websites you visit can still see what you do online.": [
+        "Zasebno brskanje (ali »način brez beleženja zgodovine«) je uporabno samo za ohranjanje zasebnosti vaše dejavnosti znotraj vaše naprave. Preprečuje, da bi vaš brskalnik shranjeval zgodovino in piškotke, vendar vas ne naredi nevidne. Vaš internetni ponudnik, skrbnik omrežja in spletne strani, ki jih obiskujete, lahko še vedno vidijo, kaj počnete v spletu."
+      ],
+      "Registering your subscription…": [
+        "Registriram vašo naročnino …"
+      ],
+      "Scan the QR code with your mobile device": [
+        "Skenirajte kodo QR z mobilno napravo."
+      ],
+      "SEPA payments are not available at the moment. Please try again later.": [
+        "Plačila SEPA trenutno niso na voljo. Poskusite znova pozneje."
+      ],
+      "Setting up ${ feature }…": [
+        "Nastavljanje ${ feature } …"
+      ],
+      "Some governments block or restrict access to certain websites. A VPN helps bypass censorship while keeping your activity and identity private.": [
+        "Nekatere vlade blokirajo ali omejujejo dostop do določenih spletnih strani. VPN vam pomaga zaobiti cenzuro, pri tem pa ohranja vašo dejavnost in identiteto zasebno."
+      ],
+      "Some websites and streaming services block content by region. A VPN lets you bypass these restrictions and access the internet freely.": [
+        "Nekatera spletna mesta in storitve pretakanja blokirajo vsebino glede na regijo. VPN vam omogoča, da zaobidete te omejitve in prosto dostopate do interneta."
+      ],
+      "Start sharing it with contacts and use it for online services.": [
+        "Začnite ga deliti s stiki in ga uporabljajte za spletne storitve."
+      ],
+      "Stay connected effortlessly by enabling the following VPN settings:": [
+        "Ostanite povezani brez težav tako, da omogočite naslednje nastavitve VPN:"
+      ],
+      "Surveillance": [
+        "Nadzor"
+      ],
+      "Thank you for subscribing. Secure browsing starts now.": [
+        "Hvala, ker ste se naročili. Varno brskanje se prične zdaj."
+      ],
+      "This means that your ISP and the websites you visit can’t connect your personal information with your online activity.": [
+        "To pomeni, da vaš ponudnik internetnih storitev in spletne strani, ki jih obiskujete, ne morejo povezati vaših osebnih podatkov z vašo spletno aktivnostjo."
+      ],
+      "This unique code can be used by websites and ISPs (internet service providers) to link your location and browsing history to your device": [
+        "To edinstveno kodo lahko spletne strani in ponudniki internetnih storitev (ISP) uporabijo za povezavo vaše lokacije in zgodovine brskanja z vašo napravo"
+      ],
+      "Tracking": [
+        "Sledenje"
+      ],
+      "VPN IP": [
+        "VPN IP"
+      ],
+      "When working remotely": [
+        "Pri delu na daljavo"
+      ],
+      "When you connect to VPN, it uses encryption technology to hide your IP address (a unique code assigned to your device).": [
+        "Ko se povežete z VPN, ta uporablja tehnologijo šifriranja, da skrije vaš IP naslov (edinstvena koda, dodeljena vaši napravi)."
+      ],
+      "You are about to open your default browser and visit:": [
+        "Odprli boste svoj privzeti brskalnik in obiskali:"
+      ],
+      "You will lose access to ${ planTitle } features on this date.": [
+        "Dostop do funkcij ${ planTitle } boste izgubili na ta datum."
+      ],
+      "Your internet service provider can monitor and sometimes sell your data, or even restrict what websites you can access.": [
+        "Vaš ponudnik internetnih storitev lahko nadzoruje in včasih prodaja vaše podatke ali celo omeji, katere spletne strani lahko obiščete."
+      ],
+      "Your IP": [
+        "Vaš IP"
+      ],
+      "Your IP address is visible and can be used to track your online activity.": [
+        "Vaš IP naslov je viden in se lahko uporablja za sledenje vaši spletni aktivnosti."
+      ],
+      "Your online activity is protected": [
+        "Vaša spletna aktivnost je zaščitena"
+      ],
+      "Your physical location is visible and can be used to restrict your access to the internet.": [
+        "Vaša fizična lokacija je vidna in se lahko uporablja za omejevanje vašega dostopa do interneta."
       ]
     },
     "info": {
@@ -5509,11 +5680,17 @@
     "Keyboard shortcut name": {
       "Open this modal": [
         "Odpri to okno"
+      ],
+      "Today": [
+        "Danes"
       ]
     },
     "Keyboard shortcut section name": {
       "Basic actions": [
         "Osnovna dejanja"
+      ],
+      "View options": [
+        "Prikaži možnosti"
       ]
     },
     "Knowledge base link label": {
@@ -5950,6 +6127,15 @@
       ],
       "Your password (admin)": [
         "Vaše geslo (admin)"
+      ],
+      "Your IP": [
+        "Vaš IP"
+      ],
+      "Your ISP": [
+        "Vaš internetni ponudnik"
+      ],
+      "Your location": [
+        "Vaša lokacija"
       ]
     },
     "Label for contact group color": {
@@ -6944,6 +7130,60 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Pregledujemo temni splet in preverjamo, ali so bili razkriti naslovi ali vzdevki ${ BRAND_NAME }. V primeru uhajanja podatkov vas bomo o tem obvestili."
+      ],
+      "${ PASS_APP_NAME } + SimpleLogin lifetime": [
+        "${ PASS_APP_NAME } + SimpleLogin za doživljenjsko uporabo"
+      ],
+      "${ size } storage per user": [
+        "${ size } shrambe na uporabnika"
+      ],
+      "10 more premium features": [
+        "Še 10 premijskih funkcij"
+      ],
+      "All ${ BRAND_NAME } products and features": [
+        "Vsi izdelki in funkcije ${ BRAND_NAME }"
+      ],
+      "All basic ${ BRAND_NAME } services (${ MAIL_SHORT_APP_NAME }, ${ VPN_SHORT_APP_NAME }, ${ PASS_SHORT_APP_NAME })": [
+        "Vse osnovne storitve ${ BRAND_NAME } (${ MAIL_SHORT_APP_NAME }, ${ VPN_SHORT_APP_NAME }, ${ PASS_SHORT_APP_NAME })"
+      ],
+      "Custom and secure business email": [
+        "Varna poslovna e-pošta po meri"
+      ],
+      "Dedicated servers optimized for streaming": [
+        "Namenski strežniki, optimirani za pretakanje"
+      ],
+      "Email groups": [
+        "Skupine e-pošte"
+      ],
+      "Manage user permissions and access": [
+        "Upravljanje uporabniških dovoljenj in dostopa"
+      ],
+      "Password manager to secure credentials": [
+        "Upravitelj gesel za zaščito poverilnic"
+      ],
+      "Private photo backup": [
+        "Zasebna varnostna kopija fotografij"
+      ],
+      "Proofread and refine your emails": [
+        "Lektoriranje in izboljšanje vaše e-pošte"
+      ],
+      "Quickly craft replies": [
+        "Hitro ustvarite odgovore"
+      ],
+      "Save time emailing": [
+        "Prihranite čas pri pošiljanju e-pošte"
+      ],
+      "Secure file storage and sharing": [
+        "Varna shramba datotek in skupna raba"
+      ],
+      "SSO integration": [
+        "SSO integracija"
+      ],
+      "Support for up to 2 users": [
+        "Podpora za do 2 uporabnika"
+      ],
+      "Unlimited shared ${ PASS_SHORT_APP_NAME } vaults per user": [
+        "Neomejeno število deljenih trezorjev ${ PASS_SHORT_APP_NAME } na uporabnika"
       ]
     },
     "new_plans: feature highlight": {
@@ -7060,6 +7300,15 @@
       ],
       "You’re enjoying a promotional price on your current plan. If you downgrade your account, you will lose your promotional price and it won’t be available if you try to subscribe again.": [
         "Uživate v promocijski ceni na vašem trenutnem paketu. Če boste zmanjšali svoj paket, boste izgubili promocijsko ceno in ta ne bo na voljo, če se poskusite ponovno naročiti."
+      ],
+      "Pay once, secure your passwords and identity forever.": [
+        "Plačajte enkrat, za vedno si zavarujte gesla in identiteto."
+      ],
+      "Protect sensitive business information and collaborate securely.": [
+        "Zaščitite občutljive poslovne informacije in varno sodelujte."
+      ],
+      "Protect your family with all premium features of ${ PASS_SHORT_APP_NAME } Plus for 6 users.": [
+        "Zaščitite svojo družino z vsemi premijskimi funkcijami programa ${ PASS_SHORT_APP_NAME } Plus za 6 uporabnikov."
       ]
     },
     "new_plans: title": {
@@ -7274,6 +7523,27 @@
       ],
       "You can have more than one admin. All admins can add and manage users but only the primary admin has control over billing.": [
         "Lahko imate več kot enega skrbnika. Vsi skrbniki lahko dodajajo in upravljajo uporabnike, vendar ima samo glavni skrbnik nadzor nad plačili."
+      ],
+      "Custom domains for aliases, additional mailboxes, the ability to send emails from aliases, and more": [
+        "Domene po meri za vzdevke, dodatne poštne predale, možnost pošiljanja e-pošte iz vzdevkov in drugo"
+      ],
+      "Dedicated servers with dedicated IP addresses can be added to private gateways to enable fine-tuned access control": [
+        "Namenske strežnike z namenskimi naslovi IP je mogoče dodati v zasebne prehode, da se omogoči natančen nadzor dostopa"
+      ],
+      "Email everyone in a group with a single email address": [
+        "Pošljite e-pošto vsem v skupini z enim samim e-poštnim naslovom"
+      ],
+      "Lifetime access to ${ PASS_APP_NAME } + SimpleLogin premium features.": [
+        "Doživljenjski dostop do ${ PASS_APP_NAME } + premijskih funkcij SimpleLogin."
+      ],
+      "Organization management tool that lets admins add and remove users, manage their access to ${ BRAND_NAME } services, and perform other tasks.": [
+        "Orodje za upravljanje organizacije, ki skrbnikom omogoča dodajanje in odstranjevanje uporabnikov, upravljanje njihovega dostopa do storitev ${ BRAND_NAME } in izvajanje drugih nalog."
+      ],
+      "Phone support is available from the ${ BRAND_NAME } Customer Support team during European business hours, for customers with 20 or more users": [
+        "Telefonska podpora je na voljo s strani ekipe za ${ BRAND_NAME } podporo strankam med evropskim delovnim časom za stranke z 20 ali več uporabniki."
+      ],
+      "Securely share individual items with anyone (even if they don't use ${ PASS_APP_NAME })": [
+        "Varno dajte posamezne predmete v skupno rabo s komer koli (tudi če ne uporablja ${ PASS_APP_NAME })"
       ]
     },
     "new_plans: Upsell attribute": {
@@ -7738,6 +8008,12 @@
     "pass_signup_2023: Info": {
       "Secure vault sharing": [
         "Varna in zanesljiva skupna raba"
+      ],
+      "Secure vault, item and link sharing": [
+        "Varna skupna raba trezorja, predmeta in povezave"
+      ],
+      "Unlimited logins, notes, credit cards and more": [
+        "Neomejeno število prijav, zapiskov, plačilnih kartic in drugega"
       ]
     },
     "pass_signup_2024: Info": {
@@ -7749,6 +8025,12 @@
       ],
       "Activity log": [
         "Dnevnik dejavnosti"
+      ],
+      "Admin panel to manage users and subscription": [
+        "Skrbniška plošča za upravljanje uporabnikov in naročnin"
+      ],
+      "Team policies": [
+        "Pravilniki skupine"
       ]
     },
     "PassFamilyPlan2024": {
@@ -7965,6 +8247,9 @@
       ],
       "Start typing an email address": [
         "Začnite pisati e-poštni naslov"
+      ],
+      "Filter quick actions": [
+        "Filtriraj hitra dejanja"
       ]
     },
     "Placeholder for contact group name": {
@@ -9035,6 +9320,15 @@
       ],
       "Your own short @pm.me email alias": [
         "Vaš kratek e-poštni vzdevek @pm.me"
+      ],
+      "${ planName } gives your team what they need to be more productive and organized in their work with access to all ${ BRAND_NAME } apps and their premium features.": [
+        "${ planName } vaši ekipi omogoča, da je bolj storilna in organizirana pri svojem delu z dostopom do vseh aplikacij ${ BRAND_NAME } in njihovih premijskih funkcij."
+      ],
+      "Folders, labels, and custom filters": [
+        "Mape, oznake in filtri po meri"
+      ],
+      "Productivity features": [
+        "Funkcije za učinkovitost"
       ]
     },
     "Subscription renewal state": {
@@ -9245,6 +9539,12 @@
       ],
       "You have successfully unsubscribed": [
         "Naročnina je preklicana"
+      ],
+      "Invitation rejected": [
+        "Povabilo zavrnjeno."
+      ],
+      "Problem reported": [
+        "Težava je sporočena."
       ]
     },
     "Suffix": {
@@ -9898,6 +10198,63 @@
       ],
       "Your exposed information": [
         "Vaša razkrita informacija"
+      ],
+      "${ appName } keyboard shortcuts": [
+        "Bližnjice na tipkovnici za ${ appName }"
+      ],
+      "${ feature } is now active": [
+        "${ feature } je zdaj aktivna"
+      ],
+      "Auto-deletion is active": [
+        "Samodejno brisanje je aktivno"
+      ],
+      "Desktop": [
+        "Namizje"
+      ],
+      "Download the app": [
+        "Prenesi aplikacijo"
+      ],
+      "Every day": [
+        "Vsak dan"
+      ],
+      "High security for your account": [
+        "Visoka varnost za vaš račun"
+      ],
+      "How does it all work?": [
+        "Kako vse to deluje?"
+      ],
+      "Information exposed in breach": [
+        "Informacije, razkrite pri kršitvi"
+      ],
+      "Make a secure connection your default": [
+        "Nastavite varno povezavo kot privzeto"
+      ],
+      "Mobile": [
+        "Mobilni"
+      ],
+      "One email, many recipients": [
+        "Ena e-pošta, številni prejemniki"
+      ],
+      "Private browsing vs VPN": [
+        "Zasebno brskanje v primerjavi z VPN"
+      ],
+      "VPN explained": [
+        "Pojasnilo o VPN"
+      ],
+      "What can a VPN protect you from?": [
+        "Pred čim vas lahko VPN zaščiti?"
+      ],
+      "What is a VPN?": [
+        "Kaj je VPN?"
+      ],
+      "When is it most important to use a VPN?": [
+        "Kdaj je uporaba VPN najbolj pomembna?"
+      ],
+      "You can now create unlimited folders and labels": [
+        "Zdaj lahko ustvarite neomejeno število map in oznak"
+      ],
+      "Your shorter address is now ready": [
+        "Vaš krajši naslov je zdaj pripravljen"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -9992,6 +10349,12 @@
       ],
       "Upload a public key to enable sending end-to-end encrypted emails to this email": [
         "Za pošiljanje od konca do konca šifriranih sporočil na ta naslov naložite javni ključ"
+      ],
+      "Not all information listed here was exposed for all users.": [
+        "Vse informacije, navedene tukaj, niso bile razkrite za vse uporabnike."
+      ],
+      "Unless they are deciphered, encrypted passwords remain secure even if they are exposed.": [
+        "Če niso dešifrirana, šifrirana gesla ostanejo varna, tudi če so izpostavljena."
       ]
     },
     "tooltip": {
@@ -10217,6 +10580,18 @@
       ],
       "Your free trial ends on ${ textDate }. ${ action }": [
         "Vaše brezplačno preizkusno obdobje se konča dne ${ textDate }. ${ action }"
+      ],
+      "2 consecutive dots are not allowed": [
+        "2 zaporedni piki nista dovoljeni"
+      ],
+      "Cannot contain a dot at the beginning": [
+        "Na začetku ne sme biti pika"
+      ],
+      "Cannot contain a dot at the end": [
+        "Ne sme vsebovati pike na koncu"
+      ],
+      "Only alphanumeric lowercase characters, dots, hyphens and underscores are allowed": [
+        "Dovoljeni so samo alfanumerični znaki, pike, vezaji in podčrtaji"
       ]
     },
     "Warning in modal to accept calendar invitation; Description": {
@@ -10546,6 +10921,36 @@
       ],
       "Meeting ID:": [
         "ID sestanka:"
+      ]
+    },
+    "Commander action": {
+      "Day view": [
+        "Dnevni pogled"
+      ],
+      "New event": [
+        "Nov dogodek"
+      ],
+      "Search events": [
+        "Iskanje dogodkov"
+      ],
+      "Today": [
+        "Danes"
+      ],
+      "Week view": [
+        "Tedenski pogled"
+      ]
+    },
+    "Custom frequency option": {
+      "Don't end": [
+        "Ne konča"
+      ],
+      "End after": [
+        "Se konča po"
+      ]
+    },
+    "Error notification": {
+      "Display name cannot be empty": [
+        "Ime za prikaz ne sme biti prazno"
       ]
     }
   }
