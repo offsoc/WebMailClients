@@ -1,7 +1,8 @@
 import { FileStorageMemory } from '@proton/pass/lib/file-storage/fs.memory';
 import { awaiter } from '@proton/pass/utils/fp/promises';
 import { logger } from '@proton/pass/utils/logger';
-import { isSafari } from '@proton/shared/lib/helpers/browser';
+import { uniqueId } from '@proton/pass/utils/string/unique-id';
+import { isMobile, isSafari } from '@proton/shared/lib/helpers/browser';
 import noop from '@proton/utils/noop';
 
 import { FileStorageIDB, openPassFileDB } from './fs.idb';
@@ -13,7 +14,10 @@ export const fileStorageReady = awaiter<boolean>();
 /** isSafari() works on web app but not on extension
  * background script, so we have to use BUILD_TARGET */
 const isOPFSSupported = () =>
-    BUILD_TARGET !== 'safari' && !isSafari() && Boolean(navigator.storage && navigator.storage.getDirectory);
+    BUILD_TARGET !== 'safari' &&
+    !isSafari() &&
+    !isMobile() &&
+    Boolean(navigator.storage && navigator.storage.getDirectory);
 
 type StorageOptions = { OPFS: boolean; IDB: boolean };
 
@@ -37,10 +41,15 @@ export const onStorageFallback = async (
     try {
         switch (fs.type) {
             case 'OPFS':
-                /** Verify OPFS availability by attempting to access storage directory.
+                /** Verify OPFS availability by attempting to access and write to storage.
                  * This confirms both API support and necessary permissions. */
                 options.OPFS = false;
-                await navigator.storage.getDirectory();
+                const root = await navigator.storage.getDirectory();
+                const filename = `test-opfs-${uniqueId()}`;
+                const fileHandle = await root.getFileHandle(filename, { create: true });
+                const writable = await fileHandle.createWritable();
+                await writable.close();
+                await root.removeEntry(filename);
                 break;
             case 'IDB':
                 /** Verify IndexedDB functionality by opening the database.

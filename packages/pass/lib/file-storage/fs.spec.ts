@@ -16,7 +16,16 @@ describe('file-storage/fs', () => {
         self.EXTENSION_BUILD = false;
 
         Object.defineProperty(global.navigator, 'storage', {
-            value: { getDirectory: jest.fn() },
+            value: {
+                getDirectory: jest.fn().mockResolvedValue({
+                    getFileHandle: jest.fn().mockResolvedValue({
+                        createWritable: jest.fn().mockResolvedValue({
+                            close: jest.fn(),
+                        }),
+                    }),
+                    removeEntry: jest.fn(),
+                }),
+            },
             configurable: true,
         });
 
@@ -144,8 +153,6 @@ describe('file-storage/fs', () => {
         });
 
         test('calls `onReady` when no fallback needed', async () => {
-            self.navigator.storage.getDirectory.mockResolvedValue({});
-
             let instance: FileStorage = new OPFS.FileStorageOPFS();
             const onSwitch = jest.fn();
             const onReady = jest.fn();
