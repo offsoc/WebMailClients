@@ -1489,6 +1489,9 @@
       ],
       "Zoom out": [
         "Zoom uit"
+      ],
+      "More options for accounts": [
+        "Meer opties voor accounts"
       ]
     },
     "action": {
@@ -4604,6 +4607,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Uw zoekopdracht leverde te veel resultaten op. Verfijn uw zoekopdracht en probeer het opnieuw."
+      ],
+      "Failed to load the STL preview": [
+        "Fout bij het laden van de STL-preview"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -6098,13 +6104,13 @@
         "Een gebruiker is een account geassocieerd met een enkele gebruikersnaam, mailbox en persoon"
       ],
       "A VPN encrypts your connection and hides your IP address, making it much harder for anyone to track or monitor your browsing.": [
-        "Een VPN versleutelt uw verbinding en verbergt uw IP-adres, waardoor het voor iedereen veel moeilijker is om uw surfen te volgen of te monitoren."
+        "Een VPN versleutelt uw verbinding en verbergt uw IP-adres, waardoor het voor iedereen veel moeilijker is om browsen te volgen of te volgen."
       ],
       "A VPN hides your IP address and encrypts your browsing activity, making it harder for websites, advertisers, and ISPs to track you over time.": [
         "Een VPN verbergt uw IP-adres en versleutelt uw browseractiviteit, waardoor het moeilijker wordt voor websites, adverteerders en internetproviders om u over een bepaalde periode te volgen."
       ],
       "A VPN is a secure tunnel between your device and the internet. It hides your location and activity from your internet service provider (ISP) and the websites you visit.": [
-        "Een VPN is een veilige tunnel tussen uw apparaat en het internet. Het verbergt je locatie en activiteit van je internetprovider (ISP) en de websites die je bezoekt."
+        "Een VPN is een veilige tunnel tussen uw apparaat en het internet. Het verbergt uw locatie en activiteit van uw internetserviceprovider (ISP) en de websites die u bezoekt."
       ],
       "Access 6,500+ high-speed servers on up to 10 devices to keep your browsing data safe. Available on ${ ios }, ${ android }, ${ appleTV }, and ${ desktop }.": [
         "Toegang tot 6 500+ hoge snelheid servers op maximaal 10 apparaten om uw surfgegevens veilig te houden. Beschikbaar op ${ ios }, ${ android }, ${ appleTV }en ${ desktop }."
@@ -6122,7 +6128,7 @@
         "Actief"
       ],
       "Ad targeting": [
-        "Advertentie targeting"
+        "Advertentie doelwit"
       ],
       "Add image URL": [
         "Voeg URL van afbeelding toe"
@@ -6647,7 +6653,7 @@
         "Geef inkomende facturen een kleurgecodeerd label, zoals \"${ suggestedLabelName }\". Verander het label naar \"${ suggestedPaidLabelName }\" zodra ze zijn betaald."
       ],
       "Governments and ISPs can monitor your online activity. By hiding your real IP and encrypting your activity your browsing becomes private.": [
-        "Regeringen en ISP's kunnen uw online activiteiten controleren. Door uw echte IP te verbergen en uw activiteit te versleutelen, wordt uw browsen privé."
+        "Regeringen en ISP's kunnen uw online activiteiten controleren. Door uw echte IP te verbergen en uw activiteit te versleutelen, wordt uw internetgedrag privé."
       ],
       "Has ${ numAttachments } attachment (${ numAttachmentsSize })": [
         "Heeft ${ numAttachments } bijlage (${ numAttachmentsSize })",
@@ -6745,7 +6751,8 @@
         "Initialiseren..."
       ],
       "Insert image": [
-        "Afbeelding invoegen"
+        "Afbeelding toevoegen",
+        "Afbeeldingen toevoegen"
       ],
       "Insert link": [
         "Link invoegen"
@@ -7306,7 +7313,7 @@
         "Sommige regeringen blokkeren of beperken de toegang tot bepaalde websites. Een VPN helpt censuur te omzeilen en uw activiteit en identiteit privé te houden."
       ],
       "Some websites and streaming services block content by region. A VPN lets you bypass these restrictions and access the internet freely.": [
-        "Sommige websites en streaming services blokkeren de inhoud per regio. Een VPN stelt u in staat om deze beperkingen te omzeilen en vrij toegang te hebben tot het internet."
+        "Sommige websites en streaming services blokkeren de inhoud per regio. Een VPN stelt u in staat om deze beperkingen te omzeilen en toegang tot het internet te krijgen."
       ],
       "Sorry, this message does not exist or has already expired.": [
         "Sorry, dit bericht bestaat niet of is al verlopen."
@@ -8066,6 +8073,15 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Uw abonnement wordt automatisch verlengd op ${ renewalTime }."
+      ],
+      "Included for free with your plan": [
+        "Gratis inbegrepen bij uw abonnement"
+      ],
+      "Learn what to do ${ dataLeakedLink }": [
+        "Leer wat te doen ${ dataLeakedLink }"
+      ],
+      "Thank you for subscribing. Secure browsing starts now.": [
+        "Bedankt voor uw abonnement. Veilig browsen begint nu."
       ]
     },
     "info": {
@@ -8916,6 +8932,12 @@
       ],
       "Your password (admin)": [
         "Uw wachtwoord (admin)"
+      ],
+      "Enable desktop notifications": [
+        "Schakel bureaubladmeldingen in"
+      ],
+      "Notifications are disabled, to enable them change the browser settings.": [
+        "Notificaties zijn uitgeschakeld, wijzig de browserinstellingen om ze in te schakelen."
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9183,6 +9205,9 @@
       ],
       "You need to reactivate your keys to see the updated invitation": [
         "U moet uw sleutels opnieuw activeren om de bijgewerkte uitnodiging te zien"
+      ],
+      "if your data is leaked": [
+        "als uw gegevens zijn gelekt"
       ]
     },
     "Link to calendar event": {
@@ -10610,6 +10635,12 @@
       ],
       "Your subscription renews soon": [
         "Uw abonnement verloopt binnenkort"
+      ],
+      "${ BRAND_NAME } Unlimited for 12 months": [
+        "${ BRAND_NAME } Onbeperkt voor 12 maanden"
+      ],
+      "${ planName } for 12 months": [
+        "${ planName } voor 12 maanden"
       ]
     },
     "Offer feature": {
@@ -10675,7 +10706,7 @@
         "${ protectionFromTrackersTitle } betekent niet meer gevolgd worden op het internet."
       ],
       "Activate premium features": [
-        "Premium functies activeren"
+        "Premium functies"
       ],
       "Activate selected": [
         "Activeer geselecteerde"
@@ -10687,13 +10718,13 @@
         "Altijd en overal toegankelijk"
       ],
       "Auto-delete spam and trash": [
-        "Spam en Prullenbak automatisch verwijderen"
+        "Spam en prullenbak verwijderen"
       ],
       "browser": [
         "browser"
       ],
       "Clear out deleted and spam emails after 30 days.": [
-        "Wis verwijderde en spammails na 30 dagen."
+        "Wis verwijderde e-mails en spam na 30 dagen."
       ],
       "Continue": [
         "Ga verder"
@@ -10717,7 +10748,7 @@
         "Voor altijd toegang tot e-mail en geoptimaliseerde mobiele ervaring, download onze ${ mobileAppAppStoreLink } of ${ mobileAppGooglePlayLink }-app."
       ],
       "Get notified if your password is compromised.": [
-        "Ontvang een melding als uw wachtwoord is gecompromitteerd."
+        "Ontvang een melding als uw wachtwoord in gevaar is gebracht."
       ],
       "Industry-leading spam protection": [
         "Toonaangevende spambescherming"
@@ -10747,7 +10778,7 @@
         "Begin ${ BRAND_NAME } te gebruiken"
       ],
       "Start using the shorter, catchier version of your email address.": [
-        "Begin met het gebruiken van uw kortere, meer catchy versie van uw e-mailadres."
+        "Gebruik de kortere, meer catchy versie van uw e-mailadres."
       ],
       "To get started, choose a display name. This is what people will see when you send an email, invite them to an event, or share a file.": [
         "Kies een weergavenaam om te beginnende. Dit is de naam die mensen zien als u een e-mail verzendt, ze uitnodigt voor een gebeurtenis of een bestand deelt."
@@ -13709,7 +13740,7 @@
         "Prioriteitsondersteuning:"
       ],
       "Private browsing vs VPN": [
-        "Privébrowsen vs VPN"
+        "Privé browsen versus VPN"
       ],
       "Processing...": [
         "Wordt verwerkt..."
@@ -13967,6 +13998,9 @@
       ],
       "Your shorter address is now ready": [
         "Uw kortere adres is nu klaar"
+      ],
+      "Information exposed in breach": [
+        "Informatie die is blootgesteld bij datalek"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14055,6 +14089,12 @@
       ],
       "Upload a public key to enable sending end-to-end encrypted emails to this email": [
         "Upload een openbare sleutel om het sturen van end-to-end versleutelde berichten naar dit e-mailadres mogelijk te maken"
+      ],
+      "Not all information listed here was exposed for all users.": [
+        "Niet alle hier vermelde informatie werd voor alle gebruikers blootgesteld."
+      ],
+      "Unless they are deciphered, encrypted passwords remain secure even if they are exposed.": [
+        "Tenzij ze worden ontcijferd, blijven versleutelde wachtwoorden veilig, zelfs als ze worden blootgesteld."
       ]
     },
     "tooltip": {

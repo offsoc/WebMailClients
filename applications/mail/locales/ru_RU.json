@@ -5238,7 +5238,7 @@
     },
     "Footer": {
       "${ BRAND_NAME }. Privacy by default.": [
-        "${ BRAND_NAME }. Конфиденциальность по умолчанию."
+        "${ BRAND_NAME }. Privacy by default."
       ]
     },
     "forwardmessage": {
@@ -10786,7 +10786,7 @@
         "${ protectionFromTrackersTitle } означает, что за вами больше не будут следить по всему Интернету."
       ],
       "Activate premium features": [
-        "Активировать премиум-функции"
+        "Платные функции"
       ],
       "Activate selected": [
         "Активизировать выбранное"
@@ -10798,7 +10798,7 @@
         "Доступ в любое время и в любом месте"
       ],
       "Auto-delete spam and trash": [
-        "Автоудаление спама и сообщений в корзине"
+        "Автоудаление спама и Корзины"
       ],
       "browser": [
         "браузер"
@@ -10858,7 +10858,7 @@
         "Начните использовать ${ BRAND_NAME }"
       ],
       "Start using the shorter, catchier version of your email address.": [
-        "Начните использовать более короткий и запоминающийся вариант своего адреса электронной почты."
+        "Начните использовать более короткий вариант вашего адреса эл. почты."
       ],
       "To get started, choose a display name. This is what people will see when you send an email, invite them to an event, or share a file.": [
         "Для начала работы выберите отображаемое имя. Его будут видеть люди, когда вы отправите им электронное сообщение, пригласите их на мероприятие или поделитесь файлом."
@@ -14327,6 +14327,12 @@
         "${ numberOfServers } в ${ numberOfCountries } странах",
         "${ numberOfServers } в ${ numberOfCountries } странах",
         "${ numberOfServers } в ${ numberOfCountries } странах"
+      ],
+      "Auto-selects from ${ numberOfCountries } country": [
+        "Автоматически выбирается из ${ numberOfCountries } страны",
+        "Автоматически выбирается из ${ numberOfCountries } стран",
+        "Автоматически выбирается из ${ numberOfCountries } стран",
+        "Автоматически выбирается из ${ numberOfCountries } стран"
       ]
     },
     "vpn_2024: renew": {

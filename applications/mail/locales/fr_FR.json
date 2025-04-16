@@ -1483,6 +1483,12 @@
       ],
       "Zoom out": [
         "Zoom arrière"
+      ],
+      "More options for accounts": [
+        "Plus d'options pour les comptes"
+      ],
+      "Toggle VPN dashboard": [
+        "Afficher ou masquer le tableau de bord VPN"
       ]
     },
     "action": {
@@ -4595,6 +4601,12 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Votre recherche a donné trop de résultats. Nous vous invitons à limiter votre recherche et à réessayer."
+      ],
+      "Failed to load the STL preview": [
+        "Le chargement de l’aperçu STL n'a pas abouti."
+      ],
+      "Unable to load VPN dashboard. Please check your connection and try again.": [
+        "Le chargement du tableau de bord VPN n'a pas abouti. Veuillez vérifier votre connexion et réessayer."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -6709,7 +6721,8 @@
         "Initialisation…"
       ],
       "Insert image": [
-        "Insérer une image"
+        "Insérer une image",
+        "Insérer des images"
       ],
       "Insert link": [
         "Insérer un lien"
@@ -7544,7 +7557,7 @@
         "Traqueurs bloqués :"
       ],
       "Tracking": [
-        "Traçage"
+        "Traqueurs"
       ],
       "Try new ${ BRAND_NAME } features, updates and products before they are released to the public. This will reload the application": [
         "Testez les nouveaux produits, mises à jour et fonctionnalités de ${ BRAND_NAME } avant qu'ils ne soient accessibles au public. Cela rechargera l'application."
@@ -8000,6 +8013,72 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Votre abonnement sera automatiquement renouvelé le ${ renewalTime }."
+      ],
+      "${ VPN_APP_NAME } is masking your IP address, so websites can’t identify you.": [
+        "${ VPN_APP_NAME } masque votre adresse IP, afin que les sites internet ne puissent pas vous identifier."
+      ],
+      "**Auto-connect**: Opens and connects to VPN as soon as you turn on your device.": [
+        "**Connexion automatique** : cette option ouvre et vous connecte au VPN dès que vous allumez votre appareil."
+      ],
+      "**Kill switch**: Stops data leaks by blocking your internet if the VPN drops unexpectedly.": [
+        "**Arrêt d'urgence (kill switch)** : cette option arrête les fuites de données en bloquant votre connexion internet si le VPN se déconnecte de manière inattendue."
+      ],
+      "A secure connection is essential when working remotely. A VPN protects company data from cyber threats and keeps your work private.": [
+        "Une connexion sécurisée est essentielle en télétravail. Un VPN protège les données de l'entreprise des cybermenaces et préserve la confidentialité de votre travail."
+      ],
+      "A VPN encrypts your connection and hides your IP address, making it much harder for anyone to track or monitor your browsing.": [
+        "Un VPN chiffre votre connexion et masque votre adresse IP, ce qui rend beaucoup plus difficile pour quiconque de suivre ou de surveiller votre navigation."
+      ],
+      "A VPN hides your IP address and encrypts your browsing activity, making it harder for websites, advertisers, and ISPs to track you over time.": [
+        "Un VPN masque votre adresse IP et chiffre vos activités de navigation, ce qui rend plus difficile pour les sites internet, les annonceurs et les FAI de vous suivre au fil du temps."
+      ],
+      "A VPN is a secure tunnel between your device and the internet. It hides your location and activity from your internet service provider (ISP) and the websites you visit.": [
+        "Un VPN est un tunnel sécurisé entre votre appareil et internet. Il masque votre emplacement et vos activités à votre fournisseur d'accès à internet (FAI) et aux sites internet que vous consultez."
+      ],
+      "Advertisers track your browsing to show targeted ads. ${ VPN_APP_NAME } blocks trackers and ads, making your connection faster and improving your online experience.": [
+        "Les annonceurs suivent votre navigation pour afficher des publicités ciblées. ${ VPN_APP_NAME } bloque les traqueurs et les publicités, rendant votre connexion plus rapide et améliorant votre expérience en ligne."
+      ],
+      "Governments and ISPs can monitor your online activity. By hiding your real IP and encrypting your activity your browsing becomes private.": [
+        "Les gouvernements et les FAI peuvent surveiller vos activités en ligne. En masquant votre véritable IP et en chiffrant vos activités, votre navigation devient privée."
+      ],
+      "Included for free with your plan": [
+        "Inclus gratuitement dans votre abonnement"
+      ],
+      "It’s best to use a VPN at all times. But here’s when cybersecurity threats can be the highest:": [
+        "Il est préférable d'utiliser un VPN en permanence. Mais voici les cas où les menaces à la cybersécurité peuvent être les plus importantes :"
+      ],
+      "Learn what to do ${ dataLeakedLink }": [
+        "Apprenez ce qu'il faut faire ${ dataLeakedLink }"
+      ],
+      "Most public WiFi networks are safe, but some lack security, exposing you to cyber threats. A VPN encrypts your traffic, keeping you protected.": [
+        "La plupart des réseaux wifi publics sont sûrs, mais certains manquent de sécurité, vous exposant ainsi aux cybermenaces. Un VPN chiffre votre trafic pour vous protéger."
+      ],
+      "Private browsing (or “incognito” mode) is only useful for keeping your activity hidden on your device. It stops your browser from saving history and cookies, but it doesn’t make you invisible. Your ISP, network administrator, and the websites you visit can still see what you do online.": [
+        "La navigation privée (ou mode « incognito ») sert uniquement à masquer vos activités sur votre appareil. Elle empêche votre navigateur d'enregistrer l'historique et les cookies, mais ne vous rend pas invisible. Votre FAI, votre administrateur réseau et les sites internet que vous consultez peuvent toujours voir ce que vous faites en ligne."
+      ],
+      "Some governments block or restrict access to certain websites. A VPN helps bypass censorship while keeping your activity and identity private.": [
+        "Certains gouvernements bloquent ou restreignent l'accès à certains sites internet. Un VPN permet de contourner la censure tout en préservant la confidentialité de vos activités et de votre identité."
+      ],
+      "Some websites and streaming services block content by region. A VPN lets you bypass these restrictions and access the internet freely.": [
+        "Des sites internet et services de streaming bloquent certains contenus par région. Un VPN vous permet de contourner ces restrictions et d'accéder librement à internet."
+      ],
+      "Thank you for subscribing. Secure browsing starts now.": [
+        "Merci de vous être abonné. La navigation sécurisée commence maintenant."
+      ],
+      "This means that your ISP and the websites you visit can’t connect your personal information with your online activity.": [
+        "Cela signifie que votre FAI et les sites internet que vous visitez ne peuvent pas lier vos informations personnelles à vos activités en ligne."
+      ],
+      "When you connect to VPN, it uses encryption technology to hide your IP address (a unique code assigned to your device).": [
+        "Lorsque vous vous connectez au VPN, il utilise une technologie de chiffrement pour masquer votre adresse IP (un code unique attribué à votre appareil)."
+      ],
+      "Your internet service provider can monitor and sometimes sell your data, or even restrict what websites you can access.": [
+        "Votre fournisseur d’accès internet peut surveiller et parfois vendre vos données, voire restreindre les sites internet auxquels vous pouvez accéder."
+      ],
+      "Your IP address is visible and can be used to track your online activity.": [
+        "Votre adresse IP est visible et peut être utilisée pour suivre vos activités en ligne."
+      ],
+      "Your physical location is visible and can be used to restrict your access to the internet.": [
+        "Votre emplacement physique est visible et peut être utilisé pour restreindre votre accès à internet."
       ]
     },
     "info": {
@@ -8853,6 +8932,12 @@
       ],
       "Your password (admin)": [
         "Votre mot de passe (admin)"
+      ],
+      "Enable desktop notifications": [
+        "Activer les notifications de bureau"
+      ],
+      "Notifications are disabled, to enable them change the browser settings.": [
+        "Les notifications sont désactivées. Pour les activer, modifiez les paramètres du navigateur."
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9120,6 +9205,9 @@
       ],
       "You need to reactivate your keys to see the updated invitation": [
         "Vous devez réactiver vos clés pour voir l'invitation mise à jour."
+      ],
+      "if your data is leaked": [
+        "si vos données sont divulguées"
       ]
     },
     "Link to calendar event": {
@@ -9351,11 +9439,11 @@
     },
     "Monthly recurring event, frequency (until)": {
       "Every ${ interval } month ${ onDayString }, ${ untilString }": [
-        "Chaque ${ interval } mois, le ${ onDayString }, ${ untilString }",
-        "Tous les ${ interval } mois, le ${ onDayString }, ${ untilString }"
+        "Chaque ${ interval } mois, ${ onDayString }, ${ untilString }",
+        "Tous les ${ interval } mois, ${ onDayString }, ${ untilString }"
       ],
       "Monthly ${ onDayString }, ${ untilString }": [
-        "Chaque mois, le ${ onDayString }, ${ untilString }"
+        "Chaque mois, ${ onDayString }, ${ untilString }"
       ]
     },
     "Monthly recurring event, repeats on": {
@@ -10547,6 +10635,12 @@
       ],
       "Your subscription renews soon": [
         "Votre abonnement se renouvelle bientôt."
+      ],
+      "${ BRAND_NAME } Unlimited for 12 months": [
+        "${ BRAND_NAME } Unlimited pour 12 mois"
+      ],
+      "${ planName } for 12 months": [
+        "${ planName } pour 12 mois"
       ]
     },
     "Offer feature": {
@@ -10612,7 +10706,7 @@
         "${ protectionFromTrackersTitle } : vous ne serez plus suivi sur internet."
       ],
       "Activate premium features": [
-        "Activez les fonctions premium"
+        "Fonctionnalités premium"
       ],
       "Activate selected": [
         "Activez la sélection"
@@ -10627,13 +10721,13 @@
         "Accès à tout moment et depuis n'importe où"
       ],
       "Auto-delete spam and trash": [
-        "Suppression automatique des messages indésirables/spam et dans la corbeille"
+        "Suppression auto spam corbeille"
       ],
       "browser": [
         "navigateur"
       ],
       "Clear out deleted and spam emails after 30 days.": [
-        "Supprimez les e-mails dans la corbeille et les spams après 30 jours."
+        "Supprimez les e-mails dans la corbeille et les spams après 30 jours."
       ],
       "Continue": [
         "Continuer"
@@ -10690,7 +10784,7 @@
         "Commencez à utiliser ${ BRAND_NAME }"
       ],
       "Start using the shorter, catchier version of your email address.": [
-        "Commencez à utiliser la version plus courte et plus facile à mémoriser de votre adresse e-mail."
+        "Utilisez une version courte et percutante de votre adresse e-mail."
       ],
       "To get started, choose a display name. This is what people will see when you send an email, invite them to an event, or share a file.": [
         "Pour commencer, choisissez un nom d'affichage. C'est le nom que les gens verront quand vous leur enverrez un message, quand vous les inviterez à un événement ou quand vous partagerez un fichier avec eux."
@@ -13748,7 +13842,7 @@
         "Erreur lors de l'envoi"
       ],
       "Sending notice": [
-        "Envoi de l'avis"
+        "Avertissement concernant l’envoi"
       ],
       "Sending original message": [
         "Envoi du message original"
@@ -13901,6 +13995,18 @@
       ],
       "Your shorter address is now ready": [
         "Votre adresse au format plus court est maintenant prête."
+      ],
+      "Information exposed in breach": [
+        "Informations divulguées lors de la fuite de données"
+      ],
+      "Make a secure connection your default": [
+        "Optez par défaut pour une connexion sécurisée"
+      ],
+      "Private browsing vs VPN": [
+        "Navigation privée versus VPN"
+      ],
+      "VPN explained": [
+        "Explications sur le VPN"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13989,6 +14095,12 @@
       ],
       "Upload a public key to enable sending end-to-end encrypted emails to this email": [
         "Chargez une clé publique pour activer l'envoi de messages chiffrés de bout en bout à destination de cette adresse e-mail."
+      ],
+      "Not all information listed here was exposed for all users.": [
+        "Toutes les informations répertoriées ici n'ont pas été exposées à tous les utilisateurs."
+      ],
+      "Unless they are deciphered, encrypted passwords remain secure even if they are exposed.": [
+        "À moins d’être déchiffrés, les mots de passe chiffrés restent sécurisés même s’ils sont exposés."
       ]
     },
     "tooltip": {

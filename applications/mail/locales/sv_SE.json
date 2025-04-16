@@ -1486,6 +1486,9 @@
       ],
       "Zoom out": [
         "Zooma ut"
+      ],
+      "More options for accounts": [
+        "Fler alternativ för konton"
       ]
     },
     "action": {
@@ -4598,6 +4601,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Din sökning matchade för många resultat. Begränsa din sökning och försök igen."
+      ],
+      "Failed to load the STL preview": [
+        "Misslyckades att ladda STL-förhandsgranskningen"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -5229,7 +5235,7 @@
     },
     "Footer": {
       "${ BRAND_NAME }. Privacy by default.": [
-        "${ BRAND_NAME }. Integritet som standard."
+        "${ BRAND_NAME }. Privacy by default."
       ]
     },
     "forwardmessage": {
@@ -6739,7 +6745,8 @@
         "Initierar…"
       ],
       "Insert image": [
-        "Infoga bild"
+        "Infoga bild",
+        "Infoga bilder"
       ],
       "Insert link": [
         "Infoga länk"
@@ -8048,6 +8055,15 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Din prenumeration kommer förnyas automatiskt den ${ renewalTime }."
+      ],
+      "Included for free with your plan": [
+        "Inkluderat gratis med ditt paket"
+      ],
+      "Learn what to do ${ dataLeakedLink }": [
+        "Lär dig vad du ska göra ${ dataLeakedLink }"
+      ],
+      "Thank you for subscribing. Secure browsing starts now.": [
+        "Tack för att du prenumererar. Säker surfning börjar nu."
       ]
     },
     "info": {
@@ -8901,6 +8917,12 @@
       ],
       "Your password (admin)": [
         "Ditt lösenord (admin)"
+      ],
+      "Enable desktop notifications": [
+        "Aktivera aviseringar för stationär dator"
+      ],
+      "Notifications are disabled, to enable them change the browser settings.": [
+        "Meddelanden är inaktiverade, för att aktivera dem ändrar du webbläsarinställningarna."
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9168,6 +9190,9 @@
       ],
       "You need to reactivate your keys to see the updated invitation": [
         "Du måste återaktivera dina nycklar för att se den uppdaterade inbjudan"
+      ],
+      "if your data is leaked": [
+        "om dina uppgifter läcker ut"
       ]
     },
     "Link to calendar event": {
@@ -10600,6 +10625,12 @@
       ],
       "Your subscription renews soon": [
         "Din prenumeration förnyas snart"
+      ],
+      "${ BRAND_NAME } Unlimited for 12 months": [
+        "${ BRAND_NAME } Obegränsat i 12 månader"
+      ],
+      "${ planName } for 12 months": [
+        "${ planName } för 12 månader"
       ]
     },
     "Offer feature": {
@@ -10665,7 +10696,7 @@
         "${ protectionFromTrackersTitle } innebär att du inte längre följs över internet."
       ],
       "Activate premium features": [
-        "Aktivera premiumfunktioner"
+        "Premiumfunktioner"
       ],
       "Activate selected": [
         "Aktivera valda"
@@ -10677,7 +10708,7 @@
         "Åtkomst när som helst, var som helst"
       ],
       "Auto-delete spam and trash": [
-        "Ta bort skräppost och papperskorg automatiskt"
+        "Ta bort skräppost"
       ],
       "browser": [
         "webbläsare"
@@ -13945,6 +13976,9 @@
       ],
       "Your shorter address is now ready": [
         "Din kortare adress är redo nu"
+      ],
+      "Information exposed in breach": [
+        "Information exponerad vid intrång"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14033,6 +14067,12 @@
       ],
       "Upload a public key to enable sending end-to-end encrypted emails to this email": [
         "Ladda upp en offentlig nyckel för att aktivera sändning av end-to-end-krypterad e-post till denna e-post"
+      ],
+      "Not all information listed here was exposed for all users.": [
+        "All information som anges här har inte exponerats för alla användare."
+      ],
+      "Unless they are deciphered, encrypted passwords remain secure even if they are exposed.": [
+        "Om de inte avkodas förblir krypterade lösenord säkra även om de exponeras."
       ]
     },
     "tooltip": {
@@ -14160,6 +14200,10 @@
       ],
       "Securely exchange Bitcoin via email instead of complex, 26-character Bitcoin addresses that are prone to error": [
         "Växla Bitcoin säkert via e-post istället för komplexa, 26-teckniga Bitcoin-adresser som är benägna att ge upphov till fel"
+      ],
+      "${ n } ${ BRAND_NAME } email address": [
+        "${ n } ${ BRAND_NAME } e-postadress",
+        "${ n } ${ BRAND_NAME } e-postadresser"
       ]
     },
     "wallet_signup_2024:Action": {

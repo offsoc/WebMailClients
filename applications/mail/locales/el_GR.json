@@ -1486,6 +1486,9 @@
       ],
       "Zoom out": [
         "Σμίκρυνση"
+      ],
+      "More options for accounts": [
+        "Περισσότερες επιλογές για λογαριασμούς"
       ]
     },
     "action": {
@@ -4601,6 +4604,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Η αναζήτησή σας ταίριαξε με υπερβολικό αριθμό αποτελεσμάτων. Παρακαλούμε περιορίστε την αναζήτησή σας και δοκιμάστε ξανά."
+      ],
+      "Failed to load the STL preview": [
+        "Αποτυχία φόρτωσης της προεπισκόπησης STL"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -5232,7 +5238,7 @@
     },
     "Footer": {
       "${ BRAND_NAME }. Privacy by default.": [
-        "${ BRAND_NAME }. Απόρρητο από προεπιλογή."
+        "${ BRAND_NAME }. Privacy by default."
       ]
     },
     "forwardmessage": {
@@ -6742,7 +6748,8 @@
         "Προετοιμασία…"
       ],
       "Insert image": [
-        "Εισαγωγή εικόνας"
+        "Εισαγωγή εικόνας",
+        "Εισαγωγή εικόνων"
       ],
       "Insert link": [
         "Εισαγωγή συνδέσμου"
@@ -8063,6 +8070,15 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Η συνδρομή σας θα ανανεωθεί αυτόματα στις ${ renewalTime }."
+      ],
+      "Included for free with your plan": [
+        "Συμπεριλαμβάνεται δωρεάν με το πλάνο σας"
+      ],
+      "Learn what to do ${ dataLeakedLink }": [
+        "Μάθετε τι να κάνετε ${ dataLeakedLink }"
+      ],
+      "Thank you for subscribing. Secure browsing starts now.": [
+        "Σας ευχαριστούμε για την εγγραφή σας. Η ασφαλής περιήγηση ξεκινά τώρα."
       ]
     },
     "info": {
@@ -8913,6 +8929,12 @@
       ],
       "Your password (admin)": [
         "Ο κωδικός σας (διαχειριστής)"
+      ],
+      "Enable desktop notifications": [
+        "Ενεργοποίηση ειδοποιήσεων επιφάνειας εργασίας"
+      ],
+      "Notifications are disabled, to enable them change the browser settings.": [
+        "Οι ειδοποιήσεις είναι απενεργοποιημένες, για να τις ενεργοποιήσετε αλλάξτε τις ρυθμίσεις του προγράμματος περιήγησης."
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9180,6 +9202,9 @@
       ],
       "You need to reactivate your keys to see the updated invitation": [
         "Πρέπει να επανενεργοποιήσετε τα κλειδιά σας για να δείτε την ενημερωμένη πρόσκληση"
+      ],
+      "if your data is leaked": [
+        "εάν τα δεδομένα σας υποστούν διαρρεύσει"
       ]
     },
     "Link to calendar event": {
@@ -10607,6 +10632,12 @@
       ],
       "Your subscription renews soon": [
         "Η συνδρομή σας ανανεωθεί σύντομα"
+      ],
+      "${ BRAND_NAME } Unlimited for 12 months": [
+        "${ BRAND_NAME } Unlimited για 12 μήνες"
+      ],
+      "${ planName } for 12 months": [
+        "${ planName } για 12 μήνες"
       ]
     },
     "Offer feature": {
@@ -10672,7 +10703,7 @@
         "${ protectionFromTrackersTitle } σημαίνει ότι δεν ακολουθείται πλέον στο διαδίκτυο."
       ],
       "Activate premium features": [
-        "Ενεργοποιήστε premium δυνατότητες"
+        "Premium δυνατότητες"
       ],
       "Activate selected": [
         "Ενεργοποίηση επιλεγμένων"
@@ -10684,13 +10715,13 @@
         "Πρόσβαση ανά πάσα στιγμή, από οπουδήποτε"
       ],
       "Auto-delete spam and trash": [
-        "Αυτόματη διαγραφή ανεπιθύμητων και διαγεγραμμένων μηνυμάτων"
+        "Αυτοδιαγραφή ενοχλητ./κάδος"
       ],
       "browser": [
         "πρόγραμμα περιήγησης"
       ],
       "Clear out deleted and spam emails after 30 days.": [
-        "Διαγράψτε τα διαγραμμένα και ανεπιθύμητα μηνύματα ηλεκτρονικού ταχυδρομείου μετά από 30 ημέρες."
+        "Διαγράψτε διαγραμμένα και ενοχλητικά μηνύματα σε 30 μέρες."
       ],
       "Continue": [
         "Συνέχεια"
@@ -10714,7 +10745,7 @@
         "Για πρόσβαση ανά πάσα στιγμή στο ηλεκτρονικό ταχυδρομείο και βελτιστοποιημένη εμπειρία κινητής τηλεφωνίας, κατεβάστε την εφαρμογή ${ mobileAppAppStoreLink } ή ${ mobileAppGooglePlayLink }."
       ],
       "Get notified if your password is compromised.": [
-        "Λάβετε ειδοποίηση εάν ο κωδικός πρόσβασής σας έχει παραβιαστεί."
+        "Λάβετε ειδοποίηση εάν ο κωδικός σας έχει παραβιαστεί."
       ],
       "Industry-leading spam protection": [
         "Κορυφαία στον κλάδο προστασία από ανεπιθύμητα μηνύματα"
@@ -10744,7 +10775,7 @@
         "Αρχίστε να χρησιμοποιείτε το ${ BRAND_NAME }"
       ],
       "Start using the shorter, catchier version of your email address.": [
-        "Ξεκινήστε να χρησιμοποιείτε τη συντομότερη, πιο πιασάρικη έκδοση της διεύθυνσης ηλεκτρονικού ταχυδρομείου σας."
+        "Χρησιμοποιήστε τη σύντομη, πιασάρικη ηλεκτρονική διεύθυνση."
       ],
       "To get started, choose a display name. This is what people will see when you send an email, invite them to an event, or share a file.": [
         "Για να ξεκινήσετε, επιλέξτε ένα εμφανιζόμενο όνομα. Αυτό θα βλέπουν οι χρήστες όταν στέλνετε ένα μήνυμα ηλεκτρονικού ταχυδρομείου, τους προσκαλείτε σε ένα συμβάν ή μοιράζεστε ένα αρχείο."
@@ -13964,6 +13995,9 @@
       ],
       "Your shorter address is now ready": [
         "Η συντομότερη διεύθυνσή σας είναι τώρα έτοιμη"
+      ],
+      "Information exposed in breach": [
+        "Πληροφορίες που εκτέθηκαν κατά την παραβίαση"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14052,6 +14086,12 @@
       ],
       "Upload a public key to enable sending end-to-end encrypted emails to this email": [
         "Για ενεργοποίηση της αποστολής διατερματικά κρυπτογραφημένων μηνυμάτων προς αυτήν τη διεύθυνση, ανεβάστε ένα δημόσιο κλειδί"
+      ],
+      "Not all information listed here was exposed for all users.": [
+        "Δεν εκτέθηκαν όλες οι πληροφορίες που παρατίθενται εδώ για όλους τους χρήστες."
+      ],
+      "Unless they are deciphered, encrypted passwords remain secure even if they are exposed.": [
+        "Εκτός αν αποκρυπτογραφηθούν, οι κρυπτογραφημένοι κωδικοί παραμένουν ασφαλείς ακόμα και αν εκτεθούν."
       ]
     },
     "tooltip": {

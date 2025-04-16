@@ -5859,6 +5859,11 @@
       ],
       "Unlimited messages per day": [
         "Neograničen broj poruka dnevno"
+      ],
+      "${ n } message per day": [
+        "${ n } poruka po danu",
+        "${ n } poruke po danu",
+        "${ n } poruka po danu"
       ]
     },
     "new_plans: heading": {
@@ -5913,6 +5918,21 @@
     "Onboarding modal": {
       "Next": [
         "Sljedeće"
+      ],
+      "Activate premium features": [
+        "Premium značajke"
+      ],
+      "Auto-delete spam and trash": [
+        "Briši neželjenu poštu i otpad"
+      ],
+      "Clear out deleted and spam emails after 30 days.": [
+        "Očistite izbrisane e-poruke i neželjenu poštu nakon 30 dana."
+      ],
+      "Get notified if your password is compromised.": [
+        "Primajte obavijesti ako vam je lozinka kompromitirana."
+      ],
+      "Start using the shorter, catchier version of your email address.": [
+        "Počnite upotrebljavati kraću i pamtljiviju verziju svoje e-pošte."
       ]
     },
     "Onboarding Proton": {
@@ -6683,6 +6703,11 @@
         "${ n } VPN veza po korisniku",
         "${ n } VPN veze po korisniku",
         "${ n } VPN veza po korisniku"
+      ],
+      "${ n } high-speed VPN connection per user": [
+        "${ n } VPN veza visoke brzine po korisniku",
+        "${ n } VPN veze visoke brzine po korisniku",
+        "${ n } VPN veza visoke brzine po korisniku"
       ]
     },
     "Subscription change warning": {

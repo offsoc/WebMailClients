@@ -1482,6 +1482,9 @@
       ],
       "Two-year": [
         "Snat n tikkal i useggas"
+      ],
+      "New!": [
+        "Amaynut"
       ]
     },
     "Bug category": {
@@ -1561,6 +1564,9 @@
       ],
       "Continue using ${ planTitle }": [
         "Kemmel s useqdec ${ planTitle }"
+      ],
+      "Next": [
+        "Ɣer sdat"
       ]
     },
     "Calendar attachment tooltip": {
@@ -4917,7 +4923,8 @@
         "Yettwaɣellet seg ukaram agejdan"
       ],
       "Insert image": [
-        "Ger tugna"
+        "Ger tugna",
+        "Ger tugniwn"
       ],
       "Insert link": [
         "Ger aseɣwen"
@@ -6381,6 +6388,9 @@
       ],
       "Your password (admin)": [
         "Awal-ik uffir (anedbal)"
+      ],
+      "IBAN": [
+        "IBAN"
       ]
     },
     "Label (end date/advanced search)": {
@@ -7131,6 +7141,10 @@
       ],
       "User session management": [
         "Asefrek n tiɣimiyin n useqdac"
+      ],
+      "Up to ${ n } user": [
+        "Alamma d ${ n } yiseqdac",
+        "Alamma d ${ n } yiseqdacen"
       ]
     },
     "new_plans: feature info": {
@@ -7259,6 +7273,21 @@
       ],
       "Protection from trackers": [
         "Ammesten mgal ineḍfaren"
+      ],
+      "Activate premium features": [
+        "Snerni timahilin premium"
+      ],
+      "Auto-delete spam and trash": [
+        "Sefkeḍ awtomatik spam d iḍumman"
+      ],
+      "Clear out deleted and spam emails after 30 days.": [
+        "Sfeḍ imaylen yettwaksen d spam seld 30 wussan."
+      ],
+      "Get notified if your password is compromised.": [
+        "Ssiweḍ-d ismaẓalen ma yella password-ik yettwaker."
+      ],
+      "Start using the shorter, catchier version of your email address.": [
+        "Beddّل aseqdec n uswir yettwaṭṭfen d uṣebḥan n tansa n yimayl-ik."
       ]
     },
     "Onboarding Proton": {
@@ -7364,6 +7393,9 @@
       ],
       "MM/YY": [
         "MM/YY"
+      ],
+      "CVC": [
+        "CVC"
       ]
     },
     "Payments.Error": {
@@ -9618,6 +9650,16 @@
       ],
       "Yearly, ${ untilString }": [
         "S useggas, ${ untilString }"
+      ]
+    },
+    "Label (begin date/advanced search)": {
+      "From": [
+        "Seg"
+      ]
+    },
+    "Payments.plan_name": {
+      "Free": [
+        "Baṭel"
       ]
     }
   }

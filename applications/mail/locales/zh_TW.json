@@ -5121,7 +5121,7 @@
     },
     "Footer": {
       "${ BRAND_NAME }. Privacy by default.": [
-        "${ BRAND_NAME }。預設即隱私"
+        "${ BRAND_NAME }. Privacy by default."
       ]
     },
     "forwardmessage": {
@@ -6518,7 +6518,7 @@
         "正在初始化 ..."
       ],
       "Insert image": [
-        "插入圖像"
+        "插入圖片"
       ],
       "Insert link": [
         "插入連結"
@@ -10255,7 +10255,7 @@
         "${ protectionFromTrackersTitle }避免於網路上被跟蹤。"
       ],
       "Activate premium features": [
-        "激活頂級質子版功能"
+        "啟用頂級質子版功能"
       ],
       "Activate selected": [
         "啟用已選取"
@@ -10273,7 +10273,7 @@
         "瀏覽器"
       ],
       "Clear out deleted and spam emails after 30 days.": [
-        "30天後清除已刪除和垃圾郵件電子郵件。"
+        "30 天後清除已刪除的電子郵件和垃圾郵件電子郵件。"
       ],
       "Continue": [
         "下一步"
@@ -10297,7 +10297,7 @@
         "於任何時間存取電子郵件和優化的移動端使用體驗，下載我們的${ mobileAppAppStoreLink }或${ mobileAppGooglePlayLink }應用程式。"
       ],
       "Get notified if your password is compromised.": [
-        "獲得提醒，當您的密碼處於危害。"
+        "獲得提醒，當您的密碼字元處於危害。"
       ],
       "Industry-leading spam protection": [
         "業界領導的垃圾郵件防護"

@@ -6623,7 +6623,8 @@
         "Igangsætter..."
       ],
       "Insert image": [
-        "Indsæt billede"
+        "Indsæt billede",
+        "Indsæt billeder"
       ],
       "Insert link": [
         "Indsæt link"
@@ -10335,6 +10336,9 @@
       ],
       "Your subscription renews soon": [
         "Dit abonnement fornyes snart"
+      ],
+      "Last day to save": [
+        "Sidste dag til at gemme"
       ]
     },
     "Offer feature": {
@@ -10391,7 +10395,7 @@
         "${ protectionFromTrackersTitle } betyder, at det er slut med at blive forfulgt på tværs af internettet."
       ],
       "Activate premium features": [
-        "Aktivér premium-funktioner"
+        "Premium funktioner"
       ],
       "Activate selected": [
         "Aktivér valgte"
@@ -10400,7 +10404,7 @@
         "Avanceret kryptering"
       ],
       "Auto-delete spam and trash": [
-        "Slet automatisk elementer i Spam og Papirkurven"
+        "Slet spam og papirkurv auto."
       ],
       "browser": [
         "browser"
@@ -10415,7 +10419,7 @@
         "Download skrivebords-appen"
       ],
       "Get notified if your password is compromised.": [
-        "Bliv underrettet hvis din adgangskode bliver kompromitteret."
+        "Få besked, hvis din adgangskode er blevet kompromitteret."
       ],
       "Industry-leading spam protection": [
         "Brancheførende beskyttelse mod spam"
@@ -10452,6 +10456,9 @@
       ],
       "Where privacy is default.": [
         "Hvor privatlivsbeskyttelse er standard."
+      ],
+      "Clear out deleted and spam emails after 30 days.": [
+        "Ryd slettede e-mails og spam-e-mails efter 30 dage."
       ]
     },
     "Onboarding Proton": {

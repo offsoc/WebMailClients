@@ -1480,6 +1480,15 @@
       ],
       "Zoom out": [
         "Zoom ut"
+      ],
+      "Explore ${ VPN_APP_NAME }": [
+        "Utforsk ${ VPN_APP_NAME }"
+      ],
+      "More options for accounts": [
+        "Flere alternativer for kontoer"
+      ],
+      "Toggle VPN dashboard": [
+        "Veksle VPN-kontrollpanel"
       ]
     },
     "action": {
@@ -4584,6 +4593,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Søket samsvarte med for mange resultater. Begrens søket, og prøv på nytt."
+      ],
+      "Failed to load the STL preview": [
+        "Kan ikke laste inn STL-forhåndsvisningen"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -6710,7 +6722,8 @@
         "Initialiserer…"
       ],
       "Insert image": [
-        "Sett inn bilde"
+        "Sett inn bilde",
+        "Sett inn bilder"
       ],
       "Insert link": [
         "Sett inn kobling"
@@ -7995,6 +8008,66 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Abonnementet ditt fornyes automatisk ${ renewalTime }."
+      ],
+      "${ VPN_APP_NAME } is masking your IP address, so websites can’t identify you.": [
+        "${ VPN_APP_NAME } maskerer IP-adressen din, slik at nettsteder ikke kan identifisere deg."
+      ],
+      "A VPN encrypts your connection and hides your IP address, making it much harder for anyone to track or monitor your browsing.": [
+        "Et VPN krypterer tilkoblingen din og skjuler IP-adressen, noe som gjør det mye vanskeligere for noen å spore eller overvåke surfingen din."
+      ],
+      "Advertisers track your browsing to show targeted ads. ${ VPN_APP_NAME } blocks trackers and ads, making your connection faster and improving your online experience.": [
+        "Annonsører sporer surfingen din for å vise målrettede annonser. ${ VPN_APP_NAME } blokkerer sporere og annonser, noe som gjør tilkoblingen din raskere og forbedrer nettopplevelsen din."
+      ],
+      "Browse privately and access blocked content.": [
+        "Surf privat og få tilgang til blokkert innhold."
+      ],
+      "Governments and ISPs can monitor your online activity. By hiding your real IP and encrypting your activity your browsing becomes private.": [
+        "Myndigheter og Internett-leverandører kan overvåke nettaktiviteten din. Ved å skjule din virkelige IP og kryptere aktiviteten din blir surfingen privat."
+      ],
+      "Included for free with your plan": [
+        "Inkludert gratis i planen din"
+      ],
+      "Learn what to do ${ dataLeakedLink }": [
+        "Finn ut hva du kan gjøre ${ dataLeakedLink }"
+      ],
+      "Not connected": [
+        "Ikke tilkoblet"
+      ],
+      "Private browsing (or “incognito” mode) is only useful for keeping your activity hidden on your device. It stops your browser from saving history and cookies, but it doesn’t make you invisible. Your ISP, network administrator, and the websites you visit can still see what you do online.": [
+        "Privat surfing (eller \"inkognitomodus\") er bare nyttig for å holde aktiviteten din skjult på enheten din. Det hindrer nettleseren din i å lagre historikk og informasjonskapsler, men det gjør deg ikke usynlig. Internett-leverandøren, nettverksadministratoren og nettstedene du besøker, kan fortsatt se hva du gjør på nettet."
+      ],
+      "Surveillance": [
+        "Overvåking"
+      ],
+      "Thank you for subscribing. Secure browsing starts now.": [
+        "Takk for at du abonnerer. Sikker surfing starter nå."
+      ],
+      "This means that your ISP and the websites you visit can’t connect your personal information with your online activity.": [
+        "Dette betyr at Internett-leverandøren din og nettstedene du besøker, ikke kan koble personopplysningene dine til nettaktiviteten din."
+      ],
+      "This unique code can be used by websites and ISPs (internet service providers) to link your location and browsing history to your device": [
+        "Denne unike koden kan brukes av nettsteder og Internett-leverandører for å koble posisjonen og nettleserloggen din til enheten din."
+      ],
+      "VPN IP": [
+        "VPN-IP"
+      ],
+      "When you connect to VPN, it uses encryption technology to hide your IP address (a unique code assigned to your device).": [
+        "Når du kobler til VPN, bruker det krypteringsteknologi for å skjule IP-adressen din (en unik kode som er tildelt enheten din)."
+      ],
+      "Your internet service provider can monitor and sometimes sell your data, or even restrict what websites you can access.": [
+        "Internett-leverandøren din kan overvåke og noen ganger selge dataene dine, eller til og med begrense hvilke nettsteder du har tilgang til."
+      ],
+      "Your IP": [
+        "Din IP"
+      ],
+      "Your IP address is visible and can be used to track your online activity.": [
+        "IP-adressen din er synlig og kan brukes til å spore nettaktiviteten din."
+      ],
+      "Your online activity is protected": [
+        "Nettaktiviteten din er beskyttet"
+      ],
+      "Your physical location is visible and can be used to restrict your access to the internet.": [
+        "Din fysiske plassering er synlig og kan brukes til å begrense tilgangen din til internett."
       ]
     },
     "info": {
@@ -8836,6 +8909,21 @@
       ],
       "Your password (admin)": [
         "Ditt passord (admin)"
+      ],
+      "Enable desktop notifications": [
+        "Aktiver skrivebordsvarsler"
+      ],
+      "Notifications are disabled, to enable them change the browser settings.": [
+        "Varsler er deaktivert, for å aktivere dem, endre nettleserinnstillingene."
+      ],
+      "Your IP": [
+        "Din IP"
+      ],
+      "Your ISP": [
+        "Din internettleverandør"
+      ],
+      "Your location": [
+        "Din plassering"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9103,6 +9191,9 @@
       ],
       "You need to reactivate your keys to see the updated invitation": [
         "Du må aktivere nøklene på nytt for å se den oppdaterte invitasjonen"
+      ],
+      "if your data is leaked": [
+        "hvis dataene dine er lekket"
       ]
     },
     "Link to calendar event": {
@@ -10530,6 +10621,12 @@
       ],
       "Your subscription renews soon": [
         "Abonnementet ditt fornyes snart"
+      ],
+      "${ BRAND_NAME } Unlimited for 12 months": [
+        "${ BRAND_NAME } Ubegrenset i 12 måneder"
+      ],
+      "${ planName } for 12 months": [
+        "${ planName } for 12 måneder"
       ]
     },
     "Offer feature": {
@@ -10607,13 +10704,13 @@
         "Tilgang når som helst, hvor som helst"
       ],
       "Auto-delete spam and trash": [
-        "Auto-slett søppelpost og meldinger i papirkurven"
+        "Autoslett søppelpost/papirkurv"
       ],
       "browser": [
         "nettleser"
       ],
       "Clear out deleted and spam emails after 30 days.": [
-        "Fjern slettede e-poster og søppelpost-e-poster etter 30 dager."
+        "Tøm slettede e-poster og søppelpost etter 30 dager."
       ],
       "Continue": [
         "Fortsett"
@@ -10667,7 +10764,7 @@
         "Begynn å bruke ${ BRAND_NAME }"
       ],
       "Start using the shorter, catchier version of your email address.": [
-        "Begynn å bruke den kortere, mer fengende versjonen av e-postadressen din."
+        "Bruk en kortere og mer fengende versjon av e-postadressen din."
       ],
       "To get started, choose a display name. This is what people will see when you send an email, invite them to an event, or share a file.": [
         "Velg et visningsnavn for å komme i gang. Dette er hva folk vil se når du sender en e-post, inviterer dem til et arrangement eller deler en fil."
@@ -13854,6 +13951,42 @@
       ],
       "Your shorter address is now ready": [
         "Den kortere adressen din er nå klar"
+      ],
+      "Desktop": [
+        "Skrivebord"
+      ],
+      "Download the app": [
+        "Last ned appen"
+      ],
+      "How does it all work?": [
+        "Hvordan fungerer det hele?"
+      ],
+      "Increase security with ${ VPN_APP_NAME }": [
+        "Øk sikkerheten med ${ VPN_APP_NAME }"
+      ],
+      "Information exposed in breach": [
+        "Informasjon avslørt i brudd"
+      ],
+      "Make a secure connection your default": [
+        "Gjør en sikker tilkobling til standard"
+      ],
+      "Mobile": [
+        "Mobil"
+      ],
+      "Private browsing vs VPN": [
+        "Privat surfing kontra VPN"
+      ],
+      "VPN explained": [
+        "VPN forklart"
+      ],
+      "What can a VPN protect you from?": [
+        "Hva kan et VPN beskytte deg mot?"
+      ],
+      "What is a VPN?": [
+        "Hva er et VPN?"
+      ],
+      "When is it most important to use a VPN?": [
+        "Når er det viktigst å bruke et VPN?"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13942,6 +14075,12 @@
       ],
       "Upload a public key to enable sending end-to-end encrypted emails to this email": [
         "Last opp en offentlig nøkkel for å aktivere sending av ende-til-ende-krypterte e-postmeldinger til denne e-posten."
+      ],
+      "Not all information listed here was exposed for all users.": [
+        "Ikke all informasjon som er oppført her, ble eksponert for alle brukere."
+      ],
+      "Unless they are deciphered, encrypted passwords remain secure even if they are exposed.": [
+        "Med mindre de blir dechiffrert, forblir krypterte passord sikre selv om de blir eksponert."
       ]
     },
     "tooltip": {
@@ -14477,6 +14616,17 @@
       ],
       "Passcode:": [
         "Adgangskode:"
+      ]
+    },
+    "Drawer tab, Action": {
+      "Download for Linux": [
+        "Last ned for Linux"
+      ],
+      "Download for macOS": [
+        "Last ned for macOS"
+      ],
+      "Download for Windows": [
+        "Last ned for Windows"
       ]
     }
   }
