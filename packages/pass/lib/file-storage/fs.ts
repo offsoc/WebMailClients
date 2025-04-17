@@ -1,7 +1,6 @@
 import { FileStorageMemory } from '@proton/pass/lib/file-storage/fs.memory';
 import { awaiter } from '@proton/pass/utils/fp/promises';
 import { logger } from '@proton/pass/utils/logger';
-import { uniqueId } from '@proton/pass/utils/string/unique-id';
 import { isMobile, isSafari } from '@proton/shared/lib/helpers/browser';
 import noop from '@proton/utils/noop';
 
@@ -17,7 +16,9 @@ const isOPFSSupported = () =>
     BUILD_TARGET !== 'safari' &&
     !isSafari() &&
     !isMobile() &&
-    Boolean(navigator.storage && navigator.storage.getDirectory);
+    Boolean(navigator.storage && navigator.storage.getDirectory) &&
+    typeof FileSystemFileHandle !== 'undefined' &&
+    FileSystemFileHandle.prototype.createWritable !== undefined;
 
 type StorageOptions = { OPFS: boolean; IDB: boolean };
 
@@ -41,15 +42,10 @@ export const onStorageFallback = async (
     try {
         switch (fs.type) {
             case 'OPFS':
-                /** Verify OPFS availability by attempting to access and write to storage.
+                /** Verify OPFS availability by attempting to access storage directory.
                  * This confirms both API support and necessary permissions. */
                 options.OPFS = false;
-                const root = await navigator.storage.getDirectory();
-                const filename = `test-opfs-${uniqueId()}`;
-                const fileHandle = await root.getFileHandle(filename, { create: true });
-                const writable = await fileHandle.createWritable();
-                await writable.close();
-                await root.removeEntry(filename);
+                await navigator.storage.getDirectory();
                 break;
             case 'IDB':
                 /** Verify IndexedDB functionality by opening the database.

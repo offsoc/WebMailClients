@@ -16,15 +16,15 @@ describe('file-storage/fs', () => {
         self.EXTENSION_BUILD = false;
 
         Object.defineProperty(global.navigator, 'storage', {
+            value: { getDirectory: jest.fn() },
+            configurable: true,
+        });
+
+        Object.defineProperty(global, 'FileSystemFileHandle', {
             value: {
-                getDirectory: jest.fn().mockResolvedValue({
-                    getFileHandle: jest.fn().mockResolvedValue({
-                        createWritable: jest.fn().mockResolvedValue({
-                            close: jest.fn(),
-                        }),
-                    }),
-                    removeEntry: jest.fn(),
-                }),
+                prototype: {
+                    createWritable: jest.fn(),
+                },
             },
             configurable: true,
         });
