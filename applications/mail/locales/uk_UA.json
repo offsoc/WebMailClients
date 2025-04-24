@@ -1442,6 +1442,9 @@
       ],
       "Zoom out": [
         "Зменшити"
+      ],
+      "Show more": [
+        "Розгорнути"
       ]
     },
     "action": {
@@ -2552,7 +2555,7 @@
         "День народження"
       ],
       "Display name": [
-        "Ім'я"
+        "Показувати як"
       ],
       "Email": [
         "Е-пошта"
@@ -7948,6 +7951,30 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Ваш план починається ${ renewalTime } і буде автоматично поновлюватися щомісяця."
+      ],
+      "Admin account allocation": [
+        "Розподілення для облікового запису адміністратора"
+      ],
+      "Allocated": [
+        "Розподілено"
+      ],
+      "Already allocated": [
+        "Вже розподілено"
+      ],
+      "Already used": [
+        "Вже використано"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "Обсяг сховища, розподілений між іншими користувачами в цій організації"
+      ],
+      "Storage allocated to this user": [
+        "Обсяг сховища, розподілений для цього користувача"
+      ],
+      "Storage for users": [
+        "Сховище для користувачів"
+      ],
+      "Storage used by this user": [
+        "Сховище, використане цим користувачем"
       ]
     },
     "info": {
@@ -8784,6 +8811,9 @@
       ],
       "Your password (admin)": [
         "Новий пароль (адмін)"
+      ],
+      "Account storage": [
+        "Сховище облікового запису"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -10694,6 +10724,18 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "Для виконання цієї операції вам потрібен доступ до ключа організації."
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "Неприватні користувачі можуть бути підвищені до адміністратора, якщо вони налаштували ключі"
+      ],
+      "Organization key must be activated to give admin privileges": [
+        "Для можливості надання адміністраторських повноважень необхідно налаштувати ключ організації"
+      ],
+      "Private users can be promoted to admin when they've signed in for the first time": [
+        "Приватні користувачі можуть бути підвищені до адміністратора, коли вони вперше увійшли в систему"
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "Ви повинні приватизувати всіх користувачів перед створенням нового ключа організації"
       ]
     },
     "Payment method option": {
@@ -11549,7 +11591,7 @@
     },
     "Signup label": {
       "Display name": [
-        "Ім'я"
+        "Показувати як"
       ]
     },
     "SmartBanner": {
@@ -12846,7 +12888,7 @@
         "Поле CSV"
       ],
       "Display name": [
-        "Ім'я"
+        "Показувати як"
       ],
       "First name": [
         "Ім'я"
@@ -13237,7 +13279,7 @@
         "Увімкнути двоетапну автентифікацію"
       ],
       "Enable message content search": [
-        "Увімкнути пошук вмісту повідомлень"
+        "Увімкнення пошуку вмісту повідомлень"
       ],
       "Enter 2FA code": [
         "Введіть код 2FA"
@@ -13730,6 +13772,9 @@
       ],
       "Your shorter address is now ready": [
         "Ваша коротша адреса готова"
+      ],
+      "Get the apps": [
+        "Отримати програми"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14429,6 +14474,11 @@
       ],
       "Passcode:": [
         "Код доступу"
+      ]
+    },
+    "unprivatization": {
+      "Admins can't access the data of private users and can't reset their password.": [
+        "Адміністратори не мають доступу до даних приватних користувачів і не можуть скинути їхній пароль."
       ]
     }
   }

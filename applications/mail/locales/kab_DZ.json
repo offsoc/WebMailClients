@@ -1192,6 +1192,9 @@
       ],
       "Zoom out": [
         "Semẓi"
+      ],
+      "Show more": [
+        "Sken-d ugar"
       ]
     },
     "action": {
@@ -5637,6 +5640,21 @@
       ],
       "Your phone number will only be used for this one-time verification.": [
         "Uṭṭun-ik n tiliɣṛi ad yettwaseqdec kan tikkelt deg usenqed-agi."
+      ],
+      "Allocated": [
+        "Ittuheṛṛ"
+      ],
+      "Already allocated": [
+        "Ḥerren-t yakan"
+      ],
+      "Already used": [
+        "Yettwaseqdec yakan"
+      ],
+      "Storage for users": [
+        "Asekles i yiseqdacen"
+      ],
+      "Storage used by this user": [
+        "Aḥraz yettwasqedcen sɣur useqdec-a"
       ]
     },
     "info": {
@@ -6394,6 +6412,9 @@
       ],
       "Your password (admin)": [
         "Awal-ik uffir (anedbal)"
+      ],
+      "Account storage": [
+        "Amḍiq n usekles n umiḍan"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -8988,7 +9009,7 @@
         "Izen yezrin"
       ],
       "Processing...": [
-        "Asesfer..."
+        "Asesfer n %s..."
       ],
       "Protect yourself from trackers": [
         "Mmesten iman-ik seg yineḍfaren"

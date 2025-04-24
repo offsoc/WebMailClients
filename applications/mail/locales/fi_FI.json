@@ -1487,6 +1487,39 @@
       ],
       "Zoom out": [
         "Loitonna"
+      ],
+      "Collaborate on documents": [
+        "Yhteiskäytä dokumentteja"
+      ],
+      "Connect apps and devices": [
+        "Yhdistä sovelluksia ja laitteita"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Lataa ${ DRIVE_APP_NAME }-sovellukset"
+      ],
+      "Get the apps": [
+        "Hanki sovellukset"
+      ],
+      "Manage groups": [
+        "Hallitse ryhmiä"
+      ],
+      "Manage users/addresses": [
+        "Hallitse käyttäjiä/osoitteita"
+      ],
+      "Set recovery methods": [
+        "Aseta palautustavat"
+      ],
+      "Set up 2FA": [
+        "Määritä 2FA"
+      ],
+      "Set up a custom domain": [
+        "Määritä oma verkkotunnus"
+      ],
+      "Show more": [
+        "Näytä lisää"
+      ],
+      "Upload and share files": [
+        "Lähetä ja jaa tiedostoja"
       ]
     },
     "action": {
@@ -3791,6 +3824,9 @@
       ],
       "You’ve already created 10 aliases. Get unlimited aliases and 500 GB of storage with ${ BRAND_NAME } Unlimited.": [
         "Olet jo luonut 10 aliasta. Saat rajattomasti aliaksia ja 500 Gt tallennustilaa ${ BRAND_NAME } Unlimitedilla."
+      ],
+      "To start, give your organization a name.": [
+        "Aloita antamalla organisaatiollesi nimi."
       ]
     },
     "description": {
@@ -4599,6 +4635,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Haullasi löytyi liikaa tuloksia. Rajoita hakua ja yritä uudelleen."
+      ],
+      "Failed to load the STL preview": [
+        "STL-esikatselun lataus epäonnistui"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -8022,6 +8061,36 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Ajoitettu tilauksesi alkaa ${ renewalTime } ja uudistetaan automaattisesti kuukausittain."
+      ],
+      "Admin account allocation": [
+        "Varattu ylläpitäjän tilille"
+      ],
+      "Allocated": [
+        "Varattu"
+      ],
+      "Already allocated": [
+        "Jo varattu"
+      ],
+      "Already used": [
+        "Jo käytetty"
+      ],
+      "Set up your organization": [
+        "Määritä organisaatiosi"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "Organisaation käyttäjille varattu tallennustila"
+      ],
+      "Storage allocated to this user": [
+        "Käyttäjälle varattu tallennustila"
+      ],
+      "Storage for users": [
+        "Tallennustilaa käyttäjille"
+      ],
+      "Storage used by this user": [
+        "Käyttäjän varaama tallennustila"
+      ],
+      "Thank you for subscribing. Secure browsing starts now.": [
+        "Kiitos tilauksestasi. Suojattu selaaminen alkaa nyt."
       ]
     },
     "info": {
@@ -8872,6 +8941,12 @@
       ],
       "Your password (admin)": [
         "Salasanasi (ylläpitäjä)"
+      ],
+      "Account storage": [
+        "Tilin tallennustila"
+      ],
+      "Enable desktop notifications": [
+        "Ota työpöytäilmoitukset käyttöön"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9136,6 +9211,21 @@
       ],
       "You need to reactivate your keys to see the updated invitation": [
         "Sinun on aktivoitava avaimesi uudelleen nähdäksesi päivitetyn kutsun"
+      ],
+      "How to add users": [
+        "Miten käyttäjiä lisätään"
+      ],
+      "How to add Zoom links": [
+        "Miten Zoom-linkkejä lisätään"
+      ],
+      "How to set up SMTP": [
+        "Miten SMTP määritetään"
+      ],
+      "How to share a calendar": [
+        "Miten jaat kalenterin"
+      ],
+      "How to use Groups": [
+        "Miten ryhmiä käytetään"
       ]
     },
     "Link to calendar event": {
@@ -10869,6 +10959,18 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "Sinulla on oltava oikeus käyttää organisaatioavainta suorittaaksesi tämä toiminnon."
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "Ei-yksityiset käyttäjät voidaan ylentää ylläpitäjiksi, kun heillä on asetusavaimet"
+      ],
+      "Organization key must be activated to give admin privileges": [
+        "Organisaatioavain on aktivoitava hallintaoikeuksien myöntämiseksi"
+      ],
+      "Private users can be promoted to admin when they've signed in for the first time": [
+        "Yksityiset käyttäjät voidaan ylentää ylläpitäjiksi, kun he ovat kirjautuneet sisään ensimmäisen kerran"
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "Sinun on yksityistettävä kaikki käyttäjät ennen uuden organisaatioavaimen luontia"
       ]
     },
     "Payment method option": {
@@ -10936,6 +11038,12 @@
       ],
       "Timeout exceeded": [
         "Aikakatkaisu ylitettiin"
+      ],
+      "terms & conditions": [
+        "käyttöehdot"
+      ],
+      "Your payment is still being processed": [
+        "Maksuasi käsitellään vielä"
       ]
     },
     "Payments.Error": {
@@ -11136,6 +11244,9 @@
       ],
       "Type text or keyword": [
         "Syötä teksti tai avainsana"
+      ],
+      "Organization name": [
+        "Organisaation nimi"
       ]
     },
     "Placeholder for contact group name": {
@@ -13855,6 +13966,45 @@
       ],
       "Your shorter address is now ready": [
         "Lyhyempi osoittesi on nyt valmis"
+      ],
+      "Add user": [
+        "Lisää käyttäjä"
+      ],
+      "Collaborate on documents": [
+        "Yhteiskäytä dokumentteja"
+      ],
+      "Connect apps and devices": [
+        "Yhdistä sovelluksia ja laitteita"
+      ],
+      "Connect your custom domain": [
+        "Yhdistä oma verkkotunnuksesi"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Lataa ${ DRIVE_APP_NAME }-sovellukset"
+      ],
+      "Enhance security with 2FA": [
+        "Paranna tietoturvaa 2FA:lla"
+      ],
+      "Get the apps": [
+        "Hanki sovellukset"
+      ],
+      "Make a secure connection your default": [
+        "Aseta suojattu yhteys oletuksesi"
+      ],
+      "Org setup": [
+        "Organisaation määritys"
+      ],
+      "Organization setup": [
+        "Organisaation määritys"
+      ],
+      "Set recovery methods": [
+        "Määritä palautustavat"
+      ],
+      "Set up your organization": [
+        "Määritä organisaatiosi"
+      ],
+      "Upload and share files": [
+        "Lähetä ja jaa tiedostoja"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14475,6 +14625,11 @@
       ],
       "Passcode:": [
         "Tunnuskoodi:"
+      ]
+    },
+    "unprivatization": {
+      "Admins can't access the data of private users and can't reset their password.": [
+        "Ylläpitäjillä ei ole pääsyä yksityisten käyttäjien tietoihin, eivätkä he voi nollata heidän salasanojaan."
       ]
     }
   }

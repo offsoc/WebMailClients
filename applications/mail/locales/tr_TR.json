@@ -1322,8 +1322,7 @@
         "Güven"
       ],
       "Trust key": [
-        "Anahtara güven",
-        "Anahtarlara güven"
+        "Anahtara güven"
       ],
       "Trust public key": [
         "Herkese açık anahtara güven"
@@ -1493,6 +1492,66 @@
       ],
       "Zoom out": [
         "Uzaklaştır"
+      ],
+      "Collaborate on documents": [
+        "Belgeler üzerinde iş birliği yapın"
+      ],
+      "Connect apps and devices": [
+        "Uygulamaları ve aygıtları bağlayın"
+      ],
+      "Connect to video conferencing": [
+        "Görüntülü görüşmeye bağlanın"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "${ DRIVE_APP_NAME } uygulamalarını indirin"
+      ],
+      "Get the apps": [
+        "Uygulamaları edinin"
+      ],
+      "Import emails, calendars, contacts": [
+        "E-postaları, takvimleri, kişileri içe aktarın"
+      ],
+      "Manage advanced account protections": [
+        "Gelişmiş hesap korumalarını yönetin"
+      ],
+      "Manage groups": [
+        "Grupları yönetin"
+      ],
+      "Manage users/addresses": [
+        "Kullanıcıları/adresleri yönetin"
+      ],
+      "Remove button": [
+        "Düğmeyi kaldır"
+      ],
+      "Set recovery methods": [
+        "Kurtarma yöntemlerini ayarlayın"
+      ],
+      "Set up 2FA": [
+        "İki adımlı doğrulamayı ayarlayın"
+      ],
+      "Set up a custom domain": [
+        "Bir özel etki alanı ayarlayın"
+      ],
+      "Set up email forwarding": [
+        "E-posta iletmeyi ayarlayın"
+      ],
+      "Share your calendar with your team": [
+        "Takviminizi ekibinizle paylaşın"
+      ],
+      "Show more": [
+        "Daha fazla görüntüle"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "${ DARK_WEB_MONITORING_NAME } özelliğini açın"
+      ],
+      "Upload and share files": [
+        "Dosyaları yükleyin ve paylaşın"
+      ],
+      "Use ${ PASS_APP_NAME } for Business": [
+        "${ PASS_APP_NAME } for Business kullanın"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "Veri gizliliği için ${ VPN_SHORT_APP_NAME } kullanın"
       ]
     },
     "action": {
@@ -3797,6 +3856,63 @@
       ],
       "You’ve already created 10 aliases. Get unlimited aliases and 500 GB of storage with ${ BRAND_NAME } Unlimited.": [
         "Zaten 10 takma ad oluşturmuşsunuz. Sınırsız sayıda takma ad oluşturabilmek ve 500 GB depolama alanı edinmek için ${ BRAND_NAME } Limited tarifesine geçin."
+      ],
+      "${ DOCS_SHORT_APP_NAME } in ${ DRIVE_APP_NAME } allows you to work together with others in a secure, encrypted environment.": [
+        "${ DOCS_SHORT_APP_NAME }, ${ DRIVE_APP_NAME } ile diğer kişilerle güvenli, şifrelenmiş bir ortamda birlikte çalışın."
+      ],
+      "Add folders and files to ${ DRIVE_APP_NAME } and invite team members to view or edit.": [
+        "${ DRIVE_APP_NAME } üzerine klasörler ve dosyalar ekleyerek bunları görüntülemeleri veya düzenlemeleri için ekip arkadaşarınızı davet edin."
+      ],
+      "Automatically forward incoming email to another email address.": [
+        "Gelen e-postaları otomatik olarak başka bir e-posta adresine iletin."
+      ],
+      "Configure this first to activate your organization and customize your email address.": [
+        "Kuruluşunuzu açmak ve e-posta adresinizi özelleştirmek için önce bunu yapılandırın."
+      ],
+      "Connect your CRM, website, printers, and more.": [
+        "CRM uygulamanızı, sitenizi, yazıcılarınızı ve diğer şeyleri bağlayın."
+      ],
+      "Create groups you can email with a single address.": [
+        "Tek bir adresle e-posta gönderebileceğiniz gruplar oluşturun."
+      ],
+      "Easily access your email and calendar on desktop and mobile.": [
+        "E-postanıza ve takviminize bilgisayarınızdan ve mobil aygıtınızdan kolayca erişin."
+      ],
+      "Easily sync files to the cloud from your desktop and access them from your mobile device.": [
+        "Bilgisayarınızdaki dosyaları bulutla kolayca eşitleyin ve mobil aygıtınızdan erişin."
+      ],
+      "Encourage the use of two-factor authentication in your organization for extra security.": [
+        "Ek güvenlik için kuruluşunuzda iki adımlı doğrulamanın kullanılmasını sağlayın."
+      ],
+      "Ensure secure access to organization data, even if your team is remote or using public WiFi.": [
+        "Ekibiniz uzaktan çalışıyor veya herkese açık Wi-Fi bağlantıları kullanıyor olsa bile, kuruluş verilerine güvenli erişim sağlayın."
+      ],
+      "Ensure top-notch security for your account with the ${ PROTON_SENTINEL_NAME } program.": [
+        "${ PROTON_SENTINEL_NAME } programı ile hesabınız için en üst düzeyde güvenlik sağlayın."
+      ],
+      "Ensure you can still access your account and data even if you lose your ${ BRAND_NAME } password.": [
+        "${ BRAND_NAME } parolanızı kaybetseniz bile hesabınıza ve verilerinize erişebileceğinizden emin olun."
+      ],
+      "For a seamless transition to ${ BRAND_NAME }, import your data from Google, Outlook, and others.": [
+        "${ BRAND_NAME } uygulamasına sorunsuz geçmek için verilerinizi Google, Outlook ve diğer hizmetlerden içe aktarın."
+      ],
+      "Help your team securely store passwords to sensitive business and client information.": [
+        "Ekibinizin önemli kuruluş ve müşteri bilgilerine ait parolaları güvenli bir şekilde kaydetmesini sağlayın."
+      ],
+      "Let's you instantly add meeting links to your event invitations.": [
+        "Toplantı bağlantılarını etkinlik davetlerinize anında ekleyin."
+      ],
+      "Set up accounts for all users and invite them to join ${ BRAND_NAME }.": [
+        "Tüm kullanıcı hesaplarını ayarlayın ve onları ${ BRAND_NAME } kullanmaya davet edin."
+      ],
+      "Simplify syncing and scheduling with shared calendars.": [
+        "Paylaşılan takvimler ile zamanlamayı eşitlemeyi ve planlamayı kolaylaştırın."
+      ],
+      "To start, give your organization a name.": [
+        "Başlamak için, kuruluşunuzun adını yazın."
+      ],
+      "Use this guide to get your organization promptly benefiting from ${ BRAND_NAME }'s industry-leading encryption and privacy ecosystem.": [
+        "Kuruluşunuzun, ${ BRAND_NAME } sektör lideri şifreleme ve gizlilik ekosisteminden hemen yararlanmasını sağlamak için bu rehberi kullanın."
       ]
     },
     "description": {
@@ -3942,6 +4058,12 @@
       ],
       "You are invited to ${ eventTitle }.\n\n${ eventDetailsText }": [
         "${ eventTitle } etkinliğine davet edildiniz.\n\n${ eventDetailsText }"
+      ],
+      "Here's what changed:": [
+        "Şu değişiklik yapıldı:"
+      ],
+      "NOTE:": [
+        "Not:"
       ]
     },
     "Email body for invitation (date part)": {
@@ -4608,6 +4730,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Aramanız çok fazla sonuç döndürdü. Lütfen aramanızı sınırlandırıp yeniden deneyin."
+      ],
+      "Failed to load the STL preview": [
+        "STL ön izlemesi yüklenemedi"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -8076,6 +8201,42 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Aboneliğiniz ${ renewalTime } tarihinde otomatik olarak yenilenecek."
+      ],
+      "Admin account allocation": [
+        "Yönetici hesabına ayrılan"
+      ],
+      "Allocated": [
+        "Ayrılmış"
+      ],
+      "Already allocated": [
+        "Zaten ayrılmış"
+      ],
+      "Already used": [
+        "Zaten kullanılmış"
+      ],
+      "Open the guide for recommended actions and helpful links.": [
+        "Önerilen işlemler ve yararlı bağlantılar için rehberi açın."
+      ],
+      "Please fill in all required fields.": [
+        "Lütfen gerekli tüm alanları doldurun."
+      ],
+      "Set up your organization": [
+        "Kuruluşunuzu ayarlayın"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "Bu kuruluştaki diğer kullanıcılara ayrılmış depolama alanı"
+      ],
+      "Storage allocated to this user": [
+        "Bu kullanıcıya ayrılmış depolama alanı"
+      ],
+      "Storage for users": [
+        "Kullanıcıların depolama alanı"
+      ],
+      "Storage used by this user": [
+        "Bu kullanıcının kullandığı depolama alanı"
+      ],
+      "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
+        "Kullanıcılarınıza görüntülenecek kuruluş adınız veya kısaltmanız. İstediğiniz zaman değiştirebilirsiniz."
       ]
     },
     "info": {
@@ -8932,6 +9093,9 @@
       ],
       "Your password (admin)": [
         "Parolanız (yönetici)"
+      ],
+      "Account storage": [
+        "Hesap depolama alanı"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9199,6 +9363,54 @@
       ],
       "You need to reactivate your keys to see the updated invitation": [
         "Güncellenen daveti görmek için anahtarlarınızı yeniden etkinleştirmelisiniz"
+      ],
+      "Enforcing 2FA for organizations": [
+        "Kuruluşlar için iki adımlı doğrulamayı dayatmak"
+      ],
+      "How to add users": [
+        "Kullanıcılar nasıl eklenir"
+      ],
+      "How to add Zoom links": [
+        "Zoom bağlantıları nasıl eklenir"
+      ],
+      "How to collaborate in ${ DOCS_SHORT_APP_NAME }": [
+        "${ DOCS_SHORT_APP_NAME } üzerinde işbirliği nasıl yapılır"
+      ],
+      "How to enable ${ PROTON_SENTINEL_NAME }": [
+        "${ PROTON_SENTINEL_NAME } ürünü nasıl kullanıma alınır"
+      ],
+      "How to migrate to ${ BRAND_NAME }": [
+        "${ BRAND_NAME } hizmetine nasıl geçilir"
+      ],
+      "How to set up ${ VPN_APP_NAME }": [
+        "${ VPN_APP_NAME } nasıl ayarlanır"
+      ],
+      "How to set up a custom domain": [
+        "Bir özel etki alanı nasıl ayarlanır"
+      ],
+      "How to set up SMTP": [
+        "SMTP nasıl ayarlanır"
+      ],
+      "How to share a calendar": [
+        "Bir takvim nasıl paylaşılır"
+      ],
+      "How to share via email": [
+        "E-posta ile paylaşım nasıl yapılır"
+      ],
+      "How to use ${ DARK_WEB_MONITORING_NAME }": [
+        "${ DARK_WEB_MONITORING_NAME } nasıl kullanılır"
+      ],
+      "How to use ${ PASS_APP_NAME } for Business": [
+        "${ PASS_APP_NAME } for Business nasıl kullanılır"
+      ],
+      "How to use email forwarding": [
+        "E-posta iletme nasıl kullanılır"
+      ],
+      "How to use Groups": [
+        "Gruplar nasıl kullanılır"
+      ],
+      "Types of recovery methods": [
+        "Kurtarma yöntemi türleri"
       ]
     },
     "Link to calendar event": {
@@ -10952,6 +11164,21 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "Bu işlemi gerçekleştirmek için kuruluş anahtarına erişebilmeniz gerekir."
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "Korunmayan kullanıcılar, kurulum anahtarlarına sahip olduklarında yöneticiliğe yükseltilebilir"
+      ],
+      "Organization key must be activated to give admin privileges": [
+        "Yönetici yetkileri vermek için kuruluş anahtarı kullanıma alınmalıdır"
+      ],
+      "Private users can be promoted to admin when they've signed in for the first time": [
+        "Korunan kullanıcılar ilk kez oturum açtıklarında yöneticiliğe yükseltilebilir"
+      ],
+      "You must delete all groups before generating a new organization key": [
+        "Yeni bir kuruluş anahtarı oluşturmadan önce tüm grupları silmeniz gerekir"
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "Yeni bir kuruluş anahtarı oluşturmadan önce tüm kullanıcıları korunan olarak güncellemeniz gerekir"
       ]
     },
     "Payment method option": {
@@ -11252,6 +11479,12 @@
       ],
       "Type text or keyword": [
         "Metin ya da anahtar sözcük yazın"
+      ],
+      "Organization name": [
+        "Kuruluş adı"
+      ],
+      "Your organization name": [
+        "Kuruluşunuzun adı"
       ]
     },
     "Placeholder for contact group name": {
@@ -13983,6 +14216,72 @@
       ],
       "Your shorter address is now ready": [
         "Daha kısa adresiniz hazır"
+      ],
+      "Add user": [
+        "Kullanıcı ekleyin"
+      ],
+      "Collaborate on documents": [
+        "Belgeler üzerinde işbirliği yapın"
+      ],
+      "Connect apps and devices": [
+        "Uygulamaları ve aygıtları bağlayın"
+      ],
+      "Connect to video conferencing": [
+        "Görüntülü konferansa bağlanın"
+      ],
+      "Connect your custom domain": [
+        "Özel etki alanınızı bağlayın"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "${ DRIVE_APP_NAME } uygulamalarını indirin"
+      ],
+      "Enable advanced account protection": [
+        "Gelişmiş hesap korumasını açın"
+      ],
+      "Enhance security with 2FA": [
+        "İki adımlı doğrulama ile güvenliği artırın"
+      ],
+      "Get the apps": [
+        "Uygulamaları indirme"
+      ],
+      "Import emails, calendars, contacts": [
+        "E-postaları, takvimleri, kişileri içe aktarın"
+      ],
+      "Org setup": [
+        "Kuruluş kurulumu"
+      ],
+      "Organization setup": [
+        "Kuruluş kurulumu"
+      ],
+      "Set recovery methods": [
+        "Kurtarma yöntemlerini ayarlayın"
+      ],
+      "Set up email forwarding": [
+        "E-posta iletmeyi ayarlayın"
+      ],
+      "Set up your organization": [
+        "Kuruluşunuzu ayarlayın"
+      ],
+      "Share your calendar with your team": [
+        "Takviminizi ekibinizle paylaşın"
+      ],
+      "Simplify email distribution": [
+        "E-posta dağıtımını kolaylaştırın"
+      ],
+      "Simplify password management": [
+        "Parola yönetimini kolaylaştırın"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "${ DARK_WEB_MONITORING_NAME } özelliğini açın"
+      ],
+      "Upload and share files": [
+        "Dosyaları yükleyin ve paylaşın"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "Veri gizliliği için ${ VPN_SHORT_APP_NAME } kullanın"
+      ],
+      "Welcome to ${ BRAND_NAME } for Business": [
+        "${ BRAND_NAME } for Business uygulamasına hoş geldiniz"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14612,6 +14911,21 @@
       ],
       "Passcode:": [
         "Parola:"
+      ]
+    },
+    "Email body for comment (comment part)": {
+      "NOTE:\n${ eventComment }": [
+        "Not: ${ eventComment }"
+      ]
+    },
+    "Section": {
+      "Org setup and account security": [
+        "Kuruluş ayarları ve hesap güvenliği"
+      ]
+    },
+    "unprivatization": {
+      "Admins can't access the data of private users and can't reset their password.": [
+        "Yöneticiler gizli kullanıcıların verilerine erişemez ve parolalarını sıfırlayamaz."
       ]
     }
   }

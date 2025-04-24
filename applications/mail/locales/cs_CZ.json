@@ -1057,7 +1057,7 @@
         "Požádat o hovor"
       ],
       "Request a feature": [
-        "Požádat o funkci"
+        "Požádejte o funkci"
       ],
       "Request new code": [
         "Vyžádejte si nový kód"
@@ -1505,6 +1505,66 @@
       ],
       "Zoom out": [
         "Oddálit"
+      ],
+      "Collaborate on documents": [
+        "Spolupracovat na dokumentech"
+      ],
+      "Connect apps and devices": [
+        "Připojit aplikace a zařízení"
+      ],
+      "Connect to video conferencing": [
+        "Připojit se k videokonferenci"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Stáhnout aplikace ${ DRIVE_APP_NAME }"
+      ],
+      "Get the apps": [
+        "Získat aplikace"
+      ],
+      "Import emails, calendars, contacts": [
+        "Importovat e-maily, kalendáře a kontakty"
+      ],
+      "Manage advanced account protections": [
+        "Spravovat pokročilé ochrany účtu"
+      ],
+      "Manage groups": [
+        "Spravovat skupiny"
+      ],
+      "Manage users/addresses": [
+        "Spravovat uživatele/adresy"
+      ],
+      "Remove button": [
+        "Odebrat tlačítko"
+      ],
+      "Set recovery methods": [
+        "Nastavit metody obnovení"
+      ],
+      "Set up 2FA": [
+        "Nastavit 2FA"
+      ],
+      "Set up a custom domain": [
+        "Nastavit vlastní doménu"
+      ],
+      "Set up email forwarding": [
+        "Nastavit přeposílání e-mailů"
+      ],
+      "Share your calendar with your team": [
+        "Sdílet kalendář se svým týmem"
+      ],
+      "Show more": [
+        "Zobrazit více"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "Zapnout ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "Upload and share files": [
+        "Nahrát a sdílet soubory"
+      ],
+      "Use ${ PASS_APP_NAME } for Business": [
+        "Použit ${ PASS_APP_NAME } for Business"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "Použít ${ VPN_SHORT_APP_NAME } pro ochranu soukromí"
       ]
     },
     "action": {
@@ -3835,6 +3895,63 @@
       ],
       "You’ve already created 10 aliases. Get unlimited aliases and 500 GB of storage with ${ BRAND_NAME } Unlimited.": [
         "Vytvořili jste již 10 aliasů. Získejte neomezený počet aliasů a 500 GB úložného prostoru s ${ BRAND_NAME } Unlimited."
+      ],
+      "${ DOCS_SHORT_APP_NAME } in ${ DRIVE_APP_NAME } allows you to work together with others in a secure, encrypted environment.": [
+        "${ DOCS_SHORT_APP_NAME } v ${ DRIVE_APP_NAME } vám umožní spolupracovat s ostatními v bezpečném a šifrovaném prostředí."
+      ],
+      "Add folders and files to ${ DRIVE_APP_NAME } and invite team members to view or edit.": [
+        "Přidejte složky a soubory do ${ DRIVE_APP_NAME } a pozvěte členy týmu k prohlížení nebo úpravám."
+      ],
+      "Automatically forward incoming email to another email address.": [
+        "Automatické přeposílání příchozích e-mailů na jinou e-mailovou adresu."
+      ],
+      "Configure this first to activate your organization and customize your email address.": [
+        "Při konfiguraci nejprve aktivujte svou organizaci a přizpůsobte e-mailovou adresu."
+      ],
+      "Connect your CRM, website, printers, and more.": [
+        "Propojte svůj CRM, webové stránky, tiskárny a další."
+      ],
+      "Create groups you can email with a single address.": [
+        "Vytvářejte skupiny, kterým můžete posílat e-maily pomocí jediné adresy."
+      ],
+      "Easily access your email and calendar on desktop and mobile.": [
+        "Snadný přístup k e-mailu a kalendáři na počítači i v mobilu."
+      ],
+      "Easily sync files to the cloud from your desktop and access them from your mobile device.": [
+        "Snadno synchronizujte soubory do cloudu z počítače a přistupujte k nim z mobilního zařízení."
+      ],
+      "Encourage the use of two-factor authentication in your organization for extra security.": [
+        "Podporujte používání dvoufázového ověření ve vaší organizaci pro zvýšení bezpečnosti."
+      ],
+      "Ensure secure access to organization data, even if your team is remote or using public WiFi.": [
+        "Zajistěte bezpečný přístup k datům organizace, i když je váš tým vzdálený nebo používá veřejnou Wi-Fi."
+      ],
+      "Ensure top-notch security for your account with the ${ PROTON_SENTINEL_NAME } program.": [
+        "Zajistěte špičkové zabezpečení svého účtu pomocí programu ${ PROTON_SENTINEL_NAME }."
+      ],
+      "Ensure you can still access your account and data even if you lose your ${ BRAND_NAME } password.": [
+        "Zajistěte si přístup ke svému účtu a datům i v případě ztráty hesla ${ BRAND_NAME }."
+      ],
+      "For a seamless transition to ${ BRAND_NAME }, import your data from Google, Outlook, and others.": [
+        "Pro bezproblémový přechod na ${ BRAND_NAME } importujte data ze služeb Google, Outlook a dalších."
+      ],
+      "Help your team securely store passwords to sensitive business and client information.": [
+        "Pomozte svému týmu bezpečně ukládat hesla k citlivým obchodním informacím a informacím o klientech."
+      ],
+      "Let's you instantly add meeting links to your event invitations.": [
+        "Umožňuje okamžitě přidávat odkazy na schůzky do pozvánek na události."
+      ],
+      "Set up accounts for all users and invite them to join ${ BRAND_NAME }.": [
+        "Nastavte účty pro všechny uživatele a pozvěte je, aby se připojili k ${ BRAND_NAME }."
+      ],
+      "Simplify syncing and scheduling with shared calendars.": [
+        "Zjednodušte synchronizaci a plánování pomocí sdílených kalendářů."
+      ],
+      "To start, give your organization a name.": [
+        "Nejprve pojmenujte vaši organizaci."
+      ],
+      "Use this guide to get your organization promptly benefiting from ${ BRAND_NAME }'s industry-leading encryption and privacy ecosystem.": [
+        "Použijte tohoto průvodce, aby vaše organizace začala okamžitě využívat výhody špičkového ekosystému šifrování a ochrany soukromí ${ BRAND_NAME }."
       ]
     },
     "description": {
@@ -3982,6 +4099,12 @@
       ],
       "You are invited to ${ eventTitle }.\n\n${ eventDetailsText }": [
         "Jste pozváni na ${ eventTitle }.\n\n${ eventDetailsText }"
+      ],
+      "Here's what changed:": [
+        "Toto se změnilo:"
+      ],
+      "NOTE:": [
+        "POZNÁMKA:"
       ]
     },
     "Email body for invitation (date part)": {
@@ -4672,6 +4795,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Vyhledávání našlo příliš mnoho výsledků. Upřesněte hledání a zkuste to prosím znovu."
+      ],
+      "Failed to load the STL preview": [
+        "Načtení náhledu STL selhalo"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -8346,6 +8472,42 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Vaše předplatné se automaticky obnoví ${ renewalTime }."
+      ],
+      "Admin account allocation": [
+        "Přidělení účtu správce"
+      ],
+      "Allocated": [
+        "Přiděleno"
+      ],
+      "Already allocated": [
+        "Již bylo přiděleno"
+      ],
+      "Already used": [
+        "Již použito"
+      ],
+      "Open the guide for recommended actions and helpful links.": [
+        "Otevřete průvodce, kde najdete doporučené kroky a užitečné odkazy."
+      ],
+      "Please fill in all required fields.": [
+        "Vyplňte prosím všechna povinná pole."
+      ],
+      "Set up your organization": [
+        "Nastavte svou organizaci"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "Úložný prostor přidělený ostatním uživatelům v této organizaci"
+      ],
+      "Storage allocated to this user": [
+        "Úložný prostor přidělený tomuto uživateli"
+      ],
+      "Storage for users": [
+        "Úložiště pro uživatele"
+      ],
+      "Storage used by this user": [
+        "Úložného prostoru využito tímto uživatelem"
+      ],
+      "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
+        "Jedná se o název nebo přezdívku vaší organizace, kterou uživatelé uvidí. Můžete je kdykoli změnit."
       ]
     },
     "info": {
@@ -9214,6 +9376,9 @@
       ],
       "Your password (admin)": [
         "Vaše heslo (admin)"
+      ],
+      "Account storage": [
+        "Prostor pro účet"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9481,6 +9646,54 @@
       ],
       "You need to reactivate your keys to see the updated invitation": [
         "Pro zobrazení upravené pozvánky musíte znovu aktivovat své klíče"
+      ],
+      "Enforcing 2FA for organizations": [
+        "Vynucení 2FA pro organizace"
+      ],
+      "How to add users": [
+        "Jak přidat uživatele"
+      ],
+      "How to add Zoom links": [
+        "Jak přidat odkazy na Zoom"
+      ],
+      "How to collaborate in ${ DOCS_SHORT_APP_NAME }": [
+        "Jak spolupracovat v ${ DOCS_SHORT_APP_NAME }"
+      ],
+      "How to enable ${ PROTON_SENTINEL_NAME }": [
+        "Jak povolit ${ PROTON_SENTINEL_NAME }"
+      ],
+      "How to migrate to ${ BRAND_NAME }": [
+        "Jak migrovat do ${ BRAND_NAME }"
+      ],
+      "How to set up ${ VPN_APP_NAME }": [
+        "Jak nastavit ${ VPN_APP_NAME }"
+      ],
+      "How to set up a custom domain": [
+        "Jak nastavit vlastní doménu"
+      ],
+      "How to set up SMTP": [
+        "Jak nastavit SMTP"
+      ],
+      "How to share a calendar": [
+        "Jak sdílet kalendář"
+      ],
+      "How to share via email": [
+        "Jak sdílet pomocí e-mailu"
+      ],
+      "How to use ${ DARK_WEB_MONITORING_NAME }": [
+        "Jak používat ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "How to use ${ PASS_APP_NAME } for Business": [
+        "Jak používat ${ PASS_APP_NAME } for Business"
+      ],
+      "How to use email forwarding": [
+        "Jak používat přeposílání e-mailů"
+      ],
+      "How to use Groups": [
+        "Jak používat skupiny"
+      ],
+      "Types of recovery methods": [
+        "Typy metod obnovení"
       ]
     },
     "Link to calendar event": {
@@ -11304,6 +11517,21 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "Pro provedení této operace potřebujete přístup ke klíči organizace."
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "Nesoukromí uživatelé se mohou stát správci po tom, co si nastaví klíče"
+      ],
+      "Organization key must be activated to give admin privileges": [
+        "Pro nastavení oprávnění správce musí být aktivován klíč organizace"
+      ],
+      "Private users can be promoted to admin when they've signed in for the first time": [
+        "Soukromí uživatelé se mohou stát správci po tom, co se poprvé přihlásí"
+      ],
+      "You must delete all groups before generating a new organization key": [
+        "Než vytvoříte nový klíč organizace, musíte smazat všechny skupiny"
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "Než vytvoříte nový klíč organizace, musíte privatizovat všechny uživatele"
       ]
     },
     "Payment method option": {
@@ -11612,6 +11840,12 @@
       ],
       "Type text or keyword": [
         "Zadejte text nebo klíčové slovo"
+      ],
+      "Organization name": [
+        "Název organizace"
+      ],
+      "Your organization name": [
+        "Název vaší organizace"
       ]
     },
     "Placeholder for contact group name": {
@@ -13088,6 +13322,9 @@
     "Subscription saving": {
       "Save": [
         "Ušetříte"
+      ],
+      "Save ${ priceString }": [
+        "Ušetřete ${ priceString }"
       ]
     },
     "Success": {
@@ -14509,6 +14746,72 @@
       ],
       "Your shorter address is now ready": [
         "Vaše kratší adresa je nyní připravena"
+      ],
+      "Add user": [
+        "Přidat uživatele"
+      ],
+      "Collaborate on documents": [
+        "Spolupracovat na dokumentech"
+      ],
+      "Connect apps and devices": [
+        "Připojit aplikace a zařízení"
+      ],
+      "Connect to video conferencing": [
+        "Připojit se k videokonferenci"
+      ],
+      "Connect your custom domain": [
+        "Připojení vlastní domény"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Stáhnout aplikace ${ DRIVE_APP_NAME }"
+      ],
+      "Enable advanced account protection": [
+        "Povolení pokročilé ochrany účtu"
+      ],
+      "Enhance security with 2FA": [
+        "Zvýšení zabezpečení pomocí 2FA"
+      ],
+      "Get the apps": [
+        "Získat aplikace"
+      ],
+      "Import emails, calendars, contacts": [
+        "Importovat e-maily, kalendáře a kontakty"
+      ],
+      "Org setup": [
+        "Nastavení organizace"
+      ],
+      "Organization setup": [
+        "Nastavení organizace"
+      ],
+      "Set recovery methods": [
+        "Nastavit metody obnovení"
+      ],
+      "Set up email forwarding": [
+        "Nastavit přeposílání e-mailů"
+      ],
+      "Set up your organization": [
+        "Nastavte svou organizaci"
+      ],
+      "Share your calendar with your team": [
+        "Sdílet kalendář se svým týmem"
+      ],
+      "Simplify email distribution": [
+        "Zjednodušení distribuce e-mailů"
+      ],
+      "Simplify password management": [
+        "Zjednodušení správy hesel"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "Zapnout ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "Upload and share files": [
+        "Nahrát a sdílet soubory"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "Použít ${ VPN_SHORT_APP_NAME } pro ochranu soukromí"
+      ],
+      "Welcome to ${ BRAND_NAME } for Business": [
+        "Vítejte v ${ BRAND_NAME } for Business"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -15232,6 +15535,36 @@
       ],
       "Passcode:": [
         "Přístupový kód:"
+      ]
+    },
+    "Email body for comment (comment part)": {
+      "NOTE:\n${ eventComment }": [
+        "POZNÁMKA:\n${ eventComment }"
+      ]
+    },
+    "Section": {
+      "Org setup and account security": [
+        "Nastavení organizace a zabezpečení účtu"
+      ]
+    },
+    "Slack": {
+      "Join Slack huddle": [
+        "Připojit se k Slack Huddles"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "Připojit se ke schůzce v Teams"
+      ]
+    },
+    "unprivatization": {
+      "Admins can't access the data of private users and can't reset their password.": [
+        "Správci nemají přístup k datům soukromých uživatelů a nemohou resetovat jejich heslo."
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "Připojit se ke schůzce na Zoomu"
       ]
     }
   }

@@ -1499,6 +1499,57 @@
       ],
       "Zoom out": [
         "Micșorare"
+      ],
+      "Collaborate on documents": [
+        "Colaborați la documente"
+      ],
+      "Connect apps and devices": [
+        "Conectați aplicații și dispozitive"
+      ],
+      "Connect to video conferencing": [
+        "Conectați-vă la conferințe video"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Descărcați aplicațiile ${ DRIVE_APP_NAME }"
+      ],
+      "Get the apps": [
+        "Luați aplicațiile"
+      ],
+      "Import emails, calendars, contacts": [
+        "Importați e-mailuri, calendare, contacte"
+      ],
+      "Manage advanced account protections": [
+        "Gestionați protecții avansate cont"
+      ],
+      "Manage groups": [
+        "Gestionare grupuri"
+      ],
+      "Manage users/addresses": [
+        "Gestionare utilizatori/adrese"
+      ],
+      "Set recovery methods": [
+        "Setați metode de recuperare"
+      ],
+      "Set up 2FA": [
+        "Configurare A2F"
+      ],
+      "Set up a custom domain": [
+        "Configurați un domeniu personal"
+      ],
+      "Set up email forwarding": [
+        "Setare redirecționare mesaje"
+      ],
+      "Share your calendar with your team": [
+        "Partajați-vă calendarul cu echipa proprie"
+      ],
+      "Show more": [
+        "Afișare mai mult"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "Activați ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "Upload and share files": [
+        "Încărcați și partajați fișiere"
       ]
     },
     "action": {
@@ -4640,6 +4691,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Căutarea a găsit prea multe rezultate. Limitați căutarea și reîncercați."
+      ],
+      "Failed to load the STL preview": [
+        "Nu s-a putut încărca examinarea STL."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -5279,7 +5333,7 @@
     },
     "Footer": {
       "${ BRAND_NAME }. Privacy by default.": [
-        "${ BRAND_NAME }. Confidențialitate implicită."
+        "${ BRAND_NAME }. Privacy by default."
       ]
     },
     "forwardmessage": {
@@ -8210,7 +8264,43 @@
         "Planul programat începe ${ renewalTime } și se va reînnoi automat lunar."
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
-        "Abonamentu se va reînnoi automat la ${ renewalTime }."
+        "Abonamentul se va reînnoi automat la ${ renewalTime }."
+      ],
+      "Admin account allocation": [
+        "Alocare cont admin"
+      ],
+      "Allocated": [
+        "Alocat"
+      ],
+      "Already allocated": [
+        "Deja alocat"
+      ],
+      "Already used": [
+        "Deja folosit"
+      ],
+      "Open the guide for recommended actions and helpful links.": [
+        "Deschideți ghidul pentru acțiuni recomandate și legături web utile."
+      ],
+      "Please fill in all required fields.": [
+        "Completați toate câmpurile obligatorii."
+      ],
+      "Set up your organization": [
+        "Setați organizația"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "Spațiu alocat altor utilizatori din această organizație"
+      ],
+      "Storage allocated to this user": [
+        "Spațiu alocat acestui utilizator"
+      ],
+      "Storage for users": [
+        "Spațiu pentru utilizatori"
+      ],
+      "Storage used by this user": [
+        "Spațiu folosit de utilizator"
+      ],
+      "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
+        "Acesta este un nume sau o poreclă pentru organizație pe care o vor vedea utilizatorii acesteia. Se poate schimba oricând."
       ]
     },
     "info": {
@@ -9073,6 +9163,9 @@
       ],
       "Your password (admin)": [
         "Parola dvs. (administrator)"
+      ],
+      "Account storage": [
+        "Spațiu cont"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9340,6 +9433,54 @@
       ],
       "You need to reactivate your keys to see the updated invitation": [
         "Trebuie să activați cheile pentru a vedea invitația actualizată"
+      ],
+      "Enforcing 2FA for organizations": [
+        "Impunere A2F pentru organizații"
+      ],
+      "How to add users": [
+        "Cum să adăugați utilizatori"
+      ],
+      "How to add Zoom links": [
+        "Cum să adăugați legături web Zoom"
+      ],
+      "How to collaborate in ${ DOCS_SHORT_APP_NAME }": [
+        "Cum să colaborați în ${ DOCS_SHORT_APP_NAME }"
+      ],
+      "How to enable ${ PROTON_SENTINEL_NAME }": [
+        "Cum se activează ${ PROTON_SENTINEL_NAME }"
+      ],
+      "How to migrate to ${ BRAND_NAME }": [
+        "Cum să migrați la ${ BRAND_NAME }"
+      ],
+      "How to set up ${ VPN_APP_NAME }": [
+        "Cum să configurați ${ VPN_APP_NAME }"
+      ],
+      "How to set up a custom domain": [
+        "Cum să configurați un domeniu personal"
+      ],
+      "How to set up SMTP": [
+        "Cum să configurați SMTP"
+      ],
+      "How to share a calendar": [
+        "Cum să partajați un calendar"
+      ],
+      "How to share via email": [
+        "Cum să partajați prin e-mail"
+      ],
+      "How to use ${ DARK_WEB_MONITORING_NAME }": [
+        "Cum se folosește ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "How to use ${ PASS_APP_NAME } for Business": [
+        "Cum să utilizați ${ PASS_APP_NAME } for Business"
+      ],
+      "How to use email forwarding": [
+        "Cum se utilizează redirecționarea mesajelor"
+      ],
+      "How to use Groups": [
+        "Cum să utilizați grupurile"
+      ],
+      "Types of recovery methods": [
+        "Tipuri de metode de recuperare"
       ]
     },
     "Link to calendar event": {
@@ -11128,6 +11269,21 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "Aveți nevoie de accesul la cheia organizației pentru a efectua această operație."
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "Utilizatorii neprivați pot fi promovați la funcția de administrator atunci când au chei de configurare."
+      ],
+      "Organization key must be activated to give admin privileges": [
+        "Cheia organizației trebuie activată pentru a acorda drepturi administrative."
+      ],
+      "Private users can be promoted to admin when they've signed in for the first time": [
+        "Utilizatorii privați pot fi promovați la funcția de administrator atunci când s-au conectat pentru prima dată."
+      ],
+      "You must delete all groups before generating a new organization key": [
+        "Trebuie să ștergeți toate grupurile înainte de a genera o cheie nouă pentru organizație."
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "Trebuie să faceți privați toți utilizatorii înainte de a genera o cheie nouă pentru organizație."
       ]
     },
     "Payment method option": {
@@ -14246,6 +14402,9 @@
       ],
       "Your shorter address is now ready": [
         "Adresa scurtă este pregătită acum"
+      ],
+      "Get the apps": [
+        "Luați aplicațiile"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14922,6 +15081,11 @@
       ],
       "Passcode:": [
         "Cod de acces:"
+      ]
+    },
+    "unprivatization": {
+      "Admins can't access the data of private users and can't reset their password.": [
+        "Administratorii nu pot accesa datele utilizatorilor privați și nu le pot reseta parola."
       ]
     }
   }

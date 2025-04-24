@@ -1478,6 +1478,9 @@
       ],
       "Zoom out": [
         "Zoom ud"
+      ],
+      "Show more": [
+        "Vis mere"
       ]
     },
     "action": {
@@ -7871,6 +7874,30 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Dit planlagte abonnement starter den ${ renewalTime } og fornyes automatisk hver måned."
+      ],
+      "Admin account allocation": [
+        "Admin-konto tildeling"
+      ],
+      "Allocated": [
+        "Tildelt"
+      ],
+      "Already allocated": [
+        "Allerede tildelt"
+      ],
+      "Already used": [
+        "Allerede anvendt"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "Lagerplads tildelt andre brugere i denne organisation"
+      ],
+      "Storage allocated to this user": [
+        "Lagerplads tildelt denne bruger"
+      ],
+      "Storage for users": [
+        "Lagerplads til brugere"
+      ],
+      "Storage used by this user": [
+        "Lagerplads brugt af denne bruger"
       ]
     },
     "info": {
@@ -8701,6 +8728,9 @@
       ],
       "Your password (admin)": [
         "Din adgangskode (admin)"
+      ],
+      "Account storage": [
+        "Kontolagerplads"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -10327,6 +10357,9 @@
       ],
       "Your subscription renews soon": [
         "Dit abonnement fornyes snart"
+      ],
+      "Last day to save": [
+        "Sidste dag til at gemme"
       ]
     },
     "Offer feature": {
@@ -10602,6 +10635,18 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "Du skal have adgang til organisationsnøglen for at udføre denne handling."
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "Ikke-private brugere kan forfremmes til admin, når de har opsætningsnøgler"
+      ],
+      "Organization key must be activated to give admin privileges": [
+        "Organisationsnøgle skal aktiveres for at give administratorrettigheder"
+      ],
+      "Private users can be promoted to admin when they've signed in for the first time": [
+        "Private brugere kan blive forfremmet til administrator, når de har logget ind for første gang"
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "Du skal privatisere alle brugere, før du genererer en ny organisationsnøgle"
       ]
     },
     "Payment method option": {
@@ -13500,6 +13545,9 @@
       ],
       "Your shorter address is now ready": [
         "Din kortere adresse er nu klar"
+      ],
+      "Get the apps": [
+        "Hent appsene"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14101,6 +14149,11 @@
       ],
       "Passcode:": [
         "Adgangskode:"
+      ]
+    },
+    "unprivatization": {
+      "Admins can't access the data of private users and can't reset their password.": [
+        "Administratorer kan ikke tilgå private brugeres data eller nulstille deres adgangskode."
       ]
     }
   }

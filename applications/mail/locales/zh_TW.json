@@ -1463,6 +1463,9 @@
       ],
       "Zoom out": [
         "縮小"
+      ],
+      "Show more": [
+        "顯示更多"
       ]
     },
     "action": {
@@ -5124,7 +5127,7 @@
     },
     "Footer": {
       "${ BRAND_NAME }. Privacy by default.": [
-        "${ BRAND_NAME }。預設即隱私"
+        "${ BRAND_NAME }. Privacy by default."
       ]
     },
     "forwardmessage": {
@@ -7728,6 +7731,30 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "您的方案開始於${ renewalTime }及於每月重新開始。"
+      ],
+      "Admin account allocation": [
+        "管理員帳號指派"
+      ],
+      "Allocated": [
+        "已分配"
+      ],
+      "Already allocated": [
+        "已分配"
+      ],
+      "Already used": [
+        "已使用"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "儲存空間已分配給這個組織中的其他使用者"
+      ],
+      "Storage allocated to this user": [
+        "此位使用者分配的儲存空間"
+      ],
+      "Storage for users": [
+        "使用者的儲存空間"
+      ],
+      "Storage used by this user": [
+        "此位使用者已用的儲存空間"
       ]
     },
     "info": {
@@ -8563,6 +8590,9 @@
       ],
       "Your password (admin)": [
         "您的密碼（管理員）"
+      ],
+      "Account storage": [
+        "帳號儲存空間"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -10500,6 +10530,12 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "您要先存取至組織金鑰以完成此操作"
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "如取有設定金鑰, 非私人用戶便可以提升至管理員"
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "在產生新的組織金鑰前，用戶必須將所有使用者私有化"
       ]
     },
     "Payment method option": {
@@ -13340,6 +13376,9 @@
       ],
       "Your shorter address is now ready": [
         "您的短地址已完成"
+      ],
+      "Get the apps": [
+        "取得應用程式"
       ]
     },
     "Today icon tooltip in mini calendar": {

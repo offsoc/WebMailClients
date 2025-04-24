@@ -1493,6 +1493,66 @@
       ],
       "Zoom out": [
         "Távolítás"
+      ],
+      "Collaborate on documents": [
+        "Együttműködés dokumentumokon"
+      ],
+      "Connect apps and devices": [
+        "Alkalmazások és eszközök összekapcsolása"
+      ],
+      "Connect to video conferencing": [
+        "Kapcsolódás videokonferenciához"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "${ DRIVE_APP_NAME } alkalmazások letöltése"
+      ],
+      "Get the apps": [
+        "Alkalmazások letöltése"
+      ],
+      "Import emails, calendars, contacts": [
+        "E-mailek, naptárak és névjegyek importálása"
+      ],
+      "Manage advanced account protections": [
+        "A speciális fiókvédelmek kezelése"
+      ],
+      "Manage groups": [
+        "Csoportok kezelése"
+      ],
+      "Manage users/addresses": [
+        "Felhasználók/címek kezelése"
+      ],
+      "Remove button": [
+        "Gomb eltávolítása"
+      ],
+      "Set recovery methods": [
+        "Helyreállítási módszerek beállítása"
+      ],
+      "Set up 2FA": [
+        "Kétlépcsős hitelesítés beállítása"
+      ],
+      "Set up a custom domain": [
+        "Saját domain név beállítása"
+      ],
+      "Set up email forwarding": [
+        "E-mail továbbítás beállítása"
+      ],
+      "Share your calendar with your team": [
+        "A naptár megosztása a csapatával"
+      ],
+      "Show more": [
+        "Több megjelenítése"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "${ DARK_WEB_MONITORING_NAME } bekapcsolása"
+      ],
+      "Upload and share files": [
+        "Fájlok feltöltése és megosztása"
+      ],
+      "Use ${ PASS_APP_NAME } for Business": [
+        "A ${ PASS_APP_NAME } for Business használata"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "Használja a(z) ${ VPN_SHORT_APP_NAME } alkalmazást az adatvédelem biztosításához"
       ]
     },
     "action": {
@@ -4605,6 +4665,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "A keresés túl sok találatot eredményezett. Korlátozza a keresést majd próbálja meg újra."
+      ],
+      "Failed to load the STL preview": [
+        "Nem sikerült betölteni az STL előnézetet"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -8067,6 +8130,30 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Az előfizetése automatikusan megújul ${ renewalTime } időpontban."
+      ],
+      "Admin account allocation": [
+        "Tárhely admin fiók számára"
+      ],
+      "Allocated": [
+        "Lefoglalva"
+      ],
+      "Already allocated": [
+        "Már lefoglalva"
+      ],
+      "Already used": [
+        "Már használatban"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "A szervezet további felhasználói számára lefoglalt tárhely"
+      ],
+      "Storage allocated to this user": [
+        "A felhasználó számára lefoglalt tárhely"
+      ],
+      "Storage for users": [
+        "Tárhely felhasználók számára"
+      ],
+      "Storage used by this user": [
+        "A felhasználó által használt tárhely"
       ]
     },
     "info": {
@@ -8923,6 +9010,9 @@
       ],
       "Your password (admin)": [
         "Jelszó (adminisztrátor)"
+      ],
+      "Account storage": [
+        "Fiók tárhely"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9190,6 +9280,18 @@
       ],
       "You need to reactivate your keys to see the updated invitation": [
         "A frissített meghívó megtekintéséhez előbb újra kell aktiválnia a kulcsait"
+      ],
+      "Enforcing 2FA for organizations": [
+        "Kétlépcsős hitelesítés megkövetelése a szervezetek számára"
+      ],
+      "How to add users": [
+        "Hogyan adhatok hozzá felhasználókat?"
+      ],
+      "How to set up a custom domain": [
+        "Hogyan állíthatok be saját domain nevet?"
+      ],
+      "Types of recovery methods": [
+        "Helyreállítási módszerek típusai"
       ]
     },
     "Link to calendar event": {
@@ -10943,6 +11045,21 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "A művelet végrehajtásához a szervezeti kulcs elérésére van szüksége."
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "Nem-privát felhasználók akkor kaphatnak adminisztrátori jogot, ha van beállítási kulcsuk"
+      ],
+      "Organization key must be activated to give admin privileges": [
+        "A szervezeti kulcsot aktiválni kell, az adminisztrátorok hozzáadásához."
+      ],
+      "Private users can be promoted to admin when they've signed in for the first time": [
+        "Privát felhasználók akkor kaphatnak adminisztrátori jogot, ha már legalább egyszer beléptek"
+      ],
+      "You must delete all groups before generating a new organization key": [
+        "Az összes csoportot törölnie kell, mielőtt új szervezeti kulcsot generál"
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "Az összes felhasználót privátra kell állítani, mielőtt egy új szervezeti kulcsot hozna létre"
       ]
     },
     "Payment method option": {
@@ -13971,6 +14088,57 @@
       ],
       "Your shorter address is now ready": [
         "A rövidebb címe elkészült"
+      ],
+      "Add user": [
+        "Felhasználó hozzáadása"
+      ],
+      "Collaborate on documents": [
+        "Együttműködés dokumentumokon"
+      ],
+      "Connect to video conferencing": [
+        "Kapcsolódás videokonferenciához"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "${ DRIVE_APP_NAME } alkalmazások letöltése"
+      ],
+      "Enhance security with 2FA": [
+        "Növelje a biztonságot a kétlépcsős hitelesítés segítségével"
+      ],
+      "Get the apps": [
+        "Alkalmazások letöltése"
+      ],
+      "Import emails, calendars, contacts": [
+        "E-mailek, naptárak, névjegyek importálása"
+      ],
+      "Org setup": [
+        "Szervezet beállítása"
+      ],
+      "Organization setup": [
+        "Szervezet beállítása"
+      ],
+      "Set recovery methods": [
+        "Helyreállítási módszerek beállítása"
+      ],
+      "Set up email forwarding": [
+        "E-mail továbbítás beállítása"
+      ],
+      "Share your calendar with your team": [
+        "Naptárának megosztása a csapatával"
+      ],
+      "Simplify email distribution": [
+        "Egyszerűsítse az e-mail terjesztést"
+      ],
+      "Simplify password management": [
+        "Egyszerűsítse a jelszókezelést"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "${ DARK_WEB_MONITORING_NAME } bekapcsolása"
+      ],
+      "Upload and share files": [
+        "Fájlok feltöltése és megosztása"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "Használja a(z) ${ VPN_SHORT_APP_NAME } alkalmazást az adatok védelmének biztosításához"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14595,6 +14763,11 @@
       ],
       "Passcode:": [
         "Belépési kód:"
+      ]
+    },
+    "unprivatization": {
+      "Admins can't access the data of private users and can't reset their password.": [
+        "A rendszergazdák nem férhetnek hozzá a privát felhasználók adataihoz, és nem állíthatják vissza jelszavukat."
       ]
     }
   }

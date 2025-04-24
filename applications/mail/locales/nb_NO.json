@@ -1493,6 +1493,66 @@
       ],
       "Zoom out": [
         "Zoom ut"
+      ],
+      "Collaborate on documents": [
+        "Samarbeid på dokumenter"
+      ],
+      "Connect apps and devices": [
+        "Koble til apper og enheter"
+      ],
+      "Connect to video conferencing": [
+        "Koble til videokonferanser"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Last ned ${ DRIVE_APP_NAME }-appen"
+      ],
+      "Get the apps": [
+        "Skaff deg appene"
+      ],
+      "Import emails, calendars, contacts": [
+        "Importer e-poster, kalendere, kontakter"
+      ],
+      "Manage advanced account protections": [
+        "Administrer avansert kontobeskyttelse"
+      ],
+      "Manage groups": [
+        "Administrer grupper"
+      ],
+      "Manage users/addresses": [
+        "Administrer brukere/adresser"
+      ],
+      "Remove button": [
+        "Fjern knapp"
+      ],
+      "Set recovery methods": [
+        "Angi gjenopprettingsmetoder"
+      ],
+      "Set up 2FA": [
+        "Konfigurer 2FA"
+      ],
+      "Set up a custom domain": [
+        "Konfigurer et egendefinert domene"
+      ],
+      "Set up email forwarding": [
+        "Konfigurer videresending av e-post"
+      ],
+      "Share your calendar with your team": [
+        "Del kalenderen din med teamet ditt"
+      ],
+      "Show more": [
+        "Vis mer"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "Slå på ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "Upload and share files": [
+        "Last opp og del filer"
+      ],
+      "Use ${ PASS_APP_NAME } for Business": [
+        "Bruk ${ PASS_APP_NAME } for Business"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "Bruk ${ VPN_SHORT_APP_NAME } for personvern"
       ]
     },
     "action": {
@@ -3797,6 +3857,63 @@
       ],
       "You’ve already created 10 aliases. Get unlimited aliases and 500 GB of storage with ${ BRAND_NAME } Unlimited.": [
         "Du har allerede opprettet 10 aliaser. Få ubegrensede aliaser og 500 GB lagringsplass med ${ BRAND_NAME } Unlimited."
+      ],
+      "${ DOCS_SHORT_APP_NAME } in ${ DRIVE_APP_NAME } allows you to work together with others in a secure, encrypted environment.": [
+        "${ DOCS_SHORT_APP_NAME } i ${ DRIVE_APP_NAME } lar deg samarbeide med andre i et sikkert og kryptert miljø."
+      ],
+      "Add folders and files to ${ DRIVE_APP_NAME } and invite team members to view or edit.": [
+        "Legg til mapper og filer til ${ DRIVE_APP_NAME } og inviter teammedlemmer til å se eller redigere."
+      ],
+      "Automatically forward incoming email to another email address.": [
+        "Videresend automatisk innkommende e-post til en annen e-postadresse."
+      ],
+      "Configure this first to activate your organization and customize your email address.": [
+        "Konfigurer dette først for å aktivere organisasjonen din og tilpasse e-postadressen din."
+      ],
+      "Connect your CRM, website, printers, and more.": [
+        "Koble til CRM-en, nettstedet, skriverne dine og mer."
+      ],
+      "Create groups you can email with a single address.": [
+        "Opprett grupper du kan sende e-post til med én enkelt adresse."
+      ],
+      "Easily access your email and calendar on desktop and mobile.": [
+        "Få enkel tilgang til e-posten og kalenderen din på datamaskin og mobil."
+      ],
+      "Easily sync files to the cloud from your desktop and access them from your mobile device.": [
+        "Synkroniser filer enkelt til skyen fra datamaskinen din, og få tilgang til dem fra mobilenheten din."
+      ],
+      "Encourage the use of two-factor authentication in your organization for extra security.": [
+        "Oppmuntre bruken av tofaktorautentisering i organisasjonen din for ekstra sikkerhet."
+      ],
+      "Ensure secure access to organization data, even if your team is remote or using public WiFi.": [
+        "Sørg for sikker tilgang til organisasjonsdata, selv om teamet ditt er eksternt eller bruker offentlig WiFi."
+      ],
+      "Ensure top-notch security for your account with the ${ PROTON_SENTINEL_NAME } program.": [
+        "Sørg for førsteklasses sikkerhet for din konto med ${ PROTON_SENTINEL_NAME }-programmet."
+      ],
+      "Ensure you can still access your account and data even if you lose your ${ BRAND_NAME } password.": [
+        "Sørg for at du fortsatt har tilgang til kontoen og dataene dine selv om du mister ${ BRAND_NAME }-passordet ditt."
+      ],
+      "For a seamless transition to ${ BRAND_NAME }, import your data from Google, Outlook, and others.": [
+        "For en sømløs overgang til ${ BRAND_NAME }, importer dataene dine fra Google, Outlook og andre."
+      ],
+      "Help your team securely store passwords to sensitive business and client information.": [
+        "Hjelp teamet ditt med å lagre passord til sensitiv forretnings- og klientinformasjon på en sikker måte."
+      ],
+      "Let's you instantly add meeting links to your event invitations.": [
+        "Lar deg umiddelbart legge til møtekoblinger i hendelsesinvitasjonene dine."
+      ],
+      "Set up accounts for all users and invite them to join ${ BRAND_NAME }.": [
+        "Konfigurer kontoer for alle brukere og inviter dem til å bli med i ${ BRAND_NAME }."
+      ],
+      "Simplify syncing and scheduling with shared calendars.": [
+        "Forenkle synkronisering og planlegging med delte kalendere."
+      ],
+      "To start, give your organization a name.": [
+        "For å starte, gi organisasjonen din et navn."
+      ],
+      "Use this guide to get your organization promptly benefiting from ${ BRAND_NAME }'s industry-leading encryption and privacy ecosystem.": [
+        "Bruk denne veiledningen for å hjelpe organisasjonen din med å dra nytte av ${ BRAND_NAME }s bransjeledende kryptering og personvernøkosystem."
       ]
     },
     "description": {
@@ -3942,6 +4059,12 @@
       ],
       "You are invited to ${ eventTitle }.\n\n${ eventDetailsText }": [
         "Du er invitert til ${ eventTitle }.\n\n${ eventDetailsText }"
+      ],
+      "Here's what changed:": [
+        "Her er hva som er endret:"
+      ],
+      "NOTE:": [
+        "NOTAT:"
       ]
     },
     "Email body for invitation (date part)": {
@@ -4608,6 +4731,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Søket samsvarte med for mange resultater. Begrens søket, og prøv på nytt."
+      ],
+      "Failed to load the STL preview": [
+        "Kan ikke laste inn STL-forhåndsvisningen"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -8076,6 +8202,42 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Abonnementet ditt fornyes automatisk ${ renewalTime }."
+      ],
+      "Admin account allocation": [
+        "Adminkonto tildeling"
+      ],
+      "Allocated": [
+        "Tildelt"
+      ],
+      "Already allocated": [
+        "Allerede allokert"
+      ],
+      "Already used": [
+        "Allerede brukt"
+      ],
+      "Open the guide for recommended actions and helpful links.": [
+        "Åpne veiledningen for anbefalte handlinger og nyttige koblinger."
+      ],
+      "Please fill in all required fields.": [
+        "Fyll ut alle obligatoriske felt."
+      ],
+      "Set up your organization": [
+        "Konfigurer organisasjonen din"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "Lagringsplass allokert til andre brukere i denne organisasjonen"
+      ],
+      "Storage allocated to this user": [
+        "Lagringsplass tildelt denne brukeren"
+      ],
+      "Storage for users": [
+        "Lagring for brukere"
+      ],
+      "Storage used by this user": [
+        "Lagringsplass anvendt av denne brukeren"
+      ],
+      "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
+        "Dette er et navn eller kallenavn for organisasjonen din som brukerne dine vil se. Du kan endre det når som helst."
       ]
     },
     "info": {
@@ -8932,6 +9094,9 @@
       ],
       "Your password (admin)": [
         "Ditt passord (admin)"
+      ],
+      "Account storage": [
+        "Kontolagring"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9199,6 +9364,54 @@
       ],
       "You need to reactivate your keys to see the updated invitation": [
         "Du må aktivere nøklene på nytt for å se den oppdaterte invitasjonen"
+      ],
+      "Enforcing 2FA for organizations": [
+        "Anvendelse av A2F for organisasjoner"
+      ],
+      "How to add users": [
+        "Hvordan legge til brukere"
+      ],
+      "How to add Zoom links": [
+        "Hvordan legge til Zoom-koblinger"
+      ],
+      "How to collaborate in ${ DOCS_SHORT_APP_NAME }": [
+        "Hvordan samarbeide i ${ DOCS_SHORT_APP_NAME }"
+      ],
+      "How to enable ${ PROTON_SENTINEL_NAME }": [
+        "Hvordan aktivere ${ PROTON_SENTINEL_NAME }"
+      ],
+      "How to migrate to ${ BRAND_NAME }": [
+        "Hvordan migrere til ${ BRAND_NAME }"
+      ],
+      "How to set up ${ VPN_APP_NAME }": [
+        "Hvordan konfigurere ${ VPN_APP_NAME }"
+      ],
+      "How to set up a custom domain": [
+        "Hvordan konfigurere et egendefinert domene"
+      ],
+      "How to set up SMTP": [
+        "Hvordan konfigurere SMTP"
+      ],
+      "How to share a calendar": [
+        "Hvordan dele en kalender"
+      ],
+      "How to share via email": [
+        "Hvordan dele via e-post"
+      ],
+      "How to use ${ DARK_WEB_MONITORING_NAME }": [
+        "Hvordan bruke ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "How to use ${ PASS_APP_NAME } for Business": [
+        "Hvordan bruke ${ PASS_APP_NAME } for Business"
+      ],
+      "How to use email forwarding": [
+        "Hvordan bruke videresending av e-post"
+      ],
+      "How to use Groups": [
+        "Hvordan bruke grupper"
+      ],
+      "Types of recovery methods": [
+        "Typer av gjenopprettingsmetoder"
       ]
     },
     "Link to calendar event": {
@@ -10952,6 +11165,21 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "Du trenger tilgang til organisasjonsnøkkelen for å utføre denne operasjonen."
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "Ikke-private brukere kan forfremmes til administrator når de har installasjonsnøkler."
+      ],
+      "Organization key must be activated to give admin privileges": [
+        "Organisasjonsnøkkelen må aktiveres for å gi administratorrettigheter."
+      ],
+      "Private users can be promoted to admin when they've signed in for the first time": [
+        "Private brukere kan bli forfremmet til administrator når de har logget på for første gang."
+      ],
+      "You must delete all groups before generating a new organization key": [
+        "Du må slette alle grupper før du genererer en ny organisasjonsnøkkel"
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "Du må privatisere alle brukere før genererering av en ny organisasjonsnøkkel."
       ]
     },
     "Payment method option": {
@@ -11252,6 +11480,12 @@
       ],
       "Type text or keyword": [
         "Skriv inn tekst eller nøkkelord"
+      ],
+      "Organization name": [
+        "Organisasjonsnavn"
+      ],
+      "Your organization name": [
+        "Organisasjonsnavnet ditt"
       ]
     },
     "Placeholder for contact group name": {
@@ -13983,6 +14217,72 @@
       ],
       "Your shorter address is now ready": [
         "Den kortere adressen din er nå klar"
+      ],
+      "Add user": [
+        "Legg til bruker"
+      ],
+      "Collaborate on documents": [
+        "Samarbeid på dokumenter"
+      ],
+      "Connect apps and devices": [
+        "Koble til apper og enheter"
+      ],
+      "Connect to video conferencing": [
+        "Koble til videokonferanser"
+      ],
+      "Connect your custom domain": [
+        "Koble til ditt egendefinerte domene"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Last ned ${ DRIVE_APP_NAME }-appen"
+      ],
+      "Enable advanced account protection": [
+        "Aktiver avansert kontobeskyttelse"
+      ],
+      "Enhance security with 2FA": [
+        "Forbedre sikkerheten med 2FA"
+      ],
+      "Get the apps": [
+        "Skaff deg appene"
+      ],
+      "Import emails, calendars, contacts": [
+        "Importer e-poster, kalendere, kontakter"
+      ],
+      "Org setup": [
+        "Organisasjonskonfigurasjon"
+      ],
+      "Organization setup": [
+        "Organisasjonsoppsett"
+      ],
+      "Set recovery methods": [
+        "Angi gjenopprettingsmetoder"
+      ],
+      "Set up email forwarding": [
+        "Konfigurer videresending av e-post"
+      ],
+      "Set up your organization": [
+        "Konfigurer organisasjonen din"
+      ],
+      "Share your calendar with your team": [
+        "Del kalenderen din med teamet ditt"
+      ],
+      "Simplify email distribution": [
+        "Forenkle distribusjon av e-post"
+      ],
+      "Simplify password management": [
+        "Forenkle passordadministrasjon"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "Slå på ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "Upload and share files": [
+        "Last opp og del filer"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "Bruk ${ VPN_SHORT_APP_NAME } for personvern"
+      ],
+      "Welcome to ${ BRAND_NAME } for Business": [
+        "Velkommen til ${ BRAND_NAME } for Business"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14612,6 +14912,21 @@
       ],
       "Passcode:": [
         "Adgangskode:"
+      ]
+    },
+    "Email body for comment (comment part)": {
+      "NOTE:\n${ eventComment }": [
+        "NOTAT: \n${ eventComment }"
+      ]
+    },
+    "Section": {
+      "Org setup and account security": [
+        "Konfigurasjon av organisasjon og kontosikkerhet"
+      ]
+    },
+    "unprivatization": {
+      "Admins can't access the data of private users and can't reset their password.": [
+        "Administratorer har ikke tilgang til dataene til private brukere og kan ikke tilbakestille passordet deres."
       ]
     }
   }

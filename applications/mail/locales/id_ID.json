@@ -1484,6 +1484,42 @@
       ],
       "Zoom out": [
         "Perkecil"
+      ],
+      "Collaborate on documents": [
+        "Kolaborasikan dokumen"
+      ],
+      "Connect apps and devices": [
+        "Hubungkan aplkasi dan perangkat"
+      ],
+      "Connect to video conferencing": [
+        "Hubungkan ke konferensi video"
+      ],
+      "Get the apps": [
+        "Dapatkan aplikasinya"
+      ],
+      "Manage advanced account protections": [
+        "Kelola perlindungan akun lanjutan"
+      ],
+      "Manage groups": [
+        "Kelola grup"
+      ],
+      "More options for accounts": [
+        "Pilihan lainnya untuk akun"
+      ],
+      "Set up email forwarding": [
+        "Atur penerusan email"
+      ],
+      "Share your calendar with your team": [
+        "Bagikan kalender Anda dengan tim Anda"
+      ],
+      "Show more": [
+        "Tampilkan lebih banyak"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "Aktfkan ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "Upload and share files": [
+        "Unggah dan bagikan berkas"
       ]
     },
     "action": {
@@ -4573,6 +4609,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Pencarian Anda membuahkan terlalu banyak hasil. Silakan persempit kriteria pencarian Anda dan coba lagi."
+      ],
+      "Failed to load the STL preview": [
+        "Pratinjau STL gagal dimuat"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -5196,7 +5235,7 @@
     },
     "Footer": {
       "${ BRAND_NAME }. Privacy by default.": [
-        "${ BRAND_NAME }. Privasi sebagai hal yang baku."
+        "${ BRAND_NAME }. Privacy by default."
       ]
     },
     "forwardmessage": {
@@ -6128,13 +6167,13 @@
         "Apakah Anda yakin ingin memindahkan seluruh pesan yang terdapat pada lokasi ini ke sampah?"
       ],
       "Are you sure you want to permanently delete ${ count } conversation?": [
-        "Apakah Anda yakin untuk menghapus ${ count } percakapan secara permanen?"
+        "Apakah Anda yakin ingin menghapus ${ count } percakapan secara permanen?"
       ],
       "Are you sure you want to permanently delete ${ count } draft?": [
-        "Apakah Anda yakin untuk menghapus ${ count } draf secara permanen?"
+        "Apakah Anda yakin ingin menghapus ${ count } draf secara permanen?"
       ],
       "Are you sure you want to permanently delete ${ count } message?": [
-        "Apakah Anda yakin untuk menghapus ${ count } pesan secara permanen?"
+        "Apakah Anda yakin ingin menghapus ${ count } pesan secara permanen?"
       ],
       "Are you sure you want to permanently delete this conversation?": [
         "Apakah Anda yakin ingin menghapus percakapan ini secara permanen?"
@@ -7877,7 +7916,7 @@
         "Alamat email Anda telah terpapar:"
       ],
       "Your email will only be used for this one-time verification.": [
-        "Email Anda hanya akan dipakai satu kali ini untuk keperluan verifikasi."
+        "Email Anda hanya akan digunakan satu kali ini untuk keperluan verifikasi."
       ],
       "Your files will be encrypted and then saved": [
         "Berkas Anda akan dienkripsi dan kemudian disimpan"
@@ -7922,7 +7961,7 @@
         "Kata sandi Anda telah bocor:"
       ],
       "Your phone number will only be used for this one-time verification.": [
-        "Nomor telepon Anda hanya akan dipakai satu kali ini untuk keperluan verifikasi."
+        "Nomor telepon Anda hanya akan digunakan satu kali ini untuk keperluan verifikasi."
       ],
       "Your physical location is visible and can be used to restrict your access to the internet.": [
         "Lokasi fisik Anda sedang terlihat dan dapat digunakan untuk membatasi akses internet Anda."
@@ -7938,6 +7977,39 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Langganan Anda akan diperbarui secara otomatis pada ${ renewalTime }."
+      ],
+      "Admin account allocation": [
+        "Alokasi akun admin"
+      ],
+      "Allocated": [
+        "Dialokasikan"
+      ],
+      "Already allocated": [
+        "Telah dialokasikan"
+      ],
+      "Already used": [
+        "Telah digunakan"
+      ],
+      "Open the guide for recommended actions and helpful links.": [
+        "Buka panduan ini untuk memperoleh tindakan yang disarankan dan tautan yang dapat berguna."
+      ],
+      "Set up your organization": [
+        "Siapkan organisasi Anda"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "Ruang penyimpanan yang dialokasikan kepada pengguna lain di dalam organisasi ini"
+      ],
+      "Storage allocated to this user": [
+        "Ruang penyimpanan yang dialokasikan kepada pengguna ini"
+      ],
+      "Storage for users": [
+        "Ruang penyimpanan untuk anggota"
+      ],
+      "Storage used by this user": [
+        "Ruang penyimpanan yang digunakan oleh pengguna ini"
+      ],
+      "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
+        "Nama ini adalah nama atau julukan organisasi yang akan dilihat oleh para pengguna Anda. Anda dapat mengubah nama ini kapan saja."
       ]
     },
     "info": {
@@ -8782,6 +8854,15 @@
       ],
       "Your password (admin)": [
         "Kata sandi Anda (admin)"
+      ],
+      "Account storage": [
+        "Penyimpanan akun"
+      ],
+      "Enable desktop notifications": [
+        "Aktifkan notifikasi desktop"
+      ],
+      "Notifications are disabled, to enable them change the browser settings.": [
+        "Notifikasi sedang dinonaktifkan. Untuk mengaktifkan notifikasi, ubah pengaturan browser."
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9049,6 +9130,12 @@
       ],
       "You need to reactivate your keys to see the updated invitation": [
         "Anda perlu mengaktifkan ulang kunci Anda untuk melihat undangan yang diperbarui"
+      ],
+      "How to collaborate in ${ DOCS_SHORT_APP_NAME }": [
+        "Cara berkolaborasi di ${ DOCS_SHORT_APP_NAME }"
+      ],
+      "How to share via email": [
+        "Cara berbagi via email"
       ]
     },
     "Link to calendar event": {
@@ -9654,7 +9741,7 @@
         "Perlindungan kebocoran DNS"
       ],
       "Double hop": [
-        "Double hop"
+        "Koneksi double hop"
       ],
       "Easy Switch import assistant": [
         "Alat bantu impor Easy Switch"
@@ -10253,7 +10340,7 @@
         "Pada saat Anda mengirim pesan ke pengguna ${ MAIL_APP_NAME } lainnya, enkripsi akan diterapkan secara otomatis. Sebaliknya, pada saat Anda mengirim pesan ke pengguna non-${ MAIL_APP_NAME_TWO }, Anda harus menentukan kata sandi pada pesan yang Anda kirim."
       ],
       "You can have more than one admin. All admins can add and manage users but only the primary admin has control over billing.": [
-        "Anda dapat menetapkan lebih dari satu admin. Seluruh admin akan dapat menambahkan dan mengelola pengguna, namun segala hal terkait pembayaran hanya akan dapat diatur oleh admin utama."
+        "Anda dapat memiliki lebih dari satu admin. Seluruh admin akan dapat menambahkan dan mengelola pengguna, namun hanya admin utamalah yang memiliki kendali atas tagihan."
       ]
     },
     "new_plans: Upsell attribute": {
@@ -10767,6 +10854,21 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "Anda memerlukan akses ke kunci organisasi untuk melangsungkan tindakan ini."
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "Pengguna non-privat dapat dipromosikan sebagai admin pada saat mereka memiliki kunci setup"
+      ],
+      "Organization key must be activated to give admin privileges": [
+        "Kunci organisasi harus diaktifkan untuk memberikan hak admin"
+      ],
+      "Private users can be promoted to admin when they've signed in for the first time": [
+        "Pengguna privat dapat diangkat sebagai admin pada saat mereka memasuki akun untuk yang pertama kalinya"
+      ],
+      "You must delete all groups before generating a new organization key": [
+        "Anda harus menghapus seluruh grup sebelum menghasilkan kunci organisasi baru"
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "Anda harus memprivatkan seluruh pengguna sebelum menghasilkan kunci organisasi baru"
       ]
     },
     "Payment method option": {
@@ -12429,7 +12531,7 @@
         "${ count } draf dihapus"
       ],
       "${ count } message deleted": [
-        "Pesan dihapus\n\n${ count } pesan dihapus"
+        "${ count } pesan dihapus"
       ],
       "${ countMergeableContacts } contact look identical.": [
         "${ countMergeableContacts } kontak terlihat identik."
@@ -13708,6 +13810,54 @@
       ],
       "Your shorter address is now ready": [
         "Alamat lebih pendek Anda sudah siap"
+      ],
+      "Add user": [
+        "Tambah pengguna"
+      ],
+      "Connect apps and devices": [
+        "Hubungkan aplkasi dan perangkat"
+      ],
+      "Connect to video conferencing": [
+        "Hubungkan ke konferensi video"
+      ],
+      "Connect your custom domain": [
+        "Hubungkan domain khusus Anda"
+      ],
+      "Enable advanced account protection": [
+        "Aktifkan perlindungan akun lanjutan"
+      ],
+      "Enhance security with 2FA": [
+        "Tingkatkan keamanan dengan 2FA"
+      ],
+      "Get the apps": [
+        "Dapatkan aplikasinya"
+      ],
+      "Import emails, calendars, contacts": [
+        "Impor email, kalender, kontak"
+      ],
+      "Information exposed in breach": [
+        "Informasi yang terpapar dalam kebocoran data"
+      ],
+      "Set recovery methods": [
+        "Atur metode pemulihan"
+      ],
+      "Set up email forwarding": [
+        "Atur penerusan email"
+      ],
+      "Set up your organization": [
+        "Siapkan organisasi Anda"
+      ],
+      "Share your calendar with your team": [
+        "Bagikan kalender Anda dengan tim Anda"
+      ],
+      "Simplify email distribution": [
+        "Sederhanakan distribusi email"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "Aktifkan ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "Welcome to ${ BRAND_NAME } for Business": [
+        "Selamat datang di ${ BRAND_NAME } for Business"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13796,6 +13946,12 @@
       ],
       "Upload a public key to enable sending end-to-end encrypted emails to this email": [
         "Unggah kunci publik untuk mengaktifkan pengiriman pesan terenkripsi ujung ke ujung ke alamat ini"
+      ],
+      "Not all information listed here was exposed for all users.": [
+        "Tidak semua informasi yang tercantum di sini terpapar untuk seluruh pengguna."
+      ],
+      "Unless they are deciphered, encrypted passwords remain secure even if they are exposed.": [
+        "Kecuali kata sandi ini didekripsi, kata sandi yang terenkripsi akan tetap aman bahkan apabila terpapar."
       ]
     },
     "tooltip": {
@@ -14284,6 +14440,11 @@
       ],
       "Passcode:": [
         "Kode sandi:"
+      ]
+    },
+    "unprivatization": {
+      "Admins can't access the data of private users and can't reset their password.": [
+        "Admin tidak dapat mengakses data pengguna pribadi dan tidak dapat mengatur ulang kata sandinya."
       ]
     }
   }

@@ -1484,6 +1484,69 @@
       ],
       "Zoom out": [
         "縮小"
+      ],
+      "Collaborate on documents": [
+        "ドキュメントの共同編集"
+      ],
+      "Connect apps and devices": [
+        "アプリとデバイスを接続"
+      ],
+      "Connect to video conferencing": [
+        "ビデオ会議に接続"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "${ DRIVE_APP_NAME } アプリをダウンロード"
+      ],
+      "Get the apps": [
+        "アプリを入手"
+      ],
+      "hide-my-email aliases": [
+        "hide-my-email エイリアス"
+      ],
+      "Import emails, calendars, contacts": [
+        "メール、カレンダー、連絡先をインポート"
+      ],
+      "Manage advanced account protections": [
+        "高度なアカウント保護を管理"
+      ],
+      "Manage groups": [
+        "グループの管理"
+      ],
+      "Manage users/addresses": [
+        "ユーザー/アドレスの管理"
+      ],
+      "Remove button": [
+        "ボタンを削除"
+      ],
+      "Set recovery methods": [
+        "回復手段を設定"
+      ],
+      "Set up 2FA": [
+        "2要素認証を設定"
+      ],
+      "Set up a custom domain": [
+        "カスタムドメインを設定"
+      ],
+      "Set up email forwarding": [
+        "メール転送の設定"
+      ],
+      "Share your calendar with your team": [
+        "カレンダーをチームと共有"
+      ],
+      "Show more": [
+        "さらに表示"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "${ DARK_WEB_MONITORING_NAME } をオンにする"
+      ],
+      "Upload and share files": [
+        "ファイルをアップロードして共有"
+      ],
+      "Use ${ PASS_APP_NAME } for Business": [
+        "${ PASS_APP_NAME } for Businessを使用"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "データプライバシーのために${ VPN_SHORT_APP_NAME }を使用する"
       ]
     },
     "action": {
@@ -1783,6 +1846,9 @@
       ],
       "VPN Accelerator": [
         "VPN Accelerator"
+      ],
+      "Unlimited logins, credit cards, hide-my-email aliases and more": [
+        "無制限のログイン、クレジットカードやhide-my-emailエイリアスなど"
       ]
     },
     "BF2024: Offers": {
@@ -3772,6 +3838,63 @@
       ],
       "You’ve already created 10 aliases. Get unlimited aliases and 500 GB of storage with ${ BRAND_NAME } Unlimited.": [
         "すでに 10 個のエリアスを作成しました。${ BRAND_NAME }Unlimitedで無制限のエイリアスと 500 GBのストレージを獲得しましょう。"
+      ],
+      "${ DOCS_SHORT_APP_NAME } in ${ DRIVE_APP_NAME } allows you to work together with others in a secure, encrypted environment.": [
+        "${ DRIVE_APP_NAME }の${ DOCS_SHORT_APP_NAME }では、安全で暗号化された環境で他の人と共同作業ができます。"
+      ],
+      "Add folders and files to ${ DRIVE_APP_NAME } and invite team members to view or edit.": [
+        "${ DRIVE_APP_NAME } にフォルダやファイルを追加し、チームメンバーを招待して表示または編集を許可します。"
+      ],
+      "Automatically forward incoming email to another email address.": [
+        "メールを別のメールアドレスに自動的に転送します。"
+      ],
+      "Configure this first to activate your organization and customize your email address.": [
+        "最初に組織を有効にし、メールアドレスをカスタマイズするように設定してください。"
+      ],
+      "Connect your CRM, website, printers, and more.": [
+        "CRM、ウェブサイト、プリンターなどを接続。"
+      ],
+      "Create groups you can email with a single address.": [
+        "単一の アドレス でメールを送信できるグループ を作成します。"
+      ],
+      "Easily access your email and calendar on desktop and mobile.": [
+        "デスクトップとモバイルでメールとカレンダーに簡単にアクセスできます。"
+      ],
+      "Easily sync files to the cloud from your desktop and access them from your mobile device.": [
+        "デスクトップからクラウドにファイルを簡単に同期し、モバイルデバイスからアクセスできます。"
+      ],
+      "Encourage the use of two-factor authentication in your organization for extra security.": [
+        "セキュリティを強化するために、組織内で2要素認証の使用を推奨します。"
+      ],
+      "Ensure secure access to organization data, even if your team is remote or using public WiFi.": [
+        "チームがリモートまたは公共のWi-Fiを使用している場合でも、組織のデータへの安全なアクセスを確保します。"
+      ],
+      "Ensure top-notch security for your account with the ${ PROTON_SENTINEL_NAME } program.": [
+        "${ PROTON_SENTINEL_NAME } プログラムで、お客様の アカウントのセキュリティを万全にしてください。"
+      ],
+      "Ensure you can still access your account and data even if you lose your ${ BRAND_NAME } password.": [
+        "${ BRAND_NAME }のパスワードを忘れても、アカウントとデータにアクセスできることを確認してください。"
+      ],
+      "For a seamless transition to ${ BRAND_NAME }, import your data from Google, Outlook, and others.": [
+        "${ BRAND_NAME }への移行をスムーズに行うために、Google、Outlookなどのサービスからデータをインポートしてください。"
+      ],
+      "Help your team securely store passwords to sensitive business and client information.": [
+        "チームが機密性の高いビジネスおよびクライアント情報のパスワードを安全に保管できるよう支援します。"
+      ],
+      "Let's you instantly add meeting links to your event invitations.": [
+        "イベントの招待状に会議リンクを即座に追加できます。"
+      ],
+      "Set up accounts for all users and invite them to join ${ BRAND_NAME }.": [
+        "すべてのユーザーに対してアカウントを設定し、${ BRAND_NAME }に参加するよう招待してください。"
+      ],
+      "Simplify syncing and scheduling with shared calendars.": [
+        "共有カレンダーで同期やスケジューリングを簡単に。"
+      ],
+      "To start, give your organization a name.": [
+        "まず、組織に名前を付けてください。"
+      ],
+      "Use this guide to get your organization promptly benefiting from ${ BRAND_NAME }'s industry-leading encryption and privacy ecosystem.": [
+        "このガイドを利用して、あなたの組織が${ BRAND_NAME }の業界をリードする暗号化をプライバシーのエコシステムから速やかに恩恵を受けられるようにしてください。"
       ]
     },
     "description": {
@@ -3916,6 +4039,12 @@
       ],
       "You are invited to ${ eventTitle }.\n\n${ eventDetailsText }": [
         "${ eventTitle } に招待されました。\n\n${ eventDetailsText }"
+      ],
+      "Here's what changed:": [
+        "変更内容:"
+      ],
+      "NOTE:": [
+        "注意:"
       ]
     },
     "Email body for invitation (date part)": {
@@ -4570,6 +4699,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "一致する項目が多すぎるため、検索対象をより絞り込んでもう一度お試しください。"
+      ],
+      "Failed to load the STL preview": [
+        "STLプレビューの読み込みに失敗しました"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -5954,7 +6086,7 @@
         "${ updated } 連絡先が正常に更新されました。"
       ],
       "${ VPN_APP_NAME } is masking your IP address, so websites can’t identify you.": [
-        "${ VPN_APP_NAME } はあなたのIPアドレスをマスクしているため、ウェブサイトはあなたを特定できません。"
+        "${ VPN_APP_NAME } はあなたのIPアドレスをマスクするため、ウェブサイトに特定されることはありません。"
       ],
       "(${ memberCount } member)": [
         "(${ memberCount } 人のメンバー)"
@@ -5978,7 +6110,7 @@
         "**自動接続**: デバイスをオンにするとすぐにVPNに接続します。"
       ],
       "**Kill switch**: Stops data leaks by blocking your internet if the VPN drops unexpectedly.": [
-        "**キルスイッチ**: VPNが予期しない状態になった場合、インターネットをブロックしてデータ漏洩を停止します。"
+        "**キルスイッチ**: VPNに予期せぬ問題が起きた場合、インターネット接続を切ってデータ漏洩を防ぎます。"
       ],
       "+${ bonusSpace } bonus storage": [
         "+${ bonusSpace } ボーナスストレージ"
@@ -5996,7 +6128,7 @@
         "メーリングリストの購読解除のリクエストがニュースレターの差出人に送信され、自動で処理されます"
       ],
       "A secure connection is essential when working remotely. A VPN protects company data from cyber threats and keeps your work private.": [
-        "リモートで作業するには、セキュアな接続が不可欠です。VPN は、企業データをサイバー脅威から保護し、仕事をプライベートに保ちます。"
+        "リモートワークには、セキュアな接続が不可欠です。VPN は、企業のデータをサイバー脅威から保護し、仕事をプライベートに保ちます。"
       ],
       "A user is an account associated with a single username, mailbox, and person": [
         "ユーザーとは、1つのユーザー名、メールボックス、人物に関連するアカウントのことです"
@@ -6008,7 +6140,7 @@
         "VPNはIPアドレスを隠し、ブラウジング活動を暗号化し、ウェブサイト、広告主、ISPが時間をかけて追跡するのを困難にします。"
       ],
       "A VPN is a secure tunnel between your device and the internet. It hides your location and activity from your internet service provider (ISP) and the websites you visit.": [
-        "VPNは、デバイスとインターネットの間の安全なトンネルです。 インターネットサービスプロバイダ(ISP)およびアクセスしたウェブサイトから現在地やアクティビティを非表示にします。"
+        "VPNは、デバイスとインターネットの間の安全なトンネルのようなものです。お客様の現在地やアクティビティをインターネットサービスプロバイダ（ISP）およびアクセスしたウェブサイトから隠します。"
       ],
       "Access 6,500+ high-speed servers on up to 10 devices to keep your browsing data safe. Available on ${ ios }, ${ android }, ${ appleTV }, and ${ desktop }.": [
         "最大 10 台のデバイスで 6,500 台以上の高速サーバーにアクセスし、ブラウジングデータを安全に保ちます。 ${ ios }、 ${ android }、 ${ appleTV }、 ${ desktop }で利用できます。"
@@ -6506,7 +6638,7 @@
         "追加情報や制限を解除するには、 ${ mailLink } にログインしてください。"
       ],
       "For anytime access to email and an optimized mobile experience, download our ${ androidAppLink } or ${ iosAppLink }.": [
-        "メールと最適化されたモバイル体験へいつでもアクセスするためには、 ${ androidAppLink } または ${ iosAppLink } アプリをダウンロードしてください。"
+        "メールと最適化されたモバイル体験へいつでもアクセスできるよう、 ${ androidAppLink } または ${ iosAppLink } をダウンロードしましょう。"
       ],
       "For messages newer than ${ oldestDate }": [
         "${ oldestDate } 以降のメッセージ"
@@ -6611,7 +6743,7 @@
         "データを ${ fromEmail } から ${ toEmail } にインポートしています。"
       ],
       "In restrictive countries": [
-        "制限された国で"
+        "制限のある国"
       ],
       "In the next step, you’ll be able to submit a deposit using a Bitcoin address.": [
         "次のステップでは、Bitcoin アドレスを使用してデポジットを送信することができます。"
@@ -6806,7 +6938,7 @@
         "その他の修正操作"
       ],
       "Most public WiFi networks are safe, but some lack security, exposing you to cyber threats. A VPN encrypts your traffic, keeping you protected.": [
-        "ほとんどの公共WiFiネットワークは安全ですが、セキュリティが不足している場合、サイバー脅威にさらされます。VPNはトラフィックを暗号化し、保護を維持します。"
+        "ほとんどの公共のWiFiネットワークは安全ですが、セキュリティが不十分なものもあり、サイバー攻撃の危険にさらされる可能性があります。VPNはトラフィックを暗号化してあなたを保護します。"
       ],
       "Name your new folder and select the parent folder you want to put it in. If you do not select a parent folder, this new folder will be created as a top level folder.": [
         "新しいフォルダーの名前と、親フォルダーを選択してください。最上位のフォルダーを作成したい場合は、親フォルダーを選択しないでください。"
@@ -6866,7 +6998,7 @@
         "有効な URL ではありません"
       ],
       "Not connected": [
-        "接続されていません"
+        "未接続"
       ],
       "Number of dedicated servers in the organization": [
         "組織内の専用サーバー数"
@@ -6875,7 +7007,7 @@
         " / "
       ],
       "On public WiFi networks": [
-        "公共の WiFi ネットワークで"
+        "公共WiFiネットワーク上"
       ],
       "One or more of your trusted keys were marked \"compromised\" by their owner. We recommend that you \"untrust\" these keys.": [
         "相手から「漏洩」と判断された鍵があります。対象の鍵の信頼を解除することを推奨します。"
@@ -7079,7 +7211,7 @@
         "下書きを保存しています…"
       ],
       "Scan the QR code with your mobile device": [
-        "ご使用のモバイルデバイスでQRコードをスキャン"
+        "携帯のデバイスでQRコードをスキャンしてください"
       ],
       "Scheduled send of this message will be canceled.": [
         "このメッセージの送信予約はキャンセルされました。"
@@ -7199,7 +7331,7 @@
         "このメッセージは存在しないか有効期限切れです。"
       ],
       "Start sharing it with contacts and use it for online services.": [
-        "連絡先との共有を始め、オンラインサービスのために使ってください。"
+        "連絡先と共有し、オンラインサービスでご利用ください。"
       ],
       "Start using the shorter, catchier version of your email address.": [
         "より短く、覚えやすいメールアドレスを使い始めましょう。"
@@ -7253,7 +7385,7 @@
         "表示用のテキスト"
       ],
       "Thank you for subscribing. Secure browsing starts now.": [
-        "ご登録ありがとうございます。安全なブラウジングが今すぐ開始されます。"
+        "ご登録ありがとうございます。安全なブラウジングをお楽しみください！"
       ],
       "The data you have entered in the draft may not be saved if you leave the page.": [
         "このページを離れると入力したデータの下書きは保存されません。"
@@ -7421,7 +7553,7 @@
         "この差出人の公開鍵はまだ信頼されていません。"
       ],
       "This unique code can be used by websites and ISPs (internet service providers) to link your location and browsing history to your device": [
-        "この唯一のコードは、ウェブサイトやISP(インターネットサービスプロバイダ)によって、位置情報や閲覧履歴をあなたのデバイスと結びつけるのに利用されます。"
+        "この固有のコードは、ウェブサイトやISP（インターネットサービスプロバイダ）によって、位置情報や閲覧副歴をあなたのデバイスと結びつけるのに利用されます。"
       ],
       "This was shown to you because your email subject line contains password reset keywords.": [
         "これは、メールの件名にパスワードリセットキーワードが含まれているため表示されました。"
@@ -7664,7 +7796,7 @@
         "メールアドレスを伝える際には、本来のメールアドレスではなく専用の使い捨て hide-my-email エイリアスを使用しましょう。"
       ],
       "When working remotely": [
-        "リモートで作業する時"
+        "リモートワークの時"
       ],
       "When you connect to VPN, it uses encryption technology to hide your IP address (a unique code assigned to your device).": [
         "VPNに接続すると、暗号化技術を使用してIPアドレス(デバイスに割り当てられた固有のコード)を非表示にします。"
@@ -7889,7 +8021,7 @@
         "インターネットサービスプロバイダーは、データを監視して販売したり、アクセスできるウェブサイトを制限したりすることもできます。"
       ],
       "Your IP": [
-        "あなたのIP"
+        "IPアドレス"
       ],
       "Your IP address is visible and can be used to track your online activity.": [
         "IPアドレスは表示されており、オンラインアクティビティを追跡するために使用できます。"
@@ -7934,7 +8066,43 @@
         "予定されているプランは ${ renewalTime } から始まり、毎月自動更新されます。"
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
-        "あなたのサブスクリプションは${ renewalTime }に自動的に更新されます"
+        "あなたのサブスクリプションは${ renewalTime }に自動的に更新されます。"
+      ],
+      "Admin account allocation": [
+        "管理者アカウント割り当て"
+      ],
+      "Allocated": [
+        "割り当て"
+      ],
+      "Already allocated": [
+        "割り当て済み"
+      ],
+      "Already used": [
+        "すでに使用されています"
+      ],
+      "Open the guide for recommended actions and helpful links.": [
+        "推奨されるアクションと役立つリンクのガイドを開きます。"
+      ],
+      "Please fill in all required fields.": [
+        "必須項目をすべて入力してください。"
+      ],
+      "Set up your organization": [
+        "組織を設定"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "この組織の他のユーザーに割り当てられたストレージ"
+      ],
+      "Storage allocated to this user": [
+        "ストレージはこのユーザーに割り当て済みです"
+      ],
+      "Storage for users": [
+        "ユーザーのストレージ"
+      ],
+      "Storage used by this user": [
+        "ストレージはこのユーザーによって使われています"
+      ],
+      "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
+        "これは組織の名称またはニックネームであり、ユーザーに表示されます。いつでも変更できます。"
       ]
     },
     "info": {
@@ -8785,6 +8953,9 @@
       ],
       "Your password (admin)": [
         "あなたのパスワード (管理者)"
+      ],
+      "Account storage": [
+        "アカウントの容量"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9052,6 +9223,54 @@
       ],
       "You need to reactivate your keys to see the updated invitation": [
         "更新された招待を表示するには、鍵を再度有効にする必要があります"
+      ],
+      "Enforcing 2FA for organizations": [
+        "組織に2要素認証を適用"
+      ],
+      "How to add users": [
+        "ユーザーを追加する方法"
+      ],
+      "How to add Zoom links": [
+        "Zoomのリンクを追加する方法"
+      ],
+      "How to collaborate in ${ DOCS_SHORT_APP_NAME }": [
+        "${ DOCS_SHORT_APP_NAME }でコラボレーションする方法"
+      ],
+      "How to enable ${ PROTON_SENTINEL_NAME }": [
+        "${ PROTON_SENTINEL_NAME }を有効にする方法"
+      ],
+      "How to migrate to ${ BRAND_NAME }": [
+        "${ BRAND_NAME } への移行方法"
+      ],
+      "How to set up ${ VPN_APP_NAME }": [
+        "${ VPN_APP_NAME } の設定方法"
+      ],
+      "How to set up a custom domain": [
+        "カスタムドメインの設定方法"
+      ],
+      "How to set up SMTP": [
+        "SMTP の設定方法"
+      ],
+      "How to share a calendar": [
+        "カレンダーを共有する方法"
+      ],
+      "How to share via email": [
+        "メールで共有する方法"
+      ],
+      "How to use ${ DARK_WEB_MONITORING_NAME }": [
+        "${ DARK_WEB_MONITORING_NAME } の使用方法"
+      ],
+      "How to use ${ PASS_APP_NAME } for Business": [
+        "${ PASS_APP_NAME } for Businessの使用方法"
+      ],
+      "How to use email forwarding": [
+        "メール転送の使用方法"
+      ],
+      "How to use Groups": [
+        "グループの使用方法"
+      ],
+      "Types of recovery methods": [
+        "回復手段の種類"
       ]
     },
     "Link to calendar event": {
@@ -10770,6 +10989,21 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "この操作を実行するには、組織キーにアクセスする必要があります。"
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "非プライベートユーザーは、セットアップキーがある場合に管理者に昇格することができます"
+      ],
+      "Organization key must be activated to give admin privileges": [
+        "管理者権限を付与するには、組織の鍵を有効にする必要があります"
+      ],
+      "Private users can be promoted to admin when they've signed in for the first time": [
+        "プライベート ユーザーは、初めてサインインしたときに管理者に昇格できます"
+      ],
+      "You must delete all groups before generating a new organization key": [
+        "新しい組織の鍵を生成する前に、すべてのグループを削除する必要があります"
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "新しい組織の鍵を生成する前に、すべてのユーザーをプライベート化する必要があります"
       ]
     },
     "Payment method option": {
@@ -11066,6 +11300,12 @@
       ],
       "Type text or keyword": [
         "テキストまたはキーワードを入力"
+      ],
+      "Organization name": [
+        "組織名"
+      ],
+      "Your organization name": [
+        "あなたの組織の名前"
       ]
     },
     "Placeholder for contact group name": {
@@ -13714,6 +13954,72 @@
       ],
       "Your shorter address is now ready": [
         "短いアドレスの準備ができました"
+      ],
+      "Add user": [
+        "ユーザーを追加"
+      ],
+      "Collaborate on documents": [
+        "ドキュメントの共同編集"
+      ],
+      "Connect apps and devices": [
+        "アプリとデバイスを接続"
+      ],
+      "Connect to video conferencing": [
+        "ビデオ会議に接続"
+      ],
+      "Connect your custom domain": [
+        "カスタムドメインを接続"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "${ DRIVE_APP_NAME } アプリをダウンロード"
+      ],
+      "Enable advanced account protection": [
+        "高度なアカウント保護を有効にする"
+      ],
+      "Enhance security with 2FA": [
+        "2要素認証でセキュリティを強化"
+      ],
+      "Get the apps": [
+        "アプリを入手"
+      ],
+      "Import emails, calendars, contacts": [
+        "メール、カレンダー、連絡先をインポート"
+      ],
+      "Org setup": [
+        "組織設定"
+      ],
+      "Organization setup": [
+        "組織の設定"
+      ],
+      "Set recovery methods": [
+        "回復手段を設定"
+      ],
+      "Set up email forwarding": [
+        "メール転送の設定"
+      ],
+      "Set up your organization": [
+        "組織を設定"
+      ],
+      "Share your calendar with your team": [
+        "カレンダーをチームと共有"
+      ],
+      "Simplify email distribution": [
+        "メール配信を簡単に"
+      ],
+      "Simplify password management": [
+        "パスワード管理を簡単に"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "${ DARK_WEB_MONITORING_NAME } をオンにする"
+      ],
+      "Upload and share files": [
+        "ファイルのアップロードと共有"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "データプライバシーのために ${ VPN_SHORT_APP_NAME } を使用する"
+      ],
+      "Welcome to ${ BRAND_NAME } for Business": [
+        "${ BRAND_NAME } for Businessへようこそ"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14291,6 +14597,21 @@
       ],
       "Passcode:": [
         "パスコード："
+      ]
+    },
+    "Email body for comment (comment part)": {
+      "NOTE:\n${ eventComment }": [
+        "注意:\n${ eventComment }"
+      ]
+    },
+    "Section": {
+      "Org setup and account security": [
+        "組織のセットアップとアカウントのセキュリティ"
+      ]
+    },
+    "unprivatization": {
+      "Admins can't access the data of private users and can't reset their password.": [
+        "管理者はプライベートユーザーのデータにアクセスすることやパスワードをリセットすることはできません。"
       ]
     }
   }

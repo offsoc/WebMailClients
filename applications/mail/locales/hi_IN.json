@@ -1301,8 +1301,7 @@
         "भरोसा करें"
       ],
       "Trust key": [
-        "ट्रस्ट कुंजी",
-        "ट्रस्ट कुंजी"
+        "विश्वसनीय चाबी"
       ],
       "Trust public key": [
         "सार्वजनिक कुंजी पर भरोसा करें"
@@ -1472,6 +1471,9 @@
       ],
       "Zoom out": [
         "ज़ूम कम करें"
+      ],
+      "Show more": [
+        "और दिखाएँ"
       ]
     },
     "action": {
@@ -7863,6 +7865,30 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "आपकी निर्धारित योजना ${ renewalTime } से शुरू होती है और हर महीने ऑटो-नवीनीकरण होगी।"
+      ],
+      "Admin account allocation": [
+        "एडमिन खाता बंटवारा"
+      ],
+      "Allocated": [
+        "आवंटित"
+      ],
+      "Already allocated": [
+        "पहले से दिया गया"
+      ],
+      "Already used": [
+        "पहले से ही इस्तेमाल किया हुआ"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "इस संगठन में अन्य उपयोगकर्ताओं को आवंटित संग्रहण"
+      ],
+      "Storage allocated to this user": [
+        "इस यूज़र को दिया गया स्टोरेज"
+      ],
+      "Storage for users": [
+        "यूज़र के लिए स्टोरेज"
+      ],
+      "Storage used by this user": [
+        "इस यूज़र का स्टोरेज इस्तेमाल"
       ]
     },
     "info": {
@@ -8704,6 +8730,9 @@
       ],
       "Your password (admin)": [
         "आपका पासवर्ड (व्यवस्थापक)"
+      ],
+      "Account storage": [
+        "खाता संग्रहण"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -10694,6 +10723,21 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "इस कार्य को करने के लिए आपको संगठन कुंजी तक पहुंच की आवश्यकता है।"
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "गैर-निजी उपयोगकर्ताओं को व्यवस्थापक बनाया जा सकता है जब उन्होंने कुंजी सेटअप कर ली हो"
+      ],
+      "Organization key must be activated to give admin privileges": [
+        "व्यवस्थापकीय विशेषाधिकार देने के लिए संगठन कुंजी सक्रिय होनी चाहिए"
+      ],
+      "Private users can be promoted to admin when they've signed in for the first time": [
+        "निजी उपयोगकर्ताओं को पहली बार साइन इन करने पर व्यवस्थापक के रूप में पदोन्नत किया जा सकता है"
+      ],
+      "You must delete all groups before generating a new organization key": [
+        "नई संगठन कुंजी बनाने से पहले आपको सभी ग्रुप्स को मिटा दें"
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "नई संगठन कुंजी बनाने से पहले आपको सभी उपयोगकर्ताओं का निजीकरण करना होगा"
       ]
     },
     "Payment method option": {
@@ -13648,6 +13692,9 @@
       ],
       "Your shorter address is now ready": [
         "आपका छोटा पता अब तैयार है"
+      ],
+      "Get the apps": [
+        "ऐप प्राप्त करें"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14259,6 +14306,11 @@
       ],
       "Passcode:": [
         "पासकोड:"
+      ]
+    },
+    "unprivatization": {
+      "Admins can't access the data of private users and can't reset their password.": [
+        "एडमिन निजी उपयोगकर्ताओं के डाटा तक पहुंच नहीं सकते और उनके पासवर्ड रीसेट नहीं कर सकते।"
       ]
     }
   }

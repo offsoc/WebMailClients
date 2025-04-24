@@ -1059,6 +1059,9 @@
       ],
       "Zoom out": [
         "Smanji"
+      ],
+      "Show more": [
+        "Prikaži više"
       ]
     },
     "action": {
@@ -5268,6 +5271,9 @@
       ],
       "Your password (admin)": [
         "Vaša lozinka (administrator)"
+      ],
+      "Account storage": [
+        "Prostor za pohranu računa"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -7548,6 +7554,9 @@
       ],
       "Welcome ${ userName }": [
         "Dobrodošli ${ userName }"
+      ],
+      "Get the apps": [
+        "Preuzmite aplikacije"
       ]
     },
     "Today icon tooltip in mini calendar": {

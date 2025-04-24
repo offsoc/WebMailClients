@@ -1493,6 +1493,66 @@
       ],
       "Zoom out": [
         "დაპატარავება"
+      ],
+      "Collaborate on documents": [
+        "იმუშავეთ ერთად დოკუმენტებზე"
+      ],
+      "Connect apps and devices": [
+        "აპებისა და მოწყობილობების დაკავშირება"
+      ],
+      "Connect to video conferencing": [
+        "დაკავსირება ვიდეოკონფერენციასთან"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "${ DRIVE_APP_NAME }-ის აპების გადმოწერა"
+      ],
+      "Get the apps": [
+        "აპების გადმოწერა"
+      ],
+      "Import emails, calendars, contacts": [
+        "ელფოსტების, კალენდრების, კონტაქტების შემოტანა"
+      ],
+      "Manage advanced account protections": [
+        "ანგარიშის დამატებითი დაცვის მართვა"
+      ],
+      "Manage groups": [
+        "ჯგუფების მართვა"
+      ],
+      "Manage users/addresses": [
+        "მომხმარებლების/ფსევდონიმების მართვა"
+      ],
+      "Remove button": [
+        "ღილაკის მოცილება"
+      ],
+      "Set recovery methods": [
+        "აღდგენის მეთოდების დაყენება"
+      ],
+      "Set up 2FA": [
+        "2FA-ის მორგება"
+      ],
+      "Set up a custom domain": [
+        "მომხმარებლის დომენის მორგება"
+      ],
+      "Set up email forwarding": [
+        "ელფოსტის გადაგზავნის მორგება"
+      ],
+      "Share your calendar with your team": [
+        "გაუზიარეთ თქვენი კალენდარი თქვენს გუნდს"
+      ],
+      "Show more": [
+        "მეტის ჩვენება"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "${ DARK_WEB_MONITORING_NAME }-ის ჩართვა"
+      ],
+      "Upload and share files": [
+        "ფაილების ატვირთვა და გაზიარება"
+      ],
+      "Use ${ PASS_APP_NAME } for Business": [
+        "${ PASS_APP_NAME } for Business-ის გამოყენება"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "გამოიყენეთ ${ VPN_SHORT_APP_NAME } მონაცემთა კონფიდენციალობისთვის"
       ]
     },
     "action": {
@@ -1837,6 +1897,10 @@
       ],
       "Storage space is shared across all ${ BRAND_NAME } services.": [
         "საცავის სივრცე გაზიარებულია ყველა ${ BRAND_NAME }-ის სერვისებს შორის."
+      ],
+      "Secure your emails and schedule with end-to-end encryption. Includes ${ addresses } email address, support for custom email domains, unlimited hide-my-email aliases and more.": [
+        "დაიცავით თქვენი ელფოსტა და განრიგი გამჭოლი შიფრაციით. მოიცავს ${ addresses } ელფოსტის მისამართს, მომხმარებლის ელფოსტა დომენების მხარდაჭერას, უნაყოფო hide-my-email-ის ფსევდონიმებს და სხვა.",
+        "დაიცავით თქვენი ელფოსტა და განრიგი გამჭოლი შიფრაციით. მოიცავს ${ addresses } ელფოსტის მისამართს, მომხმარებლის ელფოსტა დომენების მხარდაჭერას, უნაყოფო hide-my-email-ის ფსევდონიმებს და სხვა."
       ]
     },
     "Billing cycle option": {
@@ -3793,6 +3857,18 @@
       ],
       "You’ve already created 10 aliases. Get unlimited aliases and 500 GB of storage with ${ BRAND_NAME } Unlimited.": [
         "თქვენ უკვე შექმენით 10 ფსევდონიმი. მიიღეთ განუსაზღვრელი ფსევდონიმები და 500 გბ საცავი ${ BRAND_NAME } Unlimited-თან ერთად."
+      ],
+      "Connect your CRM, website, printers, and more.": [
+        "დააკავსირეთ თქვენი CRM, ვებგვერდი, პრინტერი და ა.შ."
+      ],
+      "Create groups you can email with a single address.": [
+        "შექმენით ჯგუფები, რომლებისთვისაც ელფოსტის მიწერა ერთი მისამართით შეგეძლებათ."
+      ],
+      "Simplify syncing and scheduling with shared calendars.": [
+        "გაამართივეთ გაზიარებული კალენდრების დაგეგმვა და სინქრონიზაცია."
+      ],
+      "To start, give your organization a name.": [
+        "დასაწყებად, მიანიჭეთ თქვენს ორგანიზაიას სახელი."
       ]
     },
     "description": {
@@ -3938,6 +4014,12 @@
       ],
       "You are invited to ${ eventTitle }.\n\n${ eventDetailsText }": [
         "მიწვეული ბრძანდებით მოვლენაზე ${ eventTitle }.\n\nროდის: ${ eventDetailsText }"
+      ],
+      "Here's what changed:": [
+        "აი, რა შეიცვალა:"
+      ],
+      "NOTE:": [
+        "შენიშვნა:"
       ]
     },
     "Email body for invitation (date part)": {
@@ -4601,6 +4683,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "თქვენმა ძებნამ მეტისმეტად ბევრი შედეგი მოიტანა. დაადეთ უფრო მეტი ლიმიტი და თავიდან სცადეთ."
+      ],
+      "Failed to load the STL preview": [
+        "STL მინიატურის ჩატვირთვა ჩავარდა"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -8012,6 +8097,36 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "თქვენი გამოწერის ავტომატური განახლების თარიღი: ${ renewalTime }."
+      ],
+      "Admin account allocation": [
+        "ადმინისტრატორის ანგარიშის გამოყოფა"
+      ],
+      "Allocated": [
+        "გამოყოფილი"
+      ],
+      "Already allocated": [
+        "გამოყოფილია"
+      ],
+      "Already used": [
+        "გამოყენებულია"
+      ],
+      "Open the guide for recommended actions and helpful links.": [
+        "გახსენით დამხმარე რეკომენდებული ქმედებებისა და სასარგებლო ბმულებისთვის."
+      ],
+      "Set up your organization": [
+        "მოირგეთ თქვენი ორგანიზაცია"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "ამ ორგანიზაციის სხვა მომხმარებლებისთვის გამოყოფილი საცავი"
+      ],
+      "Storage allocated to this user": [
+        "ამ მომხმარებლისთვის გამოყოფილი საცავი"
+      ],
+      "Storage for users": [
+        "საცავი მომხმარებლებისთვის"
+      ],
+      "Storage used by this user": [
+        "ამ მომხმარებლის მიერ გამოყენებული საცავი"
       ]
     },
     "info": {
@@ -8868,6 +8983,9 @@
       ],
       "Your password (admin)": [
         "თქვენი პაროლი (admin)"
+      ],
+      "Account storage": [
+        "ანგარიშის საცავი"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9135,6 +9253,54 @@
       ],
       "You need to reactivate your keys to see the updated invitation": [
         "განახლებული მოსაწვევის სანახავად საჭიროა თქვენი გასაღების თავიდან გააქტიურება"
+      ],
+      "Enforcing 2FA for organizations": [
+        "2FA-ის მოთხოვნა ორგანიზაციებისთვის"
+      ],
+      "How to add users": [
+        "როგორ დავამატო მომხმარებლები"
+      ],
+      "How to add Zoom links": [
+        "როგორ დავამატო Zoom-ის ბმულები"
+      ],
+      "How to collaborate in ${ DOCS_SHORT_APP_NAME }": [
+        "როგორ ხდება კოლაბორაცია ${ DOCS_SHORT_APP_NAME }-ში"
+      ],
+      "How to enable ${ PROTON_SENTINEL_NAME }": [
+        "როგორ ჩავრთო ${ PROTON_SENTINEL_NAME }"
+      ],
+      "How to migrate to ${ BRAND_NAME }": [
+        "როგორ გადავიდე ${ BRAND_NAME }-ზე"
+      ],
+      "How to set up ${ VPN_APP_NAME }": [
+        "როგორ მოვირგო ${ VPN_APP_NAME }"
+      ],
+      "How to set up a custom domain": [
+        "როგორ მოვირგო ჩემი დომენი"
+      ],
+      "How to set up SMTP": [
+        "როგორ მოვირგო SMTP"
+      ],
+      "How to share a calendar": [
+        "როგორ გავაზიარო კალენდარი"
+      ],
+      "How to share via email": [
+        "როგორ გავაზიარო ელფოსტით"
+      ],
+      "How to use ${ DARK_WEB_MONITORING_NAME }": [
+        "როგორ გამოვიყენოთ ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "How to use ${ PASS_APP_NAME } for Business": [
+        "როგორ გამოვიყენო ${ PASS_APP_NAME } for Business"
+      ],
+      "How to use email forwarding": [
+        "როგორ გამოვიყენო ელფოსტის გადაგზავნა"
+      ],
+      "How to use Groups": [
+        "როგორ გამოვიყენო ჯგუფები"
+      ],
+      "Types of recovery methods": [
+        "აღდგენის მეთოდის ტიპები"
       ]
     },
     "Link to calendar event": {
@@ -10885,6 +11051,21 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "ოპერაციის შესასრულებლად ორგანიზაციის გასაღებთან წვდომა გჭირდებათ."
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "არა-კონფიდენციალური მომხმარებლები შეიძლება, ადმინისტრატორამდე ასწიოთ, თუ მათ გასაღებები მორგებული აქვთ"
+      ],
+      "Organization key must be activated to give admin privileges": [
+        "ადმინისტრატორის უფლებების მისაცემად, ორგანიზაციის გასაღები აუცილებლად გააქტივებული უნდა იყოს"
+      ],
+      "Private users can be promoted to admin when they've signed in for the first time": [
+        "კონფიდენციალურ მომხმარებლებს შეგიძლიათ, ადმინისტრატორის უფლებები მიანიჭოთ, როცა სისტემაში პირველად შევლენ"
+      ],
+      "You must delete all groups before generating a new organization key": [
+        "ახალი ორგანიზაციის გასაღების გენერაციამდე ყველა ჯგუფი უნდა წაშალოთ"
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "ორგანიზაციის ახალი გასაღების გენერაციამდე საჭიროა ყველა მომხმარებლის პრივატიაზაცია"
       ]
     },
     "Payment method option": {
@@ -10971,6 +11152,10 @@
       ],
       "Your payment is still being processed": [
         "თქვენი გადახდა ჯერ კიდევ მუშავდება"
+      ],
+      "Then it will automatically be renewed at ${ renewPriceStr } for ${ renewalLength } month. You can cancel at any time.": [
+        "შემდეტ ის ავტომატურად განახლდება ${ renewPriceStr }-ზე ${ renewalLength } თვის განმავლობაში. გაუქმება ყოველთვის შეგეძლებათ.",
+        "შემდეტ ის ავტომატურად განახლდება ${ renewPriceStr }-ზე ${ renewalLength } თვის განმავლობაში. გაუქმება ყოველთვის შეგეძლებათ."
       ]
     },
     "Payments.Error": {
@@ -11171,6 +11356,12 @@
       ],
       "Type text or keyword": [
         "შეიყვანეთ ტექსტი ან საკვანძო სიტყვა"
+      ],
+      "Organization name": [
+        "ორგანიზაციის სახელი"
+      ],
+      "Your organization name": [
+        "თქვენი ორგანიზაციის სახელი"
       ]
     },
     "Placeholder for contact group name": {
@@ -13899,6 +14090,72 @@
       ],
       "Your shorter address is now ready": [
         "თქვენი მოკლე მისამართი ახლა მზადაა"
+      ],
+      "Add user": [
+        "მომხმარებლის დამატება"
+      ],
+      "Collaborate on documents": [
+        "იმუშავეთ ერთად დოკუმენტებზე"
+      ],
+      "Connect apps and devices": [
+        "აპებისა და მოწყობილობების დაკავშირება"
+      ],
+      "Connect to video conferencing": [
+        "დაკავსირება ვიდეოკონფერენციასთან"
+      ],
+      "Connect your custom domain": [
+        "თქვენი დომენის დაკავსირება"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "${ DRIVE_APP_NAME }-ის აპების გადმოწერა"
+      ],
+      "Enable advanced account protection": [
+        "ანგარიშის დამატებითი დაცვის ჩართვა"
+      ],
+      "Enhance security with 2FA": [
+        "გააფართოვეთ უსაფრთხოება 2FA-ით"
+      ],
+      "Get the apps": [
+        "აპების გადმოწერა"
+      ],
+      "Import emails, calendars, contacts": [
+        "ელფოსტების, კალენდრების, კონტაქტების შემოტანა"
+      ],
+      "Org setup": [
+        "ორგ.-ის მორგება"
+      ],
+      "Organization setup": [
+        "ორგანიზაციის მორგება"
+      ],
+      "Set recovery methods": [
+        "აღდგენის მეთოდების დაყენება"
+      ],
+      "Set up email forwarding": [
+        "ელფოსტის გადაგზავნის მორგება"
+      ],
+      "Set up your organization": [
+        "მოირგეთ თქვენი ორგანიზაცია"
+      ],
+      "Share your calendar with your team": [
+        "გაუზიარეთ თქვენი კალენდარი თქვენს გუნდს"
+      ],
+      "Simplify email distribution": [
+        "ელფოსტის განაწილების გამარტივება"
+      ],
+      "Simplify password management": [
+        "პაროლების მართვის გამარტივება"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "${ DARK_WEB_MONITORING_NAME }-ის ჩართვა"
+      ],
+      "Upload and share files": [
+        "ფაილების ატვირთვა და გაზიარება"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "გამოიყენეთ ${ VPN_SHORT_APP_NAME } მონაცემთა კონფიდენციალობისთვის"
+      ],
+      "Welcome to ${ BRAND_NAME } for Business": [
+        "მოგესალმებათ ${ BRAND_NAME } for Business"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -13990,6 +14247,9 @@
       ],
       "Upload a public key to enable sending end-to-end encrypted emails to this email": [
         "ამ ელფოსტიდან გამჭოლი შიფრაციით დაშიფრული ელფოსტების გასაგზავნად ატვირთეთ საჯარო გასაღები"
+      ],
+      "Unless they are deciphered, encrypted passwords remain secure even if they are exposed.": [
+        "თუ მათ არ გაშიფრავთ, დაშიფრული პაროლები დაცულია მაშინაც კი, თუ მათ ვინმე ნახავს."
       ]
     },
     "tooltip": {
@@ -14525,6 +14785,21 @@
       ],
       "Passcode:": [
         "საკვანძო კოდი:"
+      ]
+    },
+    "Email body for comment (comment part)": {
+      "NOTE:\n${ eventComment }": [
+        "შენიშვნა:\n${ eventComment }"
+      ]
+    },
+    "Section": {
+      "Org setup and account security": [
+        "ორგ.-ის მორგებ და ანგარისის უსაფრთხოება"
+      ]
+    },
+    "unprivatization": {
+      "Admins can't access the data of private users and can't reset their password.": [
+        "ადმინებს კონფიდენციალური მომხმარებლების მონაცემებთაან წვდომა არ აქვთ და ვერც მათ პაროლს ჩამოყრიან."
       ]
     }
   }

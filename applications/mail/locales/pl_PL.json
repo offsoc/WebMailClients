@@ -1330,10 +1330,7 @@
         "Zaufaj"
       ],
       "Trust key": [
-        "Zaufaj kluczowi",
-        "Zaufaj kluczom",
-        "Zaufaj kluczom",
-        "Zaufaj kluczom"
+        "Zaufaj kluczowi"
       ],
       "Trust public key": [
         "Zaufaj kluczowi publicznemu"
@@ -1505,6 +1502,66 @@
       ],
       "Zoom out": [
         "Pomniejsz"
+      ],
+      "Collaborate on documents": [
+        "Współpracuj nad dokumentami"
+      ],
+      "Connect apps and devices": [
+        "Połącz aplikacje i urządzenia"
+      ],
+      "Connect to video conferencing": [
+        "Połącz się z wideokonferencją"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Pobierz aplikacje ${ DRIVE_APP_NAME }"
+      ],
+      "Get the apps": [
+        "Pobierz aplikacje"
+      ],
+      "Import emails, calendars, contacts": [
+        "Importuj wiadomości, kalendarze i kontakty"
+      ],
+      "Manage advanced account protections": [
+        "Zarządzaj zaawansowanymi zabezpieczeniami konta"
+      ],
+      "Manage groups": [
+        "Zarządzaj grupami"
+      ],
+      "Manage users/addresses": [
+        "Zarządzaj użytkownikami / adresami"
+      ],
+      "Remove button": [
+        "Usuń przycisk"
+      ],
+      "Set recovery methods": [
+        "Ustaw metody odzyskiwania"
+      ],
+      "Set up 2FA": [
+        "Skonfiguruj uwierzytelnianie dwustopniowe"
+      ],
+      "Set up a custom domain": [
+        "Skonfiguruj niestandardową domenę"
+      ],
+      "Set up email forwarding": [
+        "Ustaw przekierowanie"
+      ],
+      "Share your calendar with your team": [
+        "Udostępnij kalendarz zespołowi"
+      ],
+      "Show more": [
+        "Pokaż więcej"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "Włącz ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "Upload and share files": [
+        "Prześlij i udostępnij pliki"
+      ],
+      "Use ${ PASS_APP_NAME } for Business": [
+        "Użyj planu ${ PASS_APP_NAME } for Business"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "Użyj ${ VPN_SHORT_APP_NAME } dla prywatności danych"
       ]
     },
     "action": {
@@ -3835,6 +3892,63 @@
       ],
       "You’ve already created 10 aliases. Get unlimited aliases and 500 GB of storage with ${ BRAND_NAME } Unlimited.": [
         "Utworzono 10 aliasów. Uzyskaj nieograniczoną liczbę aliasów i 500 GB przestrzeni dyskowej w planie ${ BRAND_NAME } Unlimited."
+      ],
+      "${ DOCS_SHORT_APP_NAME } in ${ DRIVE_APP_NAME } allows you to work together with others in a secure, encrypted environment.": [
+        "${ DOCS_SHORT_APP_NAME } w ${ DRIVE_APP_NAME } umożliwia współpracę z innymi w bezpiecznym i szyfrowanym środowisku."
+      ],
+      "Add folders and files to ${ DRIVE_APP_NAME } and invite team members to view or edit.": [
+        "Dodawaj foldery i pliki do ${ DRIVE_APP_NAME } i zapraszaj użytkowników zespołu do ich przeglądania lub edytowania."
+      ],
+      "Automatically forward incoming email to another email address.": [
+        "Automatyczne przekierowanie wiadomości przychodzących na inny adres e-mail."
+      ],
+      "Configure this first to activate your organization and customize your email address.": [
+        "Skonfiguruj to najpierw, aby aktywować organizację i dostosować adres e-mail."
+      ],
+      "Connect your CRM, website, printers, and more.": [
+        "Połącz CRM, stronę internetową, drukarki i nie tylko."
+      ],
+      "Create groups you can email with a single address.": [
+        "Twórz grupy, do których możesz wysyłać wiadomości za pomocą jednego adresu."
+      ],
+      "Easily access your email and calendar on desktop and mobile.": [
+        "Łatwy dostęp do poczty i kalendarza na komputerach oraz urządzeniach mobilnych."
+      ],
+      "Easily sync files to the cloud from your desktop and access them from your mobile device.": [
+        "Łatwa synchronizacja plików komputera z chmurą i dostęp do danych z urządzenia mobilnego."
+      ],
+      "Encourage the use of two-factor authentication in your organization for extra security.": [
+        "Aby zapewnić dodatkowe bezpieczeństwo, zachęcaj do korzystania z uwierzytelniania dwustopniowego w organizacji."
+      ],
+      "Ensure secure access to organization data, even if your team is remote or using public WiFi.": [
+        "Zapewnij bezpieczny dostęp do danych organizacji, nawet jeśli Twój zespół jest zdalny lub korzysta z publicznej sieci Wi-Fi."
+      ],
+      "Ensure top-notch security for your account with the ${ PROTON_SENTINEL_NAME } program.": [
+        "Najwyższe bezpieczeństwo konta dzięki programowi ${ PROTON_SENTINEL_NAME }."
+      ],
+      "Ensure you can still access your account and data even if you lose your ${ BRAND_NAME } password.": [
+        "Upewnij się, że nadal możesz uzyskać dostęp do konta i danych, nawet jeśli zapomnisz hasła ${ BRAND_NAME }."
+      ],
+      "For a seamless transition to ${ BRAND_NAME }, import your data from Google, Outlook, and others.": [
+        "Zaimportuj dane z Google, Outlook i innych usług, aby płynnie przejść do ${ BRAND_NAME }."
+      ],
+      "Help your team securely store passwords to sensitive business and client information.": [
+        "Pomóż zespołowi bezpiecznie przechowywać hasła do poufnych danych firmowych i informacji o klientach."
+      ],
+      "Let's you instantly add meeting links to your event invitations.": [
+        "Dodawaj linki do spotkań w zaproszeniach na wydarzenia."
+      ],
+      "Set up accounts for all users and invite them to join ${ BRAND_NAME }.": [
+        "Skonfiguruj konta dla wszystkich użytkowników i zaproś ich do ${ BRAND_NAME }."
+      ],
+      "Simplify syncing and scheduling with shared calendars.": [
+        "Uprość synchronizację i planowanie za pomocą udostępnionych kalendarzy."
+      ],
+      "To start, give your organization a name.": [
+        "Rozpocznij od nazwania organizacji."
+      ],
+      "Use this guide to get your organization promptly benefiting from ${ BRAND_NAME }'s industry-leading encryption and privacy ecosystem.": [
+        "Skorzystaj z przewodnika, aby Twoja organizacja zaczęła szybko czerpać korzyści z wiodącego w branży ekosystemu szyfrowania i prywatności ${ BRAND_NAME }."
       ]
     },
     "description": {
@@ -3982,6 +4096,12 @@
       ],
       "You are invited to ${ eventTitle }.\n\n${ eventDetailsText }": [
         "Zaproszenie na wydarzenie ${ eventTitle }.\n\n${ eventDetailsText }"
+      ],
+      "Here's what changed:": [
+        "Zmiany:"
+      ],
+      "NOTE:": [
+        "WIADOMOŚĆ:"
       ]
     },
     "Email body for invitation (date part)": {
@@ -4672,6 +4792,9 @@
       ],
       "Your search matched too many results. Please limit your search and try again.": [
         "Wyszukiwanie pasuje do zbyt wielu wyników. Sprecyzuj wyszukiwanie i spróbuj ponownie."
+      ],
+      "Failed to load the STL preview": [
+        "Nie udało się załadować podglądu STL"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -8346,6 +8469,39 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Twoja subskrypcja odnowi się automatycznie ${ renewalTime }."
+      ],
+      "Admin account allocation": [
+        "Przestrzeń dyskowa administratora"
+      ],
+      "Allocated": [
+        "Przydzielona"
+      ],
+      "Already allocated": [
+        "Już przydzielona"
+      ],
+      "Already used": [
+        "Już używana"
+      ],
+      "Open the guide for recommended actions and helpful links.": [
+        "Otwórz przewodnik, aby sprawdzić zalecane działania i przydatne linki."
+      ],
+      "Set up your organization": [
+        "Skonfiguruj organizację"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "Przestrzeń dyskowa przydzielona do innych użytkowników organizacji"
+      ],
+      "Storage allocated to this user": [
+        "Przestrzeń dyskowa przydzielona do użytkownika"
+      ],
+      "Storage for users": [
+        "Przestrzeń dyskowa dla użytkowników"
+      ],
+      "Storage used by this user": [
+        "Przestrzeń dyskowa używana przez użytkownika"
+      ],
+      "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
+        "To jest nazwa organizacji, którą będą widzieć użytkownicy. Możesz ją zmienić w dowolnym momencie."
       ]
     },
     "info": {
@@ -9214,6 +9370,9 @@
       ],
       "Your password (admin)": [
         "Twoje hasło (administratora)"
+      ],
+      "Account storage": [
+        "Przestrzeń dyskowa konta"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9481,6 +9640,54 @@
       ],
       "You need to reactivate your keys to see the updated invitation": [
         "Musisz reaktywować klucze, aby zobaczyć zaktualizowane zaproszenie"
+      ],
+      "Enforcing 2FA for organizations": [
+        "Wymuszenie uwierzytelniania dwustopniowego w organizacjach"
+      ],
+      "How to add users": [
+        "Jak dodać użytkowników"
+      ],
+      "How to add Zoom links": [
+        "Jak dodać linki Zoom"
+      ],
+      "How to collaborate in ${ DOCS_SHORT_APP_NAME }": [
+        "Jak współpracować w ${ DOCS_SHORT_APP_NAME }"
+      ],
+      "How to enable ${ PROTON_SENTINEL_NAME }": [
+        "Jak włączyć ${ PROTON_SENTINEL_NAME }"
+      ],
+      "How to migrate to ${ BRAND_NAME }": [
+        "Jak przenieść dane do ${ BRAND_NAME }"
+      ],
+      "How to set up ${ VPN_APP_NAME }": [
+        "Jak skonfigurować ${ VPN_APP_NAME }"
+      ],
+      "How to set up a custom domain": [
+        "Jak skonfigurować niestandardową domenę"
+      ],
+      "How to set up SMTP": [
+        "Jak skonfigurować SMTP"
+      ],
+      "How to share a calendar": [
+        "Jak udostępnić kalendarz"
+      ],
+      "How to share via email": [
+        "Jak udostępnić za pomocą poczty e-mail?"
+      ],
+      "How to use ${ DARK_WEB_MONITORING_NAME }": [
+        "Jak używać ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "How to use ${ PASS_APP_NAME } for Business": [
+        "Jak używać planu ${ PASS_APP_NAME } for Business"
+      ],
+      "How to use email forwarding": [
+        "Jak używać przekierowania"
+      ],
+      "How to use Groups": [
+        "Jak używać grup"
+      ],
+      "Types of recovery methods": [
+        "Metody odzyskiwania"
       ]
     },
     "Link to calendar event": {
@@ -11304,6 +11511,21 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "Potrzebujesz dostępu do klucza organizacji, aby wykonać to działanie."
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "Służbowi użytkownicy mogą uzyskać uprawnienia administratora po skonfigurowaniu kluczy"
+      ],
+      "Organization key must be activated to give admin privileges": [
+        "Musisz aktywować klucz organizacji, aby przyznać uprawnienia administratora"
+      ],
+      "Private users can be promoted to admin when they've signed in for the first time": [
+        "Prywatni użytkownicy mogą uzyskać uprawnienia administratora po pierwszym zalogowaniu się."
+      ],
+      "You must delete all groups before generating a new organization key": [
+        "Przed wygenerowaniem nowego klucza organizacji musisz usunąć wszystkie grupy"
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "Musisz zmienić służbowych użytkowników na prywatnych przed wygenerowaniem nowego klucza organizacji"
       ]
     },
     "Payment method option": {
@@ -11612,6 +11834,12 @@
       ],
       "Type text or keyword": [
         "Wpisz tekst lub słowo kluczowe"
+      ],
+      "Organization name": [
+        "Nazwa organizacji"
+      ],
+      "Your organization name": [
+        "Twoja nazwa organizacji"
       ]
     },
     "Placeholder for contact group name": {
@@ -14509,6 +14737,72 @@
       ],
       "Your shorter address is now ready": [
         "Krótszy adres jest już gotowy"
+      ],
+      "Add user": [
+        "Dodaj użytkownika"
+      ],
+      "Collaborate on documents": [
+        "Współpracuj nad dokumentami"
+      ],
+      "Connect apps and devices": [
+        "Połącz aplikacje i urządzenia"
+      ],
+      "Connect to video conferencing": [
+        "Połącz się z wideokonferencją"
+      ],
+      "Connect your custom domain": [
+        "Połącz niestandardową domenę"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Pobierz aplikacje ${ DRIVE_APP_NAME }"
+      ],
+      "Enable advanced account protection": [
+        "Włącz zaawansowaną ochronę konta"
+      ],
+      "Enhance security with 2FA": [
+        "Zwiększ bezpieczeństwo za pomocą uwierzytelniania dwustopniowego"
+      ],
+      "Get the apps": [
+        "Pobierz aplikacje"
+      ],
+      "Import emails, calendars, contacts": [
+        "Importuj wiadomości, kalendarze i kontakty"
+      ],
+      "Org setup": [
+        "Konfiguracja organizacji"
+      ],
+      "Organization setup": [
+        "Konfiguracja organizacji"
+      ],
+      "Set recovery methods": [
+        "Ustaw metody odzyskiwania"
+      ],
+      "Set up email forwarding": [
+        "Ustaw przekierowanie"
+      ],
+      "Set up your organization": [
+        "Skonfiguruj organizację"
+      ],
+      "Share your calendar with your team": [
+        "Udostępnij kalendarz zespołowi"
+      ],
+      "Simplify email distribution": [
+        "Uprość wysyłanie poczty"
+      ],
+      "Simplify password management": [
+        "Uprość zarządzanie hasłami"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "Włącz ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "Upload and share files": [
+        "Prześlij i udostępnij pliki"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "Użyj ${ VPN_SHORT_APP_NAME } dla prywatności danych"
+      ],
+      "Welcome to ${ BRAND_NAME } for Business": [
+        "Witaj w planie ${ BRAND_NAME } for Business"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -15226,6 +15520,21 @@
       ],
       "Passcode:": [
         "Kod dostępu:"
+      ]
+    },
+    "Email body for comment (comment part)": {
+      "NOTE:\n${ eventComment }": [
+        "WIADOMOŚĆ:\n${ eventComment }"
+      ]
+    },
+    "Section": {
+      "Org setup and account security": [
+        "Konfiguracja organizacji i bezpieczeństwo konta"
+      ]
+    },
+    "unprivatization": {
+      "Admins can't access the data of private users and can't reset their password.": [
+        "Administratorzy nie mają dostępu do danych prywatnych użytkowników i nie mogą zresetować ich haseł."
       ]
     }
   }
