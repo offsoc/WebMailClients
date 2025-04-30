@@ -1553,6 +1553,15 @@
       ],
       "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
         "Use o ${ VPN_SHORT_APP_NAME } para privacidade de dados"
+      ],
+      "Copy password": [
+        "Copiar a palavra-passe"
+      ],
+      "Create new password": [
+        "Criar uma palavra-passe"
+      ],
+      "Generate password": [
+        "Gerar uma palavra-passe"
       ]
     },
     "action": {
@@ -6878,7 +6887,8 @@
         "A inicializar…"
       ],
       "Insert image": [
-        "Inserir uma imagem"
+        "Inserir imagem",
+        "Inserir imagens"
       ],
       "Insert link": [
         "Inserir uma ligação"
@@ -8238,6 +8248,27 @@
       ],
       "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
         "Este é um nome ou uma alcunha para a sua organização que os seus utilizadores verão. Pode alterá-lo a qualquer altura."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Pelo menos ${ BETTER_PASSWORD_LENGTH } carateres"
+      ],
+      "It's better to have:": [
+        "É melhor ter:"
+      ],
+      "Numbers": [
+        "Números"
+      ],
+      "Password copied to clipboard": [
+        "Palavra-passe copiada para a área de transferência"
+      ],
+      "Password must have:": [
+        "A palavra-passe deve ter:"
+      ],
+      "Symbols (#$&)": [
+        "Símbolos (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Letras maiúsculas e minúsculas"
       ]
     },
     "info": {
@@ -9097,6 +9128,30 @@
       ],
       "Account storage": [
         "Armazenamento da conta"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Deve conter pelo menos ${ MIN_PASSWORD_LENGTH } carateres"
+      ],
+      "Password strength": [
+        "Força da palavra-passe"
+      ],
+      "Strong": [
+        "Forte"
+      ],
+      "Strong password": [
+        "Palavra-passe segura"
+      ],
+      "Vulnerable": [
+        "Vulnerável"
+      ],
+      "Vulnerable password": [
+        "Palavra-passe vulnerável"
+      ],
+      "Weak": [
+        "Fraco"
+      ],
+      "Weak password": [
+        "Palavra-passe fraca"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -12882,6 +12937,9 @@
     "Subscription saving": {
       "Save": [
         "Poupe"
+      ],
+      "Save ${ priceString }": [
+        "Poupe ${ priceString }"
       ]
     },
     "Success": {

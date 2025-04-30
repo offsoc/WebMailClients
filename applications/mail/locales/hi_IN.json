@@ -1474,6 +1474,15 @@
       ],
       "Show more": [
         "और दिखाएँ"
+      ],
+      "Copy password": [
+        "पासवर्ड कॉपी करें"
+      ],
+      "Create new password": [
+        "नया पासवर्ड बनाएं"
+      ],
+      "Generate password": [
+        "पासवर्ड उत्पन्न करें"
       ]
     },
     "action": {
@@ -6637,7 +6646,8 @@
         "शुरू किया जा रहा है…"
       ],
       "Insert image": [
-        "तस्वीर डालें"
+        "तस्वीर डालें",
+        "तस्वीरें डालें"
       ],
       "Insert link": [
         "लिंक डालें"
@@ -7889,6 +7899,24 @@
       ],
       "Storage used by this user": [
         "इस यूज़र का स्टोरेज इस्तेमाल"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "कम से कम ${ BETTER_PASSWORD_LENGTH } अक्षर"
+      ],
+      "It's better to have:": [
+        "यह बेहतर है कि:"
+      ],
+      "Numbers": [
+        "नंबर"
+      ],
+      "Password copied to clipboard": [
+        "पासवर्ड क्लिपबोर्ड पे कॉपी किया"
+      ],
+      "Symbols (#$&)": [
+        "प्रतीक (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "बड़े और छोटे अक्षर"
       ]
     },
     "info": {
@@ -8733,6 +8761,27 @@
       ],
       "Account storage": [
         "खाता संग्रहण"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "कम से कम ${ MIN_PASSWORD_LENGTH } अक्षर होने चाहिए"
+      ],
+      "Strong": [
+        "मजबूत"
+      ],
+      "Strong password": [
+        "मजबूत पासवर्ड"
+      ],
+      "Vulnerable": [
+        "कमज़ोर"
+      ],
+      "Vulnerable password": [
+        "असुरक्षित पासवर्ड"
+      ],
+      "Weak": [
+        "कमज़ोर"
+      ],
+      "Weak password": [
+        "कमज़ोर पासवर्ड"
       ]
     },
     "Label (begin date/advanced search)": {

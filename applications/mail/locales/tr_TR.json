@@ -1552,6 +1552,15 @@
       ],
       "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
         "Veri gizliliği için ${ VPN_SHORT_APP_NAME } kullanın"
+      ],
+      "Copy password": [
+        "Parolayı kopyala"
+      ],
+      "Create new password": [
+        "Yeni parola oluştur"
+      ],
+      "Generate password": [
+        "Parola üret"
       ]
     },
     "action": {
@@ -6877,7 +6886,8 @@
         "Hazırlanıyor…"
       ],
       "Insert image": [
-        "Görsel ekle"
+        "Görsel ekle",
+        "Görseller ekle"
       ],
       "Insert link": [
         "Bağlantı ekle"
@@ -6970,7 +6980,7 @@
         "Düşük Öncelik"
       ],
       "Make ${ MAIL_APP_NAME } your default email application.": [
-        "${ MAIL_APP_NAME } varsayılan e-posta uygulamanız olsun."
+        "${ MAIL_APP_NAME } 'i varsayılan e-posta uygulamanız yapın."
       ],
       "Manage your folders": [
         "Klasörlerinizi yönetin"
@@ -8237,6 +8247,27 @@
       ],
       "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
         "Kullanıcılarınıza görüntülenecek kuruluş adınız veya kısaltmanız. İstediğiniz zaman değiştirebilirsiniz."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "En az ${ BETTER_PASSWORD_LENGTH } karakter"
+      ],
+      "It's better to have:": [
+        "Şöyle olması daha iyidir:"
+      ],
+      "Numbers": [
+        "Rakamlar"
+      ],
+      "Password copied to clipboard": [
+        "Parola panoya kopyalandı"
+      ],
+      "Password must have:": [
+        "Parola şunları içermelidir:"
+      ],
+      "Symbols (#$&)": [
+        "Simgeler (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Büyük ve küçük harfler"
       ]
     },
     "info": {
@@ -9096,6 +9127,30 @@
       ],
       "Account storage": [
         "Hesap depolama alanı"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "En az ${ MIN_PASSWORD_LENGTH } karakterden oluşmalıdır"
+      ],
+      "Password strength": [
+        "Parola gücü"
+      ],
+      "Strong": [
+        "Güçlü"
+      ],
+      "Strong password": [
+        "Güçlü parola"
+      ],
+      "Vulnerable": [
+        "Çok zayıf"
+      ],
+      "Vulnerable password": [
+        "Güvenlik açığı bulunan parola"
+      ],
+      "Weak": [
+        "Zayıf"
+      ],
+      "Weak password": [
+        "Zayıf parola"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -12881,6 +12936,9 @@
     "Subscription saving": {
       "Save": [
         "Kazancınız"
+      ],
+      "Save ${ priceString }": [
+        "${ priceString } tasarruf edin"
       ]
     },
     "Success": {
@@ -14926,6 +14984,21 @@
     "unprivatization": {
       "Admins can't access the data of private users and can't reset their password.": [
         "Yöneticiler gizli kullanıcıların verilerine erişemez ve parolalarını sıfırlayamaz."
+      ]
+    },
+    "Slack": {
+      "Join Slack huddle": [
+        "Slack toplantısına katıl"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "Teams toplantısına katıl"
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "Zoom toplantısına katıl"
       ]
     }
   }

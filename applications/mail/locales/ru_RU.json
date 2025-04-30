@@ -1487,6 +1487,15 @@
       ],
       "Show more": [
         "Показать больше"
+      ],
+      "Copy password": [
+        "Скопировать пароль"
+      ],
+      "Create new password": [
+        "Создать новый пароль"
+      ],
+      "Generate password": [
+        "Создать пароль"
       ]
     },
     "action": {
@@ -8151,6 +8160,24 @@
       ],
       "Storage used by this user": [
         "Хранилище, используемое этим пользователем"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "По крайней мере ${ BETTER_PASSWORD_LENGTH } символов"
+      ],
+      "It's better to have:": [
+        "Лучше иметь:"
+      ],
+      "Numbers": [
+        "Цифры"
+      ],
+      "Password copied to clipboard": [
+        "Пароль скопирован в буфер обмена"
+      ],
+      "Symbols (#$&)": [
+        "Символы (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Заглавные и строчные буквы"
       ]
     },
     "info": {
@@ -9007,6 +9034,27 @@
       ],
       "Account storage": [
         "Хранилище учётной записи"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Должно содержать не менее ${ MIN_PASSWORD_LENGTH } символов"
+      ],
+      "Strong": [
+        "Надежный"
+      ],
+      "Strong password": [
+        "Надежный пароль"
+      ],
+      "Vulnerable": [
+        "Уязвимый"
+      ],
+      "Vulnerable password": [
+        "Уязвимый пароль"
+      ],
+      "Weak": [
+        "Слабый"
+      ],
+      "Weak password": [
+        "Слабый пароль"
       ]
     },
     "Label (begin date/advanced search)": {

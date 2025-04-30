@@ -1481,6 +1481,9 @@
       ],
       "Show more": [
         "Vis mere"
+      ],
+      "Generate password": [
+        "Generér adgangskode"
       ]
     },
     "action": {
@@ -6630,7 +6633,8 @@
         "Igangsætter..."
       ],
       "Insert image": [
-        "Indsæt billede"
+        "Indsæt billede",
+        "Indsæt billeder"
       ],
       "Insert link": [
         "Indsæt link"
@@ -7898,6 +7902,9 @@
       ],
       "Storage used by this user": [
         "Lagerplads brugt af denne bruger"
+      ],
+      "Password copied to clipboard": [
+        "Adgangskode kopieret til udklipsholder"
       ]
     },
     "info": {
@@ -8731,6 +8738,15 @@
       ],
       "Account storage": [
         "Kontolagerplads"
+      ],
+      "Strong": [
+        "Stærk"
+      ],
+      "Vulnerable": [
+        "Sårbar"
+      ],
+      "Weak": [
+        "Svag"
       ]
     },
     "Label (begin date/advanced search)": {

@@ -1553,6 +1553,15 @@
       ],
       "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
         "Χρησιμοποιήστε το ${ VPN_SHORT_APP_NAME } για την προστασία των προσωπικών δεδομένων σας"
+      ],
+      "Copy password": [
+        "Αντιγραφή κωδικού πρόσβασης"
+      ],
+      "Create new password": [
+        "Δημιουργία νέου κωδικού πρόσβασης"
+      ],
+      "Generate password": [
+        "Παραγωγή τυχαίου κωδικού πρόσβασης"
       ]
     },
     "action": {
@@ -6878,7 +6887,8 @@
         "Προετοιμασία…"
       ],
       "Insert image": [
-        "Εισαγωγή εικόνας"
+        "Εισαγωγή εικόνας",
+        "Εισαγωγή εικόνων"
       ],
       "Insert link": [
         "Εισαγωγή συνδέσμου"
@@ -8238,6 +8248,27 @@
       ],
       "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
         "Αυτό είναι ένα όνομα ή παρατσούκλι για τον οργανισμό σας, το οποίο θα βλέπουν οι χρήστες σας. Μπορείτε να το αλλάξετε ανά πάσα στιγμή."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Τουλάχιστον ${ BETTER_PASSWORD_LENGTH } χαρακτήρες"
+      ],
+      "It's better to have:": [
+        "Είναι καλύτερα να έχετε:"
+      ],
+      "Numbers": [
+        "Αριθμοί"
+      ],
+      "Password copied to clipboard": [
+        "Ο κωδικός πρόσβασης αντιγράφηκε στο πρόχειρο"
+      ],
+      "Password must have:": [
+        "Ο κωδικός πρόσβασης πρέπει να περιλαμβάνει:"
+      ],
+      "Symbols (#$&)": [
+        "Σύμβολα (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Κεφαλαία και πεζά γράμματα"
       ]
     },
     "info": {
@@ -9097,6 +9128,30 @@
       ],
       "Account storage": [
         "Χωρητικότητα λογαριασμού"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Πρέπει να περιέχει τουλάχιστον ${ MIN_PASSWORD_LENGTH } χαρακτήρες"
+      ],
+      "Password strength": [
+        "Ισχύς Κωδικού Πρόσβασης"
+      ],
+      "Strong": [
+        "Δυνατό"
+      ],
+      "Strong password": [
+        "Δυνατός κωδικός πρόσβασης"
+      ],
+      "Vulnerable": [
+        "Ευάλωτο"
+      ],
+      "Vulnerable password": [
+        "Ευάλωτος κωδικός πρόσβασης"
+      ],
+      "Weak": [
+        "Αδύναμο"
+      ],
+      "Weak password": [
+        "Αδύναμος κωδικός πρόσβασης"
       ]
     },
     "Label (begin date/advanced search)": {

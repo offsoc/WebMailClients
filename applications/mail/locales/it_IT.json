@@ -1553,6 +1553,15 @@
       ],
       "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
         "Usa ${ VPN_SHORT_APP_NAME } per la privacy dei dati"
+      ],
+      "Copy password": [
+        "Copia la password"
+      ],
+      "Create new password": [
+        "Crea una nuova password"
+      ],
+      "Generate password": [
+        "Genera password"
       ]
     },
     "action": {
@@ -6878,7 +6887,8 @@
         "Inizializzazione…"
       ],
       "Insert image": [
-        "Inserisci immagine"
+        "Inserisci immagine",
+        "Inserisci immagini"
       ],
       "Insert link": [
         "Inserisci link"
@@ -8238,6 +8248,27 @@
       ],
       "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
         "Questo è un nome o un nickname per la tua organizzazione che sarà visualizzato dai tuoi utenti. Puoi modificarlo in qualsiasi momento."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Almeno ${ BETTER_PASSWORD_LENGTH } caratteri"
+      ],
+      "It's better to have:": [
+        "È meglio avere:"
+      ],
+      "Numbers": [
+        "Numeri"
+      ],
+      "Password copied to clipboard": [
+        "Password copiata negli appunti"
+      ],
+      "Password must have:": [
+        "La password deve contenere:"
+      ],
+      "Symbols (#$&)": [
+        "Simboli (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Lettere maiuscole e minuscole"
       ]
     },
     "info": {
@@ -9100,6 +9131,30 @@
       ],
       "Account storage": [
         "Spazio dell'account"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Deve contenere almeno ${ MIN_PASSWORD_LENGTH } caratteri"
+      ],
+      "Password strength": [
+        "Sicurezza della password"
+      ],
+      "Strong": [
+        "Sicura"
+      ],
+      "Strong password": [
+        "Password complessa"
+      ],
+      "Vulnerable": [
+        "Vulnerabile"
+      ],
+      "Vulnerable password": [
+        "Password vulnerabile"
+      ],
+      "Weak": [
+        "Debole"
+      ],
+      "Weak password": [
+        "Password debole"
       ]
     },
     "Label (begin date/advanced search)": {

@@ -1552,6 +1552,15 @@
       ],
       "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
         "Usar o ${ VPN_SHORT_APP_NAME } para a privacidade de dados"
+      ],
+      "Copy password": [
+        "Copiar senha"
+      ],
+      "Create new password": [
+        "Criar nova senha"
+      ],
+      "Generate password": [
+        "Gerar senha"
       ]
     },
     "action": {
@@ -6877,7 +6886,8 @@
         "Inicializando…"
       ],
       "Insert image": [
-        "Inserir imagem"
+        "Inserir imagem",
+        "Inserir imagens"
       ],
       "Insert link": [
         "Inserir link"
@@ -6970,7 +6980,7 @@
         "Baixa prioridade"
       ],
       "Make ${ MAIL_APP_NAME } your default email application.": [
-        "Tornar ${ MAIL_APP_NAME } como seu aplicativo de e-mail padrão."
+        "Defina ${ MAIL_APP_NAME } como seu aplicativo de e-mail padrão."
       ],
       "Manage your folders": [
         "Gerenciar suas pastas"
@@ -8237,6 +8247,27 @@
       ],
       "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
         "Este é um nome ou apelido para sua organização que seus usuários verão. Você pode alterá-lo a qualquer momento."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Pelo menos ${ BETTER_PASSWORD_LENGTH } caracteres"
+      ],
+      "It's better to have:": [
+        "É melhor ter:"
+      ],
+      "Numbers": [
+        "Números"
+      ],
+      "Password copied to clipboard": [
+        "Senha copiada para a área de transferências"
+      ],
+      "Password must have:": [
+        "A senha deve conter:"
+      ],
+      "Symbols (#$&)": [
+        "Símbolos (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Letras maiúsculas e minúsculas:"
       ]
     },
     "info": {
@@ -9099,6 +9130,30 @@
       ],
       "Account storage": [
         "Armazenamento da conta"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Deve conter ao menos ${ MIN_PASSWORD_LENGTH } caracteres"
+      ],
+      "Password strength": [
+        "Força da senha"
+      ],
+      "Strong": [
+        "Forte"
+      ],
+      "Strong password": [
+        "Senha forte"
+      ],
+      "Vulnerable": [
+        "Vulnerável"
+      ],
+      "Vulnerable password": [
+        "Senha vulnerável"
+      ],
+      "Weak": [
+        "Fraco"
+      ],
+      "Weak password": [
+        "Senha fraca"
       ]
     },
     "Label (begin date/advanced search)": {

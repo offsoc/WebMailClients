@@ -1565,6 +1565,15 @@
       ],
       "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
         "Скарыстацца ${ VPN_SHORT_APP_NAME } для захавання прыватнасці даных"
+      ],
+      "Copy password": [
+        "Скапіяваць пароль"
+      ],
+      "Create new password": [
+        "Стварыць новы пароль"
+      ],
+      "Generate password": [
+        "Згенерыраваць пароль"
       ]
     },
     "action": {
@@ -7100,7 +7109,10 @@
         "Ініцыялізацыя…"
       ],
       "Insert image": [
-        "Уставіць відарыс"
+        "Уставіць відарыс",
+        "Уставіць відарысы",
+        "Уставіць відарысы",
+        "Уставіць відарысы"
       ],
       "Insert link": [
         "Уставіць спасылку"
@@ -8508,6 +8520,27 @@
       ],
       "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
         "Гэта імя або псеўданім для вашай арганізацыі, якое будзе бачнае вашым карыстальнікам. Яго можна змяніць у любы час."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Прынамсі ${ BETTER_PASSWORD_LENGTH } сімвалаў"
+      ],
+      "It's better to have:": [
+        "Лепш за ўсё, каб у вас было:"
+      ],
+      "Numbers": [
+        "Лічбы"
+      ],
+      "Password copied to clipboard": [
+        "Пароль скапіяваны ў буфер абмену"
+      ],
+      "Password must have:": [
+        "Пароль павінен змяшчаць:"
+      ],
+      "Symbols (#$&)": [
+        "Сімвалы (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Маленькія і вялікія літары"
       ]
     },
     "info": {
@@ -9379,6 +9412,30 @@
       ],
       "Account storage": [
         "Сховішча ўліковага запісу"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Пароль павінен мець прынамсі ${ MIN_PASSWORD_LENGTH } сімвалы(аў)"
+      ],
+      "Password strength": [
+        "Надзейнасць пароля"
+      ],
+      "Strong": [
+        "Надзейны"
+      ],
+      "Strong password": [
+        "Надзейны пароль"
+      ],
+      "Vulnerable": [
+        "Уразлівы"
+      ],
+      "Vulnerable password": [
+        "Уразлівы пароль"
+      ],
+      "Weak": [
+        "Ненадзейны"
+      ],
+      "Weak password": [
+        "Ненадзейны пароль"
       ]
     },
     "Label (begin date/advanced search)": {

@@ -1553,6 +1553,15 @@
       ],
       "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
         "Használja a(z) ${ VPN_SHORT_APP_NAME } alkalmazást az adatvédelem biztosításához"
+      ],
+      "Copy password": [
+        "Jelszó másolása"
+      ],
+      "Create new password": [
+        "Új jelszó készítése"
+      ],
+      "Generate password": [
+        "Jelszó létrehozása"
       ]
     },
     "action": {
@@ -6812,6 +6821,7 @@
         "Inicializálás…"
       ],
       "Insert image": [
+        "Kép beillesztése",
         "Kép beillesztése"
       ],
       "Insert link": [
@@ -8154,6 +8164,24 @@
       ],
       "Storage used by this user": [
         "A felhasználó által használt tárhely"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Legalább ${ BETTER_PASSWORD_LENGTH } karakter"
+      ],
+      "It's better to have:": [
+        "Jobb, ha van:"
+      ],
+      "Numbers": [
+        "Számok"
+      ],
+      "Password copied to clipboard": [
+        "Jelszó a vágólapra másolva"
+      ],
+      "Symbols (#$&)": [
+        "Szimbólumok (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Kis- és nagybetűk"
       ]
     },
     "info": {
@@ -8730,7 +8758,7 @@
         "Importálás ide:"
       ],
       "Integrated 2FA authenticator": [
-        "Beépített kétlépcsős hitelesítés"
+        "Beépített kétfaktoros (2FA) hitelesítés"
       ],
       "Keyboard shortcut: ${ shortcut }": [
         "Gyorsbillentyű: ${ shortcut }"
@@ -9013,6 +9041,27 @@
       ],
       "Account storage": [
         "Fiók tárhely"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Legalább ${ MIN_PASSWORD_LENGTH } karakterrel kell rendelkeznie."
+      ],
+      "Strong": [
+        "Erős"
+      ],
+      "Strong password": [
+        "Erős jelszó"
+      ],
+      "Vulnerable": [
+        "Sebezhető"
+      ],
+      "Vulnerable password": [
+        "Sérülékeny jelszó"
+      ],
+      "Weak": [
+        "Gyenge"
+      ],
+      "Weak password": [
+        "Gyenge jelszó"
       ]
     },
     "Label (begin date/advanced search)": {

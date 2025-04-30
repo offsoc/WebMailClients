@@ -1547,6 +1547,15 @@
       ],
       "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
         "使用 ${ VPN_SHORT_APP_NAME } 保护隐私"
+      ],
+      "Copy password": [
+        "复制密码"
+      ],
+      "Create new password": [
+        "创建新密码"
+      ],
+      "Generate password": [
+        "生成密码"
       ]
     },
     "action": {
@@ -6767,7 +6776,7 @@
         "初始化中..."
       ],
       "Insert image": [
-        "插入图片"
+        "插入图像"
       ],
       "Insert link": [
         "插入链接"
@@ -8103,6 +8112,27 @@
       ],
       "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
         "这是用户将看到的组织名称或昵称，您可以随时更改。"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "至少 ${ BETTER_PASSWORD_LENGTH } 个字符"
+      ],
+      "It's better to have:": [
+        "最好是有："
+      ],
+      "Numbers": [
+        "数字"
+      ],
+      "Password copied to clipboard": [
+        "密码已复制到剪贴板"
+      ],
+      "Password must have:": [
+        "密码必须具有："
+      ],
+      "Symbols (#$&)": [
+        "符号 (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "大写字母和小写字母"
       ]
     },
     "info": {
@@ -8956,6 +8986,30 @@
       ],
       "Account storage": [
         "账户存储空间"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "必须至少有 ${ MIN_PASSWORD_LENGTH } 个字符"
+      ],
+      "Password strength": [
+        "密码强度"
+      ],
+      "Strong": [
+        "强"
+      ],
+      "Strong password": [
+        "强密码"
+      ],
+      "Vulnerable": [
+        "易受攻击"
+      ],
+      "Vulnerable password": [
+        "易受攻击的密码"
+      ],
+      "Weak": [
+        "弱"
+      ],
+      "Weak password": [
+        "弱密码"
       ]
     },
     "Label (begin date/advanced search)": {

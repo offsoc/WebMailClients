@@ -1520,6 +1520,15 @@
       ],
       "Upload and share files": [
         "Lähetä ja jaa tiedostoja"
+      ],
+      "Copy password": [
+        "Kopioi salasana"
+      ],
+      "Create new password": [
+        "Luo uusi salasana"
+      ],
+      "Generate password": [
+        "Luo salasana"
       ]
     },
     "action": {
@@ -6761,7 +6770,8 @@
         "Valmistellaan…"
       ],
       "Insert image": [
-        "Lisää kuva"
+        "Lisää kuva",
+        "Lisää kuvia"
       ],
       "Insert link": [
         "Lisää linkki"
@@ -8091,6 +8101,24 @@
       ],
       "Thank you for subscribing. Secure browsing starts now.": [
         "Kiitos tilauksestasi. Suojattu selaaminen alkaa nyt."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Ainakin ${ BETTER_PASSWORD_LENGTH } merkkiä"
+      ],
+      "It's better to have:": [
+        "On parempi olla:"
+      ],
+      "Numbers": [
+        "Numerot"
+      ],
+      "Password copied to clipboard": [
+        "Salasana kopioitiin leikepöydälle"
+      ],
+      "Symbols (#$&)": [
+        "Symbolit (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Isot ja pienet kirjaimet"
       ]
     },
     "info": {
@@ -8947,6 +8975,24 @@
       ],
       "Enable desktop notifications": [
         "Ota työpöytäilmoitukset käyttöön"
+      ],
+      "Strong": [
+        "Vahva"
+      ],
+      "Strong password": [
+        "Vahva salasana"
+      ],
+      "Vulnerable": [
+        "Haavoittuvainen"
+      ],
+      "Vulnerable password": [
+        "Haavoittuva salasana"
+      ],
+      "Weak": [
+        "Heikko"
+      ],
+      "Weak password": [
+        "Heikko salasana"
       ]
     },
     "Label (begin date/advanced search)": {

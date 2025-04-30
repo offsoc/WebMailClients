@@ -1495,7 +1495,7 @@
         "Alejar"
       ],
       "Collaborate on documents": [
-        "Colaborar con documentos"
+        "Colabora en documentos"
       ],
       "Connect apps and devices": [
         "Conectar aplicaciones y dispositivos"
@@ -1504,7 +1504,7 @@
         "Conectarte a la videoconferencia"
       ],
       "Download ${ DRIVE_APP_NAME } apps": [
-        "Descargar las apps de ${ DRIVE_APP_NAME }"
+        "Descargar las aplicaciones de ${ DRIVE_APP_NAME }"
       ],
       "Get the apps": [
         "Obtener las aplicaciones"
@@ -1516,16 +1516,16 @@
         "Administrar protecciones avanzadas de la cuenta"
       ],
       "Manage groups": [
-        "Administrar grupos"
+        "Administrar los grupos"
       ],
       "Manage users/addresses": [
         "Administrar usuarios/direcciones"
       ],
       "Remove button": [
-        "Eliminar botón"
+        "Eliminar el botón"
       ],
       "Set recovery methods": [
-        "Establecer métodos de recuperación"
+        "Establecer los métodos de recuperación"
       ],
       "Set up 2FA": [
         "Configurar 2FA"
@@ -1546,13 +1546,22 @@
         "Activar ${ DARK_WEB_MONITORING_NAME }"
       ],
       "Upload and share files": [
-        "Subir y compartir archivos"
+        "Cargar y compartir archivos"
       ],
       "Use ${ PASS_APP_NAME } for Business": [
-        "Usar ${ PASS_APP_NAME } para Business"
+        "Usar ${ PASS_APP_NAME } for Business"
       ],
       "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
-        "Usar ${ VPN_SHORT_APP_NAME } para privacidad de datos"
+        "Usar ${ VPN_SHORT_APP_NAME } para la privacidad de los datos"
+      ],
+      "Copy password": [
+        "Copiar la contraseña"
+      ],
+      "Create new password": [
+        "Crear una contraseña nueva"
+      ],
+      "Generate password": [
+        "Generar contraseña"
       ]
     },
     "action": {
@@ -1615,8 +1624,8 @@
         "${ price } por usuario"
       ],
       "${ seats } writing assistant seat": [
-        "${ seats } asiento del asistente de escritura",
-        "${ seats } asientos del asistente de escritura"
+        "${ seats } licencia del asistente de escritura",
+        "${ seats } licencias del asistente de escritura"
       ],
       "${ users } user": [
         "${ users } usuario",
@@ -6878,7 +6887,8 @@
         "Inicializando…"
       ],
       "Insert image": [
-        "Insertar imagen"
+        "Insertar una imagen",
+        "Insertar imágenes"
       ],
       "Insert link": [
         "Insertar enlace"
@@ -6971,7 +6981,7 @@
         "Prioridad baja"
       ],
       "Make ${ MAIL_APP_NAME } your default email application.": [
-        "Establece ${ MAIL_APP_NAME } como aplicación de correo por defecto."
+        "Establece ${ MAIL_APP_NAME } como tu aplicación de correo electrónico por defecto."
       ],
       "Manage your folders": [
         "Administra tus carpetas"
@@ -8238,6 +8248,27 @@
       ],
       "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
         "Este es un nombre o un apodo para tu organización que verán tus usuarios. Puedes cambiarlo cuando quieras."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Al menos ${ BETTER_PASSWORD_LENGTH } caracteres"
+      ],
+      "It's better to have:": [
+        "Es mejor tener:"
+      ],
+      "Numbers": [
+        "Números"
+      ],
+      "Password copied to clipboard": [
+        "Contraseña copiada en el portapapeles"
+      ],
+      "Password must have:": [
+        "La contraseña debe tener:"
+      ],
+      "Symbols (#$&)": [
+        "Símbolos (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Letras mayúsculas y minúsculas"
       ]
     },
     "info": {
@@ -9100,6 +9131,30 @@
       ],
       "Account storage": [
         "Almacenamiento de la cuenta"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Debe tener al menos ${ MIN_PASSWORD_LENGTH } caracteres"
+      ],
+      "Password strength": [
+        "Nivel de seguridad de la contraseña"
+      ],
+      "Strong": [
+        "Segura"
+      ],
+      "Strong password": [
+        "Contraseña segura"
+      ],
+      "Vulnerable": [
+        "Vulnerable"
+      ],
+      "Vulnerable password": [
+        "Contraseña vulnerable"
+      ],
+      "Weak": [
+        "Poco segura"
+      ],
+      "Weak password": [
+        "Contraseña poco segura"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9405,7 +9460,7 @@
         "Cómo usar ${ DARK_WEB_MONITORING_NAME }"
       ],
       "How to use ${ PASS_APP_NAME } for Business": [
-        "Cómo usar ${ PASS_APP_NAME } para Business"
+        "Cómo usar ${ PASS_APP_NAME } for Business"
       ],
       "How to use email forwarding": [
         "Cómo usar el reenvío de correo electrónico"
@@ -9997,7 +10052,7 @@
         "Disponible en todas las plataformas"
       ],
       "Calendar sharing": [
-        "Compartir calendario"
+        "Calendarios compartidos"
       ],
       "Catch-all": [
         "Catch-all"
@@ -14231,7 +14286,7 @@
         "Tu dirección en formato más corto ya está lista."
       ],
       "Add user": [
-        "Añadir usuario"
+        "Añadir un usuario"
       ],
       "Collaborate on documents": [
         "Colabore en documentos"
@@ -14267,7 +14322,7 @@
         "Configuración de la organización"
       ],
       "Set recovery methods": [
-        "Establecer métodos de recuperación"
+        "Establecer los métodos de recuperación"
       ],
       "Set up email forwarding": [
         "Configurar el reenvío de correo electrónico"
@@ -14294,7 +14349,7 @@
         "Usa ${ VPN_SHORT_APP_NAME } para la privacidad de los datos"
       ],
       "Welcome to ${ BRAND_NAME } for Business": [
-        "Te damos la bienvenida a ${ BRAND_NAME } para Business"
+        "Te damos la bienvenida a ${ BRAND_NAME } for Business"
       ]
     },
     "Today icon tooltip in mini calendar": {

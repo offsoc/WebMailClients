@@ -1320,6 +1320,9 @@
       ],
       "Two-year": [
         "2 godine"
+      ],
+      "New!": [
+        "Novo"
       ]
     },
     "Bug category": {
@@ -1402,6 +1405,9 @@
       ],
       "Continue your subscription": [
         "Nastavi svoju pretplatu"
+      ],
+      "Next": [
+        "Sljedeće"
       ]
     },
     "Calendar invite buttons label": {
@@ -1880,6 +1886,9 @@
       ],
       "Work": [
         "Posao"
+      ],
+      "Yomi": [
+        "Yomi"
       ]
     },
     "Country name": {
@@ -3587,6 +3596,9 @@
       ],
       "No verification method available": [
         "Nema dostupne metode za provjeru"
+      ],
+      "SMS": [
+        "SMS"
       ]
     },
     "ICS widget label for event details": {
@@ -4640,6 +4652,9 @@
       ],
       "Trusted": [
         "Pouzdan"
+      ],
+      "WKD": [
+        "WKD"
       ]
     },
     "Key pinning": {
@@ -5274,6 +5289,12 @@
       ],
       "Account storage": [
         "Prostor za pohranu računa"
+      ],
+      "IBAN": [
+        "IBAN"
+      ],
+      "VAT": [
+        "PDV"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -5489,6 +5510,9 @@
       ],
       "You need to reactivate your keys to see the updated invitation": [
         "Morate ponovno aktivirati vaše ključeve da biste vidjeli ažuriranu pozivnicu"
+      ],
+      "Less": [
+        "Manje"
       ]
     },
     "Link to calendar event": {
@@ -6048,6 +6072,9 @@
       ],
       "MM/YY": [
         "MM/GG"
+      ],
+      "CVC": [
+        "CVC"
       ]
     },
     "Payments.Error": {
@@ -8004,6 +8031,24 @@
       ],
       "Yearly, ${ untilString }": [
         "Godišnje, ${ untilString }"
+      ]
+    },
+    "Offer": {
+      "Save": [
+        "Spremi"
+      ]
+    },
+    "Offer feature": {
+      "Free": [
+        "Besplatno"
+      ],
+      "Plus": [
+        "Plus"
+      ]
+    },
+    "Payments.plan_name": {
+      "Free": [
+        "Free"
       ]
     }
   }

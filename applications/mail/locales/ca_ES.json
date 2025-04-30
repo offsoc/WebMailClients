@@ -1504,7 +1504,7 @@
         "Connecta a la videoconferència"
       ],
       "Download ${ DRIVE_APP_NAME } apps": [
-        "Baixa les aplicacions del ${ DRIVE_APP_NAME }"
+        "Descarrega les aplicacions del ${ DRIVE_APP_NAME }"
       ],
       "Get the apps": [
         "Obtén les aplicacions"
@@ -1553,6 +1553,15 @@
       ],
       "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
         "Utilitza el ${ VPN_SHORT_APP_NAME } per a la privadesa de dades"
+      ],
+      "Copy password": [
+        "Copia la contrasenya"
+      ],
+      "Create new password": [
+        "Crea una contrasenya nova"
+      ],
+      "Generate password": [
+        "Genera la contrasenya"
       ]
     },
     "action": {
@@ -6878,7 +6887,8 @@
         "S'està inicialitzant…"
       ],
       "Insert image": [
-        "Insereix una imatge"
+        "Insereix una imatge",
+        "Insereix imatges"
       ],
       "Insert link": [
         "Insereix un enllaç"
@@ -8238,6 +8248,27 @@
       ],
       "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
         "Aquest és un nom o un sobrenom per a la vostra organització que els usuaris veuran. Podeu canviar-ho en qualsevol moment."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Almenys ${ BETTER_PASSWORD_LENGTH } caràcters"
+      ],
+      "It's better to have:": [
+        "És millor tenir:"
+      ],
+      "Numbers": [
+        "Números"
+      ],
+      "Password copied to clipboard": [
+        "La contrasenya s'ha copiat al porta-retalls"
+      ],
+      "Password must have:": [
+        "La contrasenya ha de tenir:"
+      ],
+      "Symbols (#$&)": [
+        "Símbols (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Lletres majúscules i minúscules"
       ]
     },
     "info": {
@@ -9100,6 +9131,30 @@
       ],
       "Account storage": [
         "Emmagatzematge del compte"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Ha de tenir com a mínim ${ MIN_PASSWORD_LENGTH } caràcters"
+      ],
+      "Password strength": [
+        "Solidesa de la contrasenya"
+      ],
+      "Strong": [
+        "Forta"
+      ],
+      "Strong password": [
+        "Contrasenya forta"
+      ],
+      "Vulnerable": [
+        "Vulnerable"
+      ],
+      "Vulnerable password": [
+        "Contrasenya vulnerable"
+      ],
+      "Weak": [
+        "Feble"
+      ],
+      "Weak password": [
+        "Contrasenya feble."
       ]
     },
     "Label (begin date/advanced search)": {

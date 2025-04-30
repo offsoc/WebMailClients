@@ -1547,6 +1547,15 @@
       ],
       "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
         "データプライバシーのために${ VPN_SHORT_APP_NAME }を使用する"
+      ],
+      "Copy password": [
+        "パスワードをコピー"
+      ],
+      "Create new password": [
+        "新しいパスワードを作成する"
+      ],
+      "Generate password": [
+        "パスワードを生成"
       ]
     },
     "action": {
@@ -6767,7 +6776,7 @@
         "初期化中…"
       ],
       "Insert image": [
-        "画像の挿入"
+        "画像を挿入"
       ],
       "Insert link": [
         "リンクを挿入"
@@ -8103,6 +8112,24 @@
       ],
       "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
         "これは組織の名称またはニックネームであり、ユーザーに表示されます。いつでも変更できます。"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "少なくとも ${ BETTER_PASSWORD_LENGTH } 文字以上"
+      ],
+      "It's better to have:": [
+        "以下の方が良いでしょう:"
+      ],
+      "Numbers": [
+        "数字"
+      ],
+      "Password copied to clipboard": [
+        "クリップボードにコピーされたパスワード"
+      ],
+      "Symbols (#$&)": [
+        "記号 (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "大文字と小文字"
       ]
     },
     "info": {
@@ -8956,6 +8983,27 @@
       ],
       "Account storage": [
         "アカウントの容量"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "少なくとも ${ MIN_PASSWORD_LENGTH } 文字以上でなければなりません"
+      ],
+      "Strong": [
+        "強い"
+      ],
+      "Strong password": [
+        "強力なパスワード"
+      ],
+      "Vulnerable": [
+        "脆弱"
+      ],
+      "Vulnerable password": [
+        "脆弱なパスワード"
+      ],
+      "Weak": [
+        "弱い"
+      ],
+      "Weak password": [
+        "弱いパスワード"
       ]
     },
     "Label (begin date/advanced search)": {

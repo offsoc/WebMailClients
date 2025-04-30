@@ -1552,6 +1552,15 @@
       ],
       "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
         "Usar ${ VPN_SHORT_APP_NAME } para la privacidad de los datos"
+      ],
+      "Copy password": [
+        "Copiar la contraseña"
+      ],
+      "Create new password": [
+        "Crear una contraseña nueva"
+      ],
+      "Generate password": [
+        "Generar contraseña"
       ]
     },
     "action": {
@@ -6877,7 +6886,8 @@
         "Inicializando…"
       ],
       "Insert image": [
-        "Insertar imagen"
+        "Insertar imagen",
+        "Insertar imágenes"
       ],
       "Insert link": [
         "Insertar enlace"
@@ -6970,7 +6980,7 @@
         "Prioridad baja"
       ],
       "Make ${ MAIL_APP_NAME } your default email application.": [
-        "Establezca ${ MAIL_APP_NAME } como aplicación de correo por defecto."
+        "Establezca ${ MAIL_APP_NAME } como su aplicación de correo electrónico por defecto."
       ],
       "Manage your folders": [
         "Administre las carpetas"
@@ -8237,6 +8247,27 @@
       ],
       "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
         "Este es un nombre o un apodo para su organización que verán sus usuarios. Puede cambiarlo en cualquier momento."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Al menos ${ BETTER_PASSWORD_LENGTH } caracteres"
+      ],
+      "It's better to have:": [
+        "Es mejor tener:"
+      ],
+      "Numbers": [
+        "Números"
+      ],
+      "Password copied to clipboard": [
+        "Contraseña copiada al portapapeles"
+      ],
+      "Password must have:": [
+        "La contraseña debe tener:"
+      ],
+      "Symbols (#$&)": [
+        "Símbolos (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Letras mayúsculas y minúsculas"
       ]
     },
     "info": {
@@ -9099,6 +9130,30 @@
       ],
       "Account storage": [
         "Almacenamiento de la cuenta"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Debe tener al menos ${ MIN_PASSWORD_LENGTH } caracteres"
+      ],
+      "Password strength": [
+        "Nivel de seguridad de la contraseña"
+      ],
+      "Strong": [
+        "Fuerte"
+      ],
+      "Strong password": [
+        "Contraseña segura"
+      ],
+      "Vulnerable": [
+        "Vulnerable"
+      ],
+      "Vulnerable password": [
+        "Contraseña vulnerable"
+      ],
+      "Weak": [
+        "Débil"
+      ],
+      "Weak password": [
+        "Contraseña poco segura"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -14942,7 +14997,7 @@
     },
     "Teams": {
       "Join Teams meeting": [
-        "Unirte a la reunión de Teams"
+        "Unirse a la reunión de Teams"
       ]
     },
     "unprivatization": {

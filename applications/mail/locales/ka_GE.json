@@ -1553,6 +1553,15 @@
       ],
       "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
         "გამოიყენეთ ${ VPN_SHORT_APP_NAME } მონაცემთა კონფიდენციალობისთვის"
+      ],
+      "Copy password": [
+        "პაროლის კოპირება"
+      ],
+      "Create new password": [
+        "ახალი პაროლის შექმნა"
+      ],
+      "Generate password": [
+        "პაროლის გენერირება"
       ]
     },
     "action": {
@@ -6803,6 +6812,7 @@
         "ინიციალიზაცია…"
       ],
       "Insert image": [
+        "გამოსახულების ჩასმა",
         "გამოსახულების ჩასმა"
       ],
       "Insert link": [
@@ -8127,6 +8137,24 @@
       ],
       "Storage used by this user": [
         "ამ მომხმარებლის მიერ გამოყენებული საცავი"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "სულ ცოტა ${ BETTER_PASSWORD_LENGTH } სიმბოლო"
+      ],
+      "It's better to have:": [
+        "უკეთესია, გქონდეთ:"
+      ],
+      "Numbers": [
+        "რიცხვები"
+      ],
+      "Password copied to clipboard": [
+        "პაროლი დაკოპირდა გაცვლის ბაფერში"
+      ],
+      "Symbols (#$&)": [
+        "სიმბოლოები (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "დიდი და პატარა ასოები"
       ]
     },
     "info": {
@@ -8986,6 +9014,27 @@
       ],
       "Account storage": [
         "ანგარიშის საცავი"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "პაროლი ${ MIN_PASSWORD_LENGTH } სიმბოლოს მაინც უნდა შეიცავდეს"
+      ],
+      "Strong": [
+        "ძლიერი"
+      ],
+      "Strong password": [
+        "ძლიერი პაროლი"
+      ],
+      "Vulnerable": [
+        "მოწყვლადი"
+      ],
+      "Vulnerable password": [
+        "მოწყვლადი პაროლი"
+      ],
+      "Weak": [
+        "სუსტი"
+      ],
+      "Weak password": [
+        "სუსტი პაროლი"
       ]
     },
     "Label (begin date/advanced search)": {

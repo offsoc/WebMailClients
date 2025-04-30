@@ -1466,6 +1466,15 @@
       ],
       "Show more": [
         "顯示更多"
+      ],
+      "Copy password": [
+        "複製密碼"
+      ],
+      "Create new password": [
+        "建立新密碼"
+      ],
+      "Generate password": [
+        "生成密碼"
       ]
     },
     "action": {
@@ -6524,7 +6533,7 @@
         "正在初始化 ..."
       ],
       "Insert image": [
-        "插入圖像"
+        "插入圖片"
       ],
       "Insert link": [
         "插入連結"
@@ -7755,6 +7764,24 @@
       ],
       "Storage used by this user": [
         "此位使用者已用的儲存空間"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "至少 ${ BETTER_PASSWORD_LENGTH } 個字元"
+      ],
+      "It's better to have:": [
+        "更好擁有:"
+      ],
+      "Numbers": [
+        "數字"
+      ],
+      "Password copied to clipboard": [
+        "密碼已複製至剪貼簿"
+      ],
+      "Symbols (#$&)": [
+        "符號(#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "大寫及小寫字母"
       ]
     },
     "info": {
@@ -8593,6 +8620,24 @@
       ],
       "Account storage": [
         "帳號儲存空間"
+      ],
+      "Strong": [
+        "強"
+      ],
+      "Strong password": [
+        "高強度密碼"
+      ],
+      "Vulnerable": [
+        "具有風險"
+      ],
+      "Vulnerable password": [
+        "有安全隱患的密碼"
+      ],
+      "Weak": [
+        "弱"
+      ],
+      "Weak password": [
+        "脆弱密碼"
       ]
     },
     "Label (begin date/advanced search)": {

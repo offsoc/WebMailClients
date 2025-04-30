@@ -1195,6 +1195,9 @@
       ],
       "Show more": [
         "Sken-d ugar"
+      ],
+      "Generate password": [
+        "Sirew awal uffir"
       ]
     },
     "action": {
@@ -4930,7 +4933,8 @@
         "Yettwaɣellet seg ukaram agejdan"
       ],
       "Insert image": [
-        "Ger tugna"
+        "Ger tugna",
+        "Ger tugniwn"
       ],
       "Insert link": [
         "Ger aseɣwen"
@@ -5655,6 +5659,9 @@
       ],
       "Storage used by this user": [
         "Aḥraz yettwasqedcen sɣur useqdec-a"
+      ],
+      "Password copied to clipboard": [
+        "Awal uffir yettwanɣel ɣer tecfawt"
       ]
     },
     "info": {

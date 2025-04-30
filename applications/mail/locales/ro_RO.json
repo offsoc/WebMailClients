@@ -1550,6 +1550,24 @@
       ],
       "Upload and share files": [
         "Încărcați și partajați fișiere"
+      ],
+      "Copy password": [
+        "Copiere parolă"
+      ],
+      "Create new password": [
+        "Creare parolă"
+      ],
+      "Generate password": [
+        "Generare parolă"
+      ],
+      "Remove button": [
+        "Buton eliminare"
+      ],
+      "Use ${ PASS_APP_NAME } for Business": [
+        "Utilizați ${ PASS_APP_NAME } for Business"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "Utilizați ${ VPN_SHORT_APP_NAME } pentru confidențialitatea datelor"
       ]
     },
     "action": {
@@ -3867,6 +3885,60 @@
       ],
       "You’ve already created 10 aliases. Get unlimited aliases and 500 GB of storage with ${ BRAND_NAME } Unlimited.": [
         "Ați creat deja 10 aliasuri. Obțineți aliasuri nelimitate și 500 GiB de spațiu de stocare cu ${ BRAND_NAME } Unlimited."
+      ],
+      "${ DOCS_SHORT_APP_NAME } in ${ DRIVE_APP_NAME } allows you to work together with others in a secure, encrypted environment.": [
+        "${ DOCS_SHORT_APP_NAME } în ${ DRIVE_APP_NAME } vă permite să lucrați împreună cu alte persoane într-un mediu sigur și criptat."
+      ],
+      "Add folders and files to ${ DRIVE_APP_NAME } and invite team members to view or edit.": [
+        "Adăugați foldere și fișiere în ${ DRIVE_APP_NAME } și invitați membrii echipei să le vadă sau să le editeze."
+      ],
+      "Automatically forward incoming email to another email address.": [
+        "Redirecționați automat mesajele primite către o altă adresă de e-mail."
+      ],
+      "Configure this first to activate your organization and customize your email address.": [
+        "Configurați mai întâi aceasta pentru a vă activa organizația și a vă personaliza adresa de e-mail."
+      ],
+      "Connect your CRM, website, printers, and more.": [
+        "Conectați-vă CRM-ul, site-ul web, imprimantele și altele."
+      ],
+      "Create groups you can email with a single address.": [
+        "Creați grupuri cărora le puteți trimite mesaje cu o singură adresă."
+      ],
+      "Easily access your email and calendar on desktop and mobile.": [
+        "Accesați-vă cu ușurință adresa de e-mail și calendarul pe desktop și mobil."
+      ],
+      "Easily sync files to the cloud from your desktop and access them from your mobile device.": [
+        "Sincronizați ușor fișierele în cloud de pe desktop și accesați-le de pe dispozitivul mobil."
+      ],
+      "Encourage the use of two-factor authentication in your organization for extra security.": [
+        "Încurajați utilizarea autentificării cu doi factori în organizație pentru un plus de securitate."
+      ],
+      "Ensure secure access to organization data, even if your team is remote or using public WiFi.": [
+        "Asigurați accesarea securizată la datele organizației, chiar dacă echipa este la distanță sau utilizează o rețea Wi-Fi publică."
+      ],
+      "Ensure top-notch security for your account with the ${ PROTON_SENTINEL_NAME } program.": [
+        "Asigurați o securitate de top pentru cont cu programul ${ PROTON_SENTINEL_NAME }."
+      ],
+      "For a seamless transition to ${ BRAND_NAME }, import your data from Google, Outlook, and others.": [
+        "Pentru o tranziție lină la ${ BRAND_NAME }, importați-vă datele din Google, Outlook și altele."
+      ],
+      "Help your team securely store passwords to sensitive business and client information.": [
+        "Ajutați-vă echipa să stocheze în siguranță parolele pentru informațiile private despre afaceri și clienți."
+      ],
+      "Let's you instantly add meeting links to your event invitations.": [
+        "Vă permite să adăugați imediat legături web de întâlnire în invitațiile la evenimente."
+      ],
+      "Set up accounts for all users and invite them to join ${ BRAND_NAME }.": [
+        "Configurați conturi pentru toți utilizatorii și invitați-i să se alăture la ${ BRAND_NAME }."
+      ],
+      "Simplify syncing and scheduling with shared calendars.": [
+        "Simplificați sincronizarea și programarea cu calendare partajate."
+      ],
+      "To start, give your organization a name.": [
+        "Pentru a începe, dați un nume organizației."
+      ],
+      "Use this guide to get your organization promptly benefiting from ${ BRAND_NAME }'s industry-leading encryption and privacy ecosystem.": [
+        "Utilizați acest ghid pentru ca organizația să beneficieze imediat de criptarea și ecosistemul de confidențialitate maximă oferite de ${ BRAND_NAME } ."
       ]
     },
     "description": {
@@ -4013,6 +4085,12 @@
       ],
       "You are invited to ${ eventTitle }.\n\n${ eventDetailsText }": [
         "Invitație la ${ eventTitle }.\n\n${ eventDetailsText }"
+      ],
+      "Here's what changed:": [
+        "Iată ce s-a schimbat:"
+      ],
+      "NOTE:": [
+        "NOTĂ:"
       ]
     },
     "Email body for invitation (date part)": {
@@ -5706,7 +5784,7 @@
     },
     "Import calendar; import invitation": {
       "Imported invitations appear in ${ CALENDAR_APP_NAME } as simple events without organizer and participant details. To get event updates and see participants, ask organizers to invite you using your ${ BRAND_NAME } email address.": [
-        "Invitațiile importate apar în ${ CALENDAR_APP_NAME } ca evenimente simple, fără detalii despre organizator și participant. Pentru a primi actualizări ale evenimentelor și a vedea participanții, solicitați organizatorilor să vă invite folosind adresa dvs. de e-mail din ${ BRAND_NAME }."
+        "Invitațiile importate apar în ${ CALENDAR_APP_NAME } ca evenimente simple, fără detalii despre organizator și participant. Pentru a primi actualizări ale evenimentelor și a vedea participanții, solicitați organizatorilor să vă invite folosindu-vă adresa de e-mail din ${ BRAND_NAME }."
       ],
       "This file contains an event invitation:": [
         "Acest fișier conține o invitație la un eveniment:",
@@ -6917,7 +6995,9 @@
         "Se inițializează…"
       ],
       "Insert image": [
-        "Inserare imagine"
+        "Inserare imagine",
+        "Inserare imagini",
+        "Inserare imagini"
       ],
       "Insert link": [
         "Inserare legătură web"
@@ -8301,6 +8381,27 @@
       ],
       "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
         "Acesta este un nume sau o poreclă pentru organizație pe care o vor vedea utilizatorii acesteia. Se poate schimba oricând."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Cel puțin ${ BETTER_PASSWORD_LENGTH } caractere"
+      ],
+      "It's better to have:": [
+        "Este bine să aveți:"
+      ],
+      "Numbers": [
+        "Cifre"
+      ],
+      "Password copied to clipboard": [
+        "Parola a fost copiată în memorie."
+      ],
+      "Password must have:": [
+        "Parola trebuie să conțină:"
+      ],
+      "Symbols (#$&)": [
+        "Simboluri (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Litere mari și mici"
       ]
     },
     "info": {
@@ -9166,6 +9267,30 @@
       ],
       "Account storage": [
         "Spațiu cont"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Trebuie să aibă cel puțin ${ MIN_PASSWORD_LENGTH } caractere"
+      ],
+      "Password strength": [
+        "Dificultatea parolei"
+      ],
+      "Strong": [
+        "Puternică"
+      ],
+      "Strong password": [
+        "Parolă puternică"
+      ],
+      "Vulnerable": [
+        "Vulnerabilă"
+      ],
+      "Vulnerable password": [
+        "Parolă vulnerabilă"
+      ],
+      "Weak": [
+        "Slabă"
+      ],
+      "Weak password": [
+        "Parolă slabă"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -11588,6 +11713,12 @@
       ],
       "Type text or keyword": [
         "Scrieți un text sau cuvânt cheie"
+      ],
+      "Organization name": [
+        "Nume organizație"
+      ],
+      "Your organization name": [
+        "Numele organizației"
       ]
     },
     "Placeholder for contact group name": {
@@ -13024,6 +13155,9 @@
     "Subscription saving": {
       "Save": [
         "Salvare"
+      ],
+      "Save ${ priceString }": [
+        "Economisiți ${ priceString }"
       ]
     },
     "Success": {
@@ -14405,6 +14539,69 @@
       ],
       "Get the apps": [
         "Luați aplicațiile"
+      ],
+      "Add user": [
+        "Adăugare utilizator"
+      ],
+      "Collaborate on documents": [
+        "Colaborați la documente"
+      ],
+      "Connect apps and devices": [
+        "Conectați aplicații și dispozitive"
+      ],
+      "Connect to video conferencing": [
+        "Conectați-vă la conferințe video"
+      ],
+      "Connect your custom domain": [
+        "Conectați-vă domeniul personal"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Descărcați aplicațiile ${ DRIVE_APP_NAME }"
+      ],
+      "Enable advanced account protection": [
+        "Activare protecție avansată cont"
+      ],
+      "Enhance security with 2FA": [
+        "Îmbunătățiți securitatea cu A2F"
+      ],
+      "Import emails, calendars, contacts": [
+        "Importați e-mailuri, calendare, contacte"
+      ],
+      "Org setup": [
+        "Setare organizație"
+      ],
+      "Organization setup": [
+        "Setare organizație"
+      ],
+      "Set recovery methods": [
+        "Setați metodele de recuperare"
+      ],
+      "Set up email forwarding": [
+        "Setare redirecționare mesaje"
+      ],
+      "Set up your organization": [
+        "Setați organizația"
+      ],
+      "Share your calendar with your team": [
+        "Partajați-vă calendarul cu echipa proprie"
+      ],
+      "Simplify email distribution": [
+        "Simplificați distribuirea mesajelor"
+      ],
+      "Simplify password management": [
+        "Simplificați gestionarea parolelor"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "Activare ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "Upload and share files": [
+        "Încărcați și partajați fișiere"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "Utilizați ${ VPN_SHORT_APP_NAME } pentru confidențialitatea datelor"
+      ],
+      "Welcome to ${ BRAND_NAME } for Business": [
+        "Bun venit la ${ BRAND_NAME } for Business"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -15086,6 +15283,31 @@
     "unprivatization": {
       "Admins can't access the data of private users and can't reset their password.": [
         "Administratorii nu pot accesa datele utilizatorilor privați și nu le pot reseta parola."
+      ]
+    },
+    "Email body for comment (comment part)": {
+      "NOTE:\n${ eventComment }": [
+        "NOTĂ:\n${ eventComment }"
+      ]
+    },
+    "Section": {
+      "Org setup and account security": [
+        "Setare organizație și securitate cont"
+      ]
+    },
+    "Slack": {
+      "Join Slack huddle": [
+        "Accesați grupuri Slack"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "Accesați conferințe Teams"
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "Accesare conferință Zoom"
       ]
     }
   }

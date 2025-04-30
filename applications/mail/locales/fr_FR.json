@@ -1507,7 +1507,7 @@
         "Télécharger les applications ${ DRIVE_APP_NAME }"
       ],
       "Get the apps": [
-        "Téléchargez les applications"
+        "Obtenir les applications"
       ],
       "Import emails, calendars, contacts": [
         "Importer des messages, calendriers et contacts"
@@ -1553,6 +1553,15 @@
       ],
       "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
         "Utilisez ${ VPN_SHORT_APP_NAME } pour la confidentialité des données"
+      ],
+      "Copy password": [
+        "Copier le mot de passe"
+      ],
+      "Create new password": [
+        "Créer un nouveau mot de passe"
+      ],
+      "Generate password": [
+        "Générer un mot de passe"
       ]
     },
     "action": {
@@ -6878,7 +6887,8 @@
         "Initialisation…"
       ],
       "Insert image": [
-        "Insérer une image"
+        "Insérer une image",
+        "Insérer des images"
       ],
       "Insert link": [
         "Insérer un lien"
@@ -8238,6 +8248,27 @@
       ],
       "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
         "Il s’agit d’un nom ou d’un surnom pour votre organisation que vos utilisateurs verront. Vous pouvez le modifier à tout moment."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Au moins ${ BETTER_PASSWORD_LENGTH } caractères"
+      ],
+      "It's better to have:": [
+        "Il est préférable d'avoir :"
+      ],
+      "Numbers": [
+        "Chiffres"
+      ],
+      "Password copied to clipboard": [
+        "Le mot de passe a été copié dans le presse-papiers."
+      ],
+      "Password must have:": [
+        "Le mot de passe doit comprendre :"
+      ],
+      "Symbols (#$&)": [
+        "Symboles (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Lettres majuscules et minuscules"
       ]
     },
     "info": {
@@ -9100,6 +9131,30 @@
       ],
       "Account storage": [
         "Espace de stockage du compte"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Il doit comporter au moins ${ MIN_PASSWORD_LENGTH } caractères."
+      ],
+      "Password strength": [
+        "Niveau de sécurité du mot de passe"
+      ],
+      "Strong": [
+        "Fort"
+      ],
+      "Strong password": [
+        "Mot de passe sécurisé"
+      ],
+      "Vulnerable": [
+        "Vulnérable"
+      ],
+      "Vulnerable password": [
+        "Mot de passe vulnérable"
+      ],
+      "Weak": [
+        "Faible"
+      ],
+      "Weak password": [
+        "Mot de passe peu sécurisé"
       ]
     },
     "Label (begin date/advanced search)": {

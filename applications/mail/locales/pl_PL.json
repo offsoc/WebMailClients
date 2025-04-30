@@ -1562,6 +1562,15 @@
       ],
       "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
         "Użyj ${ VPN_SHORT_APP_NAME } dla prywatności danych"
+      ],
+      "Copy password": [
+        "Kopiuj hasło"
+      ],
+      "Create new password": [
+        "Utwórz nowe hasło"
+      ],
+      "Generate password": [
+        "Generuj hasło"
       ]
     },
     "action": {
@@ -7097,7 +7106,10 @@
         "Inicjowanie…"
       ],
       "Insert image": [
-        "Wstaw obraz"
+        "Wstaw obraz",
+        "Wstaw obrazy",
+        "Wstaw obrazy",
+        "Wstaw obrazy"
       ],
       "Insert link": [
         "Wstaw link"
@@ -7394,7 +7406,7 @@
         "Potwierdź płatność w nowej karcie."
       ],
       "Please fill out this field.": [
-        "Wypełnij pole."
+        "Uzupełnij pole."
       ],
       "Please note that addresses assigned to these groups will NOT be deleted.": [
         "Pamiętaj, że adresy przypisane do tych grup NIE zostaną usunięte."
@@ -8502,6 +8514,30 @@
       ],
       "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
         "To jest nazwa organizacji, którą będą widzieć użytkownicy. Możesz ją zmienić w dowolnym momencie."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Minimum ${ BETTER_PASSWORD_LENGTH } znaków"
+      ],
+      "It's better to have:": [
+        "Lepiej mieć:"
+      ],
+      "Numbers": [
+        "Cyfry"
+      ],
+      "Password copied to clipboard": [
+        "Hasło zostało skopiowane do schowka"
+      ],
+      "Password must have:": [
+        "Hasło musi zawierać:"
+      ],
+      "Please fill in all required fields.": [
+        "Uzupełnij wszystkie wymagane pola."
+      ],
+      "Symbols (#$&)": [
+        "Znaki specjalne (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Wielkie i małe litery"
       ]
     },
     "info": {
@@ -9373,6 +9409,30 @@
       ],
       "Account storage": [
         "Przestrzeń dyskowa konta"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Minimum ${ MIN_PASSWORD_LENGTH } znaków"
+      ],
+      "Password strength": [
+        "Siła hasła"
+      ],
+      "Strong": [
+        "Silne"
+      ],
+      "Strong password": [
+        "Silne hasło"
+      ],
+      "Vulnerable": [
+        "Bardzo słabe"
+      ],
+      "Vulnerable password": [
+        "Słabe hasło"
+      ],
+      "Weak": [
+        "Słabe"
+      ],
+      "Weak password": [
+        "Słabe hasło"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -13316,6 +13376,9 @@
     "Subscription saving": {
       "Save": [
         "Zaoszczędź"
+      ],
+      "Save ${ priceString }": [
+        "Zaoszczędź ${ priceString }"
       ]
     },
     "Success": {
@@ -15535,6 +15598,21 @@
     "unprivatization": {
       "Admins can't access the data of private users and can't reset their password.": [
         "Administratorzy nie mają dostępu do danych prywatnych użytkowników i nie mogą zresetować ich haseł."
+      ]
+    },
+    "Slack": {
+      "Join Slack huddle": [
+        "Dołącz do spotkania Slack"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "Dołącz do spotkania Teams"
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "Dołącz do spotkania Zoom"
       ]
     }
   }

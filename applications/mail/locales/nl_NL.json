@@ -1552,6 +1552,15 @@
       ],
       "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
         "Gebruik ${ VPN_SHORT_APP_NAME } voor gegevensprivacy"
+      ],
+      "Copy password": [
+        "Wachtwoord kopiëren"
+      ],
+      "Create new password": [
+        "Nieuw wachtwoord instellen"
+      ],
+      "Generate password": [
+        "Wachtwoord genereren"
       ]
     },
     "action": {
@@ -3882,7 +3891,7 @@
         "Synchroniseer eenvoudig bestanden naar de cloud vanaf uw computer en open ze vanaf uw mobiele apparaat."
       ],
       "Encourage the use of two-factor authentication in your organization for extra security.": [
-        "Moedig het gebruik van tweestapsverificatie in je organisatie aan voor extra beveiliging."
+        "Moedig het gebruik van tweestapsverificatie in uw organisatie aan voor extra beveiliging."
       ],
       "Ensure secure access to organization data, even if your team is remote or using public WiFi.": [
         "Zorg voor veilige toegang tot gegevens van de organisatie, zelfs als uw team op afstand is of openbare wifi gebruikt."
@@ -6877,7 +6886,8 @@
         "Initialiseren..."
       ],
       "Insert image": [
-        "Afbeelding invoegen"
+        "Afbeelding toevoegen",
+        "Afbeeldingen toevoegen"
       ],
       "Insert link": [
         "Link invoegen"
@@ -6970,7 +6980,7 @@
         "Lage Prioriteit"
       ],
       "Make ${ MAIL_APP_NAME } your default email application.": [
-        "Maak ${ MAIL_APP_NAME } uw standaard e-mailapplicatie."
+        "Maak van ${ MAIL_APP_NAME } uw standaard e-mailtoepassing."
       ],
       "Manage your folders": [
         "Mappen beheren"
@@ -8237,6 +8247,27 @@
       ],
       "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
         "Dit is een naam of bijnaam voor uw organisatie die uw gebruikers zullen zien. U kunt dit op elk moment wijzigen."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Voer minstens ${ BETTER_PASSWORD_LENGTH } tekens in"
+      ],
+      "It's better to have:": [
+        "Het is beter om:"
+      ],
+      "Numbers": [
+        "Nummers"
+      ],
+      "Password copied to clipboard": [
+        "Wachtwoord gekopieerd naar klembord"
+      ],
+      "Password must have:": [
+        "Het wachtwoord moet hebben:"
+      ],
+      "Symbols (#$&)": [
+        "Symbolen (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Hoofdletters en kleine letters"
       ]
     },
     "info": {
@@ -9096,6 +9127,30 @@
       ],
       "Account storage": [
         "Opslagruimte account"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Wachtwoord moet ten minste ${ MIN_PASSWORD_LENGTH } teken bevatten"
+      ],
+      "Password strength": [
+        "Wachtwoordsterkte"
+      ],
+      "Strong": [
+        "Sterk"
+      ],
+      "Strong password": [
+        "Sterk wachtwoord"
+      ],
+      "Vulnerable": [
+        "Kwetsbaar"
+      ],
+      "Vulnerable password": [
+        "Kwetsbaar wachtwoord"
+      ],
+      "Weak": [
+        "Zwak"
+      ],
+      "Weak password": [
+        "Zwak wachtwoord"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9407,7 +9462,7 @@
         "E-mail doorsturen instellen"
       ],
       "How to use Groups": [
-        "Hoe gebruik je Groepen"
+        "Hoe gebruikt u Groepen"
       ],
       "Types of recovery methods": [
         "Soorten herstelmethoden"
@@ -12881,6 +12936,9 @@
     "Subscription saving": {
       "Save": [
         "Bespaar"
+      ],
+      "Save ${ priceString }": [
+        "Bespaar ${ priceString }"
       ]
     },
     "Success": {
@@ -14926,6 +14984,21 @@
     "unprivatization": {
       "Admins can't access the data of private users and can't reset their password.": [
         "Beheerders hebben geen toegang tot de gegevens van privégebruikers en kunnen hun wachtwoord niet resetten."
+      ]
+    },
+    "Slack": {
+      "Join Slack huddle": [
+        "Deelnemen aan Slack huddle"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "Deelnemen aan Teams vergadering"
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "Deelnemen aan Zoom vergadering"
       ]
     }
   }

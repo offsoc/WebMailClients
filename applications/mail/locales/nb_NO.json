@@ -1553,6 +1553,15 @@
       ],
       "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
         "Bruk ${ VPN_SHORT_APP_NAME } for personvern"
+      ],
+      "Copy password": [
+        "Kopier passord"
+      ],
+      "Create new password": [
+        "Opprett nytt passord"
+      ],
+      "Generate password": [
+        "Generer passord"
       ]
     },
     "action": {
@@ -6878,7 +6887,8 @@
         "Initialiserer…"
       ],
       "Insert image": [
-        "Sett inn bilde"
+        "Sett inn bilde",
+        "Sett inn bilder"
       ],
       "Insert link": [
         "Sett inn kobling"
@@ -8238,6 +8248,27 @@
       ],
       "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
         "Dette er et navn eller kallenavn for organisasjonen din som brukerne dine vil se. Du kan endre det når som helst."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Minst ${ BETTER_PASSWORD_LENGTH } tegn"
+      ],
+      "It's better to have:": [
+        "Det er bedre å ha:"
+      ],
+      "Numbers": [
+        "Tall"
+      ],
+      "Password copied to clipboard": [
+        "Passord kopiert til utklippstavlen"
+      ],
+      "Password must have:": [
+        "Passordet må ha:"
+      ],
+      "Symbols (#$&)": [
+        "Symboler (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Store og små bokstaver"
       ]
     },
     "info": {
@@ -9097,6 +9128,30 @@
       ],
       "Account storage": [
         "Kontolagring"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Må minst ha ${ MIN_PASSWORD_LENGTH } tegn"
+      ],
+      "Password strength": [
+        "Passordstyrke"
+      ],
+      "Strong": [
+        "Sterk"
+      ],
+      "Strong password": [
+        "Sterkt passord"
+      ],
+      "Vulnerable": [
+        "Sårbar"
+      ],
+      "Vulnerable password": [
+        "Sårbart passord"
+      ],
+      "Weak": [
+        "Svak"
+      ],
+      "Weak password": [
+        "Svakt passord"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -12882,6 +12937,9 @@
     "Subscription saving": {
       "Save": [
         "Spar"
+      ],
+      "Save ${ priceString }": [
+        "Spar ${ priceString }"
       ]
     },
     "Success": {
@@ -14927,6 +14985,21 @@
     "unprivatization": {
       "Admins can't access the data of private users and can't reset their password.": [
         "Administratorer har ikke tilgang til dataene til private brukere og kan ikke tilbakestille passordet deres."
+      ]
+    },
+    "Slack": {
+      "Join Slack huddle": [
+        "Bli med på det umiddelbare Slack-møtet"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "Bli med på Teams-møte"
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "Bli med på Zoom-møte"
       ]
     }
   }

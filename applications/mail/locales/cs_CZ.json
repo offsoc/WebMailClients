@@ -1565,6 +1565,15 @@
       ],
       "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
         "Použít ${ VPN_SHORT_APP_NAME } pro ochranu soukromí"
+      ],
+      "Copy password": [
+        "Kopírovat heslo"
+      ],
+      "Create new password": [
+        "Vytvořit nové heslo"
+      ],
+      "Generate password": [
+        "Generovat heslo"
       ]
     },
     "action": {
@@ -7100,7 +7109,10 @@
         "Inicializuji..."
       ],
       "Insert image": [
-        "Vložit obrázek"
+        "Vložit obrázek",
+        "Vložit obrázky",
+        "Vložit obrázky",
+        "Vložit obrázky"
       ],
       "Insert link": [
         "Vložit odkaz"
@@ -8508,6 +8520,27 @@
       ],
       "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
         "Jedná se o název nebo přezdívku vaší organizace, kterou uživatelé uvidí. Můžete je kdykoli změnit."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Alespoň ${ BETTER_PASSWORD_LENGTH } znaků"
+      ],
+      "It's better to have:": [
+        "Je lepší mít:"
+      ],
+      "Numbers": [
+        "Číslice"
+      ],
+      "Password copied to clipboard": [
+        "Heslo bylo zkopírováno do schránky"
+      ],
+      "Password must have:": [
+        "Heslo musí obsahovat:"
+      ],
+      "Symbols (#$&)": [
+        "Symboly (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Velká a malá písmena"
       ]
     },
     "info": {
@@ -9379,6 +9412,30 @@
       ],
       "Account storage": [
         "Prostor pro účet"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Musí mít alespoň ${ MIN_PASSWORD_LENGTH } znaků"
+      ],
+      "Password strength": [
+        "Síla hesla"
+      ],
+      "Strong": [
+        "Silné"
+      ],
+      "Strong password": [
+        "Silné heslo"
+      ],
+      "Vulnerable": [
+        "Zranitelné"
+      ],
+      "Vulnerable password": [
+        "Zranitelné heslo"
+      ],
+      "Weak": [
+        "Slabé"
+      ],
+      "Weak password": [
+        "Slabé heslo"
       ]
     },
     "Label (begin date/advanced search)": {
