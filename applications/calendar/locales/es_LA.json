@@ -636,7 +636,7 @@
         "Seleccionar país"
       ],
       "Select time zone": [
-        "Seleccionar zona horaria"
+        "Seleccione la zona horaria"
       ],
       "Send": [
         "Enviar"
@@ -818,6 +818,75 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "La prueba gratuita de la aplicación de escritorio finaliza en ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Collaborate on documents": [
+        "Colaborar en documentos"
+      ],
+      "Connect apps and devices": [
+        "Conectar apps y dispositivos"
+      ],
+      "Connect to video conferencing": [
+        "Conectarse a la videoconferencia"
+      ],
+      "Copy password": [
+        "Copiar la contraseña"
+      ],
+      "Create new password": [
+        "Crear una contraseña nueva"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Descargar las aplicaciones de ${ DRIVE_APP_NAME }"
+      ],
+      "Generate password": [
+        "Generar contraseña"
+      ],
+      "Get the apps": [
+        "Obtener las aplicaciones"
+      ],
+      "Import emails, calendars, contacts": [
+        "Importar correos electrónicos, calendarios, contactos"
+      ],
+      "Manage advanced account protections": [
+        "Gestionar protecciones avanzadas de la cuenta"
+      ],
+      "Manage groups": [
+        "Gestionar grupos"
+      ],
+      "Manage users/addresses": [
+        "Gestionar usuarios/direcciones"
+      ],
+      "Remove button": [
+        "Borrar botón"
+      ],
+      "Reply with a note": [
+        "Responder con una nota"
+      ],
+      "Set recovery methods": [
+        "Establecer métodos de recuperación"
+      ],
+      "Set up 2FA": [
+        "Configurar 2FA"
+      ],
+      "Set up a custom domain": [
+        "Configurar un dominio personalizado"
+      ],
+      "Set up email forwarding": [
+        "Configurar el reenvío de correo electrónico"
+      ],
+      "Share your calendar with your team": [
+        "Compartir su calendario con su equipo"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "Activar ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "Upload and share files": [
+        "Cargar y compartir archivos"
+      ],
+      "Use ${ PASS_APP_NAME } for Business": [
+        "Usar ${ PASS_APP_NAME } for Business"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "Usar ${ VPN_SHORT_APP_NAME } para la privacidad de los datos"
       ]
     },
     "action": {
@@ -1001,7 +1070,7 @@
     },
     "bf2023: Tooltip": {
       "Includes support for 1 custom email domain, 10 email addresses, 10 hide-my-email aliases, calendar sharing, and more.": [
-        "Incluye compatibilidad con 1 dominio de correo electrónico personalizado, 10 direcciones de correo electrónico, 10 seudónimos de hide-my-email, posibilidad de compartir calendario, etc."
+        "Incluye compatibilidad con 1 dominio de correo personalizado, 10 direcciones de correo, 10 alias de hide-my-email, posibilidad de compartir calendario, etc."
       ]
     },
     "BF2024: Deal details": {
@@ -2754,6 +2823,63 @@
       ],
       "You’ve already created 10 aliases. Get unlimited aliases and 500 GB of storage with ${ BRAND_NAME } Unlimited.": [
         "Ya ha creado 10 alias. Obtenga alias ilimitados y 500 GB de almacenamiento con ${ BRAND_NAME } Ilimitado."
+      ],
+      "${ DOCS_SHORT_APP_NAME } in ${ DRIVE_APP_NAME } allows you to work together with others in a secure, encrypted environment.": [
+        "${ DOCS_SHORT_APP_NAME } en ${ DRIVE_APP_NAME } le permite trabajar juntos en un entorno seguro y cifrado."
+      ],
+      "Add folders and files to ${ DRIVE_APP_NAME } and invite team members to view or edit.": [
+        "Agregue carpetas y archivos a ${ DRIVE_APP_NAME } e invite a los miembros del equipo a ver o editar."
+      ],
+      "Automatically forward incoming email to another email address.": [
+        "Reenvíe automáticamente el correo electrónico entrante a otra dirección de correo electrónico."
+      ],
+      "Configure this first to activate your organization and customize your email address.": [
+        "Configure esto primero para activar su organización y personalizar su dirección de correo electrónico."
+      ],
+      "Connect your CRM, website, printers, and more.": [
+        "Conecte su CRM, sitio web, impresoras y mucho más."
+      ],
+      "Create groups you can email with a single address.": [
+        "Cree grupos a los que pueda enviar correos electrónicos con una sola dirección."
+      ],
+      "Easily access your email and calendar on desktop and mobile.": [
+        "Acceda fácilmente a su correo electrónico y calendario en computadoras de escritorio y dispositivos móviles."
+      ],
+      "Easily sync files to the cloud from your desktop and access them from your mobile device.": [
+        "Sincronice fácilmente los archivos a la nube desde su escritorio y acceda a ellos desde su dispositivo móvil."
+      ],
+      "Encourage the use of two-factor authentication in your organization for extra security.": [
+        "Para mayor seguridad, promueva el uso de la autenticación de dos factores en su organización."
+      ],
+      "Ensure secure access to organization data, even if your team is remote or using public WiFi.": [
+        "Asegúrese de tener un acceso seguro a los datos de la organización, incluso si su equipo está de forma remota o utiliza un Wi-Fi público."
+      ],
+      "Ensure top-notch security for your account with the ${ PROTON_SENTINEL_NAME } program.": [
+        "Garantice la seguridad de primer nivel para su cuenta con el programa ${ PROTON_SENTINEL_NAME }."
+      ],
+      "Ensure you can still access your account and data even if you lose your ${ BRAND_NAME } password.": [
+        "Asegúrese de que aún puede acceder a su cuenta y a sus datos, incluso si pierde su contraseña de ${ BRAND_NAME }."
+      ],
+      "For a seamless transition to ${ BRAND_NAME }, import your data from Google, Outlook, and others.": [
+        "Para una transición sin complicaciones a ${ BRAND_NAME }, importe sus datos de Google, Outlook y otros."
+      ],
+      "Help your team securely store passwords to sensitive business and client information.": [
+        "Ayude a su equipo a almacenar de forma segura las contraseñas de información confidencial de la empresa y de los clientes."
+      ],
+      "Let's you instantly add meeting links to your event invitations.": [
+        "Le permite agregar instantáneamente enlaces de reunión a las invitaciones de sus eventos."
+      ],
+      "Set up accounts for all users and invite them to join ${ BRAND_NAME }.": [
+        "Configure las cuentas para todos los usuarios e invítelos a unirse a ${ BRAND_NAME }."
+      ],
+      "Simplify syncing and scheduling with shared calendars.": [
+        "Simplifique la sincronización y la programación con calendarios compartidos."
+      ],
+      "To start, give your organization a name.": [
+        "Para comenzar, asigne un nombre a su organización."
+      ],
+      "Use this guide to get your organization promptly benefiting from ${ BRAND_NAME }'s industry-leading encryption and privacy ecosystem.": [
+        "Use esta guía para que su organización se beneficie inmediatamente del cifrado y ecosistema de privacidad líderes en la industria de ${ BRAND_NAME }."
       ]
     },
     "description": {
@@ -2929,6 +3055,12 @@
       ],
       "You are invited to ${ eventTitle }.\n\n${ eventDetailsText }": [
         "Se le invitó a ${ eventTitle }.\n\n${ eventDetailsText }"
+      ],
+      "Here's what changed:": [
+        "Esto es lo que ha cambiado:"
+      ],
+      "NOTE:": [
+        "NOTA:"
       ]
     },
     "Email body for invitation (date part)": {
@@ -3475,6 +3607,9 @@
       ],
       "Your import will not be processed.": [
         "No se procesará la importación."
+      ],
+      "Something went wrong. Please try again.": [
+        "Hubo un problema. Intente de nuevo."
       ]
     },
     "Error accepting calendar invitation": {
@@ -5648,6 +5783,66 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "La zona horaria del sistema parece haber cambiado a ${ timezone }. ¿Quiere actualizar la preferencia de zona horaria?"
+      ],
+      "Admin account allocation": [
+        "Cuenta administrador de asignación"
+      ],
+      "Allocated": [
+        "Asignado"
+      ],
+      "Already allocated": [
+        "Ya asignado"
+      ],
+      "Already used": [
+        "Ya usado"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Al menos ${ BETTER_PASSWORD_LENGTH } caracteres"
+      ],
+      "Calendar is disabled": [
+        "El calendario está desactivado."
+      ],
+      "It's better to have:": [
+        "Es mejor tener:"
+      ],
+      "Numbers": [
+        "Números"
+      ],
+      "Open the guide for recommended actions and helpful links.": [
+        "Abra la guía para ver las acciones recomendadas y los enlaces útiles."
+      ],
+      "Password copied to clipboard": [
+        "Contraseña copiada al portapapeles"
+      ],
+      "Password must have:": [
+        "La contraseña debe tener:"
+      ],
+      "Please fill in all required fields.": [
+        "Complete todos los campos obligatorios."
+      ],
+      "Set up your organization": [
+        "Configure su organización"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "Almacenamiento asignado a otros usuarios en esta organización"
+      ],
+      "Storage allocated to this user": [
+        "Almacenamiento asignado a este usuario"
+      ],
+      "Storage for users": [
+        "Almacenamiento para usuarios"
+      ],
+      "Storage used by this user": [
+        "Almacenamiento usado por este usuario"
+      ],
+      "Symbols (#$&)": [
+        "Símbolos (#$&)"
+      ],
+      "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
+        "Este es un nombre o un apodo para su organización que verán sus usuarios. Puede cambiarlo en cualquier momento."
+      ],
+      "Uppercase and lowercase letters": [
+        "Letras mayúsculas y minúsculas"
       ]
     },
     "info": {
@@ -6270,6 +6465,36 @@
       ],
       "Your password (admin)": [
         "La contraseña (admin)"
+      ],
+      "Account storage": [
+        "Almacenamiento de la cuenta"
+      ],
+      "Let others know if you have a conflict, will be late, or can’t wait for the event.": [
+        "Informe a los demás si tiene un conflicto, si llegará tarde o si no puede esperar el evento."
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Debe tener al menos ${ MIN_PASSWORD_LENGTH } caracteres"
+      ],
+      "Password strength": [
+        "Nivel de seguridad de la contraseña"
+      ],
+      "Strong": [
+        "Fuerte"
+      ],
+      "Strong password": [
+        "Contraseña segura"
+      ],
+      "Vulnerable": [
+        "Vulnerable"
+      ],
+      "Vulnerable password": [
+        "Contraseña vulnerable"
+      ],
+      "Weak": [
+        "Débil"
+      ],
+      "Weak password": [
+        "Contraseña poco segura"
       ]
     },
     "Label for contact group color": {
@@ -6402,6 +6627,54 @@
       ],
       "What’s this?": [
         "¿Qué es esto?"
+      ],
+      "Enforcing 2FA for organizations": [
+        "Implementar 2FA para organizaciones"
+      ],
+      "How to add users": [
+        "Cómo agregar usuarios"
+      ],
+      "How to add Zoom links": [
+        "Cómo agregar enlaces de Zoom"
+      ],
+      "How to collaborate in ${ DOCS_SHORT_APP_NAME }": [
+        "Cómo colaborar en ${ DOCS_SHORT_APP_NAME }"
+      ],
+      "How to enable ${ PROTON_SENTINEL_NAME }": [
+        "Cómo activar ${ PROTON_SENTINEL_NAME }"
+      ],
+      "How to migrate to ${ BRAND_NAME }": [
+        "Cómo migrar a ${ BRAND_NAME }"
+      ],
+      "How to set up ${ VPN_APP_NAME }": [
+        "Cómo configurar ${ VPN_APP_NAME }"
+      ],
+      "How to set up a custom domain": [
+        "Cómo configurar un dominio personalizado"
+      ],
+      "How to set up SMTP": [
+        "Cómo configurar SMTP"
+      ],
+      "How to share a calendar": [
+        "Cómo compartir un calendario"
+      ],
+      "How to share via email": [
+        "Cómo compartir por correo electrónico"
+      ],
+      "How to use ${ DARK_WEB_MONITORING_NAME }": [
+        "Cómo usar ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "How to use ${ PASS_APP_NAME } for Business": [
+        "Cómo usar ${ PASS_APP_NAME } for Business"
+      ],
+      "How to use email forwarding": [
+        "Cómo usar el reenvío de correo"
+      ],
+      "How to use Groups": [
+        "Cómo usar los grupos"
+      ],
+      "Types of recovery methods": [
+        "Tipos de métodos de recuperación"
       ]
     },
     "Link label (optional)": {
@@ -8121,7 +8394,7 @@
         "Uso compartido seguro de bóvedas"
       ],
       "Secure vault, item and link sharing": [
-        "Uso compartido seguro de bóveda, enlaces y elementos"
+        "Comparta sus bóvedas y credenciales de forma segura"
       ],
       "Unlimited logins, notes, credit cards and more": [
         "Inicios de sesión ilimitados, notas, tarjetas de crédito y más"
@@ -8177,6 +8450,21 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "Necesita acceso a la clave de la organización para realizar esta acción."
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "Los usuarios no privados podrán ser promovidos a administradores cuando hayan configurado las claves"
+      ],
+      "Organization key must be activated to give admin privileges": [
+        "La clave de seguridad de la organización debe activarse para otorgar privilegios de administración"
+      ],
+      "Private users can be promoted to admin when they've signed in for the first time": [
+        "Los usuarios privados podrán ser administradores una vez que ingresen a la cuenta por primera vez"
+      ],
+      "You must delete all groups before generating a new organization key": [
+        "Debe eliminar todos los grupos antes de generar una clave nueva de la organización"
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "Debe privatizar todos los usuarios antes de generar una clave nueva de la organización"
       ]
     },
     "Payment method option": {
@@ -8429,6 +8717,15 @@
       ],
       "Start typing an email address": [
         "Comience a escribir una dirección de correo"
+      ],
+      "Leave a note for all participants": [
+        "Deje una nota para todos los invitados"
+      ],
+      "Organization name": [
+        "Nombre de la organización"
+      ],
+      "Your organization name": [
+        "El nombre de su organización"
       ]
     },
     "Placeholder for contact group name": {
@@ -8882,26 +9179,26 @@
     },
     "specialoffer: Countdown unit": {
       "${ days } day": [
-        "${ hours } hora",
-        "${ hours } horas"
-      ],
-      "${ hours } hour": [
         "${ days } día",
         "${ days } días"
       ],
+      "${ hours } hour": [
+        "${ hours } hora",
+        "${ hours } horas"
+      ],
       "${ minutes } minute": [
-        "${ n } mes GRATIS",
-        "${ n } meses GRATIS"
+        "${ minutes } minuto",
+        "${ minutes } minutos"
       ],
       "${ seconds } second": [
-        "for ${ n } mes",
-        "for ${ n } meses"
+        "${ seconds } segundo",
+        "${ seconds } segundos"
       ]
     },
     "specialoffer: Deal": {
       "${ n } month FREE": [
-        "${ seconds } segundo",
-        "${ seconds } segundos"
+        "${ n } mes gratis",
+        "${ n } meses gratis"
       ]
     },
     "specialoffer: Deal details": {
@@ -9617,6 +9914,9 @@
     "Subscription saving": {
       "Save": [
         "Ahorra"
+      ],
+      "Save ${ priceString }": [
+        "Ahorre ${ priceString }"
       ]
     },
     "Success": {
@@ -9822,7 +10122,7 @@
         "Cree datos de inicio de sesión seguros para todos los dispositivos. Se incluyen alias ilimitados, 20 bóvedas, 2FA integrada, función de completado automático de tarjetas de crédito y más."
       ],
       "Includes 2950+ servers in 65+ countries, connect up to 10 devices, access worldwide streaming services, malware and ad-blocker, and more.": [
-        "Incluye 2950 servidores en más de 65 países, conecta hasta 10 dispositivos, acceda a servicios de transmisión en todo el mundo, malware y bloqueador de anuncios, y más."
+        "Incluye más de 2950 servidores en más de 65 países, conecte hasta 10 dispositivos, acceda a servicios de transmisión en todo el mundo, malware, bloqueador de anuncios y más."
       ],
       "Includes support for 1 custom email domain, 10 email addresses, 10 hide-my-email aliases, calendar sharing, and more.": [
         "Incluye compatibilidad con 1 dominio de correo electrónico personalizado, 10 direcciones de correo electrónico, 10 seudónimos de hide-my-email, posibilidad de compartir calendario, etc."
@@ -10502,6 +10802,78 @@
       ],
       "Your shorter address is now ready": [
         "Su dirección en formato más corto ya está lista."
+      ],
+      "Add user": [
+        "Agregar usuario"
+      ],
+      "Collaborate on documents": [
+        "Colabore en documentos"
+      ],
+      "Connect apps and devices": [
+        "Conecte aplicaciones y dispositivos"
+      ],
+      "Connect to video conferencing": [
+        "Conéctese a la videoconferencia"
+      ],
+      "Connect your custom domain": [
+        "Conecte su dominio personalizado"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Descargue las aplicaciones de ${ DRIVE_APP_NAME }"
+      ],
+      "Enable advanced account protection": [
+        "Active la protección avanzada de la cuenta"
+      ],
+      "Enhance security with 2FA": [
+        "Mejore la seguridad con 2FA"
+      ],
+      "Get the apps": [
+        "Obtener las aplicaciones"
+      ],
+      "Import emails, calendars, contacts": [
+        "Importe correos electrónicos, calendarios y contactos"
+      ],
+      "Org setup": [
+        "Configuración de la organización"
+      ],
+      "Organization setup": [
+        "Configuración de la organización"
+      ],
+      "Reply with a note": [
+        "Responder con una nota"
+      ],
+      "Schedule meetings in one click": [
+        "Programe reuniones con un solo clic"
+      ],
+      "Set recovery methods": [
+        "Establecer métodos de recuperación"
+      ],
+      "Set up email forwarding": [
+        "Configure el reenvío de correo electrónico"
+      ],
+      "Set up your organization": [
+        "Configure su organización"
+      ],
+      "Share your calendar with your team": [
+        "Comparta su calendario con su equipo"
+      ],
+      "Simplify email distribution": [
+        "Simplifique la distribución de correos electrónicos"
+      ],
+      "Simplify password management": [
+        "Simplifique la gestión de contraseñas"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "Active ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "Upload and share files": [
+        "Cargue y comparta archivos"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "Use ${ VPN_SHORT_APP_NAME } para la privacidad de los datos"
+      ],
+      "Welcome to ${ BRAND_NAME } for Business": [
+        "Le damos la bienvenida a ${ BRAND_NAME } for Business"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -11117,6 +11489,49 @@
       ],
       "Passcode:": [
         "Código de acceso:"
+      ]
+    },
+    "Email body for comment (comment part)": {
+      "NOTE:\n${ eventComment }": [
+        "NOTA:\n${ eventComment }"
+      ]
+    },
+    "Note": {
+      "Note:": [
+        "Nota:"
+      ]
+    },
+    "RSVP Note": {
+      "Edit note": [
+        "Editar la nota"
+      ],
+      "Remove note": [
+        "Borrar la nota"
+      ]
+    },
+    "Section": {
+      "Org setup and account security": [
+        "Configuración de la organización y seguridad de la cuenta"
+      ]
+    },
+    "Slack": {
+      "Join Slack huddle": [
+        "Unirse a la reunión de Slack"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "Unirse a la reunión de Teams"
+      ]
+    },
+    "unprivatization": {
+      "Admins can't access the data of private users and can't reset their password.": [
+        "Los administradores no pueden acceder a los datos de usuarios privados y no pueden restablecer sus contraseñas."
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "Unirse a la reunión de Zoom"
       ]
     }
   }

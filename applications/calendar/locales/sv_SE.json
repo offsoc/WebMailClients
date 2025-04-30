@@ -818,6 +818,75 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Din gratis provperiod av skrivbordsappen slutar den ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Collaborate on documents": [
+        "Samarbeta på dokument"
+      ],
+      "Connect apps and devices": [
+        "Anslut appar och enheter"
+      ],
+      "Connect to video conferencing": [
+        "Anslut till videokonferens"
+      ],
+      "Copy password": [
+        "Kopiera lösenord"
+      ],
+      "Create new password": [
+        "Skapa nytt lösenord"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Ladda ner ${ DRIVE_APP_NAME } appen"
+      ],
+      "Generate password": [
+        "Generera lösenord"
+      ],
+      "Get the apps": [
+        "Skaffa apparna"
+      ],
+      "Import emails, calendars, contacts": [
+        "Importera e-post, kalendrar, kontakter"
+      ],
+      "Manage advanced account protections": [
+        "Hantera avancerade kontoskydd"
+      ],
+      "Manage groups": [
+        "Hantera grupper"
+      ],
+      "Manage users/addresses": [
+        "Hantera användare/adresser"
+      ],
+      "Remove button": [
+        "Ta bort knapp"
+      ],
+      "Reply with a note": [
+        "Svara med en anteckning"
+      ],
+      "Set recovery methods": [
+        "Ställ in återställningsmetoder"
+      ],
+      "Set up 2FA": [
+        "Ställ in 2FA"
+      ],
+      "Set up a custom domain": [
+        "Ställ in en anpassad domän"
+      ],
+      "Set up email forwarding": [
+        "Ställ in vidarebefordran av e-post"
+      ],
+      "Share your calendar with your team": [
+        "Dela din kalender med ditt team"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "Slå på ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "Upload and share files": [
+        "Ladda upp och dela filer"
+      ],
+      "Use ${ PASS_APP_NAME } for Business": [
+        "Använd ${ PASS_APP_NAME } för Business"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "Använd ${ VPN_SHORT_APP_NAME } för dataintegritet"
       ]
     },
     "action": {
@@ -883,6 +952,9 @@
       "${ users } user": [
         "${ users } användare",
         "${ users } användare"
+      ],
+      "${ price } per seat": [
+        "${ price } per plats"
       ]
     },
     "Alarm notification": {
@@ -2751,6 +2823,63 @@
       ],
       "You’ve already created 10 aliases. Get unlimited aliases and 500 GB of storage with ${ BRAND_NAME } Unlimited.": [
         "Du har redan skapat 10 alias. Skaffa obegränsat antal alias och 500 GB lagringsutrymme med ${ BRAND_NAME } Unlimited."
+      ],
+      "${ DOCS_SHORT_APP_NAME } in ${ DRIVE_APP_NAME } allows you to work together with others in a secure, encrypted environment.": [
+        "${ DOCS_SHORT_APP_NAME } i ${ DRIVE_APP_NAME } låter dig arbeta tillsammans med andra i en säker, krypterad miljö."
+      ],
+      "Add folders and files to ${ DRIVE_APP_NAME } and invite team members to view or edit.": [
+        "Lägg till mappar och filer i ${ DRIVE_APP_NAME } och bjud in gruppmedlemmar att visa eller redigera."
+      ],
+      "Automatically forward incoming email to another email address.": [
+        "Vidarebefordra automatiskt inkommande e-post till annan e-postadress."
+      ],
+      "Configure this first to activate your organization and customize your email address.": [
+        "Konfigurera detta först för att aktivera din organisation och anpassa din e-postadress."
+      ],
+      "Connect your CRM, website, printers, and more.": [
+        "Anslut din CRM, webbplats, skrivare och mer."
+      ],
+      "Create groups you can email with a single address.": [
+        "Skapa grupper du kan skicka e-post till med en enda adress."
+      ],
+      "Easily access your email and calendar on desktop and mobile.": [
+        "Enkel åtkomst till din e-post och kalender på stationär dator och mobil."
+      ],
+      "Easily sync files to the cloud from your desktop and access them from your mobile device.": [
+        "Synkronisera enkelt filer till molnet från din stationära dator och kom åt dem från din mobila enhet."
+      ],
+      "Encourage the use of two-factor authentication in your organization for extra security.": [
+        "Uppmuntra användningen av tvåfaktorsautentisering i din organisation för extra säkerhet."
+      ],
+      "Ensure secure access to organization data, even if your team is remote or using public WiFi.": [
+        "Säkerställ säker åtkomst till organisationens data, även om ditt team är på distans eller använder offentligt WiFi."
+      ],
+      "Ensure top-notch security for your account with the ${ PROTON_SENTINEL_NAME } program.": [
+        "Säkerställ förstklassig säkerhet för ditt konto med programmet ${ PROTON_SENTINEL_NAME } ."
+      ],
+      "Ensure you can still access your account and data even if you lose your ${ BRAND_NAME } password.": [
+        "Se till att du fortfarande kan komma åt ditt konto och dina data även om du förlorar ditt ${ BRAND_NAME }-lösenord."
+      ],
+      "For a seamless transition to ${ BRAND_NAME }, import your data from Google, Outlook, and others.": [
+        "För en sömlös övergång till ${ BRAND_NAME }, importera din data från Google, Outlook och andra."
+      ],
+      "Help your team securely store passwords to sensitive business and client information.": [
+        "Hjälp ditt team att säkert lagra lösenord till känslig företags- och klientinformation."
+      ],
+      "Let's you instantly add meeting links to your event invitations.": [
+        "Låter dig omedelbart lägga till möteslänkar i dina händelseinbjudningar."
+      ],
+      "Set up accounts for all users and invite them to join ${ BRAND_NAME }.": [
+        "Ställ in konton för alla användare och bjud in dem att gå med i ${ BRAND_NAME }."
+      ],
+      "Simplify syncing and scheduling with shared calendars.": [
+        "Förenkla synkronisering och schemaläggning med delade kalendrar."
+      ],
+      "To start, give your organization a name.": [
+        "Börja med att ge din organisation ett namn."
+      ],
+      "Use this guide to get your organization promptly benefiting from ${ BRAND_NAME }'s industry-leading encryption and privacy ecosystem.": [
+        "Använd den här guiden för att din organisation snabbt ska kunna dra nytta av ${ BRAND_NAME }:s branschledande kryptering och ekosystem för integritet."
       ]
     },
     "description": {
@@ -2926,6 +3055,12 @@
       ],
       "You are invited to ${ eventTitle }.\n\n${ eventDetailsText }": [
         "Du är inbjuden till ${ eventTitle }.\n\n${ eventDetailsText }"
+      ],
+      "Here's what changed:": [
+        "Här är vad som ändrades:"
+      ],
+      "NOTE:": [
+        "OBS:"
       ]
     },
     "Email body for invitation (date part)": {
@@ -3472,6 +3607,9 @@
       ],
       "Your import will not be processed.": [
         "Din import kommer inte att bearbetas."
+      ],
+      "Something went wrong. Please try again.": [
+        "Något gick fel. Försök igen."
       ]
     },
     "Error accepting calendar invitation": {
@@ -5633,6 +5771,78 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Din systemtidszon verkar ha ändrats till ${ timezone }. Vill du uppdatera din tidszons preferens?"
+      ],
+      "Admin account allocation": [
+        "Allokering för administratörskonto"
+      ],
+      "Allocated": [
+        "Tilldelad"
+      ],
+      "Already allocated": [
+        "Redan tilldelad"
+      ],
+      "Already used": [
+        "Redan använd"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Minst ${ BETTER_PASSWORD_LENGTH } tecken"
+      ],
+      "Calendar is disabled": [
+        "Kalender är inaktiverad"
+      ],
+      "It's better to have:": [
+        "Det är bättre att ha:"
+      ],
+      "Numbers": [
+        "Siffror"
+      ],
+      "Open the guide for recommended actions and helpful links.": [
+        "Öppna guiden för rekommenderade åtgärder och användbara länkar."
+      ],
+      "Password copied to clipboard": [
+        "Lösenord kopierat till urklipp"
+      ],
+      "Password must have:": [
+        "Lösenord måste innehålla:"
+      ],
+      "Please fill in all required fields.": [
+        "Fyll i alla obligatoriska fält."
+      ],
+      "Set up your organization": [
+        "Ställ in din organisation"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "Lagringsutrymme tilldelad andra användare i denna organisation"
+      ],
+      "Storage allocated to this user": [
+        "Lagringsutrymme tilldelad till denna användare"
+      ],
+      "Storage for users": [
+        "Lagringsutrymme för användare"
+      ],
+      "Storage used by this user": [
+        "Lagringsutrymme som används av denna användare"
+      ],
+      "Subscription auto-renews every ${ cycle } month.": [
+        "Prenumeration förnyas automatiskt varje ${ cycle } månad.",
+        "Prenumerationen förnyas automatiskt var ${ cycle }:e månad."
+      ],
+      "Symbols (#$&)": [
+        "Symboler (#$&)"
+      ],
+      "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
+        "Detta är ett namn eller smeknamn för din organisation som dina användare kommer att se. Du kan ändra det när som helst."
+      ],
+      "Uppercase and lowercase letters": [
+        "Stora och små bokstäver"
+      ],
+      "You'll then be billed every ${ renewCycle } month at ${ renewAmountStr }.": [
+        "Du kommer sedan att faktureras varje ${ renewCycle } månad med ${ renewAmountStr }.",
+        "Du kommer sedan att faktureras var ${ renewCycle }:e månad med ${ renewAmountStr }."
+      ],
+      "Your scheduled plan starts on ${ renewalTime } and will auto-renew every ${ cycle } month.": [
+        "Ditt schemalagda paket startar den ${ renewalTime } och kommer att förnyas automatiskt varje ${ cycle } månad.",
+        "Ditt schemalagda paket startar den ${ renewalTime } och kommer att förnyas automatiskt var ${ cycle }:e månad."
       ]
     },
     "info": {
@@ -6255,6 +6465,36 @@
       ],
       "Your password (admin)": [
         "Ditt lösenord (admin)"
+      ],
+      "Account storage": [
+        "Kontolagring"
+      ],
+      "Let others know if you have a conflict, will be late, or can’t wait for the event.": [
+        "Låt andra veta om du har en konflikt, kommer bli sen eller inte kan vänta på händelsen."
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Måste ha minst ${ MIN_PASSWORD_LENGTH } tecken"
+      ],
+      "Password strength": [
+        "Lösenordsstyrka"
+      ],
+      "Strong": [
+        "Starkt"
+      ],
+      "Strong password": [
+        "Starkt Lösenord"
+      ],
+      "Vulnerable": [
+        "Sårbart"
+      ],
+      "Vulnerable password": [
+        "Sårbart lösenord"
+      ],
+      "Weak": [
+        "Svagt"
+      ],
+      "Weak password": [
+        "Svagt lösenord"
       ]
     },
     "Label for contact group color": {
@@ -6387,6 +6627,54 @@
       ],
       "What’s this?": [
         "Vad är detta?"
+      ],
+      "Enforcing 2FA for organizations": [
+        "Kräver 2FA för organisationer"
+      ],
+      "How to add users": [
+        "Hur man lägger till användare"
+      ],
+      "How to add Zoom links": [
+        "Hur man lägger till Zoom-länkar"
+      ],
+      "How to collaborate in ${ DOCS_SHORT_APP_NAME }": [
+        "Hur man samarbetar i ${ DOCS_SHORT_APP_NAME }"
+      ],
+      "How to enable ${ PROTON_SENTINEL_NAME }": [
+        "Hur man aktiverar ${ PROTON_SENTINEL_NAME }"
+      ],
+      "How to migrate to ${ BRAND_NAME }": [
+        "Hur man migrerar till ${ BRAND_NAME }"
+      ],
+      "How to set up ${ VPN_APP_NAME }": [
+        "Hur man ställer in ${ VPN_APP_NAME }"
+      ],
+      "How to set up a custom domain": [
+        "Hur man ställer in en anpassad domän"
+      ],
+      "How to set up SMTP": [
+        "Hur man ställer in SMTP"
+      ],
+      "How to share a calendar": [
+        "Hur man delar en kalender"
+      ],
+      "How to share via email": [
+        "Hur man delar via e-post"
+      ],
+      "How to use ${ DARK_WEB_MONITORING_NAME }": [
+        "Hur man använder ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "How to use ${ PASS_APP_NAME } for Business": [
+        "Hur man använder ${ PASS_APP_NAME } för Business"
+      ],
+      "How to use email forwarding": [
+        "Hur man använder vidarebefordran av e-post"
+      ],
+      "How to use Groups": [
+        "Hur man använder grupper"
+      ],
+      "Types of recovery methods": [
+        "Typer av återställningsmetoder"
       ]
     },
     "Link label (optional)": {
@@ -8167,6 +8455,21 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "Du behöver åtkomst till organisationsnyckeln för att utföra denna åtgärd."
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "Icke-privata användare kan befordras till admin när de har inställningsnycklar"
+      ],
+      "Organization key must be activated to give admin privileges": [
+        "Organisationsnyckel måste aktiveras för att ge administratörsrättigheter"
+      ],
+      "Private users can be promoted to admin when they've signed in for the first time": [
+        "Privata användare kan befordras till admin när de har loggat in för första gången"
+      ],
+      "You must delete all groups before generating a new organization key": [
+        "Du måste ta bort alla grupper innan du genererar en ny organisationsnyckel"
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "Du måste privatisera alla användare innan du genererar en ny organisationsnyckel"
       ]
     },
     "Payment method option": {
@@ -8252,6 +8555,21 @@
       ],
       "Your payment is still being processed": [
         "Din betalning håller fortfarande på att behandlas"
+      ],
+      "Renewal pricing subject to change according to ${ termsAndConditionsLink }.": [
+        "Priserna för förnyelse kan ändras enligt ${ termsAndConditionsLink }."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first ${ subscriptionLength } month.": [
+        "Det rabatterade priset ${ priceWithDiscount } gäller för den första ${ subscriptionLength } månaden.",
+        "Det rabatterade priset på ${ priceWithDiscount } gäller under de första ${ subscriptionLength } månaderna."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. The coupon is valid for ${ couponRedemptions } renewal. Then it will automatically be renewed at ${ renewPriceStr } for 1 month. You can cancel at any time.": [
+        "Det rabatterade priset på ${ priceWithDiscount } gäller den första månaden. Kupongen är giltig för ${ couponRedemptions } förnyelse. Därefter förnyas det automatiskt till ${ renewPriceStr } i 1 månad. Du kan avbryt när som helst.",
+        "Det rabatterade priset på ${ priceWithDiscount } gäller den första månaden. Kupongen är giltig för ${ couponRedemptions } förnyelse. Därefter förnyas det automatiskt till ${ renewPriceStr } i 1 månad. Du kan avbryt när som helst."
+      ],
+      "Then it will automatically be renewed at ${ renewPriceStr } for ${ renewalLength } month. You can cancel at any time.": [
+        "Därefter förnyas det automatiskt i ${ renewalLength } månad för ${ renewPriceStr }. Du kan avbryta när som helst.",
+        "Därefter förnyas det automatiskt i ${ renewalLength } månader för ${ renewPriceStr }. Du kan avbryta när som helst."
       ]
     },
     "Payments.Error": {
@@ -8407,6 +8725,15 @@
       ],
       "Start typing an email address": [
         "Börja skriva en e-postadress"
+      ],
+      "Leave a note for all participants": [
+        "Lämna en anteckning till alla deltagare"
+      ],
+      "Organization name": [
+        "Organisationsnamn"
+      ],
+      "Your organization name": [
+        "Ditt organisationsnamn"
       ]
     },
     "Placeholder for contact group name": {
@@ -8878,7 +9205,7 @@
     },
     "specialoffer: Deal": {
       "${ n } month FREE": [
-        "En ${ n } månad GRATIS",
+        "${ n } månad GRATIS",
         "${ n } månader GRATIS"
       ]
     },
@@ -9595,6 +9922,9 @@
     "Subscription saving": {
       "Save": [
         "Spara"
+      ],
+      "Save ${ priceString }": [
+        "Spara ${ priceString }"
       ]
     },
     "Success": {
@@ -10480,6 +10810,78 @@
       ],
       "Your shorter address is now ready": [
         "Din kortare adress är redo nu"
+      ],
+      "Add user": [
+        "Lägg till användare"
+      ],
+      "Collaborate on documents": [
+        "Samarbeta på dokument"
+      ],
+      "Connect apps and devices": [
+        "Anslut appar och enheter"
+      ],
+      "Connect to video conferencing": [
+        "Anslut till videokonferens"
+      ],
+      "Connect your custom domain": [
+        "Anslut din anpassad domän"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Ladda ner ${ DRIVE_APP_NAME } appar"
+      ],
+      "Enable advanced account protection": [
+        "Aktivera avancerat kontoskydd"
+      ],
+      "Enhance security with 2FA": [
+        "Förbättra säkerhet med 2FA"
+      ],
+      "Get the apps": [
+        "Skaffa appen"
+      ],
+      "Import emails, calendars, contacts": [
+        "Importera e-post, kalendrar, kontakter"
+      ],
+      "Org setup": [
+        "Organisationsinställning"
+      ],
+      "Organization setup": [
+        "Organisationsinställning"
+      ],
+      "Reply with a note": [
+        "Svara med en anteckning"
+      ],
+      "Schedule meetings in one click": [
+        "Schemalägg möten med ett klick"
+      ],
+      "Set recovery methods": [
+        "Ställ in återställningsmetoder"
+      ],
+      "Set up email forwarding": [
+        "Ställ in vidarebefordran av e-post"
+      ],
+      "Set up your organization": [
+        "Ställ in din organisation"
+      ],
+      "Share your calendar with your team": [
+        "Dela din kalender med ditt team"
+      ],
+      "Simplify email distribution": [
+        "Förenkla distribution av e-post"
+      ],
+      "Simplify password management": [
+        "Förenkla lösenordshantering"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "Slå på ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "Upload and share files": [
+        "Ladda upp och dela filer"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "Använd ${ VPN_SHORT_APP_NAME } för dataintegritet"
+      ],
+      "Welcome to ${ BRAND_NAME } for Business": [
+        "Välkommen till ${ BRAND_NAME } för Business"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10704,6 +11106,10 @@
       ],
       "Securely exchange Bitcoin via email instead of complex, 26-character Bitcoin addresses that are prone to error": [
         "Växla Bitcoin säkert via e-post istället för komplexa, 26-teckniga Bitcoin-adresser som är benägna att ge upphov till fel"
+      ],
+      "${ n } ${ BRAND_NAME } email address": [
+        "${ n } ${ BRAND_NAME } e-postadress",
+        "${ n } ${ BRAND_NAME } e-postadresser"
       ]
     },
     "wallet_signup_2024:app-switcher": {
@@ -11091,6 +11497,44 @@
       ],
       "Passcode:": [
         "Lösenkod:"
+      ]
+    },
+    "Email body for comment (comment part)": {
+      "NOTE:\n${ eventComment }": [
+        "OBS:\n${ eventComment }"
+      ]
+    },
+    "Note": {
+      "Note:": [
+        "Anteckning:"
+      ]
+    },
+    "RSVP Note": {
+      "Edit note": [
+        "Redigera anteckning"
+      ],
+      "Remove note": [
+        "Ta bort anteckning"
+      ]
+    },
+    "Section": {
+      "Org setup and account security": [
+        "Organisationsinställning och kontosäkerhet"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "Gå med i Teams-möte"
+      ]
+    },
+    "unprivatization": {
+      "Admins can't access the data of private users and can't reset their password.": [
+        "Administratörer kan inte komma åt privata användares data och kan inte återställa deras lösenord."
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "Gå med i Zoom-möte"
       ]
     }
   }

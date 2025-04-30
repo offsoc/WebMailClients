@@ -814,6 +814,15 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Бесплатная пробная версия вашего приложения заканчивается на ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Copy password": [
+        "Скопировать пароль"
+      ],
+      "Create new password": [
+        "Создать новый пароль"
+      ],
+      "Generate password": [
+        "Создать пароль"
       ]
     },
     "action": {
@@ -3473,6 +3482,9 @@
       ],
       "Your import will not be processed.": [
         "Импорт не будет обработан."
+      ],
+      "Something went wrong. Please try again.": [
+        "Что-то пошло не так. Пожалуйста, попробуйте еще раз."
       ]
     },
     "Error accepting calendar invitation": {
@@ -5614,6 +5626,48 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Похоже, что ваш часовой пояс изменился на ${ timezone }. Вы хотите обновить настройки часового пояса?"
+      ],
+      "Admin account allocation": [
+        "Распределение аккаунтов администраторов"
+      ],
+      "Allocated": [
+        "Выделено"
+      ],
+      "Already allocated": [
+        "Уже выделено"
+      ],
+      "Already used": [
+        "Уже используется"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "По крайней мере ${ BETTER_PASSWORD_LENGTH } символов"
+      ],
+      "It's better to have:": [
+        "Лучше иметь:"
+      ],
+      "Numbers": [
+        "Цифры"
+      ],
+      "Password copied to clipboard": [
+        "Пароль скопирован в буфер обмена"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "Хранилище, выделенное другим пользователям в этой организации"
+      ],
+      "Storage allocated to this user": [
+        "Хранилище, выделенное этому пользователю"
+      ],
+      "Storage for users": [
+        "Хранилище для пользователей"
+      ],
+      "Storage used by this user": [
+        "Хранилище, используемое этим пользователем"
+      ],
+      "Symbols (#$&)": [
+        "Символы (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Заглавные и строчные буквы"
       ]
     },
     "info": {
@@ -6230,6 +6284,30 @@
       ],
       "Your password (admin)": [
         "Ваш пароль (admin)"
+      ],
+      "Account storage": [
+        "Хранилище учётной записи"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Должно содержать не менее ${ MIN_PASSWORD_LENGTH } символов"
+      ],
+      "Strong": [
+        "Надежный"
+      ],
+      "Strong password": [
+        "Надежный пароль"
+      ],
+      "Vulnerable": [
+        "Уязвимый"
+      ],
+      "Vulnerable password": [
+        "Уязвимый пароль"
+      ],
+      "Weak": [
+        "Слабый"
+      ],
+      "Weak password": [
+        "Слабый пароль"
       ]
     },
     "Label for contact group color": {
@@ -8227,6 +8305,21 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "Для выполнения этой операции вам необходим доступ к ключу организации."
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "Нечастные пользователи могут быть переведены в разряд администраторов, если у них есть ключи настройки"
+      ],
+      "Organization key must be activated to give admin privileges": [
+        "Для предоставления прав администратора ключ организации должен быть активирован"
+      ],
+      "Private users can be promoted to admin when they've signed in for the first time": [
+        "Рядовые пользователи могут быть повышены до администратора при первом входе в систему"
+      ],
+      "You must delete all groups before generating a new organization key": [
+        "Вы должны удалить все группы перед созданием нового ключа организации"
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "Вы должны приватизировать всех пользователей перед генерированием нового ключа организации"
       ]
     },
     "Payment method option": {
@@ -8928,36 +9021,36 @@
     },
     "specialoffer: Countdown unit": {
       "${ days } day": [
-        "${ hours } час",
-        "${ hours } часа",
-        "${ hours } часов",
-        "${ hours } часа"
+        "${ days } день",
+        "${ days } дня",
+        "${ days } дней",
+        "${ days } дней"
       ],
       "${ hours } hour": [
-        "${ days } день",
-        "${ days } дня",
-        "${ days } дней",
-        "${ days } дня"
+        "${ hours } час",
+        "${ hours } часа",
+        "${ hours } часов",
+        "${ hours } часов"
       ],
       "${ minutes } minute": [
-        "${ n } месяц БЕСПЛАТНО",
-        "${ n } месяца БЕСПЛАТНО",
-        "${ n } месяцев БЕСПЛАТНО",
-        "${ n } месяца БЕСПЛАТНО"
+        "${ minutes } минута",
+        "${ minutes } минуты",
+        "${ minutes } минут",
+        "${ minutes } минут"
       ],
       "${ seconds } second": [
-        "за ${ n } месяц ",
-        "за ${ n } месяца",
-        "за ${ n } месяцев",
-        "за ${ n } месяца"
+        "${ seconds } секунда",
+        "${ seconds } секунды",
+        "${ seconds } секунд",
+        "${ seconds } секунд"
       ]
     },
     "specialoffer: Deal": {
       "${ n } month FREE": [
-        "${ seconds } секунда",
-        "${ seconds } секунды",
-        "${ seconds } секунд",
-        "${ seconds } секунды"
+        "${ n } месяц БЕСПЛАТНО",
+        "${ n } месяца БЕСПЛАТНО",
+        "${ n } месяцев БЕСПЛАТНО",
+        "${ n } месяцев БЕСПЛАТНО"
       ]
     },
     "specialoffer: Deal details": {
@@ -10569,6 +10662,9 @@
       ],
       "Your shorter address is now ready": [
         "Ваш укороченный адрес готов"
+      ],
+      "Get the apps": [
+        "Получить приложения"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -11255,6 +11351,11 @@
       ],
       "Passcode:": [
         "Код доступа:"
+      ]
+    },
+    "unprivatization": {
+      "Admins can't access the data of private users and can't reset their password.": [
+        "Администраторы не могут получить доступ к данным частных пользователей и не могут сбросить их пароль."
       ]
     }
   }

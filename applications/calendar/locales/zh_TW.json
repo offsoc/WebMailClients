@@ -799,6 +799,15 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "桌面應用程式免費試用期將會在${ formattedEndDate }.${ upgradeButton }完結"
+      ],
+      "Copy password": [
+        "複製密碼"
+      ],
+      "Create new password": [
+        "建立新密碼"
+      ],
+      "Generate password": [
+        "生成密碼"
       ]
     },
     "action": {
@@ -3374,6 +3383,9 @@
       ],
       "Your import will not be processed.": [
         "將不會處理您的匯入。"
+      ],
+      "Something went wrong. Please try again.": [
+        "發生錯誤，請稍後再試。"
       ]
     },
     "Error accepting calendar invitation": {
@@ -5374,6 +5386,48 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "您的系統時區似乎已更改為 ${ timezone }。您要更新您的時區喜好設定嗎？"
+      ],
+      "Admin account allocation": [
+        "管理員帳號指派"
+      ],
+      "Allocated": [
+        "已分配"
+      ],
+      "Already allocated": [
+        "已分配"
+      ],
+      "Already used": [
+        "已使用"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "至少 ${ BETTER_PASSWORD_LENGTH } 個字元"
+      ],
+      "It's better to have:": [
+        "更好擁有:"
+      ],
+      "Numbers": [
+        "數字"
+      ],
+      "Password copied to clipboard": [
+        "密碼已複製至剪貼簿"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "儲存空間已分配給這個組織中的其他使用者"
+      ],
+      "Storage allocated to this user": [
+        "此位使用者分配的儲存空間"
+      ],
+      "Storage for users": [
+        "使用者的儲存空間"
+      ],
+      "Storage used by this user": [
+        "此位使用者已用的儲存空間"
+      ],
+      "Symbols (#$&)": [
+        "符號(#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "大寫及小寫字母"
       ]
     },
     "info": {
@@ -5972,6 +6026,27 @@
       ],
       "Your password (admin)": [
         "您的密碼（管理員）"
+      ],
+      "Account storage": [
+        "帳號儲存空間"
+      ],
+      "Strong": [
+        "強"
+      ],
+      "Strong password": [
+        "高強度密碼"
+      ],
+      "Vulnerable": [
+        "具有風險"
+      ],
+      "Vulnerable password": [
+        "有安全隱患的密碼"
+      ],
+      "Weak": [
+        "弱"
+      ],
+      "Weak password": [
+        "脆弱密碼"
       ]
     },
     "Label for contact group color": {
@@ -7771,6 +7846,12 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "您要先存取至組織金鑰以完成此操作"
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "如取有設定金鑰, 非私人用戶便可以提升至管理員"
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "在產生新的組織金鑰前，用戶必須將所有使用者私有化"
       ]
     },
     "Payment method option": {
@@ -8419,21 +8500,21 @@
     },
     "specialoffer: Countdown unit": {
       "${ days } day": [
-        "${ days } 天"
+        "${ days }天"
       ],
       "${ hours } hour": [
-        "${ hours } 小時"
+        "${ hours }小時"
       ],
       "${ minutes } minute": [
-        "${ minutes } 分鐘"
+        "${ minutes }分鐘"
       ],
       "${ seconds } second": [
-        "${ seconds } 秒"
+        "${ seconds }秒"
       ]
     },
     "specialoffer: Deal": {
       "${ n } month FREE": [
-        "免費使用 ${ n } 個月"
+        "${ n }個月免費"
       ]
     },
     "specialoffer: Deal details": {
@@ -9943,6 +10024,9 @@
       ],
       "Your shorter address is now ready": [
         "您的短地址已完成"
+      ],
+      "Get the apps": [
+        "取得應用程式"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {

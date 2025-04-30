@@ -818,6 +818,75 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Η δωρεάν δοκιμή της εφαρμογής για υπολογιστές λήγει στις ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Collaborate on documents": [
+        "Συνεργαστείτε σε έγγραφα"
+      ],
+      "Connect apps and devices": [
+        "Σύνδεση εφαρμογών και συσκευών"
+      ],
+      "Connect to video conferencing": [
+        "Σύνδεση σε τηλεδιάσκεψη"
+      ],
+      "Copy password": [
+        "Αντιγραφή κωδικού πρόσβασης"
+      ],
+      "Create new password": [
+        "Δημιουργία νέου κωδικού πρόσβασης"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Λήψη εφαρμογών ${ DRIVE_APP_NAME }"
+      ],
+      "Generate password": [
+        "Παραγωγή τυχαίου κωδικού πρόσβασης"
+      ],
+      "Get the apps": [
+        "Αποκτήστε τις εφαρμογές"
+      ],
+      "Import emails, calendars, contacts": [
+        "Εισαγωγή ηλεκτρονικών διευθύνσεων, ημερολογίων, επαφών"
+      ],
+      "Manage advanced account protections": [
+        "Διαχείριση προηγμένων προστασιών λογαριασμού"
+      ],
+      "Manage groups": [
+        "Διαχείριση ομάδων"
+      ],
+      "Manage users/addresses": [
+        "Διαχείριση χρηστών/διευθύνσεων"
+      ],
+      "Remove button": [
+        "Κουμπί αναίρεσης"
+      ],
+      "Reply with a note": [
+        "Απάντηση με μια σημείωση"
+      ],
+      "Set recovery methods": [
+        "Ορισμός μεθόδων ανάκτησης"
+      ],
+      "Set up 2FA": [
+        "Ρύθμιση 2FA"
+      ],
+      "Set up a custom domain": [
+        "Ρυθμίστε ένα προσαρμοσμένο τομέα"
+      ],
+      "Set up email forwarding": [
+        "Ρύθμιση προώθησης μηνυμάτων ηλεκτρονικού ταχυδρομείου"
+      ],
+      "Share your calendar with your team": [
+        "Κοινοποιήστε το ημερολόγιό σας με την ομάδα σας"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "Ενεργοποίηση ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "Upload and share files": [
+        "Μεταφορτώστε και μοιραστείτε αρχεία"
+      ],
+      "Use ${ PASS_APP_NAME } for Business": [
+        "Χρήση του ${ PASS_APP_NAME } για Business"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "Χρησιμοποιήστε το ${ VPN_SHORT_APP_NAME } για την προστασία των προσωπικών δεδομένων σας"
       ]
     },
     "action": {
@@ -2754,6 +2823,63 @@
       ],
       "You’ve already created 10 aliases. Get unlimited aliases and 500 GB of storage with ${ BRAND_NAME } Unlimited.": [
         "Έχετε ήδη δημιουργήσει 10 ψευδώνυμα. Αποκτήστε απεριόριστα ψευδώνυμα και 500 GB αποθηκευτικού χώρου με ${ BRAND_NAME } Unlimited."
+      ],
+      "${ DOCS_SHORT_APP_NAME } in ${ DRIVE_APP_NAME } allows you to work together with others in a secure, encrypted environment.": [
+        "Το ${ DOCS_SHORT_APP_NAME } στο ${ DRIVE_APP_NAME } σάς επιτρέπει να συνεργάζεστε με άλλους σε ένα ασφαλές, κρυπτογραφημένο περιβάλλον."
+      ],
+      "Add folders and files to ${ DRIVE_APP_NAME } and invite team members to view or edit.": [
+        "Προσθέστε φακέλους και αρχεία στο ${ DRIVE_APP_NAME } και προσκαλέστε μέλη της ομάδας για προβολή ή επεξεργασία."
+      ],
+      "Automatically forward incoming email to another email address.": [
+        "Αυτόματα προωθήστε εισερχόμενα μηνύματα ηλεκτρονικού ταχυδρομείου σε άλλη ηλεκτρονική διεύθυνση."
+      ],
+      "Configure this first to activate your organization and customize your email address.": [
+        "Ρυθμίστε πρώτα αυτό για να ενεργοποιήσετε τον οργανισμό σας και να προσαρμόσετε τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας."
+      ],
+      "Connect your CRM, website, printers, and more.": [
+        "Συνδέστε το CRM, την ιστοσελίδα, τους εκτυπωτές σας και άλλα."
+      ],
+      "Create groups you can email with a single address.": [
+        "Δημιουργήστε ομάδες στις οποίες μπορείτε να στείλετε μηνύματα ηλεκτρονικού ταχυδρομείου με μία μόνο ηλεκτρονική διεύθυνση."
+      ],
+      "Easily access your email and calendar on desktop and mobile.": [
+        "Αποκτήστε εύκολα πρόσβαση στην ηλεκτρονική σας διεύθυνση και το ημερολόγιό σας σε υπολογιστή και κινητό."
+      ],
+      "Easily sync files to the cloud from your desktop and access them from your mobile device.": [
+        "Συγχρονίστε εύκολα τα αρχεία στο cloud από τον υπολογιστή σας και αποκτήστε πρόσβαση σε αυτά από την κινητή συσκευή σας."
+      ],
+      "Encourage the use of two-factor authentication in your organization for extra security.": [
+        "Ενθαρρύνετε τη χρήση της ταυτοποίησης δύο παραγόντων στην οργάνωσή σας για επιπλέον ασφάλεια."
+      ],
+      "Ensure secure access to organization data, even if your team is remote or using public WiFi.": [
+        "Εξασφαλίστε ασφαλή πρόσβαση στα δεδομένα του οργανισμού, ακόμα και αν η ομάδα σας είναι απομακρυσμένη ή χρησιμοποιεί δημόσιο WiFi."
+      ],
+      "Ensure top-notch security for your account with the ${ PROTON_SENTINEL_NAME } program.": [
+        "Εξασφαλίστε κορυφαία ασφάλεια για τον λογαριασμό σας με το πρόγραμμα ${ PROTON_SENTINEL_NAME }."
+      ],
+      "Ensure you can still access your account and data even if you lose your ${ BRAND_NAME } password.": [
+        "Βεβαιωθείτε ότι έχετε ακόμα πρόσβαση στον λογαριασμό και τα δεδομένα σας, ακόμα και αν χάσετε τον ${ BRAND_NAME } κωδικό πρόσβασής σας."
+      ],
+      "For a seamless transition to ${ BRAND_NAME }, import your data from Google, Outlook, and others.": [
+        "Για μια απρόσκοπτη μετάβαση στο ${ BRAND_NAME }, κάντε εισαγωγή των δεδομένων σας από το Google, το Outlook και άλλες υπηρεσίες."
+      ],
+      "Help your team securely store passwords to sensitive business and client information.": [
+        "Βοηθήστε την ομάδα σας να αποθηκεύει με ασφάλεια κωδικούς πρόσβασης σε ευαίσθητες επιχειρηματικές και πελατειακές πληροφορίες."
+      ],
+      "Let's you instantly add meeting links to your event invitations.": [
+        "Σας επιτρέπει να προσθέτετε άμεσα συνδέσμους συσκέψεων στις προσκλήσεις εκδηλώσεων."
+      ],
+      "Set up accounts for all users and invite them to join ${ BRAND_NAME }.": [
+        "Ρυθμίστε λογαριασμούς για όλους τους χρήστες και προσκαλέστε τους να συμμετάσχουν στο ${ BRAND_NAME }."
+      ],
+      "Simplify syncing and scheduling with shared calendars.": [
+        "Απλοποιήστε τον συγχρονισμό και τον προγραμματισμό με τα κοινοποιημένα ημερολόγια."
+      ],
+      "To start, give your organization a name.": [
+        "Για να ξεκινήσετε, δώστε ένα όνομα στον οργανισμό σας."
+      ],
+      "Use this guide to get your organization promptly benefiting from ${ BRAND_NAME }'s industry-leading encryption and privacy ecosystem.": [
+        "Χρησιμοποιήστε αυτόν τον οδηγό για να επωφεληθεί άμεσα ο οργανισμός σας από το κορυφαίο οικοσύστημα κρυπτογράφησης και προστασίας προσωπικών δεδομένων του ${ BRAND_NAME }."
       ]
     },
     "description": {
@@ -2929,6 +3055,12 @@
       ],
       "You are invited to ${ eventTitle }.\n\n${ eventDetailsText }": [
         "Σας προσκαλούμε στο ${ eventTitle }.\n\n${ eventDetailsText }"
+      ],
+      "Here's what changed:": [
+        "Δείτε τι άλλαξε:"
+      ],
+      "NOTE:": [
+        "ΣΗΜΕΙΩΣΗ:"
       ]
     },
     "Email body for invitation (date part)": {
@@ -3475,6 +3607,9 @@
       ],
       "Your import will not be processed.": [
         "Η εισαγωγή σας δεν θα υποβληθεί σε επεξεργασία."
+      ],
+      "Something went wrong. Please try again.": [
+        "Κάτι πήγε στραβά. Παρακαλούμε δοκιμάστε ξανά."
       ]
     },
     "Error accepting calendar invitation": {
@@ -5648,6 +5783,66 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Η ζώνη ώρας του συστήματός σας φαίνεται ότι έχει αλλάξει σε ${ timezone }. Θέλετε να ενημερώσετε τις προτιμήσεις ζώνης ώρας;"
+      ],
+      "Admin account allocation": [
+        "Κατανομή στον λογαριασμό του διαχειριστή"
+      ],
+      "Allocated": [
+        "Κατανεμημένος"
+      ],
+      "Already allocated": [
+        "Ήδη κατανεμημένος"
+      ],
+      "Already used": [
+        "Ήδη σε χρήση"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Τουλάχιστον ${ BETTER_PASSWORD_LENGTH } χαρακτήρες"
+      ],
+      "Calendar is disabled": [
+        "Το Calendar είναι απενεργοποιημένο"
+      ],
+      "It's better to have:": [
+        "Είναι καλύτερα να έχετε:"
+      ],
+      "Numbers": [
+        "Αριθμοί"
+      ],
+      "Open the guide for recommended actions and helpful links.": [
+        "Ανοίξτε τον οδηγό για προτεινόμενες ενέργειες και χρήσιμους συνδέσμους."
+      ],
+      "Password copied to clipboard": [
+        "Ο κωδικός πρόσβασης αντιγράφηκε στο πρόχειρο"
+      ],
+      "Password must have:": [
+        "Ο κωδικός πρόσβασης πρέπει να περιλαμβάνει:"
+      ],
+      "Please fill in all required fields.": [
+        "Παρακαλούμε συμπληρώστε όλα τα απαιτούμενα πεδία."
+      ],
+      "Set up your organization": [
+        "Ρυθμίστε τον οργανισμό σας"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "Κατανεμημένος αποθηκευτικός χώρος σε άλλους χρήστες αυτού του οργανισμού"
+      ],
+      "Storage allocated to this user": [
+        "Κατανεμημένος αποθηκευτικός χώρος σε αυτόν τον χρήστη"
+      ],
+      "Storage for users": [
+        "Αποθηκευτικός χώρος για χρήστες"
+      ],
+      "Storage used by this user": [
+        "Αποθηκευτικός χώρος σε χρήση από αυτόν τον χρήστη"
+      ],
+      "Symbols (#$&)": [
+        "Σύμβολα (#$&)"
+      ],
+      "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
+        "Αυτό είναι ένα όνομα ή παρατσούκλι για τον οργανισμό σας, το οποίο θα βλέπουν οι χρήστες σας. Μπορείτε να το αλλάξετε ανά πάσα στιγμή."
+      ],
+      "Uppercase and lowercase letters": [
+        "Κεφαλαία και πεζά γράμματα"
       ]
     },
     "info": {
@@ -6267,6 +6462,36 @@
       ],
       "Your password (admin)": [
         "Ο κωδικός σας (διαχειριστής)"
+      ],
+      "Account storage": [
+        "Χωρητικότητα λογαριασμού"
+      ],
+      "Let others know if you have a conflict, will be late, or can’t wait for the event.": [
+        "Ενημερώστε άλλους εάν έχετε κάποια διένεξη, εάν θα αργήσετε ή εάν δεν μπορείτε να περιμένετε για την εκδήλωση."
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Πρέπει να περιέχει τουλάχιστον ${ MIN_PASSWORD_LENGTH } χαρακτήρες"
+      ],
+      "Password strength": [
+        "Ισχύς Κωδικού Πρόσβασης"
+      ],
+      "Strong": [
+        "Δυνατό"
+      ],
+      "Strong password": [
+        "Δυνατός κωδικός πρόσβασης"
+      ],
+      "Vulnerable": [
+        "Ευάλωτο"
+      ],
+      "Vulnerable password": [
+        "Ευάλωτος κωδικός πρόσβασης"
+      ],
+      "Weak": [
+        "Αδύναμο"
+      ],
+      "Weak password": [
+        "Αδύναμος κωδικός πρόσβασης"
       ]
     },
     "Label for contact group color": {
@@ -6399,6 +6624,54 @@
       ],
       "What’s this?": [
         "Τι είναι αυτό;"
+      ],
+      "Enforcing 2FA for organizations": [
+        "Επιβολή πιστοποίησης δύο παραγόντων (2FA) για οργανισμούς"
+      ],
+      "How to add users": [
+        "Πώς να προσθέσετε χρήστες"
+      ],
+      "How to add Zoom links": [
+        "Πώς να προσθέσετε συνδέσμους Zoom"
+      ],
+      "How to collaborate in ${ DOCS_SHORT_APP_NAME }": [
+        "Πώς να συνεργαστείτε στο ${ DOCS_SHORT_APP_NAME }"
+      ],
+      "How to enable ${ PROTON_SENTINEL_NAME }": [
+        "Πώς να ενεργοποιήσετε το ${ PROTON_SENTINEL_NAME }"
+      ],
+      "How to migrate to ${ BRAND_NAME }": [
+        "Πώς να μετεγκατασταθείτε στο ${ BRAND_NAME }"
+      ],
+      "How to set up ${ VPN_APP_NAME }": [
+        "Πώς να κάνετε ρυθμίσετε το ${ VPN_APP_NAME }"
+      ],
+      "How to set up a custom domain": [
+        "Πώς να ρυθμίσετε έναν προσαρμοσμένο τομέα"
+      ],
+      "How to set up SMTP": [
+        "Πώς να ρυθμίσετε το SMTP"
+      ],
+      "How to share a calendar": [
+        "Πως να κοινοποιήσετε ένα ημερολόγιο"
+      ],
+      "How to share via email": [
+        "Πώς να κοινοποιήσετε μέσω ηλεκτρονικής διεύθυνσης"
+      ],
+      "How to use ${ DARK_WEB_MONITORING_NAME }": [
+        "Πώς να χρησιμοποιήσετε το ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "How to use ${ PASS_APP_NAME } for Business": [
+        "Πώς να χρησιμοποιήσετε το ${ PASS_APP_NAME } για Business"
+      ],
+      "How to use email forwarding": [
+        "Πώς να χρησιμοποιήσετε την προώθηση μηνυμάτων ηλεκτρονικού ταχυδρομείου"
+      ],
+      "How to use Groups": [
+        "Πώς να χρησιμοποιήσετε Ομάδες"
+      ],
+      "Types of recovery methods": [
+        "Τύποι μεθόδων ανάκτησης"
       ]
     },
     "Link label (optional)": {
@@ -8174,6 +8447,21 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "Χρειάζεστε πρόσβαση στο κλειδί οργανισμού για να εκτελέσετε αυτήν τη λειτουργία."
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "Οι μη ιδιωτικοί χρήστες μπορούν να προβιβαστούν σε διαχειριστή όταν έχουν κλειδιά εγκατάστασης"
+      ],
+      "Organization key must be activated to give admin privileges": [
+        "Το κλειδί οργανισμού πρέπει να ενεργοποιηθεί για να εκχωρήσει δικαιώματα διαχειριστή"
+      ],
+      "Private users can be promoted to admin when they've signed in for the first time": [
+        "Οι ιδιώτες χρήστες μπορούν να προβιβαστούν σε διαχειριστή όταν συνδεθούν για πρώτη φορά"
+      ],
+      "You must delete all groups before generating a new organization key": [
+        "Πρέπει να διαγράψετε όλες τις ομάδες πριν τη δημιουργία νέου κλειδιού οργανισμού"
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "Πρέπει να ιδιωτικοποιήσετε όλους τους χρήστες πριν δημιουργήσετε ένα νέο κλειδί οργανισμού"
       ]
     },
     "Payment method option": {
@@ -8426,6 +8714,15 @@
       ],
       "Start typing an email address": [
         "Έναρξη πληκτρολόγησης διεύθυνσης ηλεκτρονικού ταχυδρομείου"
+      ],
+      "Leave a note for all participants": [
+        "Αφήστε μια σημείωση για όλους τους συμμετέχοντες"
+      ],
+      "Organization name": [
+        "Όνομα οργανισμού"
+      ],
+      "Your organization name": [
+        "Το όνομα του οργανισμού σας"
       ]
     },
     "Placeholder for contact group name": {
@@ -9614,6 +9911,9 @@
     "Subscription saving": {
       "Save": [
         "Αποθήκευση"
+      ],
+      "Save ${ priceString }": [
+        "Εξοικονομίστε ${ priceString }"
       ]
     },
     "Success": {
@@ -10499,6 +10799,78 @@
       ],
       "Your shorter address is now ready": [
         "Η συντομότερη διεύθυνσή σας είναι τώρα έτοιμη"
+      ],
+      "Add user": [
+        "Προσθήκη χρήστη"
+      ],
+      "Collaborate on documents": [
+        "Συνεργαστείτε σε έγγραφα"
+      ],
+      "Connect apps and devices": [
+        "Σύνδεση εφαρμογών και συσκευών"
+      ],
+      "Connect to video conferencing": [
+        "Σύνδεση σε τηλεδιάσκεψη"
+      ],
+      "Connect your custom domain": [
+        "Συνδέστε τον προσαρμοσμένο τομέα σας"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Λήψη εφαρμογών ${ DRIVE_APP_NAME }"
+      ],
+      "Enable advanced account protection": [
+        "Ενεργοποίηση προηγμένης προστασίας λογαριασμού"
+      ],
+      "Enhance security with 2FA": [
+        "Ενισχύστε την ασφάλεια με την πιστοποίηση δύο παραγόντων (2FA)"
+      ],
+      "Get the apps": [
+        "Αποκτήστε τις εφαρμογές"
+      ],
+      "Import emails, calendars, contacts": [
+        "Εισαγωγή ηλεκτρονικών διευθύνσεων, ημερολογίων, επαφών"
+      ],
+      "Org setup": [
+        "Ρύθμιση οργανισμού"
+      ],
+      "Organization setup": [
+        "Ρύθμιση οργανισμού"
+      ],
+      "Reply with a note": [
+        "Απάντηση με μια σημείωση"
+      ],
+      "Schedule meetings in one click": [
+        "Προγραμματίστε συναντήσεις με ένα κλικ"
+      ],
+      "Set recovery methods": [
+        "Ορισμός μεθόδων ανάκτησης"
+      ],
+      "Set up email forwarding": [
+        "Ρύθμιση προώθησης μηνυμάτων ηλεκτρονικού ταχυδρομείου"
+      ],
+      "Set up your organization": [
+        "Ρυθμίστε τον οργανισμό σας"
+      ],
+      "Share your calendar with your team": [
+        "Κοινοποιήστε το ημερολόγιό σας με την ομάδα σας"
+      ],
+      "Simplify email distribution": [
+        "Απλοποιήστε τη διανομή μηνυμάτων ηλεκτρονικού ταχυδρομείου"
+      ],
+      "Simplify password management": [
+        "Απλοποιήστε τη διαχείριση κωδικών πρόσβασης"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "Ενεργοποίηση ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "Upload and share files": [
+        "Μεταφορτώστε και μοιραστείτε αρχεία"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "Χρησιμοποιήστε το ${ VPN_SHORT_APP_NAME } για την προστασία των προσωπικών δεδομένων σας"
+      ],
+      "Welcome to ${ BRAND_NAME } for Business": [
+        "Καλώς ορίσατε στο ${ BRAND_NAME } για Business"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -11114,6 +11486,49 @@
       ],
       "Passcode:": [
         "Κωδικός πρόσβασης:"
+      ]
+    },
+    "Email body for comment (comment part)": {
+      "NOTE:\n${ eventComment }": [
+        "ΣΗΜΕΙΩΣΗ:\n${ eventComment }"
+      ]
+    },
+    "Note": {
+      "Note:": [
+        "Σημείωση:"
+      ]
+    },
+    "RSVP Note": {
+      "Edit note": [
+        "Επεξεργασία σημείωσης"
+      ],
+      "Remove note": [
+        "Αφαίρεση σημείωσης"
+      ]
+    },
+    "Section": {
+      "Org setup and account security": [
+        "Ρύθμιση του οργανισμού και ασφάλεια λογαριασμού"
+      ]
+    },
+    "Slack": {
+      "Join Slack huddle": [
+        "Συμμετοχή σε ομαδική συνομιλία στο Slack"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "Συνδεθείτε στη σύσκεψη Teams"
+      ]
+    },
+    "unprivatization": {
+      "Admins can't access the data of private users and can't reset their password.": [
+        "Οι διαχειριστές δεν μπορούν να έχουν πρόσβαση στα δεδομένα των ιδιωτών χρηστών και δεν μπορούν να επαναφέρουν τον κωδικό πρόσβασής τους."
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "Συνδεθείτε στη σύσκεψη Zoom"
       ]
     }
   }

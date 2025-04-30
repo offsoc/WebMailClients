@@ -814,6 +814,21 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "회원님의 데스크톱 앱 무료 체험 기간이 ${ formattedEndDate }에 종료됩니다. ${ upgradeButton }"
+      ],
+      "Copy password": [
+        "비밀번호 복사"
+      ],
+      "Create new password": [
+        "새로운 비밀번호 생성"
+      ],
+      "Generate password": [
+        "비밀번호 생성"
+      ],
+      "Remove button": [
+        "버튼 삭제"
+      ],
+      "Set up 2FA": [
+        "2단계 인증 설정하기"
       ]
     },
     "action": {
@@ -2909,6 +2924,9 @@
       ],
       "You are invited to ${ eventTitle }.\n\n${ eventDetailsText }": [
         "${ eventTitle }에 초대받았습니다.\n\n${ eventDetailsText }"
+      ],
+      "Here's what changed:": [
+        "바뀐 점은 다음과 같습니다:"
       ]
     },
     "Email body for invitation (date part)": {
@@ -3076,7 +3094,7 @@
         "최소${ calendarsToFixCount } 개 캘린더를 선택 해제하세요"
       ],
       "Deselect at least ${ calendarsToFixCount } calendar or": [
-        "최소 ${ calendarsToFixCount } 캘린더를 선택 해제하거나"
+        "최소 ${ calendarsToFixCount }개의 캘린더를 선택 해제하거나"
       ],
       "Domain not available, try again later": [
         "도메인을 사용할 수 없습니다. 나중에 다시 시도해주세요."
@@ -3199,7 +3217,7 @@
         "성(이름)이 너무 깁니다."
       ],
       "Merge at least ${ calendarsToFixCount } calendar with an existing ${ BRAND_NAME } calendar": [
-        "존재하는 ${ BRAND_NAME } 에 최소한 ${ calendarsToFixCount } 개의 캘린더를 병합하십시오"
+        "기존 ${ BRAND_NAME } 캘린더에 최소 ${ calendarsToFixCount }개의 캘린더를 병합하세요."
       ],
       "Missing key packet": [
         "키 패킷 없음"
@@ -3443,6 +3461,9 @@
       ],
       "Your import will not be processed.": [
         "가져오기가 처리되지 않았습니다."
+      ],
+      "Something went wrong. Please try again.": [
+        "문제가 발생했습니다. 다시 시도해주세요."
       ]
     },
     "Error accepting calendar invitation": {
@@ -4389,7 +4410,7 @@
         "${ groupCounts } 그룹 찾음"
       ],
       "${ PASS_SHORT_APP_NAME } lifetime deal has no renewal price, it's a one-time payment for lifetime access to ${ PASS_SHORT_APP_NAME }.": [
-        "${ PASS_SHORT_APP_NAME } 평생 딜은 갱신 가격이 없으며 ${ PASS_SHORT_APP_NAME }의 평생 이용권의 일회성 결제입니다."
+        "${ PASS_SHORT_APP_NAME } 평생 이용권 딜은 갱신 가격이 없으며 ${ PASS_SHORT_APP_NAME } 평생 이용권의 일회성 결제입니다."
       ],
       "${ PASS_SHORT_APP_NAME } lifetime deal has no renewal price, it's a one-time payment for lifetime access to ${ PASS_SHORT_APP_NAME }. Your ${ planTitle } subscription renewal price and date remain unchanged.": [
         "${ PASS_SHORT_APP_NAME } 평생 딜은 갱신 가격이 존재하지 않으며, ${ PASS_SHORT_APP_NAME }의 평생 접근에 대한 일회성 지불입니다. 사용자의 ${ planTitle } 구독 갱신 가격과 날짜는 변경되지 않습니다."
@@ -4407,7 +4428,7 @@
         "Gmail에서 ${ providerFoldersNumLocalized }개 라벨 찾음"
       ],
       "${ selectedCalendarsTotal } of ${ providerCalendars.length } calendar": [
-        "${ selectedCalendarsTotal } 중 ${ providerCalendars.length } 캘린더"
+        "${ selectedCalendarsTotal }개 중 ${ providerCalendars.length }개 캘린더"
       ],
       "${ selectedContactsLength }/${ contactsLength } contact selected": [
         "${ selectedContactsLength }/${ contactsLength } 연락처 선택됨"
@@ -4512,7 +4533,7 @@
         "모든 참가자가 취소 이메일을 수신받습니다. 어느 이벤트를 삭제하시겠어요?"
       ],
       "All your contacts will be imported, up to a limit of ${ MAX_CONTACTS_PER_USER }": [
-        "최대 ${ MAX_CONTACTS_PER_USER }개까지 연락처를 가져옵니다"
+        "최대 ${ MAX_CONTACTS_PER_USER }개까지 연락처가 불러오기됩니다."
       ],
       "American Express SafeKey logo": [
         "American Express SafeKey 로고"
@@ -4806,7 +4827,7 @@
         "다운그레이드를 진행하면 ${ VPN_APP_NAME } 유료 기능을 사용할 수 없습니다."
       ],
       "Import ${ calendarCount } of ${ totalCalendarsCount } calendar": [
-        "${ totalCalendarsCount }개 중 ${ calendarCount }개 달력 불러오기"
+        "${ totalCalendarsCount }개 중 ${ calendarCount }개 캘린더가 불러오기됩니다"
       ],
       "Import from": [
         "다음에서 가져오기"
@@ -4821,7 +4842,7 @@
         "중요 사항"
       ],
       "Importing your data from ${ fromEmail } to ${ toEmail }.": [
-        "${ toEmail } 에서 ${ fromEmail } 로 데이터를 가져오세요."
+        "${ toEmail }(에)서 ${ fromEmail }(으)로 데이터를 전달 중입니다."
       ],
       "In restrictive countries": [
         "제한적인 국가에서 사용시"
@@ -5070,7 +5091,7 @@
         "우선 순위"
       ],
       "Private browsing (or “incognito” mode) is only useful for keeping your activity hidden on your device. It stops your browser from saving history and cookies, but it doesn’t make you invisible. Your ISP, network administrator, and the websites you visit can still see what you do online.": [
-        "개인 브라우징(또는 \"시크릿\" 모드)은 기기에서 활동을 숨기는 것에 한해 유용합니다. 이 모드로 브라우저가 기록과 쿠키를 저장하는 것을 방지할 수 있지만, 사용자의 온라인 상 노출을 방지할 수는 없습니다. ISP, 네트워크 관리자 및 방문하는 웹 사이트는 여전히 온라인에서 수행하는 작업을 볼 수 있습니다."
+        "비공개 브라우징 모드(일명 \"시크릿\" 모드)는 기기에서의 온라인 활동을 숨기는 것에 한해 유용합니다. 이 모드로 브라우저가 기록과 쿠키를 저장하는 것을 방지할 수 있지만, 사용자의 온라인 상 노출을 방지할 수는 없습니다. ISP, 네트워크 관리자 및 방문하는 웹 사이트는 여전히 사용자가 온라인에서 수행하는 작업을 확인할 수 있습니다."
       ],
       "Recovery information will remain on this device unless you select to delete it.": [
         "복구 정보는 삭제하도록 설정하지 않는 한 이 장치에 남아있어요."
@@ -5505,7 +5526,7 @@
         "당신의 주소가 비활성화되었습니다. 이벤트 참가자들에게 취소 이메일을 보낼 수 없습니다. 이 이벤트를 삭제하시겠습니까?"
       ],
       "Your data is ready to import from ${ importedEmailAddressStrong } to your ${ BRAND_NAME } account.": [
-        "${ importedEmailAddressStrong } 에서 ${ BRAND_NAME } 계정으로 데이터를 불러올 준비가 되었습니다."
+        "${ importedEmailAddressStrong }(에)서 ${ BRAND_NAME } 계정으로 데이터를 불러올 준비가 완료되었습니다."
       ],
       "Your email address and password were leaked:": [
         "사용자의 이메일 주소 및 비밀번호가 유출되었습니다:"
@@ -5566,6 +5587,51 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "시스템 시간대가 ${ timezone } 로 변경된 것 같습니다. 여기의 시간대도 변경하시겠습니까?"
+      ],
+      "Admin account allocation": [
+        "관리자 계정 할당 됨"
+      ],
+      "Allocated": [
+        "할당 됨"
+      ],
+      "Already allocated": [
+        "이미 할당 됨"
+      ],
+      "Already used": [
+        "이미 사용됨"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "최소 ${ BETTER_PASSWORD_LENGTH }글자"
+      ],
+      "Calendar is disabled": [
+        "캘린더가 비활성화되어 있습니다"
+      ],
+      "It's better to have:": [
+        "포함되면 더 좋습니다:"
+      ],
+      "Numbers": [
+        "숫자"
+      ],
+      "Password copied to clipboard": [
+        "비밀번호 복사됨"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "스토리지가 이 조직의 다른 사용자들에게 할당됨"
+      ],
+      "Storage allocated to this user": [
+        "이 사용자에게 스토리지가 할당 됨"
+      ],
+      "Storage for users": [
+        "사용자당 저장공간"
+      ],
+      "Storage used by this user": [
+        "이 사용자로 인해 사용된 스토리지"
+      ],
+      "Symbols (#$&)": [
+        "기호 (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "대소문자"
       ]
     },
     "info": {
@@ -6179,6 +6245,30 @@
       ],
       "Your password (admin)": [
         "사용자의 비밀번호 (관리자)"
+      ],
+      "Account storage": [
+        "계정 저장공간"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "최소한 ${ MIN_PASSWORD_LENGTH }글자여야 합니다."
+      ],
+      "Strong": [
+        "강함"
+      ],
+      "Strong password": [
+        "강력한 비밀번호"
+      ],
+      "Vulnerable": [
+        "취약함"
+      ],
+      "Vulnerable password": [
+        "취약한 비밀번호"
+      ],
+      "Weak": [
+        "약함"
+      ],
+      "Weak password": [
+        "약한 비밀번호"
       ]
     },
     "Label for contact group color": {
@@ -6311,6 +6401,21 @@
       ],
       "What’s this?": [
         "복구 관련 정보란?"
+      ],
+      "How to add Zoom links": [
+        "Zoom 링크를 추가하는 방법"
+      ],
+      "How to set up SMTP": [
+        "SMTP을 설정하는 방법"
+      ],
+      "How to share a calendar": [
+        "캘린더를 공유하는 방법"
+      ],
+      "How to share via email": [
+        "이메일을 통해 공유하는 방법"
+      ],
+      "How to use Groups": [
+        "그룹 사용 방법"
       ]
     },
     "Link label (optional)": {
@@ -6345,7 +6450,7 @@
         "데이터를 모으는 중"
       ],
       "We're gathering your data from your provider": [
-        "제공자로 부터 데이터를 가져오는 중입니다"
+        "제공자로부터 데이터를 가져오는 중입니다"
       ],
       "Your import is starting": [
         "가져오기 작업이 시작 중입니다!"
@@ -6387,16 +6492,16 @@
     },
     "Mail import summary": {
       "Import all messages from ${ itemsToImportCount } folder and label them as": [
-        "${ itemsToImportCount } 개 폴더에서 메시지를 불러오고 메시지들을 이로 라벨"
+        "${ itemsToImportCount }개의 폴더에서 모든 메시지를 불러오며 해당 메시지에 다음 이름으로 라벨이 지정됩니다:"
       ],
       "Import all messages from ${ itemsToImportCount } label and label them as": [
-        "${ itemsToImportCount } 개 라벨에서 메시지를 불러오고 메시지들을 이로 라벨"
+        "${ itemsToImportCount }개의 라벨에서 모든 메시지를 불러오며 해당 메시지에 다음 이름으로 라벨이 지정됩니다:"
       ],
       "Import all messages from ${ selectedItemsToImportCount } out of ${ itemsToImportCount } folder and label them as": [
-        "${ selectedItemsToImportCount } 중 ${ itemsToImportCount } 개 폴더에서 메시지를 불러오고 메시지들을 이로 라벨"
+        "${ itemsToImportCount }개 중 ${ selectedItemsToImportCount }개 라벨의 모든 폴더를 불러온 뒤 다음 이름으로 라벨이 지정됩니다:"
       ],
       "Import all messages from ${ selectedItemsToImportCount } out of ${ itemsToImportCount } label and label them as": [
-        "${ selectedItemsToImportCount } 중 ${ itemsToImportCount } 개 라벨에서 메시지를 불러오고 메시지들을 이로 라벨"
+        "${ itemsToImportCount }개 중 ${ selectedItemsToImportCount }개 라벨의 모든 메시지를 불러온 뒤 다음 이름으로 라벨이 지정됩니다:"
       ]
     },
     "mail_signup_2024: Info": {
@@ -7735,7 +7840,7 @@
     },
     "Oauth instructions": {
       "Next you'll need to sign in to your Google account and grant ${ BRAND_NAME } access to your data.": [
-        "다음으로 사용자의 Google 계정에 로그인하고 ${ BRAND_NAME } 의 데이터 액세스 권한을 부여해야 합니다."
+        "다음으로 사용자의 Google 계정에 로그인한 뒤 ${ BRAND_NAME }에 데이터 접근 권한을 부여해야 합니다."
       ]
     },
     "Oauth instructions video": {
@@ -8023,6 +8128,21 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "이 작업을 수행하려면 조직 키에 접근해야 합니다."
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "비개인 사용자는 키 설정을 하면 관리자로 승격 가능합니다."
+      ],
+      "Organization key must be activated to give admin privileges": [
+        "관리자 권한을 부여하기 위해 조직 키는 활성화되어야 합니다."
+      ],
+      "Private users can be promoted to admin when they've signed in for the first time": [
+        "개인 사용자는 처음 로그인하면 관리자로 승격할 수 있습니다."
+      ],
+      "You must delete all groups before generating a new organization key": [
+        "새로운 조직 키를 생성하기 전에 모든 그룹을 삭제해야 합니다."
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "새 조직 키를 생성하기 전에 모든 계정을 민영화해야합니다"
       ]
     },
     "Payment method option": {
@@ -10296,6 +10416,18 @@
       ],
       "Your shorter address is now ready": [
         "짧은 주소가 준비되었습니다"
+      ],
+      "Add user": [
+        "사용자 추가"
+      ],
+      "Collaborate on documents": [
+        "문서에서 협업하기"
+      ],
+      "Get the apps": [
+        "앱 다운로드"
+      ],
+      "Share your calendar with your team": [
+        "팀과 캘린더를 공유하세요"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10865,6 +10997,11 @@
       ],
       "Passcode:": [
         "비밀번호:"
+      ]
+    },
+    "unprivatization": {
+      "Admins can't access the data of private users and can't reset their password.": [
+        "관리자가 비공개 사용자의 데이터 접근이 불가하며 비밀번호 또한 재설정이 불가합니다."
       ]
     }
   }

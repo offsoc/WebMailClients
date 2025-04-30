@@ -814,6 +814,75 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "您的桌面应用免费试用将在 ${ formattedEndDate }结束。 ${ upgradeButton }"
+      ],
+      "Collaborate on documents": [
+        "协作处理文件"
+      ],
+      "Connect apps and devices": [
+        "连接应用和设备"
+      ],
+      "Connect to video conferencing": [
+        "连接至视频会议"
+      ],
+      "Copy password": [
+        "复制密码"
+      ],
+      "Create new password": [
+        "创建新密码"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "下载 ${ DRIVE_APP_NAME } 应用"
+      ],
+      "Generate password": [
+        "生成密码"
+      ],
+      "Get the apps": [
+        "获取应用"
+      ],
+      "Import emails, calendars, contacts": [
+        "导入电子邮件、日历、联系人"
+      ],
+      "Manage advanced account protections": [
+        "管理高级账户保护"
+      ],
+      "Manage groups": [
+        "管理群组"
+      ],
+      "Manage users/addresses": [
+        "管理用户/地址"
+      ],
+      "Remove button": [
+        "移除按钮"
+      ],
+      "Reply with a note": [
+        "回复并添加备注"
+      ],
+      "Set recovery methods": [
+        "设置恢复方式"
+      ],
+      "Set up 2FA": [
+        "设置 2FA"
+      ],
+      "Set up a custom domain": [
+        "设置自定义域名"
+      ],
+      "Set up email forwarding": [
+        "设置邮件转发"
+      ],
+      "Share your calendar with your team": [
+        "与团队共享日历"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "启用 ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "Upload and share files": [
+        "上传并分享文件"
+      ],
+      "Use ${ PASS_APP_NAME } for Business": [
+        "使用 ${ PASS_APP_NAME } 商业版"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "使用 ${ VPN_SHORT_APP_NAME } 保护隐私"
       ]
     },
     "action": {
@@ -1158,7 +1227,7 @@
         "Bridge 问题"
       ],
       "Calendar problem": [
-        "日历问题"
+        "Proton Calendar 问题"
       ],
       "Connection problem": [
         "连接问题"
@@ -1170,10 +1239,10 @@
         "自有域名问题"
       ],
       "Docs problem": [
-        "Docs 问题"
+        "Proton Docs 问题"
       ],
       "Drive problem": [
-        "网盘问题"
+        "Proton Drive 问题"
       ],
       "Feature request": [
         "功能建议"
@@ -1185,7 +1254,7 @@
         "安装问题"
       ],
       "Mail problem": [
-        "邮件问题"
+        "Proton Mail 问题"
       ],
       "Manual setup problem": [
         "手动设置问题"
@@ -1194,7 +1263,7 @@
         "其他"
       ],
       "Pass problem": [
-        "Pass 问题"
+        "Proton Pass 问题"
       ],
       "Payments problem": [
         "支付问题"
@@ -1221,7 +1290,7 @@
         "更新问题"
       ],
       "VPN problem": [
-        "VPN 问题"
+        "Proton VPN 问题"
       ],
       "Website access problem": [
         "网站连接问题"
@@ -1935,7 +2004,7 @@
         "埃塞俄比亚"
       ],
       "Falkland Islands": [
-        "奥兰群岛"
+        "福克兰群岛"
       ],
       "Falkland Islands (Malvinas)": [
         "福克兰群岛（马尔维纳斯）"
@@ -2070,7 +2139,7 @@
         "日本"
       ],
       "Jersey": [
-        "泽西"
+        "泽西岛"
       ],
       "Jordan": [
         "约旦"
@@ -2346,7 +2415,7 @@
         "新加坡"
       ],
       "Sint Maarten": [
-        "圣马丁岛"
+        "荷属圣马丁"
       ],
       "Slovakia": [
         "斯洛伐克"
@@ -2734,6 +2803,63 @@
       ],
       "You’ve already created 10 aliases. Get unlimited aliases and 500 GB of storage with ${ BRAND_NAME } Unlimited.": [
         "您已创建了 10 个别名。使用 ${ BRAND_NAME }  Unlimited，获得无限别名和 500 GB 的存储空间。"
+      ],
+      "${ DOCS_SHORT_APP_NAME } in ${ DRIVE_APP_NAME } allows you to work together with others in a secure, encrypted environment.": [
+        "${ DRIVE_APP_NAME } 中的 ${ DOCS_SHORT_APP_NAME } 允许您在安全、加密的环境中与他人协同办公。"
+      ],
+      "Add folders and files to ${ DRIVE_APP_NAME } and invite team members to view or edit.": [
+        "在 ${ DRIVE_APP_NAME } 中添加文件夹和文件，并邀请团队成员查看或编辑。"
+      ],
+      "Automatically forward incoming email to another email address.": [
+        "自动将收到的电子邮件转发到另一个邮箱地址。"
+      ],
+      "Configure this first to activate your organization and customize your email address.": [
+        "首先进行配置，以激活您的组织并自定义您的邮箱地址。"
+      ],
+      "Connect your CRM, website, printers, and more.": [
+        "连接您的 CRM、网站、打印机等。"
+      ],
+      "Create groups you can email with a single address.": [
+        "创建可通过单一地址发送电子邮件的群组。"
+      ],
+      "Easily access your email and calendar on desktop and mobile.": [
+        "在电脑和手机上轻松访问电子邮件和日历。"
+      ],
+      "Easily sync files to the cloud from your desktop and access them from your mobile device.": [
+        "轻松地将文件从桌面同步到云端，并从移动设备访问它们。"
+      ],
+      "Encourage the use of two-factor authentication in your organization for extra security.": [
+        "建议在组织内使用双因素身份验证以提高安全性。"
+      ],
+      "Ensure secure access to organization data, even if your team is remote or using public WiFi.": [
+        "确保对组织数据的安全访问，即使您的团队在远程或使用公共 WiFi 时也是如此。"
+      ],
+      "Ensure top-notch security for your account with the ${ PROTON_SENTINEL_NAME } program.": [
+        "通过 ${ PROTON_SENTINEL_NAME } 程序确保账户的顶级安全性。"
+      ],
+      "Ensure you can still access your account and data even if you lose your ${ BRAND_NAME } password.": [
+        "确保您即使丢失了 ${ BRAND_NAME } 密码，也能访问账户和数据。"
+      ],
+      "For a seamless transition to ${ BRAND_NAME }, import your data from Google, Outlook, and others.": [
+        "为了无缝过渡到 ${ BRAND_NAME }，请从 Google、Outlook 等其他地方导入数据。"
+      ],
+      "Help your team securely store passwords to sensitive business and client information.": [
+        "帮助您的团队安全存储敏感业务和客户信息的密码。"
+      ],
+      "Let's you instantly add meeting links to your event invitations.": [
+        "让您即时在活动邀请中添加会议链接。"
+      ],
+      "Set up accounts for all users and invite them to join ${ BRAND_NAME }.": [
+        "为所有用户建立账户并邀请他们加入 ${ BRAND_NAME }。"
+      ],
+      "Simplify syncing and scheduling with shared calendars.": [
+        "使用共享日历简化同步和日程安排。"
+      ],
+      "To start, give your organization a name.": [
+        "首先，请为您的组织命名。"
+      ],
+      "Use this guide to get your organization promptly benefiting from ${ BRAND_NAME }'s industry-leading encryption and privacy ecosystem.": [
+        "使用本指南，让您的组织迅速受益于 ${ BRAND_NAME } 行业领先的加密和隐私生态系统。"
       ]
     },
     "description": {
@@ -2909,6 +3035,12 @@
       ],
       "You are invited to ${ eventTitle }.\n\n${ eventDetailsText }": [
         "您已被邀请参加 ${ eventTitle }。\n\n${ eventDetailsText }"
+      ],
+      "Here's what changed:": [
+        "新变化："
+      ],
+      "NOTE:": [
+        "注意："
       ]
     },
     "Email body for invitation (date part)": {
@@ -3443,6 +3575,9 @@
       ],
       "Your import will not be processed.": [
         "此次导入将不会进行。"
+      ],
+      "Something went wrong. Please try again.": [
+        "出现了一些问题。请重试。"
       ]
     },
     "Error accepting calendar invitation": {
@@ -5566,6 +5701,66 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "您的系统时区似乎已更改为 ${ timezone }。您想要更新您的时区偏好吗？"
+      ],
+      "Admin account allocation": [
+        "分配管理员账户"
+      ],
+      "Allocated": [
+        "分配量"
+      ],
+      "Already allocated": [
+        "已分配"
+      ],
+      "Already used": [
+        "已使用"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "至少 ${ BETTER_PASSWORD_LENGTH } 个字符"
+      ],
+      "Calendar is disabled": [
+        "日历已禁用"
+      ],
+      "It's better to have:": [
+        "最好是有："
+      ],
+      "Numbers": [
+        "数字"
+      ],
+      "Open the guide for recommended actions and helpful links.": [
+        "打开指南并查看推荐操作和实用链接。"
+      ],
+      "Password copied to clipboard": [
+        "密码已复制到剪贴板"
+      ],
+      "Password must have:": [
+        "密码必须具有："
+      ],
+      "Please fill in all required fields.": [
+        "请填写所有必填项。"
+      ],
+      "Set up your organization": [
+        "设置您的组织"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "此组织其他成员的存储空间分配量"
+      ],
+      "Storage allocated to this user": [
+        "该用户的存储空间分配量"
+      ],
+      "Storage for users": [
+        "用户存储"
+      ],
+      "Storage used by this user": [
+        "该用户的存储空间使用量"
+      ],
+      "Symbols (#$&)": [
+        "符号 (#$&)"
+      ],
+      "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
+        "这是用户将看到的组织名称或昵称，您可以随时更改。"
+      ],
+      "Uppercase and lowercase letters": [
+        "大写字母和小写字母"
       ]
     },
     "info": {
@@ -5797,7 +5992,7 @@
         "日历"
       ],
       "Card details": [
-        "卡详情"
+        "银行卡详情"
       ],
       "Card holder": [
         "持卡人"
@@ -6179,6 +6374,36 @@
       ],
       "Your password (admin)": [
         "您的密码（管理员）"
+      ],
+      "Account storage": [
+        "账户存储空间"
+      ],
+      "Let others know if you have a conflict, will be late, or can’t wait for the event.": [
+        "若您有任何日程冲突、会迟到或无法等待的活动，请让其他人了解。"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "必须至少有 ${ MIN_PASSWORD_LENGTH } 个字符"
+      ],
+      "Password strength": [
+        "密码强度"
+      ],
+      "Strong": [
+        "强"
+      ],
+      "Strong password": [
+        "强密码"
+      ],
+      "Vulnerable": [
+        "易受攻击"
+      ],
+      "Vulnerable password": [
+        "易受攻击的密码"
+      ],
+      "Weak": [
+        "弱"
+      ],
+      "Weak password": [
+        "弱密码"
       ]
     },
     "Label for contact group color": {
@@ -6311,6 +6536,54 @@
       ],
       "What’s this?": [
         "这是什么？"
+      ],
+      "Enforcing 2FA for organizations": [
+        "强制组织启用 2FA"
+      ],
+      "How to add users": [
+        "如何添加用户"
+      ],
+      "How to add Zoom links": [
+        "如何添加 Zoom 链接"
+      ],
+      "How to collaborate in ${ DOCS_SHORT_APP_NAME }": [
+        "如何在 ${ DOCS_SHORT_APP_NAME } 中进行协作"
+      ],
+      "How to enable ${ PROTON_SENTINEL_NAME }": [
+        "如何启用 ${ PROTON_SENTINEL_NAME }"
+      ],
+      "How to migrate to ${ BRAND_NAME }": [
+        "如何迁移到 ${ BRAND_NAME }"
+      ],
+      "How to set up ${ VPN_APP_NAME }": [
+        "如何设置 ${ VPN_APP_NAME }"
+      ],
+      "How to set up a custom domain": [
+        "如何设置自定义域名"
+      ],
+      "How to set up SMTP": [
+        "如何设置 SMTP"
+      ],
+      "How to share a calendar": [
+        "如何分享日历"
+      ],
+      "How to share via email": [
+        "如何通过邮件分享"
+      ],
+      "How to use ${ DARK_WEB_MONITORING_NAME }": [
+        "如何使用 ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "How to use ${ PASS_APP_NAME } for Business": [
+        "如何使用 ${ PASS_APP_NAME } 商业版"
+      ],
+      "How to use email forwarding": [
+        "如何使用邮件转发"
+      ],
+      "How to use Groups": [
+        "如何使用群组"
+      ],
+      "Types of recovery methods": [
+        "恢复方法类型"
       ]
     },
     "Link label (optional)": {
@@ -8026,6 +8299,21 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "您需要访问组织密钥才能执行此操作。"
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "非私人用户拥有设置密钥后可晋升为管理员"
+      ],
+      "Organization key must be activated to give admin privileges": [
+        "必须激活组织密钥才能赋予管理员权限"
+      ],
+      "Private users can be promoted to admin when they've signed in for the first time": [
+        "私人用户首次登录时可晋升为管理员"
+      ],
+      "You must delete all groups before generating a new organization key": [
+        "在生成新的组织密钥前，您必须删除所有群组"
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "在生成新的组织密钥之前，您必须先将所有用户私有化"
       ]
     },
     "Payment method option": {
@@ -8274,6 +8562,15 @@
       ],
       "Start typing an email address": [
         "请输入邮箱地址"
+      ],
+      "Leave a note for all participants": [
+        "给所有参与者留言"
+      ],
+      "Organization name": [
+        "组织名称"
+      ],
+      "Your organization name": [
+        "您的组织名称"
       ]
     },
     "Placeholder for contact group name": {
@@ -9428,6 +9725,9 @@
     "Subscription saving": {
       "Save": [
         "节省"
+      ],
+      "Save ${ priceString }": [
+        "节省 ${ priceString }"
       ]
     },
     "Success": {
@@ -10299,6 +10599,78 @@
       ],
       "Your shorter address is now ready": [
         "您的较短地址现已准备就绪"
+      ],
+      "Add user": [
+        "添加用户"
+      ],
+      "Collaborate on documents": [
+        "协作处理文件"
+      ],
+      "Connect apps and devices": [
+        "连接应用和设备"
+      ],
+      "Connect to video conferencing": [
+        "连接至视频会议"
+      ],
+      "Connect your custom domain": [
+        "连接您的自定义域名"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "下载 ${ DRIVE_APP_NAME } 应用"
+      ],
+      "Enable advanced account protection": [
+        "启用高级账户保护"
+      ],
+      "Enhance security with 2FA": [
+        "通过 2FA 增强安全性"
+      ],
+      "Get the apps": [
+        "下载应用"
+      ],
+      "Import emails, calendars, contacts": [
+        "导入电子邮件、日历、联系人"
+      ],
+      "Org setup": [
+        "组织设置"
+      ],
+      "Organization setup": [
+        "组织设置"
+      ],
+      "Reply with a note": [
+        "回复并添加备注"
+      ],
+      "Schedule meetings in one click": [
+        "一键安排会议"
+      ],
+      "Set recovery methods": [
+        "设置恢复方式"
+      ],
+      "Set up email forwarding": [
+        "设置邮件转发"
+      ],
+      "Set up your organization": [
+        "设置您的组织"
+      ],
+      "Share your calendar with your team": [
+        "与团队共享日历"
+      ],
+      "Simplify email distribution": [
+        "简化电子邮件分发"
+      ],
+      "Simplify password management": [
+        "简化密码管理"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "启用 ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "Upload and share files": [
+        "上传并分享文件"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "使用 ${ VPN_SHORT_APP_NAME } 保护隐私"
+      ],
+      "Welcome to ${ BRAND_NAME } for Business": [
+        "欢迎使用 ${ BRAND_NAME } 商业版"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10521,7 +10893,7 @@
     },
     "wallet_signup_2024:Bug category": {
       "Wallet problem": [
-        "Wallet 问题"
+        "Proton Wallet 问题"
       ]
     },
     "Warning": {
@@ -10868,6 +11240,49 @@
       ],
       "Passcode:": [
         "密码："
+      ]
+    },
+    "Email body for comment (comment part)": {
+      "NOTE:\n${ eventComment }": [
+        "注意：\n${ eventComment }"
+      ]
+    },
+    "Note": {
+      "Note:": [
+        "备注："
+      ]
+    },
+    "RSVP Note": {
+      "Edit note": [
+        "编辑备注"
+      ],
+      "Remove note": [
+        "移除备注"
+      ]
+    },
+    "Section": {
+      "Org setup and account security": [
+        "组织设置和账户安全"
+      ]
+    },
+    "Slack": {
+      "Join Slack huddle": [
+        "加入 Slack 群组"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "加入 Teams 会议"
+      ]
+    },
+    "unprivatization": {
+      "Admins can't access the data of private users and can't reset their password.": [
+        "管理员无法访问私人用户的数据，也无法重置他们的密码。"
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "加入 Zoom 会议"
       ]
     }
   }

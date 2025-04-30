@@ -815,6 +815,45 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Ilmainen työpöytäsovelluksen kokeilujaksosi päättyy ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Collaborate on documents": [
+        "Yhteiskäytä dokumentteja"
+      ],
+      "Connect apps and devices": [
+        "Yhdistä sovelluksia ja laitteita"
+      ],
+      "Copy password": [
+        "Kopioi salasana"
+      ],
+      "Create new password": [
+        "Luo uusi salasana"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Lataa ${ DRIVE_APP_NAME }-sovellukset"
+      ],
+      "Generate password": [
+        "Luo salasana"
+      ],
+      "Get the apps": [
+        "Hanki sovellukset"
+      ],
+      "Manage groups": [
+        "Hallitse ryhmiä"
+      ],
+      "Manage users/addresses": [
+        "Hallitse käyttäjiä/osoitteita"
+      ],
+      "Set recovery methods": [
+        "Aseta palautustavat"
+      ],
+      "Set up 2FA": [
+        "Määritä 2FA"
+      ],
+      "Set up a custom domain": [
+        "Määritä oma verkkotunnus"
+      ],
+      "Upload and share files": [
+        "Lähetä ja jaa tiedostoja"
       ]
     },
     "action": {
@@ -2748,6 +2787,9 @@
       ],
       "You’ve already created 10 aliases. Get unlimited aliases and 500 GB of storage with ${ BRAND_NAME } Unlimited.": [
         "Olet jo luonut 10 aliasta. Saat rajattomasti aliaksia ja 500 Gt tallennustilaa ${ BRAND_NAME } Unlimitedilla."
+      ],
+      "To start, give your organization a name.": [
+        "Aloita antamalla organisaatiollesi nimi."
       ]
     },
     "description": {
@@ -3466,6 +3508,9 @@
       ],
       "Your import will not be processed.": [
         "Tuontiasi ei käsitellä."
+      ],
+      "Something went wrong. Please try again.": [
+        "Jotain meni pieleen. Yritä myöhemmin uudelleen."
       ]
     },
     "Error accepting calendar invitation": {
@@ -5609,6 +5654,54 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Järjestelmäsi aikavyöhykkeeksi näyttää vaihtuneen ${ timezone }. Haluatko päivittää aikavyöhykeasetuksesi?"
+      ],
+      "Admin account allocation": [
+        "Varattu ylläpitäjän tilille"
+      ],
+      "Allocated": [
+        "Varattu"
+      ],
+      "Already allocated": [
+        "Jo varattu"
+      ],
+      "Already used": [
+        "Jo käytetty"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Ainakin ${ BETTER_PASSWORD_LENGTH } merkkiä"
+      ],
+      "Calendar is disabled": [
+        "Kalenteri on poistettu käytöstä"
+      ],
+      "It's better to have:": [
+        "On parempi olla:"
+      ],
+      "Numbers": [
+        "Numerot"
+      ],
+      "Password copied to clipboard": [
+        "Salasana kopioitiin leikepöydälle"
+      ],
+      "Set up your organization": [
+        "Määritä organisaatiosi"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "Organisaation käyttäjille varattu tallennustila"
+      ],
+      "Storage allocated to this user": [
+        "Käyttäjälle varattu tallennustila"
+      ],
+      "Storage for users": [
+        "Tallennustilaa käyttäjille"
+      ],
+      "Storage used by this user": [
+        "Käyttäjän varaama tallennustila"
+      ],
+      "Symbols (#$&)": [
+        "Symbolit (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Isot ja pienet kirjaimet"
       ]
     },
     "info": {
@@ -6225,6 +6318,27 @@
       ],
       "Your password (admin)": [
         "Salasanasi (ylläpitäjä)"
+      ],
+      "Account storage": [
+        "Tilin tallennustila"
+      ],
+      "Strong": [
+        "Vahva"
+      ],
+      "Strong password": [
+        "Vahva salasana"
+      ],
+      "Vulnerable": [
+        "Haavoittuvainen"
+      ],
+      "Vulnerable password": [
+        "Haavoittuva salasana"
+      ],
+      "Weak": [
+        "Heikko"
+      ],
+      "Weak password": [
+        "Heikko salasana"
       ]
     },
     "Label for contact group color": {
@@ -6354,6 +6468,21 @@
       ],
       "What’s this?": [
         "Mikä tämä on?"
+      ],
+      "How to add users": [
+        "Miten käyttäjiä lisätään"
+      ],
+      "How to add Zoom links": [
+        "Miten Zoom-linkkejä lisätään"
+      ],
+      "How to set up SMTP": [
+        "Miten SMTP määritetään"
+      ],
+      "How to share a calendar": [
+        "Miten jaat kalenterin"
+      ],
+      "How to use Groups": [
+        "Miten ryhmiä käytetään"
       ]
     },
     "Link label (optional)": {
@@ -8115,6 +8244,18 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "Sinulla on oltava oikeus käyttää organisaatioavainta suorittaaksesi tämä toiminnon."
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "Ei-yksityiset käyttäjät voidaan ylentää ylläpitäjiksi, kun heillä on asetusavaimet"
+      ],
+      "Organization key must be activated to give admin privileges": [
+        "Organisaatioavain on aktivoitava hallintaoikeuksien myöntämiseksi"
+      ],
+      "Private users can be promoted to admin when they've signed in for the first time": [
+        "Yksityiset käyttäjät voidaan ylentää ylläpitäjiksi, kun he ovat kirjautuneet sisään ensimmäisen kerran"
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "Sinun on yksityistettävä kaikki käyttäjät ennen uuden organisaatioavaimen luontia"
       ]
     },
     "Payment method option": {
@@ -8340,6 +8481,9 @@
       ],
       "Start typing an email address": [
         "Aloita sähköpostiosoitteen kirjoitus"
+      ],
+      "Organization name": [
+        "Organisaation nimi"
       ]
     },
     "Placeholder for contact group name": {
@@ -8811,8 +8955,8 @@
     },
     "specialoffer: Deal": {
       "${ n } month FREE": [
-        "${ n } ILMAINEN kuukausi",
-        "${ n } ILMAISTA kuukautta"
+        "${ n } kuukausi ILMAISEKSI",
+        "${ n } kuukautta ILMAISEKSI"
       ]
     },
     "specialoffer: Deal details": {
@@ -10404,6 +10548,42 @@
       ],
       "Your shorter address is now ready": [
         "Lyhyempi osoittesi on nyt valmis"
+      ],
+      "Add user": [
+        "Lisää käyttäjä"
+      ],
+      "Collaborate on documents": [
+        "Yhteiskäytä dokumentteja"
+      ],
+      "Connect apps and devices": [
+        "Yhdistä sovelluksia ja laitteita"
+      ],
+      "Connect your custom domain": [
+        "Yhdistä oma verkkotunnuksesi"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Lataa ${ DRIVE_APP_NAME }-sovellukset"
+      ],
+      "Enhance security with 2FA": [
+        "Paranna tietoturvaa 2FA:lla"
+      ],
+      "Get the apps": [
+        "Hanki sovellukset"
+      ],
+      "Org setup": [
+        "Organisaation määritys"
+      ],
+      "Organization setup": [
+        "Organisaation määritys"
+      ],
+      "Set recovery methods": [
+        "Määritä palautustavat"
+      ],
+      "Set up your organization": [
+        "Määritä organisaatiosi"
+      ],
+      "Upload and share files": [
+        "Lähetä ja jaa tiedostoja"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -11010,6 +11190,11 @@
       ],
       "Passcode:": [
         "Tunnuskoodi:"
+      ]
+    },
+    "unprivatization": {
+      "Admins can't access the data of private users and can't reset their password.": [
+        "Ylläpitäjillä ei ole pääsyä yksityisten käyttäjien tietoihin, eivätkä he voi nollata heidän salasanojaan."
       ]
     }
   }

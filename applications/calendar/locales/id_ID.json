@@ -814,6 +814,75 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Masa uji coba aplikasi desktop Anda akan berakhir pada ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Collaborate on documents": [
+        "Kolaborasikan dokumen"
+      ],
+      "Connect apps and devices": [
+        "Hubungkan aplkasi dan perangkat"
+      ],
+      "Connect to video conferencing": [
+        "Hubungkan ke konferensi video"
+      ],
+      "Copy password": [
+        "Salin kata sandi"
+      ],
+      "Create new password": [
+        "Buat kata sandi baru"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Unduh aplikasi ${ DRIVE_APP_NAME }"
+      ],
+      "Generate password": [
+        "Hasilkan kata sandi"
+      ],
+      "Get the apps": [
+        "Dapatkan aplikasinya"
+      ],
+      "Import emails, calendars, contacts": [
+        "Impor email, kalender, kontak"
+      ],
+      "Manage advanced account protections": [
+        "Kelola perlindungan akun lanjutan"
+      ],
+      "Manage groups": [
+        "Kelola grup"
+      ],
+      "Manage users/addresses": [
+        "Kelola pengguna/alamat"
+      ],
+      "Remove button": [
+        "Hapus tombol"
+      ],
+      "Reply with a note": [
+        "Balas dengan catatan"
+      ],
+      "Set recovery methods": [
+        "Atur metode pemulihan"
+      ],
+      "Set up 2FA": [
+        "Atur 2FA"
+      ],
+      "Set up a custom domain": [
+        "Atur domain khusus"
+      ],
+      "Set up email forwarding": [
+        "Atur penerusan email"
+      ],
+      "Share your calendar with your team": [
+        "Bagikan kalender Anda dengan tim Anda"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "Aktfkan ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "Upload and share files": [
+        "Unggah dan bagikan berkas"
+      ],
+      "Use ${ PASS_APP_NAME } for Business": [
+        "Gunakan ${ PASS_APP_NAME } for Business"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "Gunakan ${ VPN_SHORT_APP_NAME } untuk privasi data"
       ]
     },
     "action": {
@@ -2734,6 +2803,63 @@
       ],
       "You’ve already created 10 aliases. Get unlimited aliases and 500 GB of storage with ${ BRAND_NAME } Unlimited.": [
         "Anda telah membuat 10 alias. Dapatkan alias tanpa batasan jumlah dan ruang penyimpanan 500 GB dengan ${ BRAND_NAME } Unlimited."
+      ],
+      "${ DOCS_SHORT_APP_NAME } in ${ DRIVE_APP_NAME } allows you to work together with others in a secure, encrypted environment.": [
+        "${ DOCS_SHORT_APP_NAME } di ${ DRIVE_APP_NAME } memungkinkan Anda untuk saling bekerja sama dalam lingkungan yang aman dan terenkripsi."
+      ],
+      "Add folders and files to ${ DRIVE_APP_NAME } and invite team members to view or edit.": [
+        "Tambahkan folder dan berkas ke ${ DRIVE_APP_NAME } dan undang anggota tim untuk meninjau atau menyunting berkas ini."
+      ],
+      "Automatically forward incoming email to another email address.": [
+        "Meneruskan email yang masuk ke alamat email lainnya secara otomatis."
+      ],
+      "Configure this first to activate your organization and customize your email address.": [
+        "Sesuaikan pengaturan ini terlebih dahulu untuk mengaktifkan organisasi Anda dan menyesuaikan alamat email Anda."
+      ],
+      "Connect your CRM, website, printers, and more.": [
+        "Hubungkan CRM, situs web, printer, dan berbagai hal lainnya yang Anda miliki dengan mudah."
+      ],
+      "Create groups you can email with a single address.": [
+        "Buat grup yang dapat Anda kirimi email dengan satu alamat."
+      ],
+      "Easily access your email and calendar on desktop and mobile.": [
+        "Akses email dan kalender Anda pada desktop dan perangkat seluler dengan mudah."
+      ],
+      "Easily sync files to the cloud from your desktop and access them from your mobile device.": [
+        "Sinkronkan berkas ke layanan cloud dari desktop Anda dengan mudah dan akses berkas ini dari perangkat seluler Anda."
+      ],
+      "Encourage the use of two-factor authentication in your organization for extra security.": [
+        "Anjurkan penggunaan autentikasi dua faktor di dalam organisasi Anda untuk keamanan yang lebih."
+      ],
+      "Ensure secure access to organization data, even if your team is remote or using public WiFi.": [
+        "Pastikan data milik organisasi Anda selalu terakses secara aman, bahkan apabila tim Anda bekerja secara jarak jauh atau menggunakan WiFi publik."
+      ],
+      "Ensure top-notch security for your account with the ${ PROTON_SENTINEL_NAME } program.": [
+        "Pastikan keamanan terbaik untuk akun Anda dengan program ${ PROTON_SENTINEL_NAME }."
+      ],
+      "Ensure you can still access your account and data even if you lose your ${ BRAND_NAME } password.": [
+        "Pastikan Anda tetap dapat mengakses akun dan data Anda bahkan apabila Anda kehilangan kata sandi ${ BRAND_NAME } Anda."
+      ],
+      "For a seamless transition to ${ BRAND_NAME }, import your data from Google, Outlook, and others.": [
+        "Untuk transisi ke ${ BRAND_NAME } yang berlangsung tanpa hambatan, impor data Anda dari Google, Outlook, dan layanan lainnya."
+      ],
+      "Help your team securely store passwords to sensitive business and client information.": [
+        "Bantu tim Anda menyimpan kata sandi bisnis dan informasi klien yang sensitif secara aman."
+      ],
+      "Let's you instantly add meeting links to your event invitations.": [
+        "Memungkinkan Anda untuk menambahkan tautan pertemuan secara instan ke undangan acara Anda."
+      ],
+      "Set up accounts for all users and invite them to join ${ BRAND_NAME }.": [
+        "Siapkan akun untuk seluruh pengguna dan undang mereka untuk bergabung dengan ${ BRAND_NAME }"
+      ],
+      "Simplify syncing and scheduling with shared calendars.": [
+        "Sederhanakan sinkronisasi dan penjadwalan dengan kalender terbagi."
+      ],
+      "To start, give your organization a name.": [
+        "Untuk memulai, beri nama organisasi Anda."
+      ],
+      "Use this guide to get your organization promptly benefiting from ${ BRAND_NAME }'s industry-leading encryption and privacy ecosystem.": [
+        "Gunakan panduan ini agar organisasi Anda dapat menikmati ekosistem enkripsi dan privasi ${ BRAND_NAME } yang terdepan di industri dengan segera."
       ]
     },
     "description": {
@@ -2909,6 +3035,12 @@
       ],
       "You are invited to ${ eventTitle }.\n\n${ eventDetailsText }": [
         "Anda diundang ke ${ eventTitle }.\n\n${ eventDetailsText }"
+      ],
+      "Here's what changed:": [
+        "Berikut apa-apa saja yang telah berubah:"
+      ],
+      "NOTE:": [
+        "CATATAN:"
       ]
     },
     "Email body for invitation (date part)": {
@@ -3443,6 +3575,9 @@
       ],
       "Your import will not be processed.": [
         "Impor Anda tidak akan diproses."
+      ],
+      "Something went wrong. Please try again.": [
+        "Terjadi suatu kesalahan. Silakan coba lagi."
       ]
     },
     "Error accepting calendar invitation": {
@@ -5566,6 +5701,66 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Zona waktu sistem Anda sepertinya telah diubah menjadi ${ timezone }. Apakah Anda ingin memperbarui preferensi zona waktu Anda?"
+      ],
+      "Admin account allocation": [
+        "Alokasi akun admin"
+      ],
+      "Allocated": [
+        "Dialokasikan"
+      ],
+      "Already allocated": [
+        "Telah dialokasikan"
+      ],
+      "Already used": [
+        "Telah digunakan"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Setidaknya ${ BETTER_PASSWORD_LENGTH } karakter"
+      ],
+      "Calendar is disabled": [
+        "Kalender dinonaktifkan"
+      ],
+      "It's better to have:": [
+        "Kata sandi Anda sebaiknya mengandung:"
+      ],
+      "Numbers": [
+        "Angka"
+      ],
+      "Open the guide for recommended actions and helpful links.": [
+        "Buka panduan ini untuk memperoleh tindakan yang disarankan dan tautan yang dapat berguna."
+      ],
+      "Password copied to clipboard": [
+        "Kata sandi disalin ke papan klip"
+      ],
+      "Password must have:": [
+        "Kata sandi harus memiliki:"
+      ],
+      "Please fill in all required fields.": [
+        "Silakan ini seluruh kolom yang dibutuhkan."
+      ],
+      "Set up your organization": [
+        "Siapkan organisasi Anda"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "Ruang penyimpanan yang dialokasikan kepada pengguna lain di dalam organisasi ini"
+      ],
+      "Storage allocated to this user": [
+        "Ruang penyimpanan yang dialokasikan kepada pengguna ini"
+      ],
+      "Storage for users": [
+        "Ruang penyimpanan untuk anggota"
+      ],
+      "Storage used by this user": [
+        "Ruang penyimpanan yang digunakan oleh pengguna ini"
+      ],
+      "Symbols (#$&)": [
+        "Simbol (#$&)"
+      ],
+      "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
+        "Nama ini adalah nama atau julukan organisasi yang akan dilihat oleh para pengguna Anda. Anda dapat mengubah nama ini kapan saja."
+      ],
+      "Uppercase and lowercase letters": [
+        "Huruf besar dan kecil"
       ]
     },
     "info": {
@@ -6179,6 +6374,36 @@
       ],
       "Your password (admin)": [
         "Kata sandi Anda (admin)"
+      ],
+      "Account storage": [
+        "Penyimpanan akun"
+      ],
+      "Let others know if you have a conflict, will be late, or can’t wait for the event.": [
+        "Beri tahu peserta lainnya apabila Anda berhalangan, akan terlambat, atau sudah tidak sabar untuk menghadiri acara."
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Kata sandi harus mengandung setidaknya ${ MIN_PASSWORD_LENGTH } karakter"
+      ],
+      "Password strength": [
+        "Kekuatan kata sandi"
+      ],
+      "Strong": [
+        "Kuat"
+      ],
+      "Strong password": [
+        "Kata sandi yang kuat"
+      ],
+      "Vulnerable": [
+        "Rentan"
+      ],
+      "Vulnerable password": [
+        "Kata sandi yang rentan"
+      ],
+      "Weak": [
+        "Lemah"
+      ],
+      "Weak password": [
+        "Kata sandi yang lemah"
       ]
     },
     "Label for contact group color": {
@@ -6311,6 +6536,54 @@
       ],
       "What’s this?": [
         "Apa ini?"
+      ],
+      "Enforcing 2FA for organizations": [
+        "Mewajibkan 2FA untuk organisasi"
+      ],
+      "How to add users": [
+        "Cara menambahkan pengguna"
+      ],
+      "How to add Zoom links": [
+        "Cara menambahkan tautan Zoom"
+      ],
+      "How to collaborate in ${ DOCS_SHORT_APP_NAME }": [
+        "Cara berkolaborasi di ${ DOCS_SHORT_APP_NAME }"
+      ],
+      "How to enable ${ PROTON_SENTINEL_NAME }": [
+        "Cara mengaktifkan ${ PROTON_SENTINEL_NAME }"
+      ],
+      "How to migrate to ${ BRAND_NAME }": [
+        "Cara berpindah ke ${ BRAND_NAME }"
+      ],
+      "How to set up ${ VPN_APP_NAME }": [
+        "Cara mengatur ${ VPN_APP_NAME }"
+      ],
+      "How to set up a custom domain": [
+        "Cara mengatur domain khusus"
+      ],
+      "How to set up SMTP": [
+        "Cara mengatur SMTP"
+      ],
+      "How to share a calendar": [
+        "Cara membagikan kalender"
+      ],
+      "How to share via email": [
+        "Cara berbagi via email"
+      ],
+      "How to use ${ DARK_WEB_MONITORING_NAME }": [
+        "Cara menggunakan ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "How to use ${ PASS_APP_NAME } for Business": [
+        "Cara menggunakan ${ PASS_APP_NAME } for Business"
+      ],
+      "How to use email forwarding": [
+        "Cara menggunakan penerusan email"
+      ],
+      "How to use Groups": [
+        "Cara menggunakan Grup"
+      ],
+      "Types of recovery methods": [
+        "Berbagai jenis metode pemulihan"
       ]
     },
     "Link label (optional)": {
@@ -8026,6 +8299,21 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "Anda memerlukan akses ke kunci organisasi untuk melangsungkan tindakan ini."
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "Pengguna non-privat dapat dipromosikan sebagai admin pada saat mereka memiliki kunci setup"
+      ],
+      "Organization key must be activated to give admin privileges": [
+        "Kunci organisasi harus diaktifkan untuk memberikan hak admin"
+      ],
+      "Private users can be promoted to admin when they've signed in for the first time": [
+        "Pengguna privat dapat diangkat sebagai admin pada saat mereka memasuki akun untuk yang pertama kalinya"
+      ],
+      "You must delete all groups before generating a new organization key": [
+        "Anda harus menghapus seluruh grup sebelum menghasilkan kunci organisasi baru"
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "Anda harus memprivatkan seluruh pengguna sebelum menghasilkan kunci organisasi baru"
       ]
     },
     "Payment method option": {
@@ -8274,6 +8562,15 @@
       ],
       "Start typing an email address": [
         "Mulai ketik alamat email"
+      ],
+      "Leave a note for all participants": [
+        "Tinggalkan catatan bagi seluruh peserta"
+      ],
+      "Organization name": [
+        "Nama organisasi"
+      ],
+      "Your organization name": [
+        "Nama organisasi Anda"
       ]
     },
     "Placeholder for contact group name": {
@@ -8896,7 +9193,7 @@
         "Undang teman ke ${ BRAND_NAME }"
       ],
       "Seamlessly create and add video meeting links to your events.": [
-        "Buat dan tambahkan tautan rapat video ke acara Anda dengan mudah."
+        "Buat dan tambahkan tautan rapat video ke acara Anda secara terpadu."
       ],
       "Video conferencing is here!": [
         "Konferensi video kini telah hadir!"
@@ -9428,6 +9725,9 @@
     "Subscription saving": {
       "Save": [
         "Hemat"
+      ],
+      "Save ${ priceString }": [
+        "Hemat ${ priceString }"
       ]
     },
     "Success": {
@@ -10299,6 +10599,78 @@
       ],
       "Your shorter address is now ready": [
         "Alamat lebih pendek Anda sudah siap"
+      ],
+      "Add user": [
+        "Tambah pengguna"
+      ],
+      "Collaborate on documents": [
+        "Berkolaborasi dalam dokumen"
+      ],
+      "Connect apps and devices": [
+        "Hubungkan aplkasi dan perangkat"
+      ],
+      "Connect to video conferencing": [
+        "Hubungkan ke konferensi video"
+      ],
+      "Connect your custom domain": [
+        "Hubungkan domain khusus Anda"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Unduh aplikasi ${ DRIVE_APP_NAME }"
+      ],
+      "Enable advanced account protection": [
+        "Aktifkan perlindungan akun lanjutan"
+      ],
+      "Enhance security with 2FA": [
+        "Tingkatkan keamanan dengan 2FA"
+      ],
+      "Get the apps": [
+        "Dapatkan aplikasinya"
+      ],
+      "Import emails, calendars, contacts": [
+        "Impor email, kalender, kontak"
+      ],
+      "Org setup": [
+        "Pengaturan organisasi"
+      ],
+      "Organization setup": [
+        "Pengaturan organisasi"
+      ],
+      "Reply with a note": [
+        "Balas dengan catatan"
+      ],
+      "Schedule meetings in one click": [
+        "Jadwalkan rapat dalam sekali klik"
+      ],
+      "Set recovery methods": [
+        "Atur metode pemulihan"
+      ],
+      "Set up email forwarding": [
+        "Atur penerusan email"
+      ],
+      "Set up your organization": [
+        "Siapkan organisasi Anda"
+      ],
+      "Share your calendar with your team": [
+        "Bagikan kalender Anda dengan tim Anda"
+      ],
+      "Simplify email distribution": [
+        "Sederhanakan distribusi email"
+      ],
+      "Simplify password management": [
+        "Sederhanakan pengelolaan kata sandi"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "Aktifkan ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "Upload and share files": [
+        "Unggah dan bagikan berkas"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "Gunakan ${ VPN_SHORT_APP_NAME } untuk privasi data"
+      ],
+      "Welcome to ${ BRAND_NAME } for Business": [
+        "Selamat datang di ${ BRAND_NAME } for Business"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10868,6 +11240,49 @@
       ],
       "Passcode:": [
         "Kode sandi:"
+      ]
+    },
+    "Email body for comment (comment part)": {
+      "NOTE:\n${ eventComment }": [
+        "CATATAN:\n${ eventComment }"
+      ]
+    },
+    "Note": {
+      "Note:": [
+        "Catatan:"
+      ]
+    },
+    "RSVP Note": {
+      "Edit note": [
+        "Sunting catatan"
+      ],
+      "Remove note": [
+        "Hapus catatan"
+      ]
+    },
+    "Section": {
+      "Org setup and account security": [
+        "Pengaturan organisasi dan keamanan akun"
+      ]
+    },
+    "Slack": {
+      "Join Slack huddle": [
+        "Ikuti panggilan grup Slack"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "Ikuti pertemuan Teams"
+      ]
+    },
+    "unprivatization": {
+      "Admins can't access the data of private users and can't reset their password.": [
+        "Admin tidak dapat mengakses data pengguna pribadi dan tidak dapat mengatur ulang kata sandinya."
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "Ikuti pertemuan Zoom"
       ]
     }
   }

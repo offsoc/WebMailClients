@@ -826,6 +826,75 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Ваш бясплатны пробны перыяд настольнай праграмы завершыцца ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Collaborate on documents": [
+        "Сумесная праца над дакументамі"
+      ],
+      "Connect apps and devices": [
+        "Падключыць праграмы і прылады"
+      ],
+      "Connect to video conferencing": [
+        "Падключыцца да відэаканферэнцыі"
+      ],
+      "Copy password": [
+        "Скапіяваць пароль"
+      ],
+      "Create new password": [
+        "Стварыць новы пароль"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Спампаваць праграмы ${ DRIVE_APP_NAME }"
+      ],
+      "Generate password": [
+        "Згенерыраваць пароль"
+      ],
+      "Get the apps": [
+        "Атрымаць праграмы"
+      ],
+      "Import emails, calendars, contacts": [
+        "Імпартаваць лісты, календары, кантакты"
+      ],
+      "Manage advanced account protections": [
+        "Кіраваць пашыранай абаронай уліковага запісу"
+      ],
+      "Manage groups": [
+        "Кіраваць групамі"
+      ],
+      "Manage users/addresses": [
+        "Кіраваць карыстальнікамі/адрасамі"
+      ],
+      "Remove button": [
+        "Кнопка \"Выдаліць\""
+      ],
+      "Reply with a note": [
+        "Адказаць з нататкай"
+      ],
+      "Set recovery methods": [
+        "Задаць спосабы аднаўлення"
+      ],
+      "Set up 2FA": [
+        "Наладзіць 2ФА"
+      ],
+      "Set up a custom domain": [
+        "Наладзіць карыстальніцкі дамен"
+      ],
+      "Set up email forwarding": [
+        "Наладзіць перасылку лістоў"
+      ],
+      "Share your calendar with your team": [
+        "Абагуліць каляндар са сваёй камандай"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "Уключыць ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "Upload and share files": [
+        "Запампаваць і абагуліць файлы"
+      ],
+      "Use ${ PASS_APP_NAME } for Business": [
+        "Выкарыстоўваць ${ PASS_APP_NAME } for Business"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "Скарыстацца ${ VPN_SHORT_APP_NAME } для захавання прыватнасці даных"
       ]
     },
     "action": {
@@ -2794,6 +2863,63 @@
       ],
       "You’ve already created 10 aliases. Get unlimited aliases and 500 GB of storage with ${ BRAND_NAME } Unlimited.": [
         "Вы ўжо стварылі 10 псеўданімаў. Атрымайце неабмежаваную колькасць псеўданімаў і 500 ГБ сховішча з ${ BRAND_NAME } Unlimited."
+      ],
+      "${ DOCS_SHORT_APP_NAME } in ${ DRIVE_APP_NAME } allows you to work together with others in a secure, encrypted environment.": [
+        "${ DOCS_SHORT_APP_NAME } у ${ DRIVE_APP_NAME } дазваляе вам працаваць разам з іншымі ўдзельнікамі ў бяспечным зашыфраваным асяроддзі."
+      ],
+      "Add folders and files to ${ DRIVE_APP_NAME } and invite team members to view or edit.": [
+        "Дадайце папкі і файлы ў ${ DRIVE_APP_NAME } і запрасіце ўдзельнікаў каманды для прагляду або рэдагавання."
+      ],
+      "Automatically forward incoming email to another email address.": [
+        "Аўтаматычна перасылайце ўваходныя лісты на іншы адрас электроннай пошты."
+      ],
+      "Configure this first to activate your organization and customize your email address.": [
+        "Спачатку сканфігурыруйце гэтыя функцыі для актывацыі сваёй арганізацыі, а потым наладзьце адрас сваёй электроннай пошты."
+      ],
+      "Connect your CRM, website, printers, and more.": [
+        "Падключыце сваю CRM, вэб-сайт, прынтары і іншае."
+      ],
+      "Create groups you can email with a single address.": [
+        "Стварайце групы, на якія можна адпраўляць электронныя лісты, выкарыстоўваючы адзін адрас."
+      ],
+      "Easily access your email and calendar on desktop and mobile.": [
+        "Лёгкі доступ да вашай электроннай пошты і календара на камп’ютары або мабільнай прыладзе."
+      ],
+      "Easily sync files to the cloud from your desktop and access them from your mobile device.": [
+        "Лёгка сінхранізуйце файлы ў воблака з вашага камп’ютара і атрымлівайце доступ да іх са сваёй мабільнай прылады."
+      ],
+      "Encourage the use of two-factor authentication in your organization for extra security.": [
+        "Заахвочвайце выкарыстанне двухфактарнай аўтэнтыфікацыі ў сваёй арганізацыі для дадатковай бяспекі."
+      ],
+      "Ensure secure access to organization data, even if your team is remote or using public WiFi.": [
+        "Забяспечце бяспечны доступ да даных арганізацыі, нават калі ваша каманда працуе аддалена або выкарыстоўвае публічны Wi-Fi."
+      ],
+      "Ensure top-notch security for your account with the ${ PROTON_SENTINEL_NAME } program.": [
+        "Забяспечце першакласную бяспеку для свайго ўліковага запісу з дапамогай праграмы ${ PROTON_SENTINEL_NAME }."
+      ],
+      "Ensure you can still access your account and data even if you lose your ${ BRAND_NAME } password.": [
+        "Пераканайцеся, што ў вас усё яшчэ ёсць доступ да вашага ўліковага запісу і даных, нават калі вы страціце свой пароль ад ${ BRAND_NAME }."
+      ],
+      "For a seamless transition to ${ BRAND_NAME }, import your data from Google, Outlook, and others.": [
+        "Для бясшвовага пераходу ў ${ BRAND_NAME } імпартуйце свае даныя з Google, Outlook і іншых сэрвісаў."
+      ],
+      "Help your team securely store passwords to sensitive business and client information.": [
+        "Дапамажыце сваёй камандзе бяспечна захоўваць паролі да важных дзелавых і кліенцкіх звестак."
+      ],
+      "Let's you instantly add meeting links to your event invitations.": [
+        "Дазваляе імгненна дадаваць спасылкі на сустрэчы ў вашыя запрашэнні на падзеі."
+      ],
+      "Set up accounts for all users and invite them to join ${ BRAND_NAME }.": [
+        "Наладзьце ўліковыя запісы для ўсіх карыстальнікаў і запрасіце іх далучыцца да ${ BRAND_NAME }."
+      ],
+      "Simplify syncing and scheduling with shared calendars.": [
+        "Спрасціце сінхранізацыю і планаванне з дапамогай абагуленых календароў."
+      ],
+      "To start, give your organization a name.": [
+        "Спачатку дайце назву сваёй арганізацыі."
+      ],
+      "Use this guide to get your organization promptly benefiting from ${ BRAND_NAME }'s industry-leading encryption and privacy ecosystem.": [
+        "Выкарыстоўвайце гэты дапаможнік, каб ваша арганізацыя хутка змагла атрымаць перавагі ад ${ BRAND_NAME }. Дадзеная экасістэма з'яўляецца адной з лепшых у галіне шыфравання і прыватнасці."
       ]
     },
     "description": {
@@ -2969,6 +3095,12 @@
       ],
       "You are invited to ${ eventTitle }.\n\n${ eventDetailsText }": [
         "Вас запрасілі на ${ eventTitle }.\n\n${ eventDetailsText }"
+      ],
+      "Here's what changed:": [
+        "Змены, якія адбыліся:"
+      ],
+      "NOTE:": [
+        "НАТАТКА:"
       ]
     },
     "Email body for invitation (date part)": {
@@ -3539,6 +3671,9 @@
       ],
       "Your import will not be processed.": [
         "Ваша імпартаванне не будзе апрацавана."
+      ],
+      "Something went wrong. Please try again.": [
+        "Нешта пайшло не так. Паспрабуйце яшчэ раз."
       ]
     },
     "Error accepting calendar invitation": {
@@ -5812,6 +5947,66 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Падобна, што ваш часавы пояс змяніўся на ${ timezone }. Вы сапраўды хочаце абнавіць налады вашага часавога пояса?"
+      ],
+      "Admin account allocation": [
+        "Вылучэнне ўліковага запісу адміністратара"
+      ],
+      "Allocated": [
+        "Вылучана"
+      ],
+      "Already allocated": [
+        "Ужо вылучана"
+      ],
+      "Already used": [
+        "Ужо выкарыстоўваўся"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Прынамсі ${ BETTER_PASSWORD_LENGTH } сімвалаў"
+      ],
+      "Calendar is disabled": [
+        "Каляндар адключаны"
+      ],
+      "It's better to have:": [
+        "Лепш за ўсё, каб у вас было:"
+      ],
+      "Numbers": [
+        "Лічбы"
+      ],
+      "Open the guide for recommended actions and helpful links.": [
+        "Адкрыццё дапаможніка з рэкамендаванымі дзеяннямі і карыснымі спасылкамі."
+      ],
+      "Password copied to clipboard": [
+        "Пароль скапіяваны ў буфер абмену"
+      ],
+      "Password must have:": [
+        "Пароль павінен змяшчаць:"
+      ],
+      "Please fill in all required fields.": [
+        "Запоўніце ўсе абавязковыя палі."
+      ],
+      "Set up your organization": [
+        "Наладзьце сваю арганізацыю"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "Сховішча, вылучанае для іншых карыстальнікаў у гэтай арганізацыі"
+      ],
+      "Storage allocated to this user": [
+        "Сховішча, вылучанае для гэтага карыстальніка"
+      ],
+      "Storage for users": [
+        "Сховішча для карыстальнікаў"
+      ],
+      "Storage used by this user": [
+        "Сховішча, выкарыстанае гэтым карыстальнікам"
+      ],
+      "Symbols (#$&)": [
+        "Сімвалы (#$&)"
+      ],
+      "This is a name or nickname for your organization that your users will see. You can change it anytime.": [
+        "Гэта імя або псеўданім для вашай арганізацыі, якое будзе бачнае вашым карыстальнікам. Яго можна змяніць у любы час."
+      ],
+      "Uppercase and lowercase letters": [
+        "Маленькія і вялікія літары"
       ]
     },
     "info": {
@@ -6443,6 +6638,36 @@
       ],
       "Your password (admin)": [
         "Ваш пароль (admin)"
+      ],
+      "Account storage": [
+        "Сховішча ўліковага запісу"
+      ],
+      "Let others know if you have a conflict, will be late, or can’t wait for the event.": [
+        "Паведаміце іншым, калі ў вас форс-мажорная сітуацыя, вы спазняецеся або не можаце чакаць падзею."
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Пароль павінен мець прынамсі ${ MIN_PASSWORD_LENGTH } сімвалы(аў)"
+      ],
+      "Password strength": [
+        "Надзейнасць пароля"
+      ],
+      "Strong": [
+        "Надзейны"
+      ],
+      "Strong password": [
+        "Надзейны пароль"
+      ],
+      "Vulnerable": [
+        "Уразлівы"
+      ],
+      "Vulnerable password": [
+        "Уразлівы пароль"
+      ],
+      "Weak": [
+        "Ненадзейны"
+      ],
+      "Weak password": [
+        "Ненадзейны пароль"
       ]
     },
     "Label for contact group color": {
@@ -6575,6 +6800,54 @@
       ],
       "What’s this?": [
         "Што гэта?"
+      ],
+      "Enforcing 2FA for organizations": [
+        "Прымусовае ўключэнне 2ФА для арганізацый"
+      ],
+      "How to add users": [
+        "Як дадаць карыстальнікаў"
+      ],
+      "How to add Zoom links": [
+        "Як дадаць спасылкі Zoom"
+      ],
+      "How to collaborate in ${ DOCS_SHORT_APP_NAME }": [
+        "Як супрацоўнічаць у ${ DOCS_SHORT_APP_NAME }"
+      ],
+      "How to enable ${ PROTON_SENTINEL_NAME }": [
+        "Як уключыць ${ PROTON_SENTINEL_NAME }"
+      ],
+      "How to migrate to ${ BRAND_NAME }": [
+        "Як перайсці ў ${ BRAND_NAME }"
+      ],
+      "How to set up ${ VPN_APP_NAME }": [
+        "Як наладзіць ${ VPN_APP_NAME }"
+      ],
+      "How to set up a custom domain": [
+        "Як наладзіць карыстальніцкі дамен"
+      ],
+      "How to set up SMTP": [
+        "Як наладзіць SMTP"
+      ],
+      "How to share a calendar": [
+        "Як абагуліць каляндар"
+      ],
+      "How to share via email": [
+        "Як абагуліць праз электронную пошту"
+      ],
+      "How to use ${ DARK_WEB_MONITORING_NAME }": [
+        "Як выкарыстоўваць ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "How to use ${ PASS_APP_NAME } for Business": [
+        "Як выкарыстоўваць ${ PASS_APP_NAME } for Business"
+      ],
+      "How to use email forwarding": [
+        "Як выкарыстоўваць перасылку электроннай пошты"
+      ],
+      "How to use Groups": [
+        "Як выкарыстоўваць групы"
+      ],
+      "Types of recovery methods": [
+        "Тыпы спосабаў аднаўлення"
       ]
     },
     "Link label (optional)": {
@@ -8470,6 +8743,21 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "Вам патрэбны доступ да ключа арганізацыі, каб выканаць гэту аперацыю."
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "Прыватныя карыстальнікі могуць атрымаць правы адміністратара пры наладжванні ключоў"
+      ],
+      "Organization key must be activated to give admin privileges": [
+        "Ключ арганізацыі павінен быць актываваны, каб даць прывілеі адміністратара"
+      ],
+      "Private users can be promoted to admin when they've signed in for the first time": [
+        "Прыватныя карыстальнікі могуць атрымаць правы адміністратара пры першым уваходзе ў сістэму"
+      ],
+      "You must delete all groups before generating a new organization key": [
+        "Вы павінны выдаліць усе групы перад генерацыяй новага ключа арганізацыі"
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "Вы павінны прыватызаваць усіх карыстальнікаў перад генерацыяй новага ключа арганізацыі"
       ]
     },
     "Payment method option": {
@@ -8730,6 +9018,15 @@
       ],
       "Start typing an email address": [
         "Пачніце ўводзіць адрас электроннай пошты"
+      ],
+      "Leave a note for all participants": [
+        "Пакінуць нататку для ўсіх удзельнікаў"
+      ],
+      "Organization name": [
+        "Назва арганізацыі"
+      ],
+      "Your organization name": [
+        "Ваша назва арганізацыі"
       ]
     },
     "Placeholder for contact group name": {
@@ -9216,19 +9513,19 @@
         "${ days } дзень",
         "${ days } дні",
         "${ days } дзён",
-        "${ days } дні"
+        "${ days } дзён"
       ],
       "${ hours } hour": [
         "${ hours } гадзіна",
         "${ hours } гадзіны",
         "${ hours } гадзін",
-        "${ hours } гадзіны"
+        "${ hours } гадзін"
       ],
       "${ minutes } minute": [
         "${ minutes } хвіліна",
         "${ minutes } хвіліны",
         "${ minutes } хвілін",
-        "${ minutes } хвіліны"
+        "${ minutes } хвілін"
       ],
       "${ seconds } second": [
         "${ seconds } секунда",
@@ -9242,7 +9539,7 @@
         "${ n } месяц БЯСПЛАТНА",
         "${ n } месяцы БЯСПЛАТНА",
         "${ n } месяцаў БЯСПЛАТНА",
-        "${ n } месяцы БЯСПЛАТНА"
+        "${ n } месяцаў БЯСПЛАТНА"
       ]
     },
     "specialoffer: Deal details": {
@@ -9986,6 +10283,9 @@
     "Subscription saving": {
       "Save": [
         "Захаваць"
+      ],
+      "Save ${ priceString }": [
+        "Эканомія ${ priceString }"
       ]
     },
     "Success": {
@@ -10899,6 +11199,78 @@
       ],
       "Your shorter address is now ready": [
         "Ваш больш кароткі адрас гатовы да выкарыстання"
+      ],
+      "Add user": [
+        "Дадаванне карыстальніка"
+      ],
+      "Collaborate on documents": [
+        "Сумесная праца над дакументамі"
+      ],
+      "Connect apps and devices": [
+        "Падключэнне праграм і прылад"
+      ],
+      "Connect to video conferencing": [
+        "Падключыцца да відэаканферэнцыі"
+      ],
+      "Connect your custom domain": [
+        "Падключэнне свайго карыстальніцкага дамена"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Спампаваць праграмы ${ DRIVE_APP_NAME }"
+      ],
+      "Enable advanced account protection": [
+        "Уключэнне пашыранай абароны ўліковага запісу"
+      ],
+      "Enhance security with 2FA": [
+        "Паляпшэнне бяспекі з дапамогай 2ФА"
+      ],
+      "Get the apps": [
+        "Атрымаць праграмы"
+      ],
+      "Import emails, calendars, contacts": [
+        "Імпартаванне лістоў, календароў, кантактаў"
+      ],
+      "Org setup": [
+        "Наладка арганізацыі"
+      ],
+      "Organization setup": [
+        "Наладка арганізацыі"
+      ],
+      "Reply with a note": [
+        "Адказаць з нататкай"
+      ],
+      "Schedule meetings in one click": [
+        "Плануйце сустрэчы адным націскам мышы"
+      ],
+      "Set recovery methods": [
+        "Прызначэнне спосабаў аднаўлення"
+      ],
+      "Set up email forwarding": [
+        "Наладжванне перасылкі лістоў"
+      ],
+      "Set up your organization": [
+        "Наладзьце сваю арганізацыю"
+      ],
+      "Share your calendar with your team": [
+        "Абагуліць каляндар са сваёй камандай"
+      ],
+      "Simplify email distribution": [
+        "Спрашчэнне распаўсюджвання электроннай пошты"
+      ],
+      "Simplify password management": [
+        "Спрасціць кіраванне паролямі"
+      ],
+      "Turn on ${ DARK_WEB_MONITORING_NAME }": [
+        "Уключэнне ${ DARK_WEB_MONITORING_NAME }"
+      ],
+      "Upload and share files": [
+        "Запампаваць і абагуліць файлы"
+      ],
+      "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
+        "Скарыстацца ${ VPN_SHORT_APP_NAME } для захавання прыватнасці даных"
+      ],
+      "Welcome to ${ BRAND_NAME } for Business": [
+        "Вітаем у ${ BRAND_NAME } for Business"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -11606,6 +11978,49 @@
       ],
       "Passcode:": [
         "Код доступу:"
+      ]
+    },
+    "Email body for comment (comment part)": {
+      "NOTE:\n${ eventComment }": [
+        "НАТАТКА:\n${ eventComment }"
+      ]
+    },
+    "Note": {
+      "Note:": [
+        "Нататка:"
+      ]
+    },
+    "RSVP Note": {
+      "Edit note": [
+        "Рэдагаваць нататку"
+      ],
+      "Remove note": [
+        "Выдаліць нататку"
+      ]
+    },
+    "Section": {
+      "Org setup and account security": [
+        "Наладжванне арганізацыі і бяспека ўліковага запісу"
+      ]
+    },
+    "Slack": {
+      "Join Slack huddle": [
+        "Далучыцца да Slack Huddle"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "Далучыцца да сустрэчы ў Teams"
+      ]
+    },
+    "unprivatization": {
+      "Admins can't access the data of private users and can't reset their password.": [
+        "Адміністратары не могуць атрымліваць доступ да даных прыватных карыстальнікаў, а таксама аднаўляць іх паролі."
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "Далучыцца да сустрэчы ў Zoom"
       ]
     }
   }

@@ -805,6 +805,9 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Безплатний пробний період програми для комп'ютера завершується ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Generate password": [
+        "Згенерувати пароль"
       ]
     },
     "action": {
@@ -3403,6 +3406,9 @@
       ],
       "Your import will not be processed.": [
         "Ваш імпорт не буде оброблений."
+      ],
+      "Something went wrong. Please try again.": [
+        "Сталася помилка. Повторіть спробу пізніше."
       ]
     },
     "Error accepting calendar invitation": {
@@ -5505,6 +5511,33 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Схоже, системний часовий пояс змінено на ${ timezone }. Хочете оновити налаштування часового поясу?"
+      ],
+      "Admin account allocation": [
+        "Розподілення для облікового запису адміністратора"
+      ],
+      "Allocated": [
+        "Розподілено"
+      ],
+      "Already allocated": [
+        "Вже розподілено"
+      ],
+      "Already used": [
+        "Вже використано"
+      ],
+      "Password copied to clipboard": [
+        "Пароль скопійовано до буфера обміну"
+      ],
+      "Storage allocated to other users in this organisation": [
+        "Обсяг сховища, розподілений між іншими користувачами в цій організації"
+      ],
+      "Storage allocated to this user": [
+        "Обсяг сховища, розподілений для цього користувача"
+      ],
+      "Storage for users": [
+        "Сховище для користувачів"
+      ],
+      "Storage used by this user": [
+        "Сховище, використане цим користувачем"
       ]
     },
     "info": {
@@ -6071,6 +6104,18 @@
       ],
       "Your password (admin)": [
         "Новий пароль (адмін)"
+      ],
+      "Account storage": [
+        "Сховище облікового запису"
+      ],
+      "Strong": [
+        "Надійний"
+      ],
+      "Vulnerable": [
+        "Вразливий"
+      ],
+      "Weak": [
+        "Слабкий"
       ]
     },
     "Label for contact group color": {
@@ -7933,6 +7978,18 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "Для виконання цієї операції вам потрібен доступ до ключа організації."
+      ],
+      "Non-private users can be promoted to admin when they have setup keys": [
+        "Неприватні користувачі можуть бути підвищені до адміністратора, якщо вони налаштували ключі"
+      ],
+      "Organization key must be activated to give admin privileges": [
+        "Для можливості надання адміністраторських повноважень необхідно налаштувати ключ організації"
+      ],
+      "Private users can be promoted to admin when they've signed in for the first time": [
+        "Приватні користувачі можуть бути підвищені до адміністратора, коли вони вперше увійшли в систему"
+      ],
+      "You must privatize all users before generating a new organization key": [
+        "Ви повинні приватизувати всіх користувачів перед створенням нового ключа організації"
       ]
     },
     "Payment method option": {
@@ -10220,6 +10277,9 @@
       ],
       "Your shorter address is now ready": [
         "Ваша коротша адреса готова"
+      ],
+      "Get the apps": [
+        "Отримати програми"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -10903,6 +10963,11 @@
       ],
       "Passcode:": [
         "Код доступу"
+      ]
+    },
+    "unprivatization": {
+      "Admins can't access the data of private users and can't reset their password.": [
+        "Адміністратори не мають доступу до даних приватних користувачів і не можуть скинути їхній пароль."
       ]
     }
   }
