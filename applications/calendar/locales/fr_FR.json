@@ -9248,6 +9248,9 @@
       ],
       "Your subscription will renew at the same rate every year.": [
         "Votre abonnement sera renouvelé au même tarif chaque année."
+      ],
+      "The special offer is valid for the first 2 years.": [
+        "L’offre spéciale est valable pendant les 2 premières années."
       ]
     },
     "specialoffer: Link": {
@@ -9325,6 +9328,9 @@
       ],
       "Standard price ${ amount } for 30 months": [
         "Le prix habituel est de ${ amount } pour 30 mois"
+      ],
+      "The special offer is valid for the first 2 years": [
+        "L’offre spéciale est valable pendant les 2 premières années."
       ]
     },
     "specialoffer: Title": {
@@ -9479,6 +9485,15 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "Vous n'aurez plus accès à un nombre illimité d'identifiants et de notes, à un nombre illimité d'alias « hide-my-email », à 20 coffres-forts, ainsi qu'à l'assistance prioritaire."
+      ],
+      "To continue using ${ BRAND_NAME } products, free up space or ${ upgrade }": [
+        "Pour continuer à utiliser les produits ${ BRAND_NAME }, libérez de l’espace ou ${ upgrade }."
+      ],
+      "Your ${ productString } is ${ percentage }% full. ${ cta }.": [
+        "Votre ${ productString } est plein à ${ percentage } %. ${ cta }."
+      ],
+      "Your ${ productString } is full. ${ cta }.": [
+        "Votre ${ productString } est plein. ${ cta }."
       ]
     },
     "Subscribe to calendar modal": {

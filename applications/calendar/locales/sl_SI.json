@@ -880,6 +880,15 @@
       ],
       "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
         "Uporabljajte ${ VPN_SHORT_APP_NAME } za zasebnost podatkov"
+      ],
+      "Manage users/addresses": [
+        "Upravljanje uporabnikov/naslovov"
+      ],
+      "More options for accounts": [
+        "Več možnosti za račune"
+      ],
+      "Toggle Contacts app": [
+        "Prikaži/skrij aplikacijo Stiki"
       ]
     },
     "action": {
@@ -1317,6 +1326,9 @@
       ],
       "Set up other features": [
         "Nastavite druge funkcije"
+      ],
+      "Discover and set up features": [
+        "Odkrijte in nastavite funkcije"
       ]
     },
     "Calendar access select label": {
@@ -3564,6 +3576,9 @@
       ],
       "The amount due has changed. Please try again.": [
         "Znesek, ki ga je treba plačati, se je spremenil. Poskusite znova."
+      ],
+      "Please select a state": [
+        "Izberite stanje"
       ]
     },
     "Error accepting calendar invitation": {
@@ -8441,6 +8456,9 @@
       ],
       "All premium features. 6 users. 1 easy subscription.": [
         "Vse premium funkcije. 6 uporabnikov. 1 preprosta naročnina."
+      ],
+      "Limited-time deal.": [
+        "Časovno omejena ponudba."
       ]
     },
     "passwordless": {
@@ -8530,6 +8548,18 @@
       ],
       "Your payment is still being processed": [
         "Vaše plačilo je še vedno v obdelavi"
+      ],
+      "Please select billing state": [
+        "Izberite državo za izstavitev računa"
+      ],
+      "terms & conditions": [
+        "pogoji storitve"
+      ],
+      "The coupon is valid for ${ couponRedemptions } renewal.": [
+        "Kupon velja za ${ couponRedemptions } podaljšanje.",
+        "Kupon velja za ${ couponRedemptions } podaljšanji.",
+        "Kupon velja za ${ couponRedemptions } podaljšanj.",
+        "Kupon velja za ${ couponRedemptions } podaljšanj."
       ]
     },
     "Payments.Error": {
@@ -9759,6 +9789,21 @@
       ],
       "Users won’t be able to manage their calendars": [
         "Uporabniki ne bodo mogli upravljati svojih koledarjev"
+      ],
+      "${ PROTON_SENTINEL_NAME } advanced account protection": [
+        "Napredna zaščita računa ${ PROTON_SENTINEL_NAME }"
+      ],
+      "If you exceed free plan limits, you won't be able to:": [
+        "Če presežete omejitve brezplačnega paketa, ne boste mogli:"
+      ],
+      "Limitations of the free plan:": [
+        "Omejitve brezplačnega paketa:"
+      ],
+      "Upload any new files": [
+        "Naloži nove datoteke"
+      ],
+      "Users won’t be able to send emails": [
+        "Uporabniki ne bodo mogli pošiljati e-pošte"
       ]
     },
     "subscription reminder": {
@@ -10801,6 +10846,9 @@
       ],
       "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
         "Uporabljajte ${ VPN_SHORT_APP_NAME } za zasebnost podatkov"
+      ],
+      "Connect your custom domain": [
+        "Povežite svojo domeno po meri"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -11545,6 +11593,11 @@
     "Zoom": {
       "Join Zoom meeting": [
         "Pridružite se sestanku Zoom"
+      ]
+    },
+    "SmartBanner": {
+      "Private, fast, and organized": [
+        "Zasebno, hitro in organizirano"
       ]
     }
   }

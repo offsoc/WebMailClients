@@ -9245,6 +9245,9 @@
       ],
       "Your subscription will renew at the same rate every year.": [
         "Η συνδρομή σας θα ανανεώνεται με την ίδια τιμή κάθε χρόνο."
+      ],
+      "The special offer is valid for the first 2 years.": [
+        "Η μοναδική προσφορά ισχύει για τα πρώτα 2 χρόνια."
       ]
     },
     "specialoffer: Link": {
@@ -9322,6 +9325,9 @@
       ],
       "Standard price ${ amount } for 30 months": [
         "Τυπική τιμή ${ amount } για 30 μήνες"
+      ],
+      "The special offer is valid for the first 2 years": [
+        "Η μοναδική προσφορά ισχύει για τα πρώτα 2 χρόνια"
       ]
     },
     "specialoffer: Title": {
@@ -9476,6 +9482,15 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "Θα χάσετε την πρόσβαση σε απεριόριστες συνδέσεις και σημειώσεις, απεριόριστα ψευδώνυμα hide-my-email, 20 κρύπτες, καθώς και υποστήριξη προτεραιότητας."
+      ],
+      "To continue using ${ BRAND_NAME } products, free up space or ${ upgrade }": [
+        "Για να συνεχίσετε να χρησιμοποιείτε τα προϊόντα ${ BRAND_NAME }, απελευθερώστε χώρο ή ${ upgrade }"
+      ],
+      "Your ${ productString } is ${ percentage }% full. ${ cta }.": [
+        "Ο ${ productString } είναι ${ percentage }% γεμάτος. ${ cta }."
+      ],
+      "Your ${ productString } is full. ${ cta }.": [
+        "Ο ${ productString } είναι γεμάτος. ${ cta }."
       ]
     },
     "Subscribe to calendar modal": {

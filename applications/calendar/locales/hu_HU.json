@@ -4562,7 +4562,7 @@
       ],
       "(${ memberCount } member)": [
         "(${ memberCount } tag)",
-        "(${ memberCount } tagok)"
+        "(${ memberCount } tag)"
       ],
       "(${ serverPrice }/month)": [
         "(${ serverPrice } /hónap)"
@@ -4948,8 +4948,8 @@
         "Ha folytatja a lemondást, elveszíti a hozzáférést a ${ VPN_APP_NAME } fizetett szolgáltatásaihoz."
       ],
       "Import ${ calendarCount } of ${ totalCalendarsCount } calendar": [
-        "${ calendarCount } naptár importálása a ${ totalCalendarsCount } naptárból",
-        "${ calendarCount } naptár importálása a ${ totalCalendarsCount } naptárból"
+        "${ calendarCount } naptár importálása a(z) ${ totalCalendarsCount } naptárból",
+        "${ calendarCount } naptár importálása a(z) ${ totalCalendarsCount } naptárból"
       ],
       "Import from": [
         "Importálás innen"

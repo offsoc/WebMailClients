@@ -9100,6 +9100,9 @@
       ],
       "Your subscription will renew at the same rate every year.": [
         "Ваша подписка будет продлеваться каждый год по фиксированной цене."
+      ],
+      "The special offer is valid for the first 2 years.": [
+        "Специальное предложение действительно в течение первых 2 лет"
       ]
     },
     "specialoffer: Link": {
@@ -9179,6 +9182,9 @@
       ],
       "Standard price ${ amount } for 30 months": [
         "Цена без скидки: ${ amount } за 30 месяцев."
+      ],
+      "The special offer is valid for the first 2 years": [
+        "Специальное предложение действительно в течение первых 2 лет"
       ]
     },
     "specialoffer: Title": {
@@ -9335,6 +9341,15 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "Вы потеряете доступ к неограниченному количеству логинов и заметок, неограниченному количеству псевдонимов hide-my-email, 20 хранилищам, а также к приоритетной поддержке."
+      ],
+      "To continue using ${ BRAND_NAME } products, free up space or ${ upgrade }": [
+        "Чтобы продолжить использование продуктов ${ BRAND_NAME }, освободите место или ${ upgrade }"
+      ],
+      "Your ${ productString } is ${ percentage }% full. ${ cta }.": [
+        "Ваше ${ productString } заполнено на ${ percentage }%. ${ cta }."
+      ],
+      "Your ${ productString } is full. ${ cta }.": [
+        "Ваше ${ productString } заполнено. ${ cta }."
       ]
     },
     "Subscribe to calendar modal": {

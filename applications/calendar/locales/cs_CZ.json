@@ -9592,6 +9592,9 @@
       ],
       "Your subscription will renew at the same rate every year.": [
         "Vaše předplatné se bude každý rok obnovovat za stejnou cenu."
+      ],
+      "The special offer is valid for the first 2 years.": [
+        "Speciální nabídka platí první 2 roky."
       ]
     },
     "specialoffer: Link": {
@@ -9671,6 +9674,9 @@
       ],
       "Standard price ${ amount } for 30 months": [
         "Standardní cena ${ amount } za 30 měsíců"
+      ],
+      "The special offer is valid for the first 2 years": [
+        "Speciální nabídka platí první 2 roky"
       ]
     },
     "specialoffer: Title": {
@@ -9827,6 +9833,15 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "Ztratíte přístup k neomezeným přihlášením a poznámkám, neomezeným hide-my-email adresám, 20 trezorům a prioritní podpoře."
+      ],
+      "To continue using ${ BRAND_NAME } products, free up space or ${ upgrade }": [
+        "Chcete-li dále používat produkty ${ BRAND_NAME }, uvolněte místo nebo ${ upgrade }"
+      ],
+      "Your ${ productString } is ${ percentage }% full. ${ cta }.": [
+        "Vaše ${ productString } je z ${ percentage } % plné. ${ cta }."
+      ],
+      "Your ${ productString } is full. ${ cta }.": [
+        "Vaše ${ productString } je plné. ${ cta }."
       ]
     },
     "Subscribe to calendar modal": {

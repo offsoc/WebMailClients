@@ -6004,6 +6004,9 @@
       ],
       "Uppercase and lowercase letters": [
         "Veľké a malé písmená"
+      ],
+      "Password must have:": [
+        "Heslo musí obsahovať:"
       ]
     },
     "info": {
@@ -6662,6 +6665,9 @@
       ],
       "Weak password": [
         "Slabé heslo"
+      ],
+      "Password strength": [
+        "Sila hesla"
       ]
     },
     "Label for contact group color": {
@@ -11262,6 +11268,9 @@
       ],
       "Welcome to ${ BRAND_NAME } for Business": [
         "Vitajte v službe ${ BRAND_NAME } pre Business"
+      ],
+      "Schedule meetings in one click": [
+        "Naplánujte si stretnutia jedným kliknutím"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
