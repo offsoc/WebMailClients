@@ -8155,6 +8155,12 @@
       ],
       "Uppercase and lowercase letters": [
         "დიდი და პატარა ასოები"
+      ],
+      "Password must have:": [
+        "პაროლს უნდა ჰქონდეს:"
+      ],
+      "Please fill in all required fields.": [
+        "გთხოვთ, შეავსოთ ყველა საჭირო ველი."
       ]
     },
     "info": {
@@ -9035,6 +9041,9 @@
       ],
       "Weak password": [
         "სუსტი პაროლი"
+      ],
+      "Password strength": [
+        "პაროლის სიძლიერე"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -12385,6 +12394,9 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "დაკარგავთ წვდომას შეუზღუდავ შესვლის დეტალებთან და შენიშვნებთან, შეუზღუდავ hide-my-email-ის ფსევდონიმებთან, 20 საცავთან და პრიორიტეტულ ხარდაჭერასთან."
+      ],
+      "Your ${ productString } is full. ${ cta }.": [
+        "თქვენი ${ productString } სავსეა. ${ cta }."
       ]
     },
     "Subscription": {
@@ -12804,6 +12816,9 @@
     "Subscription saving": {
       "Save": [
         "დაზოგვა"
+      ],
+      "Save ${ priceString }": [
+        "დაზოგეთ ${ priceString }"
       ]
     },
     "Success": {
@@ -14849,6 +14864,21 @@
     "unprivatization": {
       "Admins can't access the data of private users and can't reset their password.": [
         "ადმინებს კონფიდენციალური მომხმარებლების მონაცემებთაან წვდომა არ აქვთ და ვერც მათ პაროლს ჩამოყრიან."
+      ]
+    },
+    "Slack": {
+      "Join Slack huddle": [
+        "Slack Huddle-სთან მიერთება"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "Teams-ის შეხვედრასთან მიერთება"
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "Zoom-ის შეხვედრასთან მიერთება"
       ]
     }
   }

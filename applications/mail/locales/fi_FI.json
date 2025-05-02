@@ -1529,6 +1529,12 @@
       ],
       "Generate password": [
         "Luo salasana"
+      ],
+      "Import emails, calendars, contacts": [
+        "Tuo sähköposteja, kalentereita ja yhteystietoja"
+      ],
+      "Share your calendar with your team": [
+        "Jaa kalenterisi tiimillesi"
       ]
     },
     "action": {
@@ -3836,6 +3842,12 @@
       ],
       "To start, give your organization a name.": [
         "Aloita antamalla organisaatiollesi nimi."
+      ],
+      "Connect your CRM, website, printers, and more.": [
+        "Yhdistä CRM:si, verkkosivustosi, tulostimesi ja muuta."
+      ],
+      "Create groups you can email with a single address.": [
+        "Luo ryhmiä, joille voit lähettää sähköpostia yhdellä osoitteella."
       ]
     },
     "description": {
@@ -6858,7 +6870,7 @@
         "Alhainen tärkeys"
       ],
       "Make ${ MAIL_APP_NAME } your default email application.": [
-        "Tee ${ MAIL_APP_NAME }ista oletussähköpostisovelluksesi."
+        "Aseta ${ MAIL_APP_NAME } oletussähköpostisovelluksesi."
       ],
       "Manage your folders": [
         "Hallitse kansioitasi"
@@ -8119,6 +8131,12 @@
       ],
       "Uppercase and lowercase letters": [
         "Isot ja pienet kirjaimet"
+      ],
+      "Password must have:": [
+        "Salasanassa on oltava:"
+      ],
+      "Please fill in all required fields.": [
+        "Täytä kaikki vaaditut kentät."
       ]
     },
     "info": {
@@ -8993,6 +9011,12 @@
       ],
       "Weak password": [
         "Heikko salasana"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Oltava vähintään ${ MIN_PASSWORD_LENGTH } merkkiä"
+      ],
+      "Password strength": [
+        "Salasanan vahvuus"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9272,6 +9296,9 @@
       ],
       "How to use Groups": [
         "Miten ryhmiä käytetään"
+      ],
+      "How to set up a custom domain": [
+        "Oman verkkotunnuksen määrittäminen"
       ]
     },
     "Link to calendar event": {
@@ -11017,6 +11044,9 @@
       ],
       "You must privatize all users before generating a new organization key": [
         "Sinun on yksityistettävä kaikki käyttäjät ennen uuden organisaatioavaimen luontia"
+      ],
+      "You must delete all groups before generating a new organization key": [
+        "Sinun on poistettava kaikki ryhmät ennen uuden organisaatioavaimen luontia"
       ]
     },
     "Payment method option": {
@@ -11090,6 +11120,9 @@
       ],
       "Your payment is still being processed": [
         "Maksuasi käsitellään vielä"
+      ],
+      "Renews at ${ renewPriceStr }, cancel anytime.": [
+        "Uusitaan hintaan ${ renewPriceStr }, peru milloin tahansa."
       ]
     },
     "Payments.Error": {
@@ -11782,7 +11815,7 @@
     },
     "session_recovery:in_progress:title": {
       "Password reset requested": [
-        "Salasanan nollausta pyydetty"
+        "Salasanan nollausta pyydettiin"
       ]
     },
     "session_recovery:sign_out:action": {
@@ -12689,6 +12722,9 @@
     "Subscription saving": {
       "Save": [
         "Säästä"
+      ],
+      "Save ${ priceString }": [
+        "Säästä ${ priceString }"
       ]
     },
     "Success": {
@@ -14051,6 +14087,18 @@
       ],
       "Upload and share files": [
         "Lähetä ja jaa tiedostoja"
+      ],
+      "Connect to video conferencing": [
+        "Yhdistä videoneuvotteluun"
+      ],
+      "Enable advanced account protection": [
+        "Ota edistynyt tilisuojaus käyttöön"
+      ],
+      "Import emails, calendars, contacts": [
+        "Tuo sähköpostit, kalenterit ja yhteystiedot"
+      ],
+      "Share your calendar with your team": [
+        "Jaa kalenterisi tiimillesi"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14676,6 +14724,21 @@
     "unprivatization": {
       "Admins can't access the data of private users and can't reset their password.": [
         "Ylläpitäjillä ei ole pääsyä yksityisten käyttäjien tietoihin, eivätkä he voi nollata heidän salasanojaan."
+      ]
+    },
+    "Slack": {
+      "Join Slack huddle": [
+        "Liity Slack-kokoukseen"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "Liity Teams-kokoukseen"
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "Liity Zoom-kokoukseen"
       ]
     }
   }

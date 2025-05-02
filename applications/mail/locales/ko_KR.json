@@ -3796,6 +3796,9 @@
       ],
       "You’ve already created 10 aliases. Get unlimited aliases and 500 GB of storage with ${ BRAND_NAME } Unlimited.": [
         "이미 10개 별칭을 생성했습니다. ${ BRAND_NAME } Unlimited로 무제한 별칭과 500 GB 스토리지를 받아보세요."
+      ],
+      "For a seamless transition to ${ BRAND_NAME }, import your data from Google, Outlook, and others.": [
+        "원활하게 ${ BRAND_NAME }(으)로 전환하기 위해 Google, Outlook 등에서 데이터를 불러오기 하세요."
       ]
     },
     "description": {
@@ -8007,6 +8010,9 @@
       ],
       "Uppercase and lowercase letters": [
         "대소문자"
+      ],
+      "Please fill in all required fields.": [
+        "필수 입력란을 모두 입력해주세요."
       ]
     },
     "info": {
@@ -8881,6 +8887,9 @@
       ],
       "Weak password": [
         "약한 비밀번호"
+      ],
+      "Password strength": [
+        "비밀번호 보안 강도"
       ]
     },
     "Label (begin date/advanced search)": {

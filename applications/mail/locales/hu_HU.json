@@ -6006,8 +6006,8 @@
         "${ elementsCount } üzenetről veszi le a címkét:"
       ],
       "${ embeddedAttachmentsCount } embedded image": [
-        "${ embeddedAttachmentsCount } beszúrt kép",
-        "${ embeddedAttachmentsCount } beszúrt kép"
+        "${ embeddedAttachmentsCount } beágyazott kép",
+        "${ embeddedAttachmentsCount } beágyazott kép"
       ],
       "${ fileName }: full-size image": [
         "${ fileName }: teljes méretű kép"
@@ -6124,7 +6124,7 @@
       ],
       "(${ memberCount } member)": [
         "(${ memberCount } tag)",
-        "(${ memberCount } tagok)"
+        "(${ memberCount } tag)"
       ],
       "(${ serverPrice }/month)": [
         "(${ serverPrice } /hónap)"
@@ -6778,8 +6778,8 @@
         "A képek eltávolításra kerültek, mert automatikus válaszban nem engedélyezettek"
       ],
       "Import ${ calendarCount } of ${ totalCalendarsCount } calendar": [
-        "${ calendarCount } naptár importálása a ${ totalCalendarsCount } naptárból",
-        "${ calendarCount } naptár importálása a ${ totalCalendarsCount } naptárból"
+        "${ calendarCount } naptár importálása a(z) ${ totalCalendarsCount } naptárból",
+        "${ calendarCount } naptár importálása a(z) ${ totalCalendarsCount } naptárból"
       ],
       "Import from": [
         "Importálás innen"

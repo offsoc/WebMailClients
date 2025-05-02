@@ -12224,6 +12224,9 @@
       ],
       "Your subscription will renew at the same rate every year.": [
         "Dein Abonnement wird jedes Jahr zum gleichen Preis verlängert."
+      ],
+      "The special offer is valid for the first 2 years.": [
+        "Das Sonderangebot gilt für die ersten 2 Jahre."
       ]
     },
     "specialoffer: Link": {
@@ -12301,6 +12304,9 @@
       ],
       "Standard price ${ amount } for 30 months": [
         "Standardpreis: ${ amount } für 30 Monate"
+      ],
+      "The special offer is valid for the first 2 years": [
+        "Das Sonderangebot gilt für die ersten 2 Jahre"
       ]
     },
     "specialoffer: Title": {
@@ -12515,6 +12521,15 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "Du verlierst den Zugang zu einer unbegrenzten Anzahl von Logins und Notizen, einer unbegrenzten Anzahl von Hide-my-email-Aliassen, 20 Tresoren und vorrangigem Support."
+      ],
+      "To continue using ${ BRAND_NAME } products, free up space or ${ upgrade }": [
+        "Um ${ BRAND_NAME }-Produkte weiterhin nutzen zu können, schaffe Speicherplatz oder führe ein ${ upgrade } durch."
+      ],
+      "Your ${ productString } is ${ percentage }% full. ${ cta }.": [
+        "Dein ${ productString } ist zu ${ percentage }% voll. ${ cta }."
+      ],
+      "Your ${ productString } is full. ${ cta }.": [
+        "Dein ${ productString } ist voll. ${ cta }."
       ]
     },
     "Subscription": {

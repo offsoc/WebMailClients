@@ -1310,7 +1310,7 @@
         "Öppna/stäng inställningar"
       ],
       "Toggle VPN dashboard": [
-        "Växla VPN-instrumentpanel"
+        "Slå på/av VPN-adminpanel"
       ],
       "Tomorrow": [
         "Imorgon"
@@ -4683,7 +4683,7 @@
         "Prova använda endast bokstäver, siffror och _.-"
       ],
       "Unable to load VPN dashboard. Please check your connection and try again.": [
-        "Det går inte att ladda VPN-instrumentpanelen. Kontrollera din anslutning och försök igen."
+        "Kan inte ladda VPN-adminpanel. Kontrollera din anslutning och försök igen."
       ],
       "Unexpected error, we can't import the contacts": [
         "Oväntat fel, vi kan inte importera kontakterna"
@@ -12526,6 +12526,15 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "Du kommer förlora åtkomst till obegränsat antal inloggningar och anteckningar, obegränsat antal hide-my-email, 20 valv samt prioriterad support."
+      ],
+      "To continue using ${ BRAND_NAME } products, free up space or ${ upgrade }": [
+        "För att fortsätta använda ${ BRAND_NAME }-produkter, frigör utrymme eller ${ upgrade }"
+      ],
+      "Your ${ productString } is ${ percentage }% full. ${ cta }.": [
+        "Ditt ${ productString } är ${ percentage } % fullt. ${ cta }."
+      ],
+      "Your ${ productString } is full. ${ cta }.": [
+        "Ditt ${ productString } är fullt. ${ cta }."
       ]
     },
     "Subscription": {

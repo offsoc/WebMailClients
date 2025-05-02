@@ -8538,6 +8538,9 @@
       ],
       "Uppercase and lowercase letters": [
         "Veľké a malé písmená"
+      ],
+      "Password must have:": [
+        "Heslo musí obsahovať:"
       ]
     },
     "info": {
@@ -9430,6 +9433,9 @@
       ],
       "Weak password": [
         "Slabé heslo"
+      ],
+      "Password strength": [
+        "Sila hesla"
       ]
     },
     "Label (begin date/advanced search)": {

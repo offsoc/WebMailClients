@@ -1535,6 +1535,18 @@
       ],
       "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
         "Uporabljajte ${ VPN_SHORT_APP_NAME } za zasebnost podatkov"
+      ],
+      "Manage users/addresses": [
+        "Upravljanje uporabnikov/naslovov"
+      ],
+      "More options for accounts": [
+        "Več možnosti za račune"
+      ],
+      "Toggle Contacts app": [
+        "Prikaži/skrij aplikacijo Stiki"
+      ],
+      "Toggle VPN dashboard": [
+        "Prikaži/skrij nadzorno ploščo VPN"
       ]
     },
     "action": {
@@ -1689,6 +1701,9 @@
       ],
       "Run on ${ BRAND_NAME } servers": [
         "Izvajaj v strežnikih ${ BRAND_NAME }"
+      ],
+      "Securely run on device": [
+        "Varno izvajanje v napravi"
       ]
     },
     "Assistant toggle": {
@@ -2000,6 +2015,9 @@
       ],
       "Set up other features": [
         "Nastavite druge funkcije"
+      ],
+      "Discover and set up features": [
+        "Odkrijte in nastavite funkcije"
       ]
     },
     "Calendar attachment tooltip": {
@@ -4638,6 +4656,9 @@
       ],
       "The amount due has changed. Please try again.": [
         "Znesek, ki ga je treba plačati, se je spremenil. Poskusite znova."
+      ],
+      "Please select a state": [
+        "Izberite stanje"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -5423,6 +5444,9 @@
       ],
       "Finish setup": [
         "Dokončaj nastavitev"
+      ],
+      "Tasks to complete count": [
+        "Število opravil za dokončati"
       ]
     },
     "Gmail forwarding": {
@@ -8200,6 +8224,15 @@
       ],
       "You get notified if your password or other data was leaked from a third-party service.": [
         "Prejmite obvestilo, če so vaše geslo ali drugi podatki ušli iz storitve tretje osebe."
+      ],
+      "${ BRAND_NAME } Scribe helps you craft better emails quickly and effortlessly.": [
+        "${ BRAND_NAME } Scribe vam pomaga hitro in preprosto ustvarjati boljšo e-pošto."
+      ],
+      "Invite family members and get everything up and running.": [
+        "Povabite družinske člane in poskrbite za nemoteno delovanje."
+      ],
+      "Send messages at just the right now": [
+        "Pošljite sporočila ob pravem času"
       ]
     },
     "info": {
@@ -10937,6 +10970,12 @@
       ],
       "Your domain and subscription are ready to use.": [
         "Vaša domena in naročnina sta pripravljeni za uporabo."
+      ],
+      "Replay introduction": [
+        "Ponovi uvod"
+      ],
+      "Where privacy is default.": [
+        "Kjer je zasebnost privzeta."
       ]
     },
     "Onboarding Proton": {
@@ -11080,6 +11119,9 @@
       ],
       "All premium features. 6 users. 1 easy subscription.": [
         "Vse premium funkcije. 6 uporabnikov. 1 preprosta naročnina."
+      ],
+      "Limited-time deal.": [
+        "Časovno omejena ponudba."
       ]
     },
     "passwordless": {
@@ -11169,6 +11211,18 @@
       ],
       "Your payment is still being processed": [
         "Vaše plačilo je še vedno v obdelavi"
+      ],
+      "Please select billing state": [
+        "Izberite državo za izstavitev računa"
+      ],
+      "terms & conditions": [
+        "pogoji storitve"
+      ],
+      "The coupon is valid for ${ couponRedemptions } renewal.": [
+        "Kupon velja za ${ couponRedemptions } podaljšanje.",
+        "Kupon velja za ${ couponRedemptions } podaljšanji.",
+        "Kupon velja za ${ couponRedemptions } podaljšanj.",
+        "Kupon velja za ${ couponRedemptions } podaljšanj."
       ]
     },
     "Payments.Error": {
@@ -12230,6 +12284,9 @@
       ],
       "Your pm.me email is active": [
         "Vaš e-poštni naslov pm.me je aktiven"
+      ],
+      "Discover your subscription benefits": [
+        "Odkrijte ugodnosti svoje naročnine"
       ]
     },
     "sso": {
@@ -12651,6 +12708,21 @@
       ],
       "Users won’t be able to manage their calendars": [
         "Uporabniki ne bodo mogli upravljati svojih koledarjev"
+      ],
+      "${ PROTON_SENTINEL_NAME } advanced account protection": [
+        "Napredna zaščita računa ${ PROTON_SENTINEL_NAME }"
+      ],
+      "If you exceed free plan limits, you won't be able to:": [
+        "Če presežete omejitve brezplačnega paketa, ne boste mogli:"
+      ],
+      "Limitations of the free plan:": [
+        "Omejitve brezplačnega paketa:"
+      ],
+      "Upload any new files": [
+        "Naloži nove datoteke"
+      ],
+      "Users won’t be able to send emails": [
+        "Uporabniki ne bodo mogli pošiljati e-pošte"
       ]
     },
     "subscription reminder": {
@@ -14195,6 +14267,9 @@
       ],
       "Use ${ VPN_SHORT_APP_NAME } for data privacy": [
         "Uporabljajte ${ VPN_SHORT_APP_NAME } za zasebnost podatkov"
+      ],
+      "Connect your custom domain": [
+        "Povežite svojo domeno po meri"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14947,6 +15022,11 @@
     "Zoom": {
       "Join Zoom meeting": [
         "Pridružite se sestanku Zoom"
+      ]
+    },
+    "SmartBanner": {
+      "Private, fast, and organized": [
+        "Zasebno, hitro in organizirano"
       ]
     }
   }
