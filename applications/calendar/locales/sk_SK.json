@@ -886,6 +886,15 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Bezplatná skúšobná verzia desktopovej aplikácie končí dňa ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Copy password": [
+        "Kopírovať heslo"
+      ],
+      "Create new password": [
+        "Vytvoriť nové heslo"
+      ],
+      "Generate password": [
+        "Vygenerovať heslo"
       ]
     },
     "action": {
@@ -5967,6 +5976,27 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Zdá sa, že vaše systémové časové pásmo sa zmenilo na ${ timezone }. Chcete aktualizovať nastavenia časového pásma?"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Najmenej ${ BETTER_PASSWORD_LENGTH } znakov"
+      ],
+      "It's better to have:": [
+        "Je lepšie, ak máte:"
+      ],
+      "Numbers": [
+        "Čísla"
+      ],
+      "Password copied to clipboard": [
+        "Heslo bolo skopírované do schránky"
+      ],
+      "Password must have:": [
+        "Heslo musí obsahovať:"
+      ],
+      "Symbols (#$&)": [
+        "Znaky (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Veľké a malé písmená"
       ]
     },
     "info": {
@@ -6595,6 +6625,30 @@
       ],
       "Your password (admin)": [
         "Vaše heslo (admin)"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Musí obsahovať aspoň ${ MIN_PASSWORD_LENGTH } znakov"
+      ],
+      "Password strength": [
+        "Sila hesla"
+      ],
+      "Strong": [
+        "Silné"
+      ],
+      "Strong password": [
+        "Silné heslo"
+      ],
+      "Vulnerable": [
+        "Zraniteľné"
+      ],
+      "Vulnerable password": [
+        "Zraniteľné heslo"
+      ],
+      "Weak": [
+        "Slabé"
+      ],
+      "Weak password": [
+        "Slabé heslo"
       ]
     },
     "Label for contact group color": {
@@ -11205,6 +11259,9 @@
       ],
       "Your shorter address is now ready": [
         "Vaša skrátená adresa je pripravená"
+      ],
+      "Schedule meetings in one click": [
+        "Naplánujte si stretnutia jedným kliknutím"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -11914,6 +11971,26 @@
       ],
       "Passcode:": [
         "Prístupový kód:"
+      ]
+    },
+    "Slack": {
+      "Join Slack huddle": [
+        "Pripojiť sa k hromadnej konverzácii Slack"
+      ]
+    },
+    "Subscription saving": {
+      "Save ${ priceString }": [
+        "Ušetrite ${ priceString }"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "Pripojiť sa k stretnutiu cez Teams"
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "Pripojiť sa k stretnutiu na Zoome"
       ]
     }
   }

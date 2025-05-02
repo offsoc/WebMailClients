@@ -345,7 +345,7 @@
         "Commencer"
       ],
       "Get the apps": [
-        "Téléchargez les applications"
+        "Obtenir les applications"
       ],
       "Get verification code": [
         "Obtenir un code de vérification"
@@ -878,6 +878,15 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Votre essai gratuit de l'application de bureau se termine le ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Copy password": [
+        "Copier le mot de passe"
+      ],
+      "Create new password": [
+        "Créer un nouveau mot de passe"
+      ],
+      "Generate password": [
+        "Générer un mot de passe"
       ]
     },
     "action": {
@@ -5803,6 +5812,27 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Le fuseau horaire de votre système semble avoir changé pour ${ timezone }. Voulez-vous mettre à jour votre préférence de fuseau horaire ?"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Au moins ${ BETTER_PASSWORD_LENGTH } caractères"
+      ],
+      "It's better to have:": [
+        "Il est préférable d'avoir :"
+      ],
+      "Numbers": [
+        "Chiffres"
+      ],
+      "Password copied to clipboard": [
+        "Le mot de passe a été copié dans le presse-papiers."
+      ],
+      "Password must have:": [
+        "Le mot de passe doit comprendre :"
+      ],
+      "Symbols (#$&)": [
+        "Symboles (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Lettres majuscules et minuscules"
       ]
     },
     "info": {
@@ -6422,6 +6452,30 @@
       ],
       "Your password (admin)": [
         "Votre mot de passe (admin)"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Il doit comporter au moins ${ MIN_PASSWORD_LENGTH } caractères."
+      ],
+      "Password strength": [
+        "Niveau de sécurité du mot de passe"
+      ],
+      "Strong": [
+        "Fort"
+      ],
+      "Strong password": [
+        "Mot de passe sécurisé"
+      ],
+      "Vulnerable": [
+        "Vulnérable"
+      ],
+      "Vulnerable password": [
+        "Mot de passe vulnérable"
+      ],
+      "Weak": [
+        "Faible"
+      ],
+      "Weak password": [
+        "Mot de passe peu sécurisé"
       ]
     },
     "Label for contact group color": {
@@ -9198,6 +9252,9 @@
       ],
       "Your subscription will renew at the same rate every year.": [
         "Votre abonnement sera renouvelé au même tarif chaque année."
+      ],
+      "The special offer is valid for the first 2 years.": [
+        "L’offre spéciale est valable pendant les 2 premières années."
       ]
     },
     "specialoffer: Link": {
@@ -9275,6 +9332,9 @@
       ],
       "Standard price ${ amount } for 30 months": [
         "Le prix habituel est de ${ amount } pour 30 mois"
+      ],
+      "The special offer is valid for the first 2 years": [
+        "L’offre spéciale est valable pendant les 2 premières années."
       ]
     },
     "specialoffer: Title": {
@@ -9429,6 +9489,15 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "Vous n'aurez plus accès à un nombre illimité d'identifiants et de notes, à un nombre illimité d'alias « hide-my-email », à 20 coffres-forts, ainsi qu'à l'assistance prioritaire."
+      ],
+      "To continue using ${ BRAND_NAME } products, free up space or ${ upgrade }": [
+        "Pour continuer à utiliser les produits ${ BRAND_NAME }, libérez de l’espace ou ${ upgrade }."
+      ],
+      "Your ${ productString } is ${ percentage }% full. ${ cta }.": [
+        "Votre ${ productString } est plein à ${ percentage } %. ${ cta }."
+      ],
+      "Your ${ productString } is full. ${ cta }.": [
+        "Votre ${ productString } est plein. ${ cta }."
       ]
     },
     "Subscribe to calendar modal": {
@@ -10823,6 +10892,9 @@
       ],
       "Your shorter address is now ready": [
         "Votre adresse au format plus court est maintenant prête."
+      ],
+      "Schedule meetings in one click": [
+        "Programmez des réunions en un clic"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {

@@ -878,6 +878,15 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "თქვენი კომპიუტერის აპის უფასო სატესტო ვერსიის დასრულების დროა ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Copy password": [
+        "პაროლის კოპირება"
+      ],
+      "Create new password": [
+        "ახალი პაროლის შექმნა"
+      ],
+      "Generate password": [
+        "პაროლის გენერირება"
       ]
     },
     "action": {
@@ -5704,6 +5713,30 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "თქვენი სისტემის დროის სარტყელი, როგორც ჩანს, შეიცვალა ${ timezone }-ზე. გსურთ, განაახლოთ თქვენი დროის სარტყელის პარამეტრი?"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "სულ ცოტა ${ BETTER_PASSWORD_LENGTH } სიმბოლო"
+      ],
+      "It's better to have:": [
+        "უკეთესია, გქონდეთ:"
+      ],
+      "Numbers": [
+        "რიცხვები"
+      ],
+      "Password copied to clipboard": [
+        "პაროლი დაკოპირდა გაცვლის ბაფერში"
+      ],
+      "Password must have:": [
+        "პაროლს უნდა ჰქონდეს:"
+      ],
+      "Please fill in all required fields.": [
+        "გთხოვთ, შეავსოთ ყველა საჭირო ველი."
+      ],
+      "Symbols (#$&)": [
+        "სიმბოლოები (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "დიდი და პატარა ასოები"
       ]
     },
     "info": {
@@ -6317,6 +6350,30 @@
       ],
       "Your password (admin)": [
         "თქვენი პაროლი (admin)"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "პაროლი ${ MIN_PASSWORD_LENGTH } სიმბოლოს მაინც უნდა შეიცავდეს"
+      ],
+      "Password strength": [
+        "პაროლის სიძლიერე"
+      ],
+      "Strong": [
+        "ძლიერი"
+      ],
+      "Strong password": [
+        "ძლიერი პაროლი"
+      ],
+      "Vulnerable": [
+        "მოწყვლადი"
+      ],
+      "Vulnerable password": [
+        "მოწყვლადი პაროლი"
+      ],
+      "Weak": [
+        "სუსტი"
+      ],
+      "Weak password": [
+        "სუსტი პაროლი"
       ]
     },
     "Label for contact group color": {
@@ -9309,6 +9366,9 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "დაკარგავთ წვდომას შეუზღუდავ შესვლის დეტალებთან და შენიშვნებთან, შეუზღუდავ hide-my-email-ის ფსევდონიმებთან, 20 საცავთან და პრიორიტეტულ ხარდაჭერასთან."
+      ],
+      "Your ${ productString } is full. ${ cta }.": [
+        "თქვენი ${ productString } სავსეა. ${ cta }."
       ]
     },
     "Subscribe to calendar modal": {
@@ -10690,6 +10750,9 @@
       ],
       "Your shorter address is now ready": [
         "თქვენი მოკლე მისამართი ახლა მზადაა"
+      ],
+      "Schedule meetings in one click": [
+        "დაგეგმეთ შეხვედრები ერთი წკაპით"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -11307,6 +11370,26 @@
       ],
       "Passcode:": [
         "საკვანძო კოდი:"
+      ]
+    },
+    "Slack": {
+      "Join Slack huddle": [
+        "Slack Huddle-სთან მიერთება"
+      ]
+    },
+    "Subscription saving": {
+      "Save ${ priceString }": [
+        "დაზოგეთ ${ priceString }"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "Teams-ის შეხვედრასთან მიერთება"
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "Zoom-ის შეხვედრასთან მიერთება"
       ]
     }
   }

@@ -874,6 +874,15 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "デスクトップアプリの無料トライアルは ${ formattedEndDate } で終了します。${ upgradeButton }"
+      ],
+      "Copy password": [
+        "パスワードをコピー"
+      ],
+      "Create new password": [
+        "新しいパスワードを作成する"
+      ],
+      "Generate password": [
+        "パスワードを生成"
       ]
     },
     "action": {
@@ -5721,6 +5730,24 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "システムのタイムゾーンが${ timezone }に変更されたようです。タイムゾーンの設定を更新しますか？"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "少なくとも ${ BETTER_PASSWORD_LENGTH } 文字以上"
+      ],
+      "It's better to have:": [
+        "以下の方が良いでしょう:"
+      ],
+      "Numbers": [
+        "数字"
+      ],
+      "Password copied to clipboard": [
+        "クリップボードにコピーされたパスワード"
+      ],
+      "Symbols (#$&)": [
+        "記号 (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "大文字と小文字"
       ]
     },
     "info": {
@@ -6331,6 +6358,27 @@
       ],
       "Your password (admin)": [
         "あなたのパスワード (管理者)"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "少なくとも ${ MIN_PASSWORD_LENGTH } 文字以上でなければなりません"
+      ],
+      "Strong": [
+        "強い"
+      ],
+      "Strong password": [
+        "強力なパスワード"
+      ],
+      "Vulnerable": [
+        "脆弱"
+      ],
+      "Vulnerable password": [
+        "脆弱なパスワード"
+      ],
+      "Weak": [
+        "弱い"
+      ],
+      "Weak password": [
+        "弱いパスワード"
       ]
     },
     "Label for contact group color": {

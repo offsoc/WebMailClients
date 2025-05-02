@@ -878,6 +878,15 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "A sua avaliação gratuita da aplicação para desktop termina em ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Copy password": [
+        "Copiar a palavra-passe"
+      ],
+      "Create new password": [
+        "Criar uma palavra-passe"
+      ],
+      "Generate password": [
+        "Gerar uma palavra-passe"
       ]
     },
     "action": {
@@ -5803,6 +5812,27 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Parece que o fuso horário do seu sistema mudou para ${ timezone }. Deseja atualizar a sua preferência de fuso horário?"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Pelo menos ${ BETTER_PASSWORD_LENGTH } carateres"
+      ],
+      "It's better to have:": [
+        "É melhor ter:"
+      ],
+      "Numbers": [
+        "Números"
+      ],
+      "Password copied to clipboard": [
+        "Palavra-passe copiada para a área de transferência"
+      ],
+      "Password must have:": [
+        "A palavra-passe deve ter:"
+      ],
+      "Symbols (#$&)": [
+        "Símbolos (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Letras maiúsculas e minúsculas"
       ]
     },
     "info": {
@@ -6419,6 +6449,30 @@
       ],
       "Your password (admin)": [
         "A sua palavra-passe (admin)"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Deve conter pelo menos ${ MIN_PASSWORD_LENGTH } carateres"
+      ],
+      "Password strength": [
+        "Força da palavra-passe"
+      ],
+      "Strong": [
+        "Forte"
+      ],
+      "Strong password": [
+        "Palavra-passe segura"
+      ],
+      "Vulnerable": [
+        "Vulnerável"
+      ],
+      "Vulnerable password": [
+        "Palavra-passe vulnerável"
+      ],
+      "Weak": [
+        "Fraco"
+      ],
+      "Weak password": [
+        "Palavra-passe fraca"
       ]
     },
     "Label for contact group color": {
@@ -9195,6 +9249,9 @@
       ],
       "Your subscription will renew at the same rate every year.": [
         "A sua subscrição será renovada pelo mesmo preço todos os anos."
+      ],
+      "The special offer is valid for the first 2 years.": [
+        "A oferta especial é válida durante os primeiros 2 anos."
       ]
     },
     "specialoffer: Link": {
@@ -9272,6 +9329,9 @@
       ],
       "Standard price ${ amount } for 30 months": [
         "Preço padrão ${ amount } por 30 meses"
+      ],
+      "The special offer is valid for the first 2 years": [
+        "A oferta especial é válida durante os primeiros 2 anos."
       ]
     },
     "specialoffer: Title": {
@@ -9426,6 +9486,15 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "Perderá acesso a credenciais e notas ilimitadas, alias ilimitados do hide-my-email , 20 cofres, bem como suporte prioritário."
+      ],
+      "To continue using ${ BRAND_NAME } products, free up space or ${ upgrade }": [
+        "Para continuar a usar os produtos ${ BRAND_NAME }, liberte espaço ou ${ upgrade }"
+      ],
+      "Your ${ productString } is ${ percentage }% full. ${ cta }.": [
+        "O seu ${ productString } está ${ percentage }% cheio. ${ cta }."
+      ],
+      "Your ${ productString } is full. ${ cta }.": [
+        "O seu ${ productString } está cheio. ${ cta }"
       ]
     },
     "Subscribe to calendar modal": {
@@ -10815,6 +10884,9 @@
       ],
       "Your shorter address is now ready": [
         "O seu endereço mais curto já está pronto"
+      ],
+      "Schedule meetings in one click": [
+        "Agende reuniões com um clique"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -11437,6 +11509,11 @@
       ],
       "Passcode:": [
         "Código de acesso:"
+      ]
+    },
+    "Subscription saving": {
+      "Save ${ priceString }": [
+        "Poupe ${ priceString }"
       ]
     }
   }

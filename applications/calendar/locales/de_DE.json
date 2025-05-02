@@ -878,6 +878,15 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Deine kostenlose Testversion der Desktop-App endet am ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Copy password": [
+        "Passwort kopieren"
+      ],
+      "Create new password": [
+        "Neues Passwort erstellen"
+      ],
+      "Generate password": [
+        "Passwort generieren"
       ]
     },
     "action": {
@@ -5803,6 +5812,27 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Deine Systemzeitzone scheint sich auf ${ timezone } geändert zu haben. Möchtest du deine Zeitzoneneinstellung aktualisieren?"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Mindestens ${ BETTER_PASSWORD_LENGTH } Zeichen"
+      ],
+      "It's better to have:": [
+        "Es ist besser so:"
+      ],
+      "Numbers": [
+        "Zahlen"
+      ],
+      "Password copied to clipboard": [
+        "Passwort in die Zwischenablage kopiert"
+      ],
+      "Password must have:": [
+        "Passwort muss enthalten:"
+      ],
+      "Symbols (#$&)": [
+        "Symbole (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Groß- und Kleinbuchstaben."
       ]
     },
     "info": {
@@ -6419,6 +6449,30 @@
       ],
       "Your password (admin)": [
         "Dein Passwort (Admin)"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Muss mindestens ${ MIN_PASSWORD_LENGTH } Zeichen enthalten"
+      ],
+      "Password strength": [
+        "Passwortstärke"
+      ],
+      "Strong": [
+        "Stark"
+      ],
+      "Strong password": [
+        "Starkes Passwort"
+      ],
+      "Vulnerable": [
+        "Verwundbar"
+      ],
+      "Vulnerable password": [
+        "Gefährdetes Passwort"
+      ],
+      "Weak": [
+        "Schwach"
+      ],
+      "Weak password": [
+        "Schwaches Passwort"
       ]
     },
     "Label for contact group color": {
@@ -9195,6 +9249,9 @@
       ],
       "Your subscription will renew at the same rate every year.": [
         "Dein Abonnement wird jedes Jahr zum gleichen Preis verlängert."
+      ],
+      "The special offer is valid for the first 2 years.": [
+        "Das Sonderangebot gilt für die ersten 2 Jahre."
       ]
     },
     "specialoffer: Link": {
@@ -9272,6 +9329,9 @@
       ],
       "Standard price ${ amount } for 30 months": [
         "Standardpreis: ${ amount } für 30 Monate"
+      ],
+      "The special offer is valid for the first 2 years": [
+        "Das Sonderangebot gilt für die ersten 2 Jahre"
       ]
     },
     "specialoffer: Title": {
@@ -9426,6 +9486,15 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "Du verlierst den Zugang zu einer unbegrenzten Anzahl von Logins und Notizen, einer unbegrenzten Anzahl von Hide-my-email-Aliassen, 20 Tresoren und vorrangigem Support."
+      ],
+      "To continue using ${ BRAND_NAME } products, free up space or ${ upgrade }": [
+        "Um ${ BRAND_NAME }-Produkte weiterhin nutzen zu können, schaffe Speicherplatz oder führe ein ${ upgrade } durch."
+      ],
+      "Your ${ productString } is ${ percentage }% full. ${ cta }.": [
+        "Dein ${ productString } ist zu ${ percentage }% voll. ${ cta }."
+      ],
+      "Your ${ productString } is full. ${ cta }.": [
+        "Dein ${ productString } ist voll. ${ cta }."
       ]
     },
     "Subscribe to calendar modal": {
@@ -10820,6 +10889,9 @@
       ],
       "Your shorter address is now ready": [
         "Deine kürzere E-Mail-Adresse ist jetzt fertig"
+      ],
+      "Schedule meetings in one click": [
+        "Meetings mit einem Klick planen"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {

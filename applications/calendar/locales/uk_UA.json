@@ -805,6 +805,9 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Безплатний пробний період програми для комп'ютера завершується ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Generate password": [
+        "Згенерувати пароль"
       ]
     },
     "action": {
@@ -5517,6 +5520,9 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Схоже, системний часовий пояс змінено на ${ timezone }. Хочете оновити налаштування часового поясу?"
+      ],
+      "Password copied to clipboard": [
+        "Пароль скопійовано до буфера обміну"
       ]
     },
     "info": {
@@ -6077,6 +6083,15 @@
       ],
       "Your password (admin)": [
         "Новий пароль (адмін)"
+      ],
+      "Strong": [
+        "Надійний"
+      ],
+      "Vulnerable": [
+        "Вразливий"
+      ],
+      "Weak": [
+        "Слабкий"
       ]
     },
     "Label for contact group color": {

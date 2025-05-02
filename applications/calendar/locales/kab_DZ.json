@@ -664,6 +664,9 @@
       ],
       "Yes, I'll attend": [
         "Ih, ad ttikkiɣ"
+      ],
+      "Generate password": [
+        "Sirew awal uffir"
       ]
     },
     "action": {
@@ -4093,6 +4096,9 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Izḍi usrid n unagraw-inek·inem yettban yettusenfel ɣer ${ timezone }. Tebɣiḍ ad tleqqmeḍ asmenyif-inek·inem n yizḍi usrid?"
+      ],
+      "Password copied to clipboard": [
+        "Awal uffir yettwanɣel ɣer tecfawt"
       ]
     },
     "Info message": {

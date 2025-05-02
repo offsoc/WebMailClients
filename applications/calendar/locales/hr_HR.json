@@ -862,6 +862,9 @@
       ],
       "Two-year": [
         "2 godine"
+      ],
+      "New!": [
+        "Novo"
       ]
     },
     "Bug category": {
@@ -1248,6 +1251,9 @@
       ],
       "Work": [
         "Posao"
+      ],
+      "Yomi": [
+        "Yomi"
       ]
     },
     "Country name": {
@@ -2875,6 +2881,9 @@
       ],
       "No verification method available": [
         "Nema dostupne metode za provjeru"
+      ],
+      "SMS": [
+        "SMS"
       ]
     },
     "Import calendar": {
@@ -3668,6 +3677,9 @@
       ],
       "Trusted": [
         "Pouzdan"
+      ],
+      "WKD": [
+        "WKD"
       ]
     },
     "Keyboard shortcut name": {
@@ -4043,6 +4055,15 @@
       ],
       "Your password (admin)": [
         "Vaša lozinka (administrator)"
+      ],
+      "IBAN": [
+        "IBAN"
+      ],
+      "On": [
+        "Uključeno"
+      ],
+      "VAT": [
+        "PDV"
       ]
     },
     "Label for contact group color": {
@@ -4886,6 +4907,9 @@
       ],
       "MM/YY": [
         "MM/GG"
+      ],
+      "CVC": [
+        "CVC"
       ]
     },
     "Payments.Error": {
@@ -6492,6 +6516,24 @@
       ],
       "Loading Zoom configuration": [
         "Učitavanje konfiguracije Zooma"
+      ]
+    },
+    "Offer": {
+      "Save": [
+        "Spremi"
+      ]
+    },
+    "Offer feature": {
+      "Free": [
+        "Besplatno"
+      ],
+      "Plus": [
+        "Plus"
+      ]
+    },
+    "Payments.plan_name": {
+      "Free": [
+        "Free"
       ]
     }
   }

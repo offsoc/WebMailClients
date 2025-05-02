@@ -878,6 +878,15 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Den gratis prøveperioden for skrivebordsappen avsluttes ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Copy password": [
+        "Kopier passord"
+      ],
+      "Create new password": [
+        "Opprett nytt passord"
+      ],
+      "Generate password": [
+        "Generer passord"
       ]
     },
     "action": {
@@ -5803,6 +5812,27 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Systemets tidssone ser ut til å ha endret seg til ${ timezone }. Vil du oppdatere preferansen for tidssone?"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Minst ${ BETTER_PASSWORD_LENGTH } tegn"
+      ],
+      "It's better to have:": [
+        "Det er bedre å ha:"
+      ],
+      "Numbers": [
+        "Tall"
+      ],
+      "Password copied to clipboard": [
+        "Passord kopiert til utklippstavlen"
+      ],
+      "Password must have:": [
+        "Passordet må ha:"
+      ],
+      "Symbols (#$&)": [
+        "Symboler (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Store og små bokstaver"
       ]
     },
     "info": {
@@ -6419,6 +6449,30 @@
       ],
       "Your password (admin)": [
         "Ditt passord (admin)"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Må minst ha ${ MIN_PASSWORD_LENGTH } tegn"
+      ],
+      "Password strength": [
+        "Passordstyrke"
+      ],
+      "Strong": [
+        "Sterk"
+      ],
+      "Strong password": [
+        "Sterkt passord"
+      ],
+      "Vulnerable": [
+        "Sårbar"
+      ],
+      "Vulnerable password": [
+        "Sårbart passord"
+      ],
+      "Weak": [
+        "Svak"
+      ],
+      "Weak password": [
+        "Svakt passord"
       ]
     },
     "Label for contact group color": {
@@ -9190,6 +9244,9 @@
       ],
       "Your subscription will renew at the same rate every year.": [
         "Abonnementet ditt fornyes med samme pris hvert år."
+      ],
+      "The special offer is valid for the first 2 years.": [
+        "Spesialtilbudet gjelder de 2 første årene."
       ]
     },
     "specialoffer: Link": {
@@ -9267,6 +9324,9 @@
       ],
       "Standard price ${ amount } for 30 months": [
         "Standard pris ${ amount } for 30 måneder"
+      ],
+      "The special offer is valid for the first 2 years": [
+        "Spesialtilbudet gjelder de første 2 årene"
       ]
     },
     "specialoffer: Title": {
@@ -9421,6 +9481,15 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "Du mister tilgangen til ubegrensede pålogginger og notater, ubegrensede hide-my-email-aliaser, 20 hvelv samt prioritert støtte."
+      ],
+      "To continue using ${ BRAND_NAME } products, free up space or ${ upgrade }": [
+        "For å fortsette å bruke ${ BRAND_NAME }-produkter må du frigjøre plass eller ${ upgrade }"
+      ],
+      "Your ${ productString } is ${ percentage }% full. ${ cta }.": [
+        "${ productString } er ${ percentage } % full. ${ cta }."
+      ],
+      "Your ${ productString } is full. ${ cta }.": [
+        "${ productString } er full. ${ cta }."
       ]
     },
     "Subscribe to calendar modal": {
@@ -10805,6 +10874,9 @@
       ],
       "Your shorter address is now ready": [
         "Den kortere adressen din er nå klar"
+      ],
+      "Schedule meetings in one click": [
+        "Planlegg møter med ett klikk"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -11422,6 +11494,26 @@
       ],
       "Passcode:": [
         "Adgangskode:"
+      ]
+    },
+    "Slack": {
+      "Join Slack huddle": [
+        "Bli med på det umiddelbare Slack-møtet"
+      ]
+    },
+    "Subscription saving": {
+      "Save ${ priceString }": [
+        "Spar ${ priceString }"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "Bli med på Teams-møte"
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "Bli med på Zoom-møte"
       ]
     }
   }

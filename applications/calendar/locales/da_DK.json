@@ -815,6 +815,9 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Din desktop app's gratis prøveperiode slutter den ${ upgradeButton }. ${ formattedEndDate }"
+      ],
+      "Generate password": [
+        "Generér adgangskode"
       ]
     },
     "action": {
@@ -5484,6 +5487,9 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Din systemtidszone ser ud til at være ændret til ${ timezone }. Vil du opdatere din tidszone præferencer?"
+      ],
+      "Password copied to clipboard": [
+        "Adgangskode kopieret til udklipsholder"
       ]
     },
     "info": {
@@ -6068,6 +6074,15 @@
       ],
       "Your password (admin)": [
         "Din adgangskode (admin)"
+      ],
+      "Strong": [
+        "Stærk"
+      ],
+      "Vulnerable": [
+        "Sårbar"
+      ],
+      "Weak": [
+        "Svag"
       ]
     },
     "Label for contact group color": {
