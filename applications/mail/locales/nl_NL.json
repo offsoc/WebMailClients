@@ -1537,6 +1537,15 @@
       ],
       "Zoom out": [
         "Zoom uit"
+      ],
+      "Copy password": [
+        "Wachtwoord kopiëren"
+      ],
+      "Create new password": [
+        "Nieuw wachtwoord instellen"
+      ],
+      "Generate password": [
+        "Wachtwoord genereren"
       ]
     },
     "action": {
@@ -3749,7 +3758,7 @@
         "Synchroniseer eenvoudig bestanden naar de cloud vanaf uw computer en open ze vanaf uw mobiele apparaat."
       ],
       "Encourage the use of two-factor authentication in your organization for extra security.": [
-        "Moedig het gebruik van tweestapsverificatie in je organisatie aan voor extra beveiliging."
+        "Moedig het gebruik van tweestapsverificatie in uw organisatie aan voor extra beveiliging."
       ],
       "Encrypting and importing contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
         "Versleutelen en importeren van contacten... Dit kan enkele minuten duren. Wanneer het proces is voltooid, kunt u dit venster sluiten."
@@ -6961,7 +6970,7 @@
         "Lage Prioriteit"
       ],
       "Make ${ MAIL_APP_NAME } your default email application.": [
-        "Maak ${ MAIL_APP_NAME } uw standaard e-mailapplicatie."
+        "Maak van ${ MAIL_APP_NAME } uw standaard e-mailtoepassing."
       ],
       "Manage your folders": [
         "Mappen beheren"
@@ -8213,6 +8222,27 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Uw abonnement wordt automatisch verlengd op ${ renewalTime }."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Voer minstens ${ BETTER_PASSWORD_LENGTH } tekens in"
+      ],
+      "It's better to have:": [
+        "Het is beter om:"
+      ],
+      "Numbers": [
+        "Nummers"
+      ],
+      "Password copied to clipboard": [
+        "Wachtwoord gekopieerd naar klembord"
+      ],
+      "Password must have:": [
+        "Het wachtwoord moet hebben:"
+      ],
+      "Symbols (#$&)": [
+        "Symbolen (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Hoofdletters en kleine letters"
       ]
     },
     "info": {
@@ -9063,6 +9093,30 @@
       ],
       "Your password (admin)": [
         "Uw wachtwoord (admin)"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Wachtwoord moet ten minste ${ MIN_PASSWORD_LENGTH } teken bevatten"
+      ],
+      "Password strength": [
+        "Wachtwoordsterkte"
+      ],
+      "Strong": [
+        "Sterk"
+      ],
+      "Strong password": [
+        "Sterk wachtwoord"
+      ],
+      "Vulnerable": [
+        "Kwetsbaar"
+      ],
+      "Vulnerable password": [
+        "Kwetsbaar wachtwoord"
+      ],
+      "Weak": [
+        "Zwak"
+      ],
+      "Weak password": [
+        "Zwak wachtwoord"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9257,7 +9311,7 @@
         "E-mail doorsturen instellen"
       ],
       "How to use Groups": [
-        "Hoe gebruik je Groepen"
+        "Hoe gebruikt u Groepen"
       ],
       "if your data is leaked": [
         "als uw gegevens zijn gelekt"
@@ -12140,6 +12194,9 @@
       ],
       "Your subscription will renew at the same rate every year.": [
         "Uw abonnement zal elk jaar met hetzelfde tarief worden verlengd."
+      ],
+      "The special offer is valid for the first 2 years.": [
+        "De speciale aanbieding is geldig voor de eerste 2 jaar."
       ]
     },
     "specialoffer: Link": {
@@ -12217,6 +12274,9 @@
       ],
       "Standard price ${ amount } for 30 months": [
         "Standaardprijs ${ amount } voor 30 maanden"
+      ],
+      "The special offer is valid for the first 2 years": [
+        "De speciale aanbieding is geldig voor de eerste 2 jaar"
       ]
     },
     "specialoffer: Title": {
@@ -12431,6 +12491,15 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "U verliest de toegang tot onbeperkte logins en notities, onbeperkte hide-my-email aliassen, 20 kluizen, en prioritaire ondersteuning."
+      ],
+      "To continue using ${ BRAND_NAME } products, free up space or ${ upgrade }": [
+        "Om ${ BRAND_NAME } producten te kunnen blijven gebruiken, maakt u ruimte vrij of voert u een ${ upgrade } uit"
+      ],
+      "Your ${ productString } is ${ percentage }% full. ${ cta }.": [
+        "Uw ${ productString } zit ${ percentage }% vol. ${ cta }."
+      ],
+      "Your ${ productString } is full. ${ cta }.": [
+        "Uw ${ productString } zit vol. ${ cta }."
       ]
     },
     "Subscription": {
@@ -14880,6 +14949,26 @@
       ],
       "Passcode:": [
         "Toegangscode:"
+      ]
+    },
+    "Slack": {
+      "Join Slack huddle": [
+        "Deelnemen aan Slack huddle"
+      ]
+    },
+    "Subscription saving": {
+      "Save ${ priceString }": [
+        "Bespaar ${ priceString }"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "Deelnemen aan Teams vergadering"
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "Deelnemen aan Zoom vergadering"
       ]
     }
   }

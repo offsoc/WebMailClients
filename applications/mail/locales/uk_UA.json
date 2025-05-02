@@ -1424,6 +1424,9 @@
       ],
       "Zoom out": [
         "Зменшити"
+      ],
+      "Generate password": [
+        "Згенерувати пароль"
       ]
     },
     "action": {
@@ -7942,6 +7945,9 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Ваш план починається ${ renewalTime } і буде автоматично поновлюватися щомісяця."
+      ],
+      "Password copied to clipboard": [
+        "Пароль скопійовано до буфера обміну"
       ]
     },
     "info": {
@@ -8772,6 +8778,15 @@
       ],
       "Your password (admin)": [
         "Новий пароль (адмін)"
+      ],
+      "Strong": [
+        "Надійний"
+      ],
+      "Vulnerable": [
+        "Вразливий"
+      ],
+      "Weak": [
+        "Слабкий"
       ]
     },
     "Label (begin date/advanced search)": {

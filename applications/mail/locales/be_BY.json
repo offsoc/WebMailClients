@@ -1544,6 +1544,15 @@
       ],
       "Zoom out": [
         "Паменшыць"
+      ],
+      "Copy password": [
+        "Скапіяваць пароль"
+      ],
+      "Create new password": [
+        "Стварыць новы пароль"
+      ],
+      "Generate password": [
+        "Згенерыраваць пароль"
       ]
     },
     "action": {
@@ -8480,6 +8489,27 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Ваша падпіска будзе аўтаматычна падоўжана ${ renewalTime }."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Прынамсі ${ BETTER_PASSWORD_LENGTH } сімвалаў"
+      ],
+      "It's better to have:": [
+        "Лепш за ўсё, каб у вас было:"
+      ],
+      "Numbers": [
+        "Лічбы"
+      ],
+      "Password copied to clipboard": [
+        "Пароль скапіяваны ў буфер абмену"
+      ],
+      "Password must have:": [
+        "Пароль павінен змяшчаць:"
+      ],
+      "Symbols (#$&)": [
+        "Сімвалы (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Маленькія і вялікія літары"
       ]
     },
     "info": {
@@ -9342,6 +9372,30 @@
       ],
       "Your password (admin)": [
         "Ваш пароль (admin)"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Пароль павінен мець прынамсі ${ MIN_PASSWORD_LENGTH } сімвалы(аў)"
+      ],
+      "Password strength": [
+        "Надзейнасць пароля"
+      ],
+      "Strong": [
+        "Надзейны"
+      ],
+      "Strong password": [
+        "Надзейны пароль"
+      ],
+      "Vulnerable": [
+        "Уразлівы"
+      ],
+      "Vulnerable password": [
+        "Уразлівы пароль"
+      ],
+      "Weak": [
+        "Ненадзейны"
+      ],
+      "Weak password": [
+        "Ненадзейны пароль"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -12554,6 +12608,9 @@
       ],
       "Your subscription will renew at the same rate every year.": [
         "Ваша падпіска будзе падаўжацца з фіксаваным коштам кожны год."
+      ],
+      "The special offer is valid for the first 2 years.": [
+        "Спецыяльная прапанова дзейнічае на працягу першых 2 гадоў."
       ]
     },
     "specialoffer: Link": {
@@ -12633,6 +12690,9 @@
       ],
       "Standard price ${ amount } for 30 months": [
         "Стандартная цана ${ amount } за 30 месяцаў"
+      ],
+      "The special offer is valid for the first 2 years": [
+        "Спецыяльная прапанова дзейнічае на працягу першых 2 гадоў"
       ]
     },
     "specialoffer: Title": {
@@ -12849,6 +12909,15 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "Вы згубіце доступ да наступных функцый: неабмежаваную колькасць запісаў уваходу і нататак; неабмежаваную колькасць псеўданімаў hide-my-email; 20 сховішчаў; прыярытэтную падтрымку."
+      ],
+      "To continue using ${ BRAND_NAME } products, free up space or ${ upgrade }": [
+        "Каб працягваць карыстацца прадуктамі ${ BRAND_NAME }, вызваліце месца або ${ upgrade }"
+      ],
+      "Your ${ productString } is ${ percentage }% full. ${ cta }.": [
+        "Ваша ${ productString } запоўнена на ${ percentage }%. ${ cta }."
+      ],
+      "Your ${ productString } is full. ${ cta }.": [
+        "Ваша ${ productString } запоўнена. ${ cta }"
       ]
     },
     "Subscription": {

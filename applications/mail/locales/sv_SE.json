@@ -1340,7 +1340,7 @@
         "Öppna/stäng inställningar"
       ],
       "Toggle VPN dashboard": [
-        "Växla VPN-instrumentpanel"
+        "Slå på/av VPN-adminpanel"
       ],
       "Tomorrow": [
         "Imorgon"
@@ -1531,6 +1531,18 @@
       ],
       "Zoom out": [
         "Zooma ut"
+      ],
+      "Copy password": [
+        "Kopiera lösenord"
+      ],
+      "Create new password": [
+        "Skapa nytt lösenord"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Ladda ner ${ DRIVE_APP_NAME } appen"
+      ],
+      "Generate password": [
+        "Generera lösenord"
       ]
     },
     "action": {
@@ -3889,6 +3901,9 @@
       ],
       "You’ve already created 10 aliases. Get unlimited aliases and 500 GB of storage with ${ BRAND_NAME } Unlimited.": [
         "Du har redan skapat 10 alias. Skaffa obegränsat antal alias och 500 GB lagringsutrymme med ${ BRAND_NAME } Unlimited."
+      ],
+      "Use this guide to get your organization promptly benefiting from ${ BRAND_NAME }'s industry-leading encryption and privacy ecosystem.": [
+        "Använd den här guiden för att din organisation snabbt ska kunna dra nytta av ${ BRAND_NAME }:s branschledande kryptering och ekosystem för integritet."
       ]
     },
     "description": {
@@ -4025,6 +4040,9 @@
       ],
       "This event was updated.": [
         "Denna händelse uppdaterades."
+      ],
+      "NOTE:": [
+        "OBS:"
       ]
     },
     "Email body for invitation (date part)": {
@@ -4637,7 +4655,7 @@
         "Prova använda endast bokstäver, siffror och _.-"
       ],
       "Unable to load VPN dashboard. Please check your connection and try again.": [
-        "Det går inte att ladda VPN-instrumentpanelen. Kontrollera din anslutning och försök igen."
+        "Kan inte ladda VPN-adminpanel. Kontrollera din anslutning och försök igen."
       ],
       "Unexpected error, we can't import the contacts": [
         "Oväntat fel, vi kan inte importera kontakterna"
@@ -8184,6 +8202,39 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Din prenumeration kommer förnyas automatiskt den ${ renewalTime }."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Minst ${ BETTER_PASSWORD_LENGTH } tecken"
+      ],
+      "It's better to have:": [
+        "Det är bättre att ha:"
+      ],
+      "Numbers": [
+        "Siffror"
+      ],
+      "Password copied to clipboard": [
+        "Lösenord kopierat till urklipp"
+      ],
+      "Password must have:": [
+        "Lösenord måste innehålla:"
+      ],
+      "Subscription auto-renews every ${ cycle } month.": [
+        "Prenumeration förnyas automatiskt varje ${ cycle } månad.",
+        "Prenumerationen förnyas automatiskt var ${ cycle }:e månad."
+      ],
+      "Symbols (#$&)": [
+        "Symboler (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Stora och små bokstäver"
+      ],
+      "You'll then be billed every ${ renewCycle } month at ${ renewAmountStr }.": [
+        "Du kommer sedan att faktureras varje ${ renewCycle } månad med ${ renewAmountStr }.",
+        "Du kommer sedan att faktureras var ${ renewCycle }:e månad med ${ renewAmountStr }."
+      ],
+      "Your scheduled plan starts on ${ renewalTime } and will auto-renew every ${ cycle } month.": [
+        "Ditt schemalagda paket startar den ${ renewalTime } och kommer att förnyas automatiskt varje ${ cycle } månad.",
+        "Ditt schemalagda paket startar den ${ renewalTime } och kommer att förnyas automatiskt var ${ cycle }:e månad."
       ]
     },
     "info": {
@@ -9037,6 +9088,30 @@
       ],
       "Your password (admin)": [
         "Ditt lösenord (admin)"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Måste ha minst ${ MIN_PASSWORD_LENGTH } tecken"
+      ],
+      "Password strength": [
+        "Lösenordsstyrka"
+      ],
+      "Strong": [
+        "Starkt"
+      ],
+      "Strong password": [
+        "Starkt Lösenord"
+      ],
+      "Vulnerable": [
+        "Sårbart"
+      ],
+      "Vulnerable password": [
+        "Sårbart lösenord"
+      ],
+      "Weak": [
+        "Svagt"
+      ],
+      "Weak password": [
+        "Svagt lösenord"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9349,6 +9424,9 @@
       ],
       "You need to reactivate your keys to see the updated invitation": [
         "Du måste återaktivera dina nycklar för att se den uppdaterade inbjudan"
+      ],
+      "Enforcing 2FA for organizations": [
+        "Kräver 2FA för organisationer"
       ]
     },
     "Link to calendar event": {
@@ -11207,6 +11285,21 @@
       ],
       "Your payment is still being processed": [
         "Din betalning håller fortfarande på att behandlas"
+      ],
+      "Renewal pricing subject to change according to ${ termsAndConditionsLink }.": [
+        "Priserna för förnyelse kan ändras enligt ${ termsAndConditionsLink }."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first ${ subscriptionLength } month.": [
+        "Det rabatterade priset ${ priceWithDiscount } gäller för den första ${ subscriptionLength } månaden.",
+        "Det rabatterade priset på ${ priceWithDiscount } gäller under de första ${ subscriptionLength } månaderna."
+      ],
+      "The specially discounted price of ${ priceWithDiscount } is valid for the first month. The coupon is valid for ${ couponRedemptions } renewal. Then it will automatically be renewed at ${ renewPriceStr } for 1 month. You can cancel at any time.": [
+        "Det rabatterade priset på ${ priceWithDiscount } gäller den första månaden. Kupongen är giltig för ${ couponRedemptions } förnyelse. Därefter förnyas det automatiskt till ${ renewPriceStr } i 1 månad. Du kan avbryt när som helst.",
+        "Det rabatterade priset på ${ priceWithDiscount } gäller den första månaden. Kupongen är giltig för ${ couponRedemptions } förnyelse. Därefter förnyas det automatiskt till ${ renewPriceStr } i 1 månad. Du kan avbryt när som helst."
+      ],
+      "Then it will automatically be renewed at ${ renewPriceStr } for ${ renewalLength } month. You can cancel at any time.": [
+        "Därefter förnyas det automatiskt i ${ renewalLength } månad för ${ renewPriceStr }. Du kan avbryta när som helst.",
+        "Därefter förnyas det automatiskt i ${ renewalLength } månader för ${ renewPriceStr }. Du kan avbryta när som helst."
       ]
     },
     "Payments.Error": {
@@ -12395,6 +12488,15 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "Du kommer förlora åtkomst till obegränsat antal inloggningar och anteckningar, obegränsat antal hide-my-email, 20 valv samt prioriterad support."
+      ],
+      "To continue using ${ BRAND_NAME } products, free up space or ${ upgrade }": [
+        "För att fortsätta använda ${ BRAND_NAME }-produkter, frigör utrymme eller ${ upgrade }"
+      ],
+      "Your ${ productString } is ${ percentage }% full. ${ cta }.": [
+        "Ditt ${ productString } är ${ percentage } % fullt. ${ cta }."
+      ],
+      "Your ${ productString } is full. ${ cta }.": [
+        "Ditt ${ productString } är fullt. ${ cta }."
       ]
     },
     "Subscription": {
@@ -14215,6 +14317,9 @@
       ],
       "Your shorter address is now ready": [
         "Din kortare adress är redo nu"
+      ],
+      "Download ${ DRIVE_APP_NAME } apps": [
+        "Ladda ner ${ DRIVE_APP_NAME } appar"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14846,6 +14951,21 @@
       ],
       "Passcode:": [
         "Lösenkod:"
+      ]
+    },
+    "Email body for comment (comment part)": {
+      "NOTE:\n${ eventComment }": [
+        "OBS:\n${ eventComment }"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "Gå med i Teams-möte"
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "Gå med i Zoom-möte"
       ]
     }
   }

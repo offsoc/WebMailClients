@@ -1448,6 +1448,15 @@
       ],
       "Zoom out": [
         "縮小"
+      ],
+      "Copy password": [
+        "複製密碼"
+      ],
+      "Create new password": [
+        "建立新密碼"
+      ],
+      "Generate password": [
+        "生成密碼"
       ]
     },
     "action": {
@@ -7722,6 +7731,24 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "您的方案開始於${ renewalTime }及於每月重新開始。"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "至少 ${ BETTER_PASSWORD_LENGTH } 個字元"
+      ],
+      "It's better to have:": [
+        "更好擁有:"
+      ],
+      "Numbers": [
+        "數字"
+      ],
+      "Password copied to clipboard": [
+        "密碼已複製至剪貼簿"
+      ],
+      "Symbols (#$&)": [
+        "符號(#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "大寫及小寫字母"
       ]
     },
     "info": {
@@ -8551,6 +8578,24 @@
       ],
       "Your password (admin)": [
         "您的密碼（管理員）"
+      ],
+      "Strong": [
+        "強"
+      ],
+      "Strong password": [
+        "高強度密碼"
+      ],
+      "Vulnerable": [
+        "具有風險"
+      ],
+      "Vulnerable password": [
+        "有安全隱患的密碼"
+      ],
+      "Weak": [
+        "弱"
+      ],
+      "Weak password": [
+        "脆弱密碼"
       ]
     },
     "Label (begin date/advanced search)": {

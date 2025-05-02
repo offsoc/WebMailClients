@@ -1529,6 +1529,15 @@
       ],
       "Zoom out": [
         "縮小"
+      ],
+      "Copy password": [
+        "パスワードをコピー"
+      ],
+      "Create new password": [
+        "新しいパスワードを作成する"
+      ],
+      "Generate password": [
+        "パスワードを生成"
       ]
     },
     "action": {
@@ -8075,6 +8084,24 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "あなたのサブスクリプションは${ renewalTime }に自動的に更新されます。"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "少なくとも ${ BETTER_PASSWORD_LENGTH } 文字以上"
+      ],
+      "It's better to have:": [
+        "以下の方が良いでしょう:"
+      ],
+      "Numbers": [
+        "数字"
+      ],
+      "Password copied to clipboard": [
+        "クリップボードにコピーされたパスワード"
+      ],
+      "Symbols (#$&)": [
+        "記号 (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "大文字と小文字"
       ]
     },
     "info": {
@@ -8919,6 +8946,27 @@
       ],
       "Your password (admin)": [
         "あなたのパスワード (管理者)"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "少なくとも ${ MIN_PASSWORD_LENGTH } 文字以上でなければなりません"
+      ],
+      "Strong": [
+        "強い"
+      ],
+      "Strong password": [
+        "強力なパスワード"
+      ],
+      "Vulnerable": [
+        "脆弱"
+      ],
+      "Vulnerable password": [
+        "脆弱なパスワード"
+      ],
+      "Weak": [
+        "弱い"
+      ],
+      "Weak password": [
+        "弱いパスワード"
       ]
     },
     "Label (begin date/advanced search)": {

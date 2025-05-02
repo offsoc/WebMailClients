@@ -1547,6 +1547,15 @@
       ],
       "Zoom out": [
         "Pomniejsz"
+      ],
+      "Copy password": [
+        "Kopiuj hasło"
+      ],
+      "Create new password": [
+        "Utwórz nowe hasło"
+      ],
+      "Generate password": [
+        "Generuj hasło"
       ]
     },
     "action": {
@@ -7387,7 +7396,7 @@
         "Potwierdź płatność w nowej karcie."
       ],
       "Please fill out this field.": [
-        "Wypełnij pole."
+        "Uzupełnij pole."
       ],
       "Please note that addresses assigned to these groups will NOT be deleted.": [
         "Pamiętaj, że adresy przypisane do tych grup NIE zostaną usunięte."
@@ -8480,6 +8489,30 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Twoja subskrypcja odnowi się automatycznie ${ renewalTime }."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Minimum ${ BETTER_PASSWORD_LENGTH } znaków"
+      ],
+      "It's better to have:": [
+        "Lepiej mieć:"
+      ],
+      "Numbers": [
+        "Cyfry"
+      ],
+      "Password copied to clipboard": [
+        "Hasło zostało skopiowane do schowka"
+      ],
+      "Password must have:": [
+        "Hasło musi zawierać:"
+      ],
+      "Please fill in all required fields.": [
+        "Uzupełnij wszystkie wymagane pola."
+      ],
+      "Symbols (#$&)": [
+        "Znaki specjalne (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Wielkie i małe litery"
       ]
     },
     "info": {
@@ -9342,6 +9375,30 @@
       ],
       "Your password (admin)": [
         "Twoje hasło (administratora)"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Minimum ${ MIN_PASSWORD_LENGTH } znaków"
+      ],
+      "Password strength": [
+        "Siła hasła"
+      ],
+      "Strong": [
+        "Silne"
+      ],
+      "Strong password": [
+        "Silne hasło"
+      ],
+      "Vulnerable": [
+        "Bardzo słabe"
+      ],
+      "Vulnerable password": [
+        "Słabe hasło"
+      ],
+      "Weak": [
+        "Słabe"
+      ],
+      "Weak password": [
+        "Słabe hasło"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -15491,6 +15548,26 @@
       ],
       "Passcode:": [
         "Kod dostępu:"
+      ]
+    },
+    "Slack": {
+      "Join Slack huddle": [
+        "Dołącz do spotkania Slack"
+      ]
+    },
+    "Subscription saving": {
+      "Save ${ priceString }": [
+        "Zaoszczędź ${ priceString }"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "Dołącz do spotkania Teams"
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "Dołącz do spotkania Zoom"
       ]
     }
   }

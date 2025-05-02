@@ -1462,6 +1462,9 @@
       ],
       "Zoom out": [
         "Zoom ud"
+      ],
+      "Generate password": [
+        "Generér adgangskode"
       ]
     },
     "action": {
@@ -7865,6 +7868,9 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Dit planlagte abonnement starter den ${ renewalTime } og fornyes automatisk hver måned."
+      ],
+      "Password copied to clipboard": [
+        "Adgangskode kopieret til udklipsholder"
       ]
     },
     "info": {
@@ -8689,6 +8695,15 @@
       ],
       "Your password (admin)": [
         "Din adgangskode (admin)"
+      ],
+      "Strong": [
+        "Stærk"
+      ],
+      "Vulnerable": [
+        "Sårbar"
+      ],
+      "Weak": [
+        "Svag"
       ]
     },
     "Label (begin date/advanced search)": {

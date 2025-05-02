@@ -1537,6 +1537,15 @@
       ],
       "Zoom out": [
         "Uzaklaştır"
+      ],
+      "Copy password": [
+        "Parolayı kopyala"
+      ],
+      "Create new password": [
+        "Yeni parola oluştur"
+      ],
+      "Generate password": [
+        "Parola üret"
       ]
     },
     "action": {
@@ -3782,7 +3791,7 @@
         "İçe aktardığınız kişi listesinde bazı gruplar var gibi görünüyor. Lütfen bu grupların nasıl içe aktarılması gerektiğini gözden geçirin."
       ],
       "Let's you instantly add meeting links to your event invitations.": [
-        "Toplantı bağlantılarını etkinlik davetlerinize anında ekleyin."
+        "Etkinlik davetlerinize anında görüşme bağlantıları ekleyin."
       ],
       "Merging contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
         "Kişiler birleştiriliyor... Bu işlem birkaç dakika sürebilir. İşlem tamamlandığında, bu pencereyi kapatabilirsiniz."
@@ -5531,7 +5540,7 @@
         "Görüşme sahibi:"
       ],
       "Meeting link:": [
-        "Toplantı bağlantısı"
+        "Görüşme bağlantısı"
       ],
       "More details": [
         "Ayrıntıları görüntüle"
@@ -6946,7 +6955,7 @@
         "${ appName } yükleniyor"
       ],
       "Loading calendar, please wait. You will be redirected to our scheduling platform Calendly in a new tab.": [
-        "Takvim yüklenirken lütfen bekleyin. Yeni bir sekmede zamanla platformumuz Calendly açılacak."
+        "Takvim yüklenirken lütfen bekleyin. Yeni bir sekmede zamanlama platformumuz Calendly açılacak."
       ],
       "Loading message": [
         "İleti yükleniyor"
@@ -6961,7 +6970,7 @@
         "Düşük Öncelik"
       ],
       "Make ${ MAIL_APP_NAME } your default email application.": [
-        "${ MAIL_APP_NAME } varsayılan e-posta uygulamanız olsun."
+        "${ MAIL_APP_NAME } uygulamasını varsayılan e-posta uygulamanız yapın."
       ],
       "Manage your folders": [
         "Klasörlerinizi yönetin"
@@ -7165,7 +7174,7 @@
         "Lütfen doğrulama sekmesinden ödemenizi doğrulayın."
       ],
       "Please fill in all required fields.": [
-        "Lütfen gerekli tüm alanları doldurun."
+        "Lütfen tüm zorunlu alanları doldurun."
       ],
       "Please fill out this field.": [
         "Lütfen bu alanı doldurun."
@@ -8213,6 +8222,27 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Aboneliğiniz ${ renewalTime } tarihinde otomatik olarak yenilenecek."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "En az ${ BETTER_PASSWORD_LENGTH } karakter"
+      ],
+      "It's better to have:": [
+        "Şöyle olması daha iyidir:"
+      ],
+      "Numbers": [
+        "Rakamlar"
+      ],
+      "Password copied to clipboard": [
+        "Parola panoya kopyalandı"
+      ],
+      "Password must have:": [
+        "Parolada şunlar bulunmalıdır:"
+      ],
+      "Symbols (#$&)": [
+        "Simgeler (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Büyük ve küçük harfler"
       ]
     },
     "info": {
@@ -9063,6 +9093,30 @@
       ],
       "Your password (admin)": [
         "Parolanız (yönetici)"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "En az ${ MIN_PASSWORD_LENGTH } karakterden oluşmalıdır"
+      ],
+      "Password strength": [
+        "Parola zorluğu"
+      ],
+      "Strong": [
+        "Güçlü"
+      ],
+      "Strong password": [
+        "Güçlü parola"
+      ],
+      "Vulnerable": [
+        "Çok zayıf"
+      ],
+      "Vulnerable password": [
+        "Güvenlik açığı bulunan parola"
+      ],
+      "Weak": [
+        "Zayıf"
+      ],
+      "Weak password": [
+        "Zayıf parola"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -10567,7 +10621,7 @@
         "Kişilerinizin, telefon numarası, adres, doğum günü ve kişisel notlar gibi bilgilerini güvenli bir şekilde saklayın. Sıfır erişim şifrelemesi, bu bilgilere ${ BRAND_NAME } tarafından bile erişilememesini sağlar."
       ],
       "See the availability of meeting participants and save time scheduling meetings": [
-        "Görüşme katılımcılarının uygunluk durumunu görün ve toplantı planlarken zaman kazanın"
+        "Katılacakların uygunluk durumunu görün ve görüşme planlarken zaman kazanın"
       ],
       "Send emails to large groups quickly and easily by creating as many contact groups as you need (up to 100 contacts per group)": [
         "Gerek duyduğunuz kadar kişi grubu oluşturarak büyük gruplara hızlı ve kolay bir şekilde e-posta gönderin (her grupta 100 kişiye kadar)"
@@ -12140,6 +12194,9 @@
       ],
       "Your subscription will renew at the same rate every year.": [
         "Aboneliğiniz her yıl aynı tutarla yenilenecek."
+      ],
+      "The special offer is valid for the first 2 years.": [
+        "Bu özel teklif ilk 2 yıl için geçerlidir."
       ]
     },
     "specialoffer: Link": {
@@ -12217,6 +12274,9 @@
       ],
       "Standard price ${ amount } for 30 months": [
         "30 aylık standart ücret ${ amount }"
+      ],
+      "The special offer is valid for the first 2 years": [
+        "Bu özel teklif ilk 2 yıl için geçerlidir"
       ]
     },
     "specialoffer: Title": {
@@ -12431,6 +12491,15 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "Sınırsız oturum açma kaydı ve notlara, sınırsız hide-my-email takma adına, 20 kasaya ve öncelikli desteğe erişiminizi kaydedeceksiniz."
+      ],
+      "To continue using ${ BRAND_NAME } products, free up space or ${ upgrade }": [
+        "${ BRAND_NAME } ürünlerini kullanmayı sürdürmek için yer açın ya da ${ upgrade }"
+      ],
+      "Your ${ productString } is ${ percentage }% full. ${ cta }.": [
+        "${ productString } depolama alanınız %${ percentage } oranında dolu. ${ cta }."
+      ],
+      "Your ${ productString } is full. ${ cta }.": [
+        "${ productString } depolama alanınız doldu. ${ cta }."
       ]
     },
     "Subscription": {
@@ -14880,6 +14949,26 @@
       ],
       "Passcode:": [
         "Parola:"
+      ]
+    },
+    "Slack": {
+      "Join Slack huddle": [
+        "Slack görüşmesine katıl"
+      ]
+    },
+    "Subscription saving": {
+      "Save ${ priceString }": [
+        "${ priceString } indirim alın"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "Teams görüşmesine katıl"
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "Zoom görüşmesine katıl"
       ]
     }
   }

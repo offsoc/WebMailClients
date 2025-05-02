@@ -1537,6 +1537,15 @@
       ],
       "Zoom out": [
         "Alejar"
+      ],
+      "Copy password": [
+        "Copiar la contraseña"
+      ],
+      "Create new password": [
+        "Crear una contraseña nueva"
+      ],
+      "Generate password": [
+        "Generar contraseña"
       ]
     },
     "action": {
@@ -6961,7 +6970,7 @@
         "Prioridad baja"
       ],
       "Make ${ MAIL_APP_NAME } your default email application.": [
-        "Establezca ${ MAIL_APP_NAME } como aplicación de correo por defecto."
+        "Establezca ${ MAIL_APP_NAME } como su aplicación de correo electrónico por defecto."
       ],
       "Manage your folders": [
         "Administre las carpetas"
@@ -8213,6 +8222,27 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Su suscripción se renovará automáticamente en ${ renewalTime }."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Al menos ${ BETTER_PASSWORD_LENGTH } caracteres"
+      ],
+      "It's better to have:": [
+        "Es mejor tener:"
+      ],
+      "Numbers": [
+        "Números"
+      ],
+      "Password copied to clipboard": [
+        "Contraseña copiada al portapapeles"
+      ],
+      "Password must have:": [
+        "La contraseña debe tener:"
+      ],
+      "Symbols (#$&)": [
+        "Símbolos (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Letras mayúsculas y minúsculas"
       ]
     },
     "info": {
@@ -9066,6 +9096,30 @@
       ],
       "Your password (admin)": [
         "La contraseña (admin)"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Debe tener al menos ${ MIN_PASSWORD_LENGTH } caracteres"
+      ],
+      "Password strength": [
+        "Nivel de seguridad de la contraseña"
+      ],
+      "Strong": [
+        "Fuerte"
+      ],
+      "Strong password": [
+        "Contraseña segura"
+      ],
+      "Vulnerable": [
+        "Vulnerable"
+      ],
+      "Vulnerable password": [
+        "Contraseña vulnerable"
+      ],
+      "Weak": [
+        "Débil"
+      ],
+      "Weak password": [
+        "Contraseña poco segura"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -12154,6 +12208,9 @@
       ],
       "Your subscription will renew at the same rate every year.": [
         "Su suscripción se renovará a la misma tarifa cada año."
+      ],
+      "The special offer is valid for the first 2 years.": [
+        "La oferta especial es válida durante los primeros 2 años."
       ]
     },
     "specialoffer: Link": {
@@ -12231,6 +12288,9 @@
       ],
       "Standard price ${ amount } for 30 months": [
         "Precio estándar ${ amount } durante 30 meses"
+      ],
+      "The special offer is valid for the first 2 years": [
+        "La oferta especial es válida durante los primeros 2 años"
       ]
     },
     "specialoffer: Title": {
@@ -12445,6 +12505,15 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "Perderá acceso a notas e inicios de sesión ilimitados, alias ilimitados de hide-my-email y 20 bóvedas así como al soporte prioritario."
+      ],
+      "To continue using ${ BRAND_NAME } products, free up space or ${ upgrade }": [
+        "Para seguir utilizando los productos de ${ BRAND_NAME }, libere espacio o ${ upgrade }"
+      ],
+      "Your ${ productString } is ${ percentage }% full. ${ cta }.": [
+        "Su ${ productString } está ${ percentage }% lleno. ${ cta }."
+      ],
+      "Your ${ productString } is full. ${ cta }.": [
+        "Su ${ productString } está lleno. ${ cta }."
       ]
     },
     "Subscription": {
@@ -13276,7 +13345,7 @@
     },
     "Teams": {
       "Join Teams meeting": [
-        "Unirte a la reunión de Teams"
+        "Unirse a la reunión de Teams"
       ]
     },
     "Time": {

@@ -692,9 +692,9 @@
       ],
       "Insert ${ totalChecked } contact": [
         "Vložiť ${ totalChecked } kontakt",
-        "Vložiť ${ totalChecked } kontakt",
         "Vložiť ${ totalChecked } kontakty",
-        "Vložiť ${ totalChecked } kontakt"
+        "Vložiť ${ totalChecked } kontaktov",
+        "Vložiť ${ totalChecked } kontaktov"
       ],
       "Insert contact": [
         "Vložiť kontakt"
@@ -1544,6 +1544,15 @@
       ],
       "Zoom out": [
         "Oddialiť"
+      ],
+      "Copy password": [
+        "Kopírovať heslo"
+      ],
+      "Create new password": [
+        "Vytvoriť nové heslo"
+      ],
+      "Generate password": [
+        "Vygenerovať heslo"
       ]
     },
     "action": {
@@ -8480,6 +8489,27 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Vaše predplatné sa automaticky obnoví dňa ${ renewalTime }."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Najmenej ${ BETTER_PASSWORD_LENGTH } znakov"
+      ],
+      "It's better to have:": [
+        "Je lepšie, ak máte:"
+      ],
+      "Numbers": [
+        "Čísla"
+      ],
+      "Password copied to clipboard": [
+        "Heslo bolo skopírované do schránky"
+      ],
+      "Password must have:": [
+        "Heslo musí obsahovať:"
+      ],
+      "Symbols (#$&)": [
+        "Znaky (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Veľké a malé písmená"
       ]
     },
     "info": {
@@ -9342,6 +9372,30 @@
       ],
       "Your password (admin)": [
         "Vaše heslo (admin)"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Musí obsahovať aspoň ${ MIN_PASSWORD_LENGTH } znakov"
+      ],
+      "Password strength": [
+        "Sila hesla"
+      ],
+      "Strong": [
+        "Silné"
+      ],
+      "Strong password": [
+        "Silné heslo"
+      ],
+      "Vulnerable": [
+        "Zraniteľné"
+      ],
+      "Vulnerable password": [
+        "Zraniteľné heslo"
+      ],
+      "Weak": [
+        "Slabé"
+      ],
+      "Weak password": [
+        "Slabé heslo"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -15497,6 +15551,26 @@
       ],
       "Passcode:": [
         "Prístupový kód:"
+      ]
+    },
+    "Slack": {
+      "Join Slack huddle": [
+        "Pripojiť sa k hromadnej konverzácii Slack"
+      ]
+    },
+    "Subscription saving": {
+      "Save ${ priceString }": [
+        "Ušetrite ${ priceString }"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "Pripojiť sa k stretnutiu cez Teams"
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "Pripojiť sa k stretnutiu na Zoome"
       ]
     }
   }

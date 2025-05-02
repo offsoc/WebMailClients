@@ -1544,6 +1544,15 @@
       ],
       "Zoom out": [
         "Oddálit"
+      ],
+      "Copy password": [
+        "Kopírovat heslo"
+      ],
+      "Create new password": [
+        "Vytvořit nové heslo"
+      ],
+      "Generate password": [
+        "Generovat heslo"
       ]
     },
     "action": {
@@ -3780,7 +3789,7 @@
         "Snadno synchronizujte soubory do cloudu z počítače a přistupujte k nim z mobilního zařízení."
       ],
       "Encourage the use of two-factor authentication in your organization for extra security.": [
-        "Podporujte používání dvoufaktorového ověřování ve vaší organizaci pro zvýšení bezpečnosti."
+        "Podporujte používání dvoufázového ověření ve vaší organizaci pro zvýšení bezpečnosti."
       ],
       "Encrypting and importing contacts... This may take a few minutes. When the process is completed, you can close this modal.": [
         "Šifrování a import kontaktů... Tato akce může trvat několik minut. Jakmile je proces ukončen, můžete zavřít tento modul."
@@ -8480,6 +8489,27 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Vaše předplatné se automaticky obnoví ${ renewalTime }."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Alespoň ${ BETTER_PASSWORD_LENGTH } znaků"
+      ],
+      "It's better to have:": [
+        "Je lepší mít:"
+      ],
+      "Numbers": [
+        "Číslice"
+      ],
+      "Password copied to clipboard": [
+        "Heslo bylo zkopírováno do schránky"
+      ],
+      "Password must have:": [
+        "Heslo musí obsahovat:"
+      ],
+      "Symbols (#$&)": [
+        "Symboly (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Velká a malá písmena"
       ]
     },
     "info": {
@@ -9342,6 +9372,30 @@
       ],
       "Your password (admin)": [
         "Vaše heslo (admin)"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Musí mít alespoň ${ MIN_PASSWORD_LENGTH } znaků"
+      ],
+      "Password strength": [
+        "Síla hesla"
+      ],
+      "Strong": [
+        "Silné"
+      ],
+      "Strong password": [
+        "Silné heslo"
+      ],
+      "Vulnerable": [
+        "Zranitelné"
+      ],
+      "Vulnerable password": [
+        "Zranitelné heslo"
+      ],
+      "Weak": [
+        "Slabé"
+      ],
+      "Weak password": [
+        "Slabé heslo"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -12554,6 +12608,9 @@
       ],
       "Your subscription will renew at the same rate every year.": [
         "Vaše předplatné se bude každý rok obnovovat za stejnou cenu."
+      ],
+      "The special offer is valid for the first 2 years.": [
+        "Speciální nabídka platí první 2 roky."
       ]
     },
     "specialoffer: Link": {
@@ -12633,6 +12690,9 @@
       ],
       "Standard price ${ amount } for 30 months": [
         "Standardní cena ${ amount } za 30 měsíců"
+      ],
+      "The special offer is valid for the first 2 years": [
+        "Speciální nabídka platí první 2 roky"
       ]
     },
     "specialoffer: Title": {
@@ -12849,6 +12909,15 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "Ztratíte přístup k neomezeným přihlášením a poznámkám, neomezeným hide-my-email adresám, 20 trezorům a prioritní podpoře."
+      ],
+      "To continue using ${ BRAND_NAME } products, free up space or ${ upgrade }": [
+        "Chcete-li dále používat produkty ${ BRAND_NAME }, uvolněte místo nebo ${ upgrade }"
+      ],
+      "Your ${ productString } is ${ percentage }% full. ${ cta }.": [
+        "Vaše ${ productString } je z ${ percentage } % plné. ${ cta }."
+      ],
+      "Your ${ productString } is full. ${ cta }.": [
+        "Vaše ${ productString } je plné. ${ cta }."
       ]
     },
     "Subscription": {

@@ -1501,6 +1501,21 @@
       ],
       "Zoom out": [
         "Loitonna"
+      ],
+      "Copy password": [
+        "Kopioi salasana"
+      ],
+      "Create new password": [
+        "Luo uusi salasana"
+      ],
+      "Generate password": [
+        "Luo salasana"
+      ],
+      "Import emails, calendars, contacts": [
+        "Tuo sähköposteja, kalentereita ja yhteystietoja"
+      ],
+      "Share your calendar with your team": [
+        "Jaa kalenterisi tiimillesi"
       ]
     },
     "action": {
@@ -3808,6 +3823,12 @@
       ],
       "You’ve already created 10 aliases. Get unlimited aliases and 500 GB of storage with ${ BRAND_NAME } Unlimited.": [
         "Olet jo luonut 10 aliasta. Saat rajattomasti aliaksia ja 500 Gt tallennustilaa ${ BRAND_NAME } Unlimitedilla."
+      ],
+      "Connect your CRM, website, printers, and more.": [
+        "Yhdistä CRM:si, verkkosivustosi, tulostimesi ja muuta."
+      ],
+      "Create groups you can email with a single address.": [
+        "Luo ryhmiä, joille voit lähettää sähköpostia yhdellä osoitteella."
       ]
     },
     "description": {
@@ -6830,7 +6851,7 @@
         "Alhainen tärkeys"
       ],
       "Make ${ MAIL_APP_NAME } your default email application.": [
-        "Tee ${ MAIL_APP_NAME }ista oletussähköpostisovelluksesi."
+        "Aseta ${ MAIL_APP_NAME } oletussähköpostisovelluksesi."
       ],
       "Manage your folders": [
         "Hallitse kansioitasi"
@@ -8058,6 +8079,30 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Ajoitettu tilauksesi alkaa ${ renewalTime } ja uudistetaan automaattisesti kuukausittain."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Ainakin ${ BETTER_PASSWORD_LENGTH } merkkiä"
+      ],
+      "It's better to have:": [
+        "On parempi olla:"
+      ],
+      "Numbers": [
+        "Numerot"
+      ],
+      "Password copied to clipboard": [
+        "Salasana kopioitiin leikepöydälle"
+      ],
+      "Password must have:": [
+        "Salasanassa on oltava:"
+      ],
+      "Please fill in all required fields.": [
+        "Täytä kaikki vaaditut kentät."
+      ],
+      "Symbols (#$&)": [
+        "Symbolit (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Isot ja pienet kirjaimet"
       ]
     },
     "info": {
@@ -8905,6 +8950,30 @@
       ],
       "Your password (admin)": [
         "Salasanasi (ylläpitäjä)"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Oltava vähintään ${ MIN_PASSWORD_LENGTH } merkkiä"
+      ],
+      "Password strength": [
+        "Salasanan vahvuus"
+      ],
+      "Strong": [
+        "Vahva"
+      ],
+      "Strong password": [
+        "Vahva salasana"
+      ],
+      "Vulnerable": [
+        "Haavoittuvainen"
+      ],
+      "Vulnerable password": [
+        "Haavoittuva salasana"
+      ],
+      "Weak": [
+        "Heikko"
+      ],
+      "Weak password": [
+        "Heikko salasana"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -9184,6 +9253,9 @@
       ],
       "You need to reactivate your keys to see the updated invitation": [
         "Sinun on aktivoitava avaimesi uudelleen nähdäksesi päivitetyn kutsun"
+      ],
+      "How to set up a custom domain": [
+        "Oman verkkotunnuksen määrittäminen"
       ]
     },
     "Link to calendar event": {
@@ -10929,6 +11001,9 @@
       ],
       "You need access to the organization key to perform this operation.": [
         "Sinulla on oltava oikeus käyttää organisaatioavainta suorittaaksesi tämä toiminnon."
+      ],
+      "You must delete all groups before generating a new organization key": [
+        "Sinun on poistettava kaikki ryhmät ennen uuden organisaatioavaimen luontia"
       ]
     },
     "Payment method option": {
@@ -11002,6 +11077,9 @@
       ],
       "Your payment is still being processed": [
         "Maksuasi käsitellään vielä"
+      ],
+      "Renews at ${ renewPriceStr }, cancel anytime.": [
+        "Uusitaan hintaan ${ renewPriceStr }, peru milloin tahansa."
       ]
     },
     "Payments.Error": {
@@ -11694,7 +11772,7 @@
     },
     "session_recovery:in_progress:title": {
       "Password reset requested": [
-        "Salasanan nollausta pyydetty"
+        "Salasanan nollausta pyydettiin"
       ]
     },
     "session_recovery:sign_out:action": {
@@ -13958,6 +14036,18 @@
       ],
       "Your shorter address is now ready": [
         "Lyhyempi osoittesi on nyt valmis"
+      ],
+      "Connect to video conferencing": [
+        "Yhdistä videoneuvotteluun"
+      ],
+      "Enable advanced account protection": [
+        "Ota edistynyt tilisuojaus käyttöön"
+      ],
+      "Import emails, calendars, contacts": [
+        "Tuo sähköpostit, kalenterit ja yhteystiedot"
+      ],
+      "Share your calendar with your team": [
+        "Jaa kalenterisi tiimillesi"
       ]
     },
     "Today icon tooltip in mini calendar": {
@@ -14580,6 +14670,26 @@
       ],
       "Passcode:": [
         "Tunnuskoodi:"
+      ]
+    },
+    "Slack": {
+      "Join Slack huddle": [
+        "Liity Slack-kokoukseen"
+      ]
+    },
+    "Subscription saving": {
+      "Save ${ priceString }": [
+        "Säästä ${ priceString }"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "Liity Teams-kokoukseen"
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "Liity Zoom-kokoukseen"
       ]
     }
   }

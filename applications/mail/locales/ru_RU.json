@@ -1466,6 +1466,15 @@
       ],
       "Zoom out": [
         "Уменьшить масштаб"
+      ],
+      "Copy password": [
+        "Скопировать пароль"
+      ],
+      "Create new password": [
+        "Создать новый пароль"
+      ],
+      "Generate password": [
+        "Создать пароль"
       ]
     },
     "action": {
@@ -8112,6 +8121,24 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "Ваш запланированный тариф начинается на ${ renewalTime } и будет автоматически обновляться каждый месяц."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "По крайней мере ${ BETTER_PASSWORD_LENGTH } символов"
+      ],
+      "It's better to have:": [
+        "Лучше иметь:"
+      ],
+      "Numbers": [
+        "Цифры"
+      ],
+      "Password copied to clipboard": [
+        "Пароль скопирован в буфер обмена"
+      ],
+      "Symbols (#$&)": [
+        "Символы (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Заглавные и строчные буквы"
       ]
     },
     "info": {
@@ -8959,6 +8986,27 @@
       ],
       "Your password (admin)": [
         "Ваш пароль (admin)"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Должно содержать не менее ${ MIN_PASSWORD_LENGTH } символов"
+      ],
+      "Strong": [
+        "Надежный"
+      ],
+      "Strong password": [
+        "Надежный пароль"
+      ],
+      "Vulnerable": [
+        "Уязвимый"
+      ],
+      "Vulnerable password": [
+        "Уязвимый пароль"
+      ],
+      "Weak": [
+        "Слабый"
+      ],
+      "Weak password": [
+        "Слабый пароль"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -12035,6 +12083,9 @@
       ],
       "Your subscription will renew at the same rate every year.": [
         "Ваша подписка будет продлеваться каждый год по фиксированной цене."
+      ],
+      "The special offer is valid for the first 2 years.": [
+        "Специальное предложение действительно в течение первых 2 лет"
       ]
     },
     "specialoffer: Link": {
@@ -12114,6 +12165,9 @@
       ],
       "Standard price ${ amount } for 30 months": [
         "Цена без скидки: ${ amount } за 30 месяцев."
+      ],
+      "The special offer is valid for the first 2 years": [
+        "Специальное предложение действительно в течение первых 2 лет"
       ]
     },
     "specialoffer: Title": {
@@ -12330,6 +12384,15 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "Вы потеряете доступ к неограниченному количеству логинов и заметок, неограниченному количеству псевдонимов hide-my-email, 20 хранилищам, а также к приоритетной поддержке."
+      ],
+      "To continue using ${ BRAND_NAME } products, free up space or ${ upgrade }": [
+        "Чтобы продолжить использование продуктов ${ BRAND_NAME }, освободите место или ${ upgrade }"
+      ],
+      "Your ${ productString } is ${ percentage }% full. ${ cta }.": [
+        "Ваше ${ productString } заполнено на ${ percentage }%. ${ cta }."
+      ],
+      "Your ${ productString } is full. ${ cta }.": [
+        "Ваше ${ productString } заполнено. ${ cta }."
       ]
     },
     "Subscription": {

@@ -1534,6 +1534,15 @@
       ],
       "Zoom out": [
         "Σμίκρυνση"
+      ],
+      "Copy password": [
+        "Αντιγραφή κωδικού πρόσβασης"
+      ],
+      "Create new password": [
+        "Δημιουργία νέου κωδικού πρόσβασης"
+      ],
+      "Generate password": [
+        "Παραγωγή τυχαίου κωδικού πρόσβασης"
       ]
     },
     "action": {
@@ -8210,6 +8219,27 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Η συνδρομή σας θα ανανεωθεί αυτόματα στις ${ renewalTime }."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Τουλάχιστον ${ BETTER_PASSWORD_LENGTH } χαρακτήρες"
+      ],
+      "It's better to have:": [
+        "Είναι καλύτερα να έχετε:"
+      ],
+      "Numbers": [
+        "Αριθμοί"
+      ],
+      "Password copied to clipboard": [
+        "Ο κωδικός πρόσβασης αντιγράφηκε στο πρόχειρο"
+      ],
+      "Password must have:": [
+        "Ο κωδικός πρόσβασης πρέπει να περιλαμβάνει:"
+      ],
+      "Symbols (#$&)": [
+        "Σύμβολα (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Κεφαλαία και πεζά γράμματα"
       ]
     },
     "info": {
@@ -9060,6 +9090,30 @@
       ],
       "Your password (admin)": [
         "Ο κωδικός σας (διαχειριστής)"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Πρέπει να περιέχει τουλάχιστον ${ MIN_PASSWORD_LENGTH } χαρακτήρες"
+      ],
+      "Password strength": [
+        "Ισχύς Κωδικού Πρόσβασης"
+      ],
+      "Strong": [
+        "Δυνατό"
+      ],
+      "Strong password": [
+        "Δυνατός κωδικός πρόσβασης"
+      ],
+      "Vulnerable": [
+        "Ευάλωτο"
+      ],
+      "Vulnerable password": [
+        "Ευάλωτος κωδικός πρόσβασης"
+      ],
+      "Weak": [
+        "Αδύναμο"
+      ],
+      "Weak password": [
+        "Αδύναμος κωδικός πρόσβασης"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -12142,6 +12196,9 @@
       ],
       "Your subscription will renew at the same rate every year.": [
         "Η συνδρομή σας θα ανανεώνεται με την ίδια τιμή κάθε χρόνο."
+      ],
+      "The special offer is valid for the first 2 years.": [
+        "Η μοναδική προσφορά ισχύει για τα πρώτα 2 χρόνια."
       ]
     },
     "specialoffer: Link": {
@@ -12219,6 +12276,9 @@
       ],
       "Standard price ${ amount } for 30 months": [
         "Τυπική τιμή ${ amount } για 30 μήνες"
+      ],
+      "The special offer is valid for the first 2 years": [
+        "Η μοναδική προσφορά ισχύει για τα πρώτα 2 χρόνια"
       ]
     },
     "specialoffer: Title": {
@@ -12433,6 +12493,15 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "Θα χάσετε την πρόσβαση σε απεριόριστες συνδέσεις και σημειώσεις, απεριόριστα ψευδώνυμα hide-my-email, 20 κρύπτες, καθώς και υποστήριξη προτεραιότητας."
+      ],
+      "To continue using ${ BRAND_NAME } products, free up space or ${ upgrade }": [
+        "Για να συνεχίσετε να χρησιμοποιείτε τα προϊόντα ${ BRAND_NAME }, απελευθερώστε χώρο ή ${ upgrade }"
+      ],
+      "Your ${ productString } is ${ percentage }% full. ${ cta }.": [
+        "Ο ${ productString } είναι ${ percentage }% γεμάτος. ${ cta }."
+      ],
+      "Your ${ productString } is full. ${ cta }.": [
+        "Ο ${ productString } είναι γεμάτος. ${ cta }."
       ]
     },
     "Subscription": {

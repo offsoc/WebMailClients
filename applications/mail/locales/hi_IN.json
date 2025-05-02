@@ -1459,6 +1459,15 @@
       ],
       "Zoom out": [
         "ज़ूम कम करें"
+      ],
+      "Copy password": [
+        "पासवर्ड कॉपी करें"
+      ],
+      "Create new password": [
+        "नया पासवर्ड बनाएं"
+      ],
+      "Generate password": [
+        "पासवर्ड उत्पन्न करें"
       ]
     },
     "action": {
@@ -7860,6 +7869,24 @@
       ],
       "Your scheduled plan starts on ${ renewalTime } and will auto-renew every month.": [
         "आपकी निर्धारित योजना ${ renewalTime } से शुरू होती है और हर महीने ऑटो-नवीनीकरण होगी।"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "कम से कम ${ BETTER_PASSWORD_LENGTH } अक्षर"
+      ],
+      "It's better to have:": [
+        "यह बेहतर है कि:"
+      ],
+      "Numbers": [
+        "नंबर"
+      ],
+      "Password copied to clipboard": [
+        "पासवर्ड क्लिपबोर्ड पे कॉपी किया"
+      ],
+      "Symbols (#$&)": [
+        "प्रतीक (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "बड़े और छोटे अक्षर"
       ]
     },
     "info": {
@@ -8695,6 +8722,27 @@
       ],
       "Your password (admin)": [
         "आपका पासवर्ड (व्यवस्थापक)"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "कम से कम ${ MIN_PASSWORD_LENGTH } अक्षर होने चाहिए"
+      ],
+      "Strong": [
+        "मजबूत"
+      ],
+      "Strong password": [
+        "मजबूत पासवर्ड"
+      ],
+      "Vulnerable": [
+        "कमज़ोर"
+      ],
+      "Vulnerable password": [
+        "असुरक्षित पासवर्ड"
+      ],
+      "Weak": [
+        "कमज़ोर"
+      ],
+      "Weak password": [
+        "कमज़ोर पासवर्ड"
       ]
     },
     "Label (begin date/advanced search)": {

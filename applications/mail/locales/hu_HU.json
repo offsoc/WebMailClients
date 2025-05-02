@@ -1534,6 +1534,15 @@
       ],
       "Zoom out": [
         "Távolítás"
+      ],
+      "Copy password": [
+        "Jelszó másolása"
+      ],
+      "Create new password": [
+        "Új jelszó készítése"
+      ],
+      "Generate password": [
+        "Jelszó létrehozása"
       ]
     },
     "action": {
@@ -5966,8 +5975,8 @@
         "${ elementsCount } üzenetről veszi le a címkét:"
       ],
       "${ embeddedAttachmentsCount } embedded image": [
-        "${ embeddedAttachmentsCount } beszúrt kép",
-        "${ embeddedAttachmentsCount } beszúrt kép"
+        "${ embeddedAttachmentsCount } beágyazott kép",
+        "${ embeddedAttachmentsCount } beágyazott kép"
       ],
       "${ fileName }: full-size image": [
         "${ fileName }: teljes méretű kép"
@@ -6084,7 +6093,7 @@
       ],
       "(${ memberCount } member)": [
         "(${ memberCount } tag)",
-        "(${ memberCount } tagok)"
+        "(${ memberCount } tag)"
       ],
       "(${ serverPrice }/month)": [
         "(${ serverPrice } /hónap)"
@@ -6750,8 +6759,8 @@
         "A képek eltávolításra kerültek, mert automatikus válaszban nem engedélyezettek"
       ],
       "Import ${ calendarCount } of ${ totalCalendarsCount } calendar": [
-        "${ calendarCount } naptár importálása a ${ totalCalendarsCount } naptárból",
-        "${ calendarCount } naptár importálása a ${ totalCalendarsCount } naptárból"
+        "${ calendarCount } naptár importálása a(z) ${ totalCalendarsCount } naptárból",
+        "${ calendarCount } naptár importálása a(z) ${ totalCalendarsCount } naptárból"
       ],
       "Import from": [
         "Importálás innen"
@@ -8121,6 +8130,24 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "Az előfizetése automatikusan megújul ${ renewalTime } időpontban."
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "Legalább ${ BETTER_PASSWORD_LENGTH } karakter"
+      ],
+      "It's better to have:": [
+        "Jobb, ha van:"
+      ],
+      "Numbers": [
+        "Számok"
+      ],
+      "Password copied to clipboard": [
+        "Jelszó a vágólapra másolva"
+      ],
+      "Symbols (#$&)": [
+        "Szimbólumok (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "Kis- és nagybetűk"
       ]
     },
     "info": {
@@ -8694,7 +8721,7 @@
         "Importálás ide:"
       ],
       "Integrated 2FA authenticator": [
-        "Beépített kétlépcsős hitelesítés"
+        "Beépített kétfaktoros (2FA) hitelesítés"
       ],
       "Keyboard shortcut: ${ shortcut }": [
         "Gyorsbillentyű: ${ shortcut }"
@@ -8971,6 +8998,27 @@
       ],
       "Your password (admin)": [
         "Jelszó (adminisztrátor)"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "Legalább ${ MIN_PASSWORD_LENGTH } karakterrel kell rendelkeznie."
+      ],
+      "Strong": [
+        "Erős"
+      ],
+      "Strong password": [
+        "Erős jelszó"
+      ],
+      "Vulnerable": [
+        "Sebezhető"
+      ],
+      "Vulnerable password": [
+        "Sérülékeny jelszó"
+      ],
+      "Weak": [
+        "Gyenge"
+      ],
+      "Weak password": [
+        "Gyenge jelszó"
       ]
     },
     "Label (begin date/advanced search)": {

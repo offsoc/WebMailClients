@@ -1532,6 +1532,15 @@
       ],
       "Zoom out": [
         "缩小"
+      ],
+      "Copy password": [
+        "复制密码"
+      ],
+      "Create new password": [
+        "创建新密码"
+      ],
+      "Generate password": [
+        "生成密码"
       ]
     },
     "action": {
@@ -8078,6 +8087,27 @@
       ],
       "Your subscription will automatically renew on ${ renewalTime }.": [
         "您的订阅将于${ renewalTime }自动续订。"
+      ],
+      "At least ${ BETTER_PASSWORD_LENGTH } characters": [
+        "至少 ${ BETTER_PASSWORD_LENGTH } 个字符"
+      ],
+      "It's better to have:": [
+        "最好是有："
+      ],
+      "Numbers": [
+        "数字"
+      ],
+      "Password copied to clipboard": [
+        "密码已复制到剪贴板"
+      ],
+      "Password must have:": [
+        "密码必须具有："
+      ],
+      "Symbols (#$&)": [
+        "符号 (#$&)"
+      ],
+      "Uppercase and lowercase letters": [
+        "大写字母和小写字母"
       ]
     },
     "info": {
@@ -8922,6 +8952,30 @@
       ],
       "Your password (admin)": [
         "您的密码（管理员）"
+      ],
+      "Must have at least ${ MIN_PASSWORD_LENGTH } characters": [
+        "必须至少有 ${ MIN_PASSWORD_LENGTH } 个字符"
+      ],
+      "Password strength": [
+        "密码强度"
+      ],
+      "Strong": [
+        "强"
+      ],
+      "Strong password": [
+        "强密码"
+      ],
+      "Vulnerable": [
+        "易受攻击"
+      ],
+      "Vulnerable password": [
+        "易受攻击的密码"
+      ],
+      "Weak": [
+        "弱"
+      ],
+      "Weak password": [
+        "弱密码"
       ]
     },
     "Label (begin date/advanced search)": {
@@ -11934,6 +11988,9 @@
       ],
       "Your subscription will renew at the same rate every year.": [
         "您的订阅将以每年相同的费率续订。"
+      ],
+      "The special offer is valid for the first 2 years.": [
+        "特别优惠的有效期为最初的两年。"
       ]
     },
     "specialoffer: Link": {
@@ -12010,6 +12067,9 @@
       ],
       "Standard price ${ amount } for 30 months": [
         "30个月的标准价格为${ amount }"
+      ],
+      "The special offer is valid for the first 2 years": [
+        "特别优惠的有效期为最初的两年"
       ]
     },
     "specialoffer: Title": {
@@ -12223,6 +12283,15 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "您将失去无限次登录和笔记、无限次 hide-my-email 别名、20个保险库以及优先支持的特权。"
+      ],
+      "To continue using ${ BRAND_NAME } products, free up space or ${ upgrade }": [
+        "若要继续使用 ${ BRAND_NAME } 产品，请释放空间或 ${ upgrade }"
+      ],
+      "Your ${ productString } is ${ percentage }% full. ${ cta }.": [
+        "您的 ${ productString } 已使用 ${ percentage }%。${ cta }。"
+      ],
+      "Your ${ productString } is full. ${ cta }.": [
+        "您的 ${ productString } 已满。 ${ cta }。"
       ]
     },
     "Subscription": {
@@ -14570,6 +14639,26 @@
       ],
       "Passcode:": [
         "密码："
+      ]
+    },
+    "Slack": {
+      "Join Slack huddle": [
+        "加入 Slack 群组"
+      ]
+    },
+    "Subscription saving": {
+      "Save ${ priceString }": [
+        "节省 ${ priceString }"
+      ]
+    },
+    "Teams": {
+      "Join Teams meeting": [
+        "加入 Teams 会议"
+      ]
+    },
+    "Zoom": {
+      "Join Zoom meeting": [
+        "加入 Zoom 会议"
       ]
     }
   }

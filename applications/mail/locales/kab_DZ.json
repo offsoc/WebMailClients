@@ -1176,6 +1176,9 @@
       ],
       "Zoom out": [
         "Semẓi"
+      ],
+      "Generate password": [
+        "Sirew awal uffir"
       ]
     },
     "action": {
@@ -5634,6 +5637,9 @@
       ],
       "Your phone number will only be used for this one-time verification.": [
         "Uṭṭun-ik n tiliɣṛi ad yettwaseqdec kan tikkelt deg usenqed-agi."
+      ],
+      "Password copied to clipboard": [
+        "Awal uffir yettwanɣel ɣer tecfawt"
       ]
     },
     "info": {
