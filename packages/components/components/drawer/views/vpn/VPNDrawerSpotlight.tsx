@@ -51,7 +51,7 @@ const VPNDrawerSpotlight = ({ children }: Props) => {
     const {
         welcomeFlags: { isDone },
     } = useWelcomeFlags();
-    const { show, onDisplayed, onClose } = useSpotlightOnFeature(FeatureCode.SpotlightVPNDrawer, isDone);
+    const { show, onDisplayed, onClose } = useSpotlightOnFeature(FeatureCode.SpotlightVPNDrawer, isDone && user.isFree);
     const shouldShowSpotlight = useSpotlightShow(show, 3 * SECOND);
 
     const handleClick = () => {
